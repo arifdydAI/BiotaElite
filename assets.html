@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Curated zoological assets — species records, classification, habitat and references.">
+  <title>Zoological Assets — BiotaElite</title>
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>&#128027;</text></svg>">
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="header-inner">
+      <a href="index.html" class="brand">
+        <span class="brand-icon">&#129409;</span>
+        BiotaElite
+      </a>
+      <nav class="main-nav" aria-label="Main navigation">
+        <a href="index.html">Home</a>
+        <a href="assets.html" class="active">Assets</a>
+        <a href="projects.html">Projects</a>
+        <a href="news.html">News</a>
+        <a href="thesis.html">Thesis</a>
+        <a href="phyla.html">Animal Kingdom</a>
+        <a href="fish.html">Fish</a>
+        <a href="names.html">Scientific Names</a>
+        <a href="blog.html">Blog</a>
+        <a href="about.html">About</a>
+        <a href="contact.html">Contact</a>
+      </nav>
+      <div class="nav-actions">
+        <button class="icon-btn theme-toggle" aria-label="Toggle dark mode">&#9788;</button>
+        <button class="icon-btn nav-toggle" aria-label="Toggle menu" aria-expanded="false">&#9776;</button>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section class="page-hero">
+      <div class="container">
+        <span class="eyebrow">Assets</span>
+        <h1>Zoological Assets</h1>
+        <p>A curated library of species records — classification, habitat, conservation status and references. Filter by class or search directly.</p>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+        <div class="toolbar">
+          <div class="filter-chips">
+            <button class="chip active" data-filter="all">All</button>
+            <button class="chip" data-filter="mammalia">Mammalia</button>
+            <button class="chip" data-filter="aves">Aves</button>
+            <button class="chip" data-filter="reptilia">Reptilia</button>
+            <button class="chip" data-filter="amphibia">Amphibia</button>
+            <button class="chip" data-filter="pisces">Pisces</button>
+            <button class="chip" data-filter="insecta">Insecta</button>
+            <button class="chip" data-filter="arachnida">Arachnida</button>
+            <button class="chip" data-filter="mollusca">Mollusca</button>
+          </div>
+          <div class="search-box">
+            <span>&#128269;</span>
+            <input type="search" data-search placeholder="Search species, families..." aria-label="Search assets">
+          </div>
+        </div>
+
+        <div class="grid grid-3" data-filter-grid>
+          <div class="card reveal" data-category="mammalia">
+            <div class="card-media sprite-tiger">&#128005;</div>
+            <div class="card-body">
+              <div class="card-meta"><span class="tag red">Mammalia</span><span>Vulnerable</span></div>
+              <h3><a href="#">Bengal Tiger</a></h3>
+              <p class="card-text"><em>Panthera tigris tigris</em> — Carnivora, Felidae. Forests and mangroves of the Indian subcontinent.</p>
+            </div>
+          </div>
+
+          <div class="card reveal" data-category="mammalia">
+            <div class="card-media sprite-tiger">&#128060;</div>
+            <div class="card-body">
+              <div class="card-meta"><span class="tag red">Mammalia</span><span>Least Concern</span></div>
+              <h3><a href="#">Red Fox</a></h3>
+              <p class="card-text"><em>Vulpes vulpes</em> — Carnivora, Canidae. Highly adaptable, found across the Northern Hemisphere.</p>
+            </div>
+          </div>
+
+          <div class="card reveal" data-category="mammalia">
+            <div class="card-media sprite-beetle">&#128014;</div>
+            <div class="card-body">
+              <div class="card-meta"><span class="tag red">Mammalia</span><span>Endangered</span></div>
+              <h3><a href="#">Asian Elephant</a></h3>
+              <p class="card-text"><em>Elephas maximus</em> — Proboscidea, Elephantidae. Largest land mammal of Asia.</p>
+            </div>
+          </div>
+
+          <div class="card reveal" data-category="aves">
+            <div class="card-media sprite-bird">&#128039;</div>
+            <div class="card-body">
+              <div class="card-meta"><span class="tag amber">Aves</span><span>Least Concern</span></div>
+              <h3><a href="#">Indian Peafowl</a></h3>
+              <p class="card-text"><em>Pavo cristatus</em> — Galliformes, Phasianidae. National bird of India, famed for display plumage.</p>
+            </div>
+          </div>
+
+          <div class="card reveal" data-category="aves">
+            <div class="card-media sprite-bird">&#128038;</div>
+            <div class="card-body">
+              <div class="card-meta"><span class="tag amber">Aves</span><span>Near Threatened</span></div>
+              <h3><a href="#">Great Hornbill</a></h3>
+              <p class="card-text"><em>Buceros bicornis</em> — Bucerotiformes, Bucerotidae. Iconic forest bird with a distinctive casque.</p>
+            </div>
+          </div>
+
+          <div class="card reveal" data-category="reptilia">
+            <div class="card-media sprite-beetle">&#128010;</div>
+            <div class="card-body">
+              <div class="card-meta"><span class="tag">Reptilia</span><span>Endangered</span></div>
+              <h3><a href="#">Bengal Monitor</a></h3>
+              <p class="card-text"><em>Varanus bengalensis</em> — Squamata, Varanidae. A large, widely distributed Asian lizard.</p>
+            </div>
+          </div>
+
+          <div class="card reveal" data-category="reptilia">
+            <div class="card-media sprite-fish">&#128010;</div>
+            <div class="card-body">
+              <div class="card-meta"><span class="tag">Reptilia</span><span>Vulnerable</span></div>
+              <h3><a href="#">Green Sea Turtle</a></h3>
+              <p class="card-text"><em>Chelonia mydas</em> — Testudines, Cheloniidae. A migratory species of warm oceans.</p>
+            </div>
+          </div>
+
+          <div class="card reveal" data-category="amphibia">
+            <div class="card-media sprite-frog">&#128056;</div>
+            <div class="card-body">
+              <div class="card-meta"><span class="tag">Amphibia</span><span>Least Concern</span></div>
+              <h3><a href="#">Common Frog</a></h3>
+              <p class="card-text"><em>Rana temporaria</em> — Anura, Ranidae. Widespread across Europe; an indicator species.</p>
+            </div>
+          </div>
+
+          <div class="card reveal" data-category="amphibia">
+            <div class="card-media sprite-frog">&#128059;</div>
+            <div class="card-body">
+              <div class="card-meta"><span class="tag">Amphibia</span><span>Critically Endangered</span></div>
+              <h3><a href="#">Golden Frog</a></h3>
+              <p class="card-text"><em>Atelopus zeteki</em> — Anura, Bufonidae. A toxic and endemic frog of Panama.</p>
+            </div>
+          </div>
+
+          <div class="card reveal" data-category="pisces">
+            <div class="card-media sprite-fish">&#128031;</div>
+            <div class="card-body">
+              <div class="card-meta"><span class="tag blue">Pisces</span><span>Least Concern</span></div>
+              <h3><a href="#">Clownfish</a></h3>
+              <p class="card-text"><em>Amphiprion ocellaris</em> — Perciformes, Pomacentridae. Symbiotic with sea anemones.</p>
+            </div>
+          </div>
+
+          <div class="card reveal" data-category="insecta">
+            <div class="card-media sprite-beetle">&#129412;</div>
+            <div class="card-body">
+              <div class="card-meta"><span class="tag purple">Insecta</span><span>Common</span></div>
+              <h3><a href="#">Scarab Beetle</a></h3>
+              <p class="card-text"><em>Coleoptera, Scarabaeidae</em> — a hugely diverse family including dung beetles and chafers.</p>
+            </div>
+          </div>
+
+          <div class="card reveal" data-category="insecta">
+            <div class="card-media sprite-moth">&#129423;</div>
+            <div class="card-body">
+              <div class="card-meta"><span class="tag purple">Insecta</span><span>Common</span></div>
+              <h3><a href="#">Atlas Moth</a></h3>
+              <p class="card-text"><em>Attacus atlas</em> — Lepidoptera, Saturniidae. Among the largest moths in the world.</p>
+            </div>
+          </div>
+
+          <div class="card reveal" data-category="arachnida">
+            <div class="card-media sprite-moth">&#129425;</div>
+            <div class="card-body">
+              <div class="card-meta"><span class="tag purple">Arachnida</span><span>Common</span></div>
+              <h3><a href="#">Golden Orb Weaver</a></h3>
+              <p class="card-text"><em>Nephila pilipes</em> — Araneae, Nephilidae. Famous for large golden webs.</p>
+            </div>
+          </div>
+
+          <div class="card reveal" data-category="mollusca">
+            <div class="card-media sprite-fish">&#128025;</div>
+            <div class="card-body">
+              <div class="card-meta"><span class="tag blue">Mollusca</span><span>Common</span></div>
+              <h3><a href="#">Garden Snail</a></h3>
+              <p class="card-text"><em>Cornu aspersum</em> — Stylommatophora, Helicidae. A familiar terrestrial gastropod.</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="empty" data-empty>
+          <span class="em">&#129411;</span>
+          <p>No assets match your search. Try a different filter or keyword.</p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <div class="footer-grid">
+        <div>
+          <div class="footer-brand"><span>&#129409;</span> BiotaElite</div>
+          <p style="font-size:0.92rem;max-width:320px">
+            An open educational platform for zoology students, educators and
+            wildlife enthusiasts.
+          </p>
+        </div>
+        <div>
+          <h4>Explore</h4>
+          <a href="assets.html">Zoological Assets</a>
+          <a href="projects.html">Projects</a>
+          <a href="thesis.html">Theses</a>
+          <a href="phyla.html">Animal Kingdom</a>
+          <a href="fish.html">Fish</a>
+          <a href="names.html">Scientific Names</a>
+          <a href="blog.html">Blog</a>
+        </div>
+        <div>
+          <h4>Community</h4>
+          <a href="news.html">News</a>
+          <a href="about.html">About Us</a>
+          <a href="contact.html">Contact</a>
+          <a href="contact.html">Submit Work</a>
+        </div>
+        <div>
+          <h4>Resources</h4>
+          <a href="assets.html">Species Library</a>
+          <a href="blog.html">Field Guides</a>
+          <a href="thesis.html">Reading Room</a>
+          <a href="projects.html">Call for Projects</a>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <span>&copy; <span data-year>2026</span> BiotaElite. Built with &#128156; for zoology.</span>
+        <span>Made with HTML, CSS &amp; JavaScript</span>
+      </div>
+    </div>
+  </footer>
+
+  <button class="back-top" aria-label="Back to top">&#8593;</button>
+  <script src="js/main.js"></script>
+</body>
+</html>
