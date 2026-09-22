@@ -1,0 +1,3345 @@
+[
+  {
+    "speciesId": "sp-panthera-tigris-tigris",
+    "presenceStatus": "native",
+    "regions": [
+      "sundarbans",
+      "chittagong-hill-tracts"
+    ],
+    "habitats": [
+      "mangrove"
+    ],
+    "localNames": [
+      {
+        "language": "bn",
+        "name": "রয়েল বেঙ্গল টাইগার"
+      },
+      {
+        "language": "bn",
+        "name": "বাঘ"
+      }
+    ],
+    "regionalConservationStatus": "CR",
+    "regionalThreats": [
+      "Habitat loss in Sundarbans due to sea-level rise",
+      "Prey base depletion",
+      "Human-tiger conflict at forest fringe",
+      "Poaching for body parts",
+      "Cyclone damage to habitat",
+      "Prey-base depletion — barking deer crashed to 687 in the 2023 Sundarbans prey census",
+      "Human-tiger conflict (40+ recorded deaths in the Sundarbans during 2000–2010)"
+    ],
+    "regionalPopulation": "Estimated 114 individuals (2018 Bangladesh Tiger Action Plan survey)",
+    "notes": "The Sundarbans population is the only tiger population in Bangladesh. It represents a unique mangrove-adapted tiger population. Global status is EN (IUCN 2022), but Bangladesh regional assessment is CR due to extremely small population size and restricted range. In Bangladesh tigers are concentrated in the Sundarbans mangrove forest (about 60% of the roughly 10,000 km² Sundarbans lies in Bangladesh), with occasional records from the mixed-evergreen forests of the Chittagong Hill Tracts; the Sundarbans remains the priority tiger conservation landscape (IUCN Red List supplementary information, Goodrich et al.). A 2023 Forest Department–IUCN prey census led by Jahangirnagar University counted 141,357 spotted deer and 45,110 wild boar (both increased) but only 687 barking deer (crashed from 2,265 in the 1980s); spotted deer and wild boar supply about 89% of prey biomass (Aziz et al. 2020). Tigers are solitary; gestation lasts about 103–106 days with 2–3 cubs on average, and successful reproduction depends on adequate large-ungulate prey (Sunquist & Sunquist; IUCN). Conservation rests on the Wildlife Order 1973, the Bangladesh Tiger Action Plan 2018–2027, and the 2011 India–Bangladesh bilateral protocol on joint Sundarbans tiger research.",
+    "references": [
+      {
+        "title": "Bangladesh Tiger Action Plan 2018-2027",
+        "authors": [
+          "Forest Department, Bangladesh"
+        ],
+        "year": 2018,
+        "type": "report"
+      },
+      {
+        "title": "Status of Tigers in Bangladesh Sundarbans",
+        "authors": [
+          "Aziz, M.A.",
+          "Barlow, A.C.D.",
+          "Greenwood, C.",
+          "Islam, M.A."
+        ],
+        "year": 2017,
+        "journal": "Oryx",
+        "doi": "10.1017/S0030605317000106",
+        "type": "paper"
+      },
+      {
+        "title": "IUCN Red List Assessment: Panthera tigris",
+        "authors": [
+          "Goodrich, J.",
+          "Wibisono, H.",
+          "Miquelle, D.",
+          "Lynam, A.",
+          "Sanderson, E.",
+          "Chapman, S.",
+          "Gray, T.",
+          "Chanchani, P.",
+          "Harihar, A."
+        ],
+        "year": 2022,
+        "type": "report"
+      },
+      {
+        "title": "Tiger Prey in the Sunderbans: New Census Reveals Alarming Numbers",
+        "authors": [
+          "Prothom Alo"
+        ],
+        "year": 2023,
+        "type": "report"
+      },
+      {
+        "title": "Status of Tigers in Bangladesh (Sundarbans Tiger Conservation Project, Forest Department)",
+        "authors": [
+          "Forest Department, Bangladesh"
+        ],
+        "year": 2024,
+        "type": "report"
+      }
+    ],
+    "needsReview": true,
+    "lastUpdated": "2026-09-14T00:00:00Z",
+    "version": 2
+  },
+  {
+    "speciesId": "sp-elephas-maximus",
+    "presenceStatus": "native",
+    "regions": [
+      "chittagong-hill-tracts",
+      "sundarbans"
+    ],
+    "habitats": [
+      "forest",
+      "hill-forests"
+    ],
+    "localNames": [
+      {
+        "language": "bn",
+        "name": "এশীয় হাতি"
+      },
+      {
+        "language": "bn",
+        "name": "হাতি"
+      }
+    ],
+    "regionalConservationStatus": "CR",
+    "regionalThreats": [
+      "Habitat fragmentation in Chittagong Hill Tracts",
+      "Human-elephant conflict (crop raiding, property damage, human casualties)",
+      "Encroachment and settlement in elephant corridors",
+      "Poaching for ivory (males)",
+      "Linear infrastructure (roads, railways) bisecting habitat",
+      "Electrocution on power lines near elephant habitat",
+      "Corridor loss — one of 12 identified corridors lost to Rohingya camp construction in Cox’s Bazar"
+    ],
+    "regionalPopulation": "Estimated 200-350 individuals in Bangladesh (IUCN Bangladesh 2015)",
+    "notes": "Small, fragmented populations in Chittagong Hill Tracts and occasional transboundary movement from India into Sylhet region. Historically more widespread. Global status is EN (IUCN 2020), but Bangladesh regional assessment is CR due to small population size and severe fragmentation. IUCN Bangladesh lists the species as Critically Endangered nationally (2000; Red List of Bangladesh 2015) against a global Endangered listing (IUCN 2020). A 2016 IUCN survey found 268 resident elephants, all in the southeast (Chittagong, Chittagong Hill Tracts, Cox’s Bazar); migratory herds also move along the northern border districts, and captive elephants are held separately. Twelve corridors were identified in 2016, one already lost to Rohingya camp construction in Cox’s Bazar. Adults consume over 150 kg of vegetation and about 140 litres of water daily, driving crop raiding (banana, rice, cassava) and retaliation; electrocution is an additionally recorded killer, with 34 elephants killed in 2021 alone. Asian elephants live in matriarchal herds from which males depart around age 10–14; gestation lasts 18–22 months (longest of any land mammal), producing a single calf of about 100 kg, and wild lifespan is about 60 years (Britannica; WCS Thailand). The species is an umbrella species for forest biodiversity, listed in CITES Appendix I and the Wildlife (Conservation) Act schedules, with actions guided by the Bangladesh Elephant Conservation Action Plan.",
+    "references": [
+      {
+        "title": "Red List of Bangladesh Volume 2: Mammals",
+        "authors": [
+          "IUCN Bangladesh Country Office"
+        ],
+        "year": 2015,
+        "type": "report"
+      },
+      {
+        "title": "IUCN Red List Assessment: Elephas maximus",
+        "authors": [
+          "Choudhury, A.",
+          "Lahiri Choudhury, D.K.",
+          "Desai, A.",
+          "Duckworth, J.W.",
+          "Easa, P.S.",
+          "Johnsingh, A.J.T.",
+          "Fernando, P.",
+          "Hedges, S.",
+          "Gunawardena, M.",
+          "Kurt, F.",
+          "Kar, U.",
+          "Lister, A.",
+          "Menon, V.",
+          "Riddle, H.",
+          "Rübel, A.",
+          "Wikramanayake, E."
+        ],
+        "year": 2020,
+        "journal": "IUCN Red List of Threatened Species",
+        "doi": "10.2305/IUCN.UK.2020-3.RLTS.T7140A45818198.en",
+        "type": "report"
+      },
+      {
+        "title": "IUCN Red List Assessment: Elephas maximus",
+        "authors": [
+          "Williams, C.",
+          "Tiwari, S.K.",
+          "Goswami, V.R.",
+          "de Silva, S.",
+          "Kumar, A.",
+          "Baskaran, N.",
+          "Yoganand, K.",
+          "Menon, V."
+        ],
+        "year": 2020,
+        "journal": "IUCN Red List of Threatened Species",
+        "doi": "10.2305/IUCN.UK.2020-3.RLTS.T7140A45818198.en",
+        "type": "report"
+      },
+      {
+        "title": "Status of Asian Elephants in Bangladesh (2013–2016 surveys)",
+        "authors": [
+          "IUCN Bangladesh Country Office"
+        ],
+        "year": 2016,
+        "type": "report"
+      },
+      {
+        "title": "Dwindling corridors endanger the last of Bangladesh’s wild elephants",
+        "authors": [
+          "Eco-Business"
+        ],
+        "year": 2022,
+        "type": "report"
+      }
+    ],
+    "needsReview": true,
+    "lastUpdated": "2026-09-14T00:00:00Z",
+    "version": 2
+  },
+  {
+    "speciesId": "sp-vulpes-vulpes",
+    "presenceStatus": "native",
+    "regions": [
+      "barind",
+      "chittagong-hill-tracts",
+      "haor-wetlands",
+      "urban"
+    ],
+    "habitats": [
+      "forest",
+      "grassland",
+      "agricultural",
+      "urban"
+    ],
+    "localNames": [
+      {
+        "language": "bn",
+        "name": "লাল শিয়াল"
+      },
+      {
+        "language": "bn",
+        "name": "শিয়াল"
+      }
+    ],
+    "regionalConservationStatus": "LC",
+    "regionalThreats": [
+      "Habitat loss (moderate, species is adaptable)",
+      "Road mortality",
+      "Persecution as poultry predator",
+      "Disease (rabies, canine distemper)"
+    ],
+    "regionalPopulation": "Widespread and relatively common; no precise population estimate",
+    "notes": "Red fox occurs across much of Bangladesh in suitable habitat. More common in northern and central regions (Barind tract, haor areas). Adapts well to agricultural and peri-urban landscapes. Global status is LC (IUCN 2016), consistent with Bangladesh regional assessment. The red fox (Vulpes vulpes, Linnaeus 1758) is the world’s most widely distributed carnivore and is globally Least Concern with a stable population (IUCN 2016, amended assessment 2021); the Bangladesh national assessment is likewise Least Concern (IUCN Bangladesh 2015). It is an opportunistic omnivore — rodents (especially voles), rabbits, birds and eggs, insects, fruit and carrion — shifting seasonally, and an efficient scavenger around farms and settlements (Britannica; US Forest Service FEIS). Mating occurs in winter (January–March); after about 51–53 days of gestation the vixen bears an average of 4–5 pups in a den, often a borrowed burrow, with both parents provisioning, and young disperse in autumn (Britannica; NJDEP Fish & Wildlife). No dedicated national fox conservation programme was identified in the sources consulted; persistence in Bangladesh depends on the habitat mosaic, poultry protection, and reduced roadkill and poisoning. Bangladesh-specific diet composition is unstudied and left for formal review.",
+    "references": [
+      {
+        "title": "Red List of Bangladesh Volume 2: Mammals",
+        "authors": [
+          "IUCN Bangladesh Country Office"
+        ],
+        "year": 2015,
+        "type": "report"
+      },
+      {
+        "title": "IUCN Red List Assessment: Vulpes vulpes",
+        "authors": [
+          "Hoffmann, M.",
+          "Sillero-Zubiri, C."
+        ],
+        "year": 2016,
+        "journal": "IUCN Red List of Threatened Species",
+        "doi": "10.2305/IUCN.UK.2016-1.RLTS.T23062A46190249.en",
+        "type": "report"
+      },
+      {
+        "title": "IUCN Red List Assessment: Vulpes vulpes",
+        "authors": [
+          "Hoffmann, M.",
+          "Sillero-Zubiri, C."
+        ],
+        "year": 2021,
+        "journal": "IUCN Red List of Threatened Species",
+        "doi": "10.2305/IUCN.UK.2021-1.RLTS.T23062A193903628.en",
+        "type": "report"
+      },
+      {
+        "title": "Fire Effects Information System: Vulpes vulpes species review",
+        "authors": [
+          "Tesky, J.L.",
+          "US Forest Service"
+        ],
+        "year": 1995,
+        "type": "report"
+      },
+      {
+        "title": "Red Fox Furbearer Fact Sheet",
+        "authors": [
+          "NJDEP Division of Fish & Wildlife"
+        ],
+        "year": 2024,
+        "type": "report"
+      }
+    ],
+    "needsReview": true,
+    "lastUpdated": "2026-09-14T00:00:00Z",
+    "version": 2
+  },
+  {
+    "speciesId": "sp-prionailurus-viverrinus",
+    "presenceStatus": "native",
+    "regions": [
+      "sundarbans",
+      "haor-wetlands",
+      "central-floodplains"
+    ],
+    "habitats": [
+      "mangrove",
+      "freshwater-wetlands",
+      "rivers",
+      "marshes"
+    ],
+    "localNames": [
+      {
+        "language": "bn",
+        "name": "মোমাছ বিড়াল"
+      },
+      {
+        "language": "bn",
+        "name": "বাগা বিড়াল"
+      },
+      {
+        "language": "bn",
+        "name": "বাঘরোল"
+      }
+    ],
+    "regionalConservationStatus": "VU",
+    "regionalThreats": [
+      "Wetland drainage and conversion to agriculture",
+      "Pollution of waterways in haor basins",
+      "Overfishing reducing fish prey base",
+      "Human-wildlife conflict (poultry predation)",
+      "Road mortality near wetland corridors",
+      "Climate change impacts on Sundarbans",
+      "Mistaken-identity killings (feared as tigers) — 160 deaths recorded 2016–2021",
+      "Infrastructure fragmenting wetlands (e.g., Dhaka–Mawa expressway at Arial Beel)",
+      "Capture for the pet trade"
+    ],
+    "regionalPopulation": "Estimated 200-400 individuals in Bangladesh (Sundarbans and haor basins)",
+    "notes": "Bangladesh is a global stronghold for Fishing Cat. Sundarbans and northeast haor basins (Tanguar Haor, Hakaluki Haor) support significant populations. Listed as Vulnerable globally (IUCN 2025, assessed May 2024; previously Endangered 2008–2010) and regionally. Protected under Bangladesh Wildlife Conservation Act 2012. The Bangladesh national listing should be treated with care: project data records VU regionally while at least one secondary account reports Endangered (2015); this conflict is flagged here for formal review rather than silently resolved. Bangladesh is a global stronghold — Sundarbans plus northeast haors (Tanguar, Hakaluki, Arial Beel, Baikka Beel). A Dhaka University survey documented 361 conflicts in 2016–2021 (roughly one every two weeks) with 160 cat deaths, driven by fear and mistaken identity with tigers, revenge for poultry losses, and social pressure; infrastructure such as the Dhaka–Mawa expressway through Arial Beel fragments habitat, and pet-trade captures are evidenced (Mongabay 2024; Sultana et al. 2022). A wetland specialist and strong swimmer with partially webbed front toes, it is chiefly piscivorous (fish, shellfish, frogs) but takes birds — including colonial nesters raided from 8-metre treetops in Bangladesh — rodents, poultry and carrion (Denver Zoo; Sadik & Akash 2024). Mating occurs around January–February; gestation lasts about 63–70 days with 1–4 (usually 2) kittens, weaned at 4–6 months and independent near 10 months (Denver Zoo). The IUCN Red List records the Bengali name Baghrol (বাঘরোল), added to local names here. Conservation presence includes Project Fishing Cat Bangladesh (est. 2012, Baikka Beel, Hail Haor).",
+    "references": [
+      {
+        "title": "Status of Fishing Cat in Bangladesh",
+        "authors": [
+          "Chowdhury, S.U.",
+          "Foysal, M.",
+          "Haq, S.M.E."
+        ],
+        "year": 2020,
+        "journal": "Journal of Threatened Taxa",
+        "type": "paper"
+      },
+      {
+        "title": "Bangladesh Tiger Action Plan 2018-2027 (includes Fishing Cat habitat)",
+        "authors": [
+          "Forest Department, Bangladesh"
+        ],
+        "year": 2018,
+        "type": "report"
+      },
+      {
+        "title": "IUCN Red List Assessment: Prionailurus viverrinus",
+        "authors": [
+          "Mukherjee, S.",
+          "Appel, A.",
+          "Adhya, T.",
+          "Aziz, M.A.",
+          "Borah, J.",
+          "Qureshi, Q."
+        ],
+        "year": 2025,
+        "journal": "IUCN Red List of Threatened Species",
+        "doi": "10.2305/IUCN.UK.2025-1.RLTS.T18150A268618387.en",
+        "type": "report"
+      },
+      {
+        "title": "The killing of Fishing Cat Prionailurus viverrinus in Hakaluki Haor, Bangladesh",
+        "authors": [
+          "Sultana, M.N.",
+          "Suzuki, A.",
+          "Numata, S.",
+          "Aziz, M.A.",
+          "Palash, A."
+        ],
+        "year": 2022,
+        "journal": "Journal of Threatened Taxa",
+        "type": "paper"
+      },
+      {
+        "title": "A treetop diner: Camera trapping reveals novel arboreal foraging by fishing cats on colonial nesting birds in Bangladesh",
+        "authors": [
+          "Sadik, A.S.",
+          "Akash, M."
+        ],
+        "year": 2024,
+        "journal": "Mammalia",
+        "type": "paper"
+      },
+      {
+        "title": "Navigating the rise in conflicts between humans and fishing cats in Bangladesh",
+        "authors": [
+          "Mongabay"
+        ],
+        "year": 2024,
+        "type": "report"
+      }
+    ],
+    "needsReview": true,
+    "lastUpdated": "2026-09-14T00:00:00Z",
+    "version": 2
+  },
+  {
+    "presenceStatus": "native",
+    "needsReview": true,
+    "lastUpdated": "2026-09-14T00:00:00Z",
+    "version": 1,
+    "speciesId": "sp-labeo-rohita",
+    "regions": [
+      "central-floodplains",
+      "haor-wetlands"
+    ],
+    "habitats": [
+      "rivers",
+      "freshwater-wetlands"
+    ],
+    "localNames": [
+      {
+        "language": "bn",
+        "name": "রুই"
+      }
+    ],
+    "regionalConservationStatus": "LC",
+    "regionalThreats": [
+      "Overfishing and juvenile catch in floodplain fisheries",
+      "Floodplain disconnection by embankments reducing spawning habitat",
+      "River siltation and agrochemical pollution"
+    ],
+    "regionalPopulation": "",
+    "notes": "Rohu (Labeo rohita, Hamilton 1822) is one of the Indian major carps and a backbone of Bangladesh inland fisheries and aquaculture, occurring in the Padma–Jamuna–Meghna river systems, floodplains and haors (FishBase). A benthopelagic column feeder on plankton, detritus and vegetation, it undertakes monsoon upstream spawning migrations in rivers (Khan & Jhingran 1975). Nationally Least Concern (IUCN Bangladesh 2015); globally Least Concern (IUCN 2010). No species-specific national measures identified; persistence depends on floodplain connectivity, spawning-ground protection and general wetland management.",
+    "references": [
+      {
+        "title": "Red List of Bangladesh Volume 5: Freshwater Fishes",
+        "authors": [
+          "IUCN Bangladesh Country Office"
+        ],
+        "year": 2015,
+        "type": "report"
+      },
+      {
+        "title": "Labeo rohita — FishBase species summary",
+        "authors": [
+          "Froese, R.",
+          "Pauly, D."
+        ],
+        "type": "report"
+      },
+      {
+        "title": "Synopsis of biological data on rohu Labeo rohita",
+        "authors": [
+          "Khan, H.A.",
+          "Jhingran, V.G."
+        ],
+        "year": 1975,
+        "journal": "FAO Fisheries Synopsis",
+        "type": "report"
+      }
+    ]
+  },
+  {
+    "presenceStatus": "native",
+    "needsReview": true,
+    "lastUpdated": "2026-09-14T00:00:00Z",
+    "version": 1,
+    "speciesId": "sp-catla-catla",
+    "regions": [
+      "central-floodplains",
+      "haor-wetlands"
+    ],
+    "habitats": [
+      "rivers",
+      "freshwater-wetlands"
+    ],
+    "localNames": [
+      {
+        "language": "bn",
+        "name": "কাতলা"
+      }
+    ],
+    "regionalConservationStatus": "LC",
+    "regionalThreats": [
+      "Overfishing and juvenile catch in floodplain fisheries",
+      "Floodplain disconnection by embankments reducing spawning habitat",
+      "River siltation and agrochemical pollution"
+    ],
+    "regionalPopulation": "",
+    "notes": "Catla (Catla catla, Hamilton 1822) is a surface-feeding planktivorous major carp of the Padma–Jamuna–Meghna systems, floodplains and haors, and the fastest-growing of the Indian major carps in aquaculture (FishBase; Talwar & Jhingran 1991). Like other major carps it spawns in flooded rivers during the monsoon. Nationally Least Concern (IUCN Bangladesh 2015). No species-specific national measures identified; general floodplain and spawning-ground management applies.",
+    "references": [
+      {
+        "title": "Red List of Bangladesh Volume 5: Freshwater Fishes",
+        "authors": [
+          "IUCN Bangladesh Country Office"
+        ],
+        "year": 2015,
+        "type": "report"
+      },
+      {
+        "title": "Catla catla — FishBase species summary",
+        "authors": [
+          "Froese, R.",
+          "Pauly, D."
+        ],
+        "type": "report"
+      },
+      {
+        "title": "Inland fishes of India and adjacent countries",
+        "authors": [
+          "Talwar, P.K.",
+          "Jhingran, A.G."
+        ],
+        "year": 1991,
+        "type": "report"
+      }
+    ]
+  },
+  {
+    "presenceStatus": "native",
+    "needsReview": true,
+    "lastUpdated": "2026-09-14T00:00:00Z",
+    "version": 1,
+    "speciesId": "sp-cirrhinus-mrigala",
+    "regions": [
+      "central-floodplains",
+      "haor-wetlands"
+    ],
+    "habitats": [
+      "rivers",
+      "freshwater-wetlands"
+    ],
+    "localNames": [
+      {
+        "language": "bn",
+        "name": "মৃগেল"
+      }
+    ],
+    "regionalConservationStatus": "NT",
+    "regionalThreats": [
+      "Overfishing and juvenile catch in floodplain fisheries",
+      "Floodplain disconnection reducing monsoon spawning habitat",
+      "River siltation and pollution"
+    ],
+    "regionalPopulation": "",
+    "notes": "Mrigel (Cirrhinus mrigala, Hamilton 1822; assessed nationally as Cirrhinus cirrhosus — the two names are treated as the same taxon here and the synonymy is flagged for formal review) is a bottom-feeding detritivorous major carp of rivers and floodplains. Nationally Near Threatened (IUCN Bangladesh 2015), a higher concern level than the other major carps, warranting attention to spawning-ground connectivity and juvenile protection. Monsoon river spawner like other major carps.",
+    "references": [
+      {
+        "title": "Red List of Bangladesh Volume 5: Freshwater Fishes",
+        "authors": [
+          "IUCN Bangladesh Country Office"
+        ],
+        "year": 2015,
+        "type": "report"
+      },
+      {
+        "title": "Cirrhinus mrigala — FishBase species summary",
+        "authors": [
+          "Froese, R.",
+          "Pauly, D."
+        ],
+        "type": "report"
+      }
+    ]
+  },
+  {
+    "presenceStatus": "native",
+    "needsReview": true,
+    "lastUpdated": "2026-09-14T00:00:00Z",
+    "version": 1,
+    "speciesId": "sp-channa-striata",
+    "regions": [
+      "haor-wetlands",
+      "central-floodplains"
+    ],
+    "habitats": [
+      "freshwater-wetlands",
+      "marshes",
+      "rivers"
+    ],
+    "localNames": [
+      {
+        "language": "bn",
+        "name": "শোল"
+      }
+    ],
+    "regionalConservationStatus": "LC",
+    "regionalThreats": [
+      "Dry-season dewatering of beels and swamps",
+      "Pesticide runoff in paddy-field habitats",
+      "Overfishing of broodstock guarding nests"
+    ],
+    "regionalPopulation": "",
+    "notes": "Striped snakehead (Channa striata, Bloch 1793) is a predatory air-breathing fish of beels, haors, floodplains and slow rivers, feeding on fish, frogs and crustaceans. Parents guard the nest and fry, which makes broodstock vulnerable during the breeding season. Nationally Least Concern (IUCN Bangladesh 2015). An important capture fishery species across Bangladesh wetlands.",
+    "references": [
+      {
+        "title": "Red List of Bangladesh Volume 5: Freshwater Fishes",
+        "authors": [
+          "IUCN Bangladesh Country Office"
+        ],
+        "year": 2015,
+        "type": "report"
+      },
+      {
+        "title": "Channa striata — FishBase species summary",
+        "authors": [
+          "Froese, R.",
+          "Pauly, D."
+        ],
+        "type": "report"
+      }
+    ]
+  },
+  {
+    "presenceStatus": "native",
+    "needsReview": true,
+    "lastUpdated": "2026-09-14T00:00:00Z",
+    "version": 1,
+    "speciesId": "sp-channa-punctata",
+    "regions": [
+      "haor-wetlands",
+      "central-floodplains"
+    ],
+    "habitats": [
+      "freshwater-wetlands",
+      "marshes",
+      "rivers"
+    ],
+    "localNames": [
+      {
+        "language": "bn",
+        "name": "টাকি"
+      }
+    ],
+    "regionalConservationStatus": "LC",
+    "regionalThreats": [
+      "Loss of stagnant wetland refuges to drainage and conversion",
+      "Pesticide runoff in paddy-field habitats",
+      "Dry-season habitat shrinkage"
+    ],
+    "regionalPopulation": "",
+    "notes": "Spotted snakehead (Channa punctata, Bloch 1793) is a small predatory air-breathing fish of ponds, ditches, paddy fields, marshes and slow streams, tolerant of oxygen-poor stagnant water. Nationally Least Concern (IUCN Bangladesh 2015). Common in rural wetlands throughout the country.",
+    "references": [
+      {
+        "title": "Red List of Bangladesh Volume 5: Freshwater Fishes",
+        "authors": [
+          "IUCN Bangladesh Country Office"
+        ],
+        "year": 2015,
+        "type": "report"
+      },
+      {
+        "title": "Channa punctata — FishBase species summary",
+        "authors": [
+          "Froese, R.",
+          "Pauly, D."
+        ],
+        "type": "report"
+      }
+    ]
+  },
+  {
+    "presenceStatus": "native",
+    "needsReview": true,
+    "lastUpdated": "2026-09-14T00:00:00Z",
+    "version": 1,
+    "speciesId": "sp-anabas-testudineus",
+    "regions": [
+      "haor-wetlands",
+      "central-floodplains"
+    ],
+    "habitats": [
+      "freshwater-wetlands",
+      "marshes",
+      "rivers"
+    ],
+    "localNames": [
+      {
+        "language": "bn",
+        "name": "কৈ"
+      }
+    ],
+    "regionalConservationStatus": "LC",
+    "regionalThreats": [
+      "Drainage of swamps, ditches and small wetlands",
+      "Pesticide runoff in paddy-field habitats",
+      "Overharvest in the dry season when concentrated in refuges"
+    ],
+    "regionalPopulation": "",
+    "notes": "Climbing perch (Anabas testudineus, Bloch 1792) is a hardy air-breathing fish of swamps, ditches, paddy fields and marshes, famous for surviving out of water and moving across damp land during the monsoon. An omnivore of insects, molluscs, small fish and vegetation. Nationally Least Concern (IUCN Bangladesh 2015).",
+    "references": [
+      {
+        "title": "Red List of Bangladesh Volume 5: Freshwater Fishes",
+        "authors": [
+          "IUCN Bangladesh Country Office"
+        ],
+        "year": 2015,
+        "type": "report"
+      },
+      {
+        "title": "Anabas testudineus — FishBase species summary",
+        "authors": [
+          "Froese, R.",
+          "Pauly, D."
+        ],
+        "type": "report"
+      }
+    ]
+  },
+  {
+    "presenceStatus": "native",
+    "needsReview": true,
+    "lastUpdated": "2026-09-14T00:00:00Z",
+    "version": 1,
+    "speciesId": "sp-heteropneustes-fossilis",
+    "regions": [
+      "haor-wetlands",
+      "central-floodplains"
+    ],
+    "habitats": [
+      "freshwater-wetlands",
+      "marshes"
+    ],
+    "localNames": [
+      {
+        "language": "bn",
+        "name": "শিং"
+      }
+    ],
+    "regionalConservationStatus": "LC",
+    "regionalThreats": [
+      "Loss of swamps and marshes to drainage and conversion",
+      "Pesticide runoff",
+      "Overharvest in dry-season refuges"
+    ],
+    "regionalPopulation": "",
+    "notes": "Stinging catfish (Heteropneustes fossilis, Bloch 1794) is an air-breathing nocturnal catfish of swamps, marshes and stagnant waters, armed with venomous pectoral spines; an omnivorous bottom feeder. Nationally Least Concern (IUCN Bangladesh 2015). Valued as a hardy food fish in rural Bangladesh.",
+    "references": [
+      {
+        "title": "Red List of Bangladesh Volume 5: Freshwater Fishes",
+        "authors": [
+          "IUCN Bangladesh Country Office"
+        ],
+        "year": 2015,
+        "type": "report"
+      },
+      {
+        "title": "Heteropneustes fossilis — FishBase species summary",
+        "authors": [
+          "Froese, R.",
+          "Pauly, D."
+        ],
+        "type": "report"
+      }
+    ]
+  },
+  {
+    "presenceStatus": "native",
+    "needsReview": true,
+    "lastUpdated": "2026-09-14T00:00:00Z",
+    "version": 1,
+    "speciesId": "sp-mystus-vittatus",
+    "regions": [
+      "central-floodplains",
+      "haor-wetlands"
+    ],
+    "habitats": [
+      "rivers",
+      "freshwater-wetlands",
+      "marshes"
+    ],
+    "localNames": [
+      {
+        "language": "bn",
+        "name": "টেংরা"
+      }
+    ],
+    "regionalConservationStatus": "LC",
+    "regionalThreats": [
+      "Siltation and pollution of small rivers and beels",
+      "Fine-mesh fishing of juveniles",
+      "Wetland drainage"
+    ],
+    "regionalPopulation": "",
+    "notes": "Striped dwarf catfish / Tengra (Mystus vittatus, Bloch 1794) is a small insectivorous-omnivorous bagrid catfish of rivers, beels and floodplains, common in artisanal catches. Nationally Least Concern (IUCN Bangladesh 2015).",
+    "references": [
+      {
+        "title": "Red List of Bangladesh Volume 5: Freshwater Fishes",
+        "authors": [
+          "IUCN Bangladesh Country Office"
+        ],
+        "year": 2015,
+        "type": "report"
+      },
+      {
+        "title": "Mystus vittatus — FishBase species summary",
+        "authors": [
+          "Froese, R.",
+          "Pauly, D."
+        ],
+        "type": "report"
+      }
+    ]
+  },
+  {
+    "presenceStatus": "native",
+    "needsReview": true,
+    "lastUpdated": "2026-09-14T00:00:00Z",
+    "version": 1,
+    "speciesId": "sp-labeo-calbasu",
+    "regions": [
+      "central-floodplains",
+      "haor-wetlands"
+    ],
+    "habitats": [
+      "rivers",
+      "freshwater-wetlands"
+    ],
+    "localNames": [
+      {
+        "language": "bn",
+        "name": "কালিবাউস"
+      }
+    ],
+    "regionalConservationStatus": "LC",
+    "regionalThreats": [
+      "Overfishing in riverine fisheries",
+      "Spawning-ground siltation",
+      "Floodplain disconnection"
+    ],
+    "regionalPopulation": "",
+    "notes": "Black rohu / Kalibaus (Labeo calbasu, Hamilton 1822) is a bottom-feeding riverine carp of the major river systems and connected floodplains. Nationally Least Concern (IUCN Bangladesh 2015). A regular component of riverine catches.",
+    "references": [
+      {
+        "title": "Red List of Bangladesh Volume 5: Freshwater Fishes",
+        "authors": [
+          "IUCN Bangladesh Country Office"
+        ],
+        "year": 2015,
+        "type": "report"
+      },
+      {
+        "title": "Labeo calbasu — FishBase species summary",
+        "authors": [
+          "Froese, R.",
+          "Pauly, D."
+        ],
+        "type": "report"
+      }
+    ]
+  },
+  {
+    "presenceStatus": "native",
+    "needsReview": true,
+    "lastUpdated": "2026-09-14T00:00:00Z",
+    "version": 1,
+    "speciesId": "sp-glossogobius-giuris",
+    "regions": [
+      "central-floodplains",
+      "haor-wetlands",
+      "sundarbans"
+    ],
+    "habitats": [
+      "rivers",
+      "freshwater-wetlands",
+      "marshes",
+      "mangrove"
+    ],
+    "localNames": [
+      {
+        "language": "bn",
+        "name": "বেলে"
+      }
+    ],
+    "regionalConservationStatus": "LC",
+    "regionalThreats": [
+      "Estuarine and floodplain habitat degradation",
+      "Pollution of tidal rivers",
+      "Fine-mesh fishing of juveniles"
+    ],
+    "regionalPopulation": "",
+    "notes": "Tank goby / Bele (Glossogobius giuris, Hamilton 1822) is a carnivorous goby of rivers, estuaries, haors and tidal wetlands, tolerant of fresh and brackish water and feeding on crustaceans and small fish. Nationally Least Concern (IUCN Bangladesh 2015). Common in both inland and coastal wetland catches.",
+    "references": [
+      {
+        "title": "Red List of Bangladesh Volume 5: Freshwater Fishes",
+        "authors": [
+          "IUCN Bangladesh Country Office"
+        ],
+        "year": 2015,
+        "type": "report"
+      },
+      {
+        "title": "Glossogobius giuris — FishBase species summary",
+        "authors": [
+          "Froese, R.",
+          "Pauly, D."
+        ],
+        "type": "report"
+      }
+    ]
+  },
+  {
+    "presenceStatus": "native",
+    "needsReview": true,
+    "lastUpdated": "2026-09-14T00:00:00Z",
+    "version": 1,
+    "speciesId": "sp-sperata-aor",
+    "regions": [
+      "central-floodplains"
+    ],
+    "habitats": [
+      "rivers"
+    ],
+    "localNames": [
+      {
+        "language": "bn",
+        "name": "আইড়"
+      }
+    ],
+    "regionalConservationStatus": "VU",
+    "regionalThreats": [
+      "Overfishing of a large, late-maturing predator",
+      "Juvenile catch in riverine fisheries",
+      "Spawning-habitat degradation in major rivers"
+    ],
+    "regionalPopulation": "",
+    "notes": "Long-whiskered catfish / Airh (Sperata aor, Hamilton 1822) is a large predatory bagrid of the Padma–Jamuna–Meghna river systems, reaching about 180 cm and feeding on small fishes and worms; oviparous with probable pairing behaviour (FishBase). Nationally Vulnerable (IUCN Bangladesh 2015) — in contrast to its global Least Concern listing (IUCN 2011) — reflecting heavy riverine fishing pressure; this national/global contrast is retained deliberately for review. Late maturity and large size make it sensitive to broodstock removal.",
+    "references": [
+      {
+        "title": "Red List of Bangladesh Volume 5: Freshwater Fishes",
+        "authors": [
+          "IUCN Bangladesh Country Office"
+        ],
+        "year": 2015,
+        "type": "report"
+      },
+      {
+        "title": "Sperata aor — FishBase species summary",
+        "authors": [
+          "Froese, R.",
+          "Pauly, D."
+        ],
+        "type": "report"
+      }
+    ]
+  },
+  {
+    "presenceStatus": "native",
+    "needsReview": true,
+    "lastUpdated": "2026-09-14T00:00:00Z",
+    "version": 1,
+    "speciesId": "sp-crocodylus-porosus",
+    "regions": [
+      "sundarbans"
+    ],
+    "habitats": [
+      "mangrove",
+      "rivers",
+      "marshes"
+    ],
+    "localNames": [
+      {
+        "language": "bn",
+        "name": "লোনাপানির কুমির"
+      }
+    ],
+    "regionalConservationStatus": "EN",
+    "regionalThreats": [
+      "Historical skin-trade depletion with slow recovery",
+      "Nesting-habitat disturbance and flooding in the Sundarbans",
+      "Fishing-net entanglement and human-crocodile conflict",
+      "Oil spills and vessel disturbance in waterways"
+    ],
+    "regionalPopulation": "",
+    "notes": "Saltwater crocodile (Crocodylus porosus, Schneider 1801) is endangered in Bangladesh and now survives in rivers and channels of the Sundarbans mangrove forest, after heavy skin exploitation up to the 1970s depleted the formerly wider southern-coast population (Aziz & Islam 2018). The top aquatic predator of the Sundarbans, it builds mound nests guarded by the female. Nationally Endangered (IUCN Bangladesh 2015); protected under the Wildlife (Protection and Security) Act 2012 and CITES Appendix I. Globally Least Concern, so the national/global contrast is retained deliberately for review.",
+    "references": [
+      {
+        "title": "Population status and spatial distribution of saltwater crocodile, Crocodylus porosus in the Sundarbans of Bangladesh",
+        "authors": [
+          "Aziz, M.A.",
+          "Islam, M.A."
+        ],
+        "year": 2018,
+        "journal": "Bangladesh Journal of Zoology",
+        "type": "paper"
+      },
+      {
+        "title": "Red List of Bangladesh Volume 4: Reptiles and Amphibians",
+        "authors": [
+          "IUCN Bangladesh Country Office"
+        ],
+        "year": 2015,
+        "type": "report"
+      },
+      {
+        "title": "Saltwater Crocodile country account: Bangladesh",
+        "authors": [
+          "IUCN SSC Crocodile Specialist Group"
+        ],
+        "type": "report"
+      }
+    ]
+  },
+  {
+    "presenceStatus": "native",
+    "needsReview": true,
+    "lastUpdated": "2026-09-14T00:00:00Z",
+    "version": 1,
+    "speciesId": "sp-penaeus-monodon",
+    "regions": [
+      "sundarbans"
+    ],
+    "habitats": [
+      "mangrove"
+    ],
+    "localNames": [
+      {
+        "language": "bn",
+        "name": "বাগদা চিংড়ি"
+      }
+    ],
+    "regionalConservationStatus": "LC",
+    "regionalThreats": [
+      "Wild post-larvae collection bycatch of other species",
+      "Mangrove conversion to shrimp ghers",
+      "Disease outbreaks and effluent pollution in farming zones"
+    ],
+    "regionalPopulation": "",
+    "notes": "Giant tiger prawn / Bagda chingri (Penaeus monodon, Fabricius 1798) is a marine-brackish penaeid of the Khulna–Satkhira–Bagerhat and Cox’s Bazar coasts and estuaries, and Bangladesh’s most valuable cultured crustacean. Nationally Least Concern (IUCN Bangladesh 2015, Volume 6: Crustaceans). Wild post-larvae collection, mangrove conversion and farm effluents are the documented pressures; farming practices and export trade are described in the national crustacean assessment.",
+    "references": [
+      {
+        "title": "Red List of Bangladesh Volume 6: Crustaceans",
+        "authors": [
+          "IUCN Bangladesh Country Office"
+        ],
+        "year": 2015,
+        "type": "report"
+      }
+    ]
+  },
+  {
+    "presenceStatus": "native",
+    "needsReview": true,
+    "lastUpdated": "2026-09-14T00:00:00Z",
+    "version": 1,
+    "speciesId": "sp-scylla-serrata",
+    "regions": [
+      "sundarbans"
+    ],
+    "habitats": [
+      "mangrove"
+    ],
+    "localNames": [
+      {
+        "language": "bn",
+        "name": "কাঁকড়া"
+      }
+    ],
+    "regionalConservationStatus": "LC",
+    "regionalThreats": [
+      "Overharvest of juveniles and berried females for fattening trade",
+      "Mangrove degradation in coastal estuaries",
+      "Export-driven fishing pressure (about 10,000 MT annually)"
+    ],
+    "regionalPopulation": "",
+    "notes": "Mud crab (Scylla serrata, Forskal 1775; locally kakra/kanra) inhabits brackish coastal waters and estuaries and supports pond/cage fattening and export trade since 1977–78. Nationally Least Concern (IUCN Bangladesh 2015, Volume 6: Crustaceans). Harvest pressure on juveniles and egg-bearing females is the principal documented concern.",
+    "references": [
+      {
+        "title": "Red List of Bangladesh Volume 6: Crustaceans",
+        "authors": [
+          "IUCN Bangladesh Country Office"
+        ],
+        "year": 2015,
+        "type": "report"
+      }
+    ]
+  },
+  {
+    "presenceStatus": "native",
+    "needsReview": true,
+    "lastUpdated": "2026-09-14T00:00:00Z",
+    "version": 1,
+    "speciesId": "sp-phalacrocorax-carbo",
+    "regions": [
+      "haor-wetlands",
+      "central-floodplains",
+      "sundarbans"
+    ],
+    "habitats": [
+      "freshwater-wetlands",
+      "rivers",
+      "marshes",
+      "mangrove"
+    ],
+    "localNames": [
+      {
+        "language": "bn",
+        "name": "বড় পানকৌড়ি"
+      }
+    ],
+    "regionalConservationStatus": "LC",
+    "regionalThreats": [
+      "Entanglement and drowning in fishing nets",
+      "Wetland drainage reducing feeding habitat",
+      "Disturbance of nesting colonies"
+    ],
+    "regionalPopulation": "",
+    "notes": "Great Cormorant (Phalacrocorax carbo, Linnaeus 1758; order Suliformes, family Phalacrocoracidae; inland South Asian birds belong to P. c. sinensis) is listed as resident in Bangladesh with year-round records from haors, rivers and the Sundarbans coast. An almost exclusively fish-eating pursuit diver taking mostly small fish in shallow water; inland colonies nest in trees, bushes or reedbeds. Nationally Least Concern (IUCN Bangladesh 2015); globally Least Concern with an increasing population (IUCN/BirdLife 2019).",
+    "references": [
+      {
+        "title": "Red List of Bangladesh Volume 3: Birds",
+        "authors": [
+          "IUCN Bangladesh Country Office"
+        ],
+        "year": 2015,
+        "type": "report"
+      },
+      {
+        "title": "IUCN Red List Assessment: Phalacrocorax carbo",
+        "authors": [
+          "BirdLife International"
+        ],
+        "year": 2019,
+        "journal": "IUCN Red List of Threatened Species",
+        "doi": "10.2305/IUCN.UK.2018-2.RLTS.T22696792A155523636.en",
+        "type": "report"
+      },
+      {
+        "title": "Great Cormorant (Phalacrocorax carbo), version 1.0",
+        "authors": [
+          "Hatch, J.J.",
+          "Brown, K.M.",
+          "Hogan, G.G.",
+          "Morris, R.D.",
+          "Orta, J.",
+          "Garcia, E.",
+          "Jutglar, F.",
+          "Kirwan, G.M.",
+          "Boesman, P.F.D."
+        ],
+        "year": 2020,
+        "journal": "Birds of the World, Cornell Lab of Ornithology",
+        "doi": "10.2173/bow.grecor.01",
+        "type": "report"
+      }
+    ]
+  },
+  {
+    "presenceStatus": "native",
+    "regionalPopulation": "",
+    "needsReview": true,
+    "lastUpdated": "2026-09-15T00:00:00Z",
+    "version": 1,
+    "speciesId": "sp-eudynamys-scolopaceus",
+    "regions": [
+      "urban",
+      "central-floodplains"
+    ],
+    "habitats": [
+      "forest",
+      "agricultural",
+      "urban"
+    ],
+    "localNames": [
+      {
+        "language": "bn",
+        "name": "কোকিল"
+      }
+    ],
+    "regionalConservationStatus": "LC",
+    "regionalThreats": [
+      "Felling of large host-nesting trees (crows, mynas)",
+      "Pesticide pressure on caterpillar prey"
+    ],
+    "notes": "Asian Koel (Eudynamys scolopaceus) is a resident breeder across Bangladesh, famous as the herald of summer; an obligate brood parasite laying in the nests of crows, mynas and drongos, feeding largely on figs, berries and caterpillars. Nationally Least Concern (IUCN Bangladesh 2015); globally Least Concern. No species-specific national measures identified.",
+    "references": [
+      {
+        "title": "Red List of Bangladesh Volume 3: Birds",
+        "authors": [
+          "IUCN Bangladesh Country Office"
+        ],
+        "year": 2015,
+        "type": "report"
+      },
+      {
+        "title": "Birds of the Indian Subcontinent, 2nd edition",
+        "authors": [
+          "Grimmett, R.",
+          "Inskipp, C.",
+          "Inskipp, T."
+        ],
+        "year": 2011,
+        "type": "report"
+      }
+    ]
+  },
+  {
+    "presenceStatus": "native",
+    "regionalPopulation": "",
+    "needsReview": true,
+    "lastUpdated": "2026-09-15T00:00:00Z",
+    "version": 1,
+    "speciesId": "sp-corvus-splendens",
+    "regions": [
+      "urban",
+      "central-floodplains"
+    ],
+    "habitats": [
+      "urban",
+      "agricultural"
+    ],
+    "localNames": [
+      {
+        "language": "bn",
+        "name": "পাতি কাক"
+      }
+    ],
+    "regionalConservationStatus": "LC",
+    "regionalThreats": [
+      "Deliberate killing and poisoning near poultry farms and urban roosts",
+      "Loss of communal roost trees to felling"
+    ],
+    "notes": "House Crow (Corvus splendens) is an abundant resident breeder in Bangladeshi towns, villages, ports and farmland, nesting colonially in trees and scavenging refuse, carrion, insects and eggs. Nationally Least Concern (IUCN Bangladesh 2015); globally Least Concern. No species-specific national measures identified.",
+    "references": [
+      {
+        "title": "Red List of Bangladesh Volume 3: Birds",
+        "authors": [
+          "IUCN Bangladesh Country Office"
+        ],
+        "year": 2015,
+        "type": "report"
+      },
+      {
+        "title": "Birds of the Indian Subcontinent, 2nd edition",
+        "authors": [
+          "Grimmett, R.",
+          "Inskipp, C.",
+          "Inskipp, T."
+        ],
+        "year": 2011,
+        "type": "report"
+      }
+    ]
+  },
+  {
+    "presenceStatus": "native",
+    "regionalPopulation": "",
+    "needsReview": true,
+    "lastUpdated": "2026-09-15T00:00:00Z",
+    "version": 1,
+    "speciesId": "sp-alcedo-atthis",
+    "regions": [
+      "haor-wetlands",
+      "central-floodplains",
+      "sundarbans"
+    ],
+    "habitats": [
+      "freshwater-wetlands",
+      "rivers",
+      "marshes",
+      "mangrove"
+    ],
+    "localNames": [
+      {
+        "language": "bn",
+        "name": "ছোট মাছরাঙা"
+      }
+    ],
+    "regionalConservationStatus": "LC",
+    "regionalThreats": [
+      "Riverbank erosion and sand mining destroying nest banks",
+      "Water pollution reducing small-fish prey",
+      "Wetland drainage"
+    ],
+    "notes": "Common Kingfisher (Alcedo atthis) breeds in Bangladesh along slow rivers, ponds, marshes and tidal creeks, fishing small fish and aquatic invertebrates from low perches and nesting in burrows tunnelled into earthen banks. Nationally Least Concern (IUCN Bangladesh 2015); globally Least Concern (IUCN/BirdLife 2024). Bank and water-quality protection benefits breeding success.",
+    "references": [
+      {
+        "title": "Red List of Bangladesh Volume 3: Birds",
+        "authors": [
+          "IUCN Bangladesh Country Office"
+        ],
+        "year": 2015,
+        "type": "report"
+      },
+      {
+        "title": "Birds of the Indian Subcontinent, 2nd edition",
+        "authors": [
+          "Grimmett, R.",
+          "Inskipp, C.",
+          "Inskipp, T."
+        ],
+        "year": 2011,
+        "type": "report"
+      },
+      {
+        "title": "IUCN Red List Assessment: Alcedo atthis",
+        "authors": [
+          "BirdLife International"
+        ],
+        "year": 2024,
+        "journal": "IUCN Red List of Threatened Species",
+        "doi": "10.2305/IUCN.UK.2024-2.RLTS.T22683027A264589271.en",
+        "type": "report"
+      }
+    ]
+  },
+  {
+    "presenceStatus": "native",
+    "regionalPopulation": "",
+    "needsReview": true,
+    "lastUpdated": "2026-09-15T00:00:00Z",
+    "version": 1,
+    "speciesId": "sp-ardea-coromanda",
+    "regions": [
+      "haor-wetlands",
+      "central-floodplains"
+    ],
+    "habitats": [
+      "freshwater-wetlands",
+      "marshes",
+      "agricultural"
+    ],
+    "localNames": [
+      {
+        "language": "bn",
+        "name": "গো-বক"
+      }
+    ],
+    "regionalConservationStatus": "LC",
+    "regionalThreats": [
+      "Wetland drainage and paddy conversion",
+      "Pesticide pressure on insect prey",
+      "Disturbance and felling of colony nesting trees"
+    ],
+    "notes": "Eastern Cattle-Egret (Ardea coromanda; nationally assessed as Bubulcus ibis, 2015, before the Clements/IOC split) is a resident breeder of Bangladesh paddy fields, marshes and pond margins, following livestock for grasshoppers, frogs and small fish and nesting colonially with other waterbirds. Nationally Least Concern (IUCN Bangladesh 2015); globally Least Concern. Heronry-tree protection is the key local measure.",
+    "references": [
+      {
+        "title": "Red List of Bangladesh Volume 3: Birds",
+        "authors": [
+          "IUCN Bangladesh Country Office"
+        ],
+        "year": 2015,
+        "type": "report"
+      },
+      {
+        "title": "Birds of the Indian Subcontinent, 2nd edition",
+        "authors": [
+          "Grimmett, R.",
+          "Inskipp, C.",
+          "Inskipp, T."
+        ],
+        "year": 2011,
+        "type": "report"
+      }
+    ]
+  },
+  {
+    "presenceStatus": "native",
+    "regionalPopulation": "",
+    "needsReview": true,
+    "lastUpdated": "2026-09-15T00:00:00Z",
+    "version": 1,
+    "speciesId": "sp-pycnonotus-cafer",
+    "regions": [
+      "urban",
+      "central-floodplains"
+    ],
+    "habitats": [
+      "forest",
+      "agricultural",
+      "urban"
+    ],
+    "localNames": [
+      {
+        "language": "bn",
+        "name": "বুলবুলি"
+      }
+    ],
+    "regionalConservationStatus": "LC",
+    "regionalThreats": [
+      "Trapping for the cage-bird trade",
+      "Loss of scrub and hedgerow nesting habitat"
+    ],
+    "notes": "Red-vented Bulbul (Pycnonotus cafer) is a bold resident breeder of Bangladeshi gardens, scrub, farmland and villages, feeding on fruit, nectar and insects with several broods possible. Nationally Least Concern (IUCN Bangladesh 2015); globally Least Concern. Trade monitoring and scrub retention help local populations.",
+    "references": [
+      {
+        "title": "Red List of Bangladesh Volume 3: Birds",
+        "authors": [
+          "IUCN Bangladesh Country Office"
+        ],
+        "year": 2015,
+        "type": "report"
+      },
+      {
+        "title": "Birds of the Indian Subcontinent, 2nd edition",
+        "authors": [
+          "Grimmett, R.",
+          "Inskipp, C.",
+          "Inskipp, T."
+        ],
+        "year": 2011,
+        "type": "report"
+      }
+    ]
+  },
+  {
+    "presenceStatus": "native",
+    "regionalPopulation": "",
+    "needsReview": true,
+    "lastUpdated": "2026-09-15T00:00:00Z",
+    "version": 1,
+    "speciesId": "sp-copsychus-saularis",
+    "regions": [
+      "urban",
+      "central-floodplains"
+    ],
+    "habitats": [
+      "forest",
+      "agricultural",
+      "urban"
+    ],
+    "localNames": [
+      {
+        "language": "bn",
+        "name": "দোয়েল"
+      }
+    ],
+    "regionalConservationStatus": "LC",
+    "regionalThreats": [
+      "Trapping for the cage-bird trade",
+      "Loss of cavity nesting sites in old trees and walls"
+    ],
+    "notes": "Oriental Magpie-Robin (Copsychus saularis), the national bird of Bangladesh, is a resident breeder of gardens, groves and farmland, feeding on ground insects and nesting in tree holes, walls and nest boxes. Nationally Least Concern (IUCN Bangladesh 2015); globally Least Concern. Nest-box provision and trade control support it directly.",
+    "references": [
+      {
+        "title": "Red List of Bangladesh Volume 3: Birds",
+        "authors": [
+          "IUCN Bangladesh Country Office"
+        ],
+        "year": 2015,
+        "type": "report"
+      },
+      {
+        "title": "Birds of the Indian Subcontinent, 2nd edition",
+        "authors": [
+          "Grimmett, R.",
+          "Inskipp, C.",
+          "Inskipp, T."
+        ],
+        "year": 2011,
+        "type": "report"
+      }
+    ]
+  },
+  {
+    "presenceStatus": "native",
+    "regionalPopulation": "",
+    "needsReview": true,
+    "lastUpdated": "2026-09-15T00:00:00Z",
+    "version": 1,
+    "speciesId": "sp-ardeola-grayii",
+    "regions": [
+      "haor-wetlands",
+      "central-floodplains"
+    ],
+    "habitats": [
+      "freshwater-wetlands",
+      "marshes",
+      "rivers"
+    ],
+    "localNames": [
+      {
+        "language": "bn",
+        "name": "কানিবক"
+      }
+    ],
+    "regionalConservationStatus": "LC",
+    "regionalThreats": [
+      "Wetland drainage and conversion",
+      "Pesticide pressure on aquatic prey",
+      "Disturbance and felling of heronry trees"
+    ],
+    "notes": "Indian Pond-Heron (Ardeola grayii) is a resident breeder of Bangladesh ponds, marshes, paddy fields and slow streams, ambushing fish, frogs and crustaceans and nesting colonially in village groves. Nationally Least Concern (IUCN Bangladesh 2015); globally Least Concern. Heronry protection is the key local measure.",
+    "references": [
+      {
+        "title": "Red List of Bangladesh Volume 3: Birds",
+        "authors": [
+          "IUCN Bangladesh Country Office"
+        ],
+        "year": 2015,
+        "type": "report"
+      },
+      {
+        "title": "Birds of the Indian Subcontinent, 2nd edition",
+        "authors": [
+          "Grimmett, R.",
+          "Inskipp, C.",
+          "Inskipp, T."
+        ],
+        "year": 2011,
+        "type": "report"
+      }
+    ]
+  },
+  {
+    "presenceStatus": "native",
+    "regionalPopulation": "",
+    "needsReview": true,
+    "lastUpdated": "2026-09-15T00:00:00Z",
+    "version": 1,
+    "speciesId": "sp-halcyon-smyrnensis",
+    "regions": [
+      "haor-wetlands",
+      "central-floodplains",
+      "sundarbans"
+    ],
+    "habitats": [
+      "freshwater-wetlands",
+      "rivers",
+      "marshes",
+      "mangrove"
+    ],
+    "localNames": [
+      {
+        "language": "bn",
+        "name": "ধলাগলা মাছরাঙা"
+      }
+    ],
+    "regionalConservationStatus": "LC",
+    "regionalThreats": [
+      "Riverbank sand mining and erosion of nest banks",
+      "Wetland drainage",
+      "Water pollution reducing prey"
+    ],
+    "notes": "White-throated Kingfisher (Halcyon smyrnensis) is a resident breeder across Bangladesh wetlands, paddies, gardens and coastal creeks, taking fish, crabs, lizards and large insects and tunnelling nest burrows into banks or termite mounds. Nationally Least Concern (IUCN Bangladesh 2015); globally Least Concern (IUCN/BirdLife 2025).",
+    "references": [
+      {
+        "title": "Red List of Bangladesh Volume 3: Birds",
+        "authors": [
+          "IUCN Bangladesh Country Office"
+        ],
+        "year": 2015,
+        "type": "report"
+      },
+      {
+        "title": "Birds of the Indian Subcontinent, 2nd edition",
+        "authors": [
+          "Grimmett, R.",
+          "Inskipp, C.",
+          "Inskipp, T."
+        ],
+        "year": 2011,
+        "type": "report"
+      },
+      {
+        "title": "IUCN Red List Assessment: Halcyon smyrnensis",
+        "authors": [
+          "BirdLife International"
+        ],
+        "year": 2025,
+        "journal": "IUCN Red List of Threatened Species",
+        "doi": "10.2305/IUCN.UK.2025-2.RLTS.T22725846A280970968.en",
+        "type": "report"
+      }
+    ]
+  },
+  {
+    "presenceStatus": "native",
+    "regionalPopulation": "",
+    "needsReview": true,
+    "lastUpdated": "2026-09-15T00:00:00Z",
+    "version": 1,
+    "speciesId": "sp-dicrurus-macrocercus",
+    "regions": [
+      "central-floodplains",
+      "urban"
+    ],
+    "habitats": [
+      "agricultural",
+      "grassland",
+      "forest"
+    ],
+    "localNames": [
+      {
+        "language": "bn",
+        "name": "ফিঙে"
+      }
+    ],
+    "regionalConservationStatus": "LC",
+    "regionalThreats": [
+      "Pesticide pressure on aerial insect prey",
+      "Loss of scattered nesting trees in farmland"
+    ],
+    "notes": "Black Drongo (Dicrurus macrocercus) is a resident farmland bird across Bangladesh, hawking insects from wires and treetops and defending cup nests fearlessly. The global account notes full-migrant movement at species level, partial in South Asia — flagged for review. Nationally Least Concern (IUCN Bangladesh 2015); globally Least Concern (IUCN/BirdLife 2024). A valued crop-pest controller.",
+    "references": [
+      {
+        "title": "Red List of Bangladesh Volume 3: Birds",
+        "authors": [
+          "IUCN Bangladesh Country Office"
+        ],
+        "year": 2015,
+        "type": "report"
+      },
+      {
+        "title": "Birds of the Indian Subcontinent, 2nd edition",
+        "authors": [
+          "Grimmett, R.",
+          "Inskipp, C.",
+          "Inskipp, T."
+        ],
+        "year": 2011,
+        "type": "report"
+      },
+      {
+        "title": "IUCN Red List Assessment: Dicrurus macrocercus",
+        "authors": [
+          "BirdLife International"
+        ],
+        "year": 2024,
+        "journal": "IUCN Red List of Threatened Species",
+        "doi": "10.2305/IUCN.UK.2024-2.RLTS.T22706961A263816137.en",
+        "type": "report"
+      }
+    ]
+  },
+  {
+    "presenceStatus": "native",
+    "regionalPopulation": "",
+    "needsReview": true,
+    "lastUpdated": "2026-09-15T00:00:00Z",
+    "version": 1,
+    "speciesId": "sp-acridotheres-tristis",
+    "regions": [
+      "urban",
+      "central-floodplains"
+    ],
+    "habitats": [
+      "urban",
+      "agricultural",
+      "grassland"
+    ],
+    "localNames": [
+      {
+        "language": "bn",
+        "name": "ভাত-শালিক"
+      }
+    ],
+    "regionalConservationStatus": "LC",
+    "regionalThreats": [
+      "Capture for the pet trade",
+      "Pesticide pressure on insect prey"
+    ],
+    "notes": "Common Myna (Acridotheres tristis) is a native resident breeder of Bangladeshi towns, farmland and wetland edges, nesting in cavities and feeding on insects, fruit and scraps (invasive only where introduced outside its native range). Nationally Least Concern (IUCN Bangladesh 2015); globally Least Concern.",
+    "references": [
+      {
+        "title": "Red List of Bangladesh Volume 3: Birds",
+        "authors": [
+          "IUCN Bangladesh Country Office"
+        ],
+        "year": 2015,
+        "type": "report"
+      },
+      {
+        "title": "Birds of the Indian Subcontinent, 2nd edition",
+        "authors": [
+          "Grimmett, R.",
+          "Inskipp, C.",
+          "Inskipp, T."
+        ],
+        "year": 2011,
+        "type": "report"
+      }
+    ]
+  },
+  {
+    "presenceStatus": "native",
+    "regionalPopulation": "",
+    "needsReview": true,
+    "lastUpdated": "2026-09-15T00:00:00Z",
+    "version": 1,
+    "speciesId": "sp-passer-domesticus",
+    "regions": [
+      "urban",
+      "central-floodplains"
+    ],
+    "habitats": [
+      "urban",
+      "agricultural"
+    ],
+    "localNames": [
+      {
+        "language": "bn",
+        "name": "ঘর-চড়ুই"
+      }
+    ],
+    "regionalConservationStatus": "LC",
+    "regionalThreats": [
+      "Loss of nesting holes in modern buildings",
+      "Pesticide-driven insect decline affecting chicks",
+      "Competition for nest sites"
+    ],
+    "notes": "House Sparrow (Passer domesticus) is a resident breeder closely tied to Bangladeshi villages, towns and grain farmland, nesting colonially in buildings and feeding seeds with insects for chicks. Nationally Least Concern (IUCN Bangladesh 2015); globally Least Concern. Retaining nest cavities and cutting pesticide use help local flocks.",
+    "references": [
+      {
+        "title": "Red List of Bangladesh Volume 3: Birds",
+        "authors": [
+          "IUCN Bangladesh Country Office"
+        ],
+        "year": 2015,
+        "type": "report"
+      },
+      {
+        "title": "Birds of the Indian Subcontinent, 2nd edition",
+        "authors": [
+          "Grimmett, R.",
+          "Inskipp, C.",
+          "Inskipp, T."
+        ],
+        "year": 2011,
+        "type": "report"
+      }
+    ]
+  },
+  {
+    "presenceStatus": "native",
+    "regionalPopulation": "",
+    "needsReview": true,
+    "lastUpdated": "2026-09-15T00:00:00Z",
+    "version": 1,
+    "speciesId": "sp-spilopelia-chinensis",
+    "regions": [
+      "urban",
+      "central-floodplains"
+    ],
+    "habitats": [
+      "forest",
+      "agricultural",
+      "urban"
+    ],
+    "localNames": [
+      {
+        "language": "bn",
+        "name": "তিলা ঘুঘু"
+      }
+    ],
+    "regionalConservationStatus": "LC",
+    "regionalThreats": [
+      "Trapping for food and trade",
+      "Loss of village groves used for nesting"
+    ],
+    "notes": "Spotted Dove (Spilopelia chinensis; formerly Streptopelia chinensis) is a tame resident breeder of Bangladeshi gardens, groves and farmland, feeding on seeds and grain from flimsy twig platforms raising usually two chicks. Nationally Least Concern (IUCN Bangladesh 2015); globally Least Concern.",
+    "references": [
+      {
+        "title": "Red List of Bangladesh Volume 3: Birds",
+        "authors": [
+          "IUCN Bangladesh Country Office"
+        ],
+        "year": 2015,
+        "type": "report"
+      },
+      {
+        "title": "Birds of the Indian Subcontinent, 2nd edition",
+        "authors": [
+          "Grimmett, R.",
+          "Inskipp, C.",
+          "Inskipp, T."
+        ],
+        "year": 2011,
+        "type": "report"
+      }
+    ]
+  },
+  {
+    "speciesId": "sp-hoolock-hoolock",
+    "presenceStatus": "native",
+    "regions": [
+      "chittagong-hill-tracts"
+    ],
+    "habitats": [
+      "forest",
+      "hill-forests"
+    ],
+    "localNames": [
+      {
+        "language": "bn",
+        "name": "উল্লুক"
+      }
+    ],
+    "regionalConservationStatus": "EN",
+    "regionalThreats": [
+      "Habitat loss and fragmentation of evergreen forest",
+      "Hunting and live capture"
+    ],
+    "regionalPopulation": "Restricted to a few evergreen forest patches in the northeast; no precise national estimate",
+    "notes": "Western hoolock gibbon persists in Lawachara, Rema-Kalenga and nearby evergreen forests. Entirely arboreal and sensitive to canopy fragmentation. Regional status follows the historical IUCN Bangladesh Red List (2015) assessment; a national reassessment is underway and this category must not be read as a 2026 update.",
+    "references": [
+      {
+        "title": "Bangladesh Red List of Mammals (2015)",
+        "authors": [
+          "IUCN Bangladesh"
+        ],
+        "year": 2015,
+        "journal": "IUCN Bangladesh Red List, Vol. 2: Mammals",
+        "type": "report"
+      },
+      {
+        "title": "IUCN Red List Assessment: Hoolock hoolock",
+        "authors": [
+          "IUCN"
+        ],
+        "journal": "IUCN Red List of Threatened Species",
+        "type": "report"
+      }
+    ],
+    "needsReview": true,
+    "lastUpdated": "2026-09-17T00:00:00Z",
+    "version": 1
+  },
+  {
+    "speciesId": "sp-lutrogale-perspicillata",
+    "presenceStatus": "native",
+    "regions": [
+      "haor-wetlands",
+      "central-floodplains",
+      "sundarbans"
+    ],
+    "habitats": [
+      "rivers",
+      "freshwater-wetlands",
+      "marshes",
+      "mangrove"
+    ],
+    "localNames": [
+      {
+        "language": "bn",
+        "name": "উদ"
+      },
+      {
+        "language": "bn",
+        "name": "ভোঁদড়"
+      }
+    ],
+    "regionalConservationStatus": "EN",
+    "regionalThreats": [
+      "Wetland drainage and conversion",
+      "Hunting for pelts and conflict with fishers"
+    ],
+    "regionalPopulation": "Declining; scattered groups in haors, floodplains and Sundarbans; no precise national estimate",
+    "notes": "Smooth-coated otter uses major haors, rivers and the Sundarbans. Traditional otter-assisted fishing persists in parts of the southwest. Regional status follows the historical IUCN Bangladesh Red List (2015) assessment; a national reassessment is underway and this category must not be read as a 2026 update.",
+    "references": [
+      {
+        "title": "Bangladesh Red List of Mammals (2015)",
+        "authors": [
+          "IUCN Bangladesh"
+        ],
+        "year": 2015,
+        "journal": "IUCN Bangladesh Red List, Vol. 2: Mammals",
+        "type": "report"
+      },
+      {
+        "title": "IUCN Red List Assessment: Lutrogale perspicillata",
+        "authors": [
+          "IUCN"
+        ],
+        "journal": "IUCN Red List of Threatened Species",
+        "type": "report"
+      }
+    ],
+    "needsReview": true,
+    "lastUpdated": "2026-09-17T00:00:00Z",
+    "version": 1
+  },
+  {
+    "speciesId": "sp-aonyx-cinereus",
+    "presenceStatus": "native",
+    "regions": [
+      "chittagong-hill-tracts",
+      "sundarbans"
+    ],
+    "habitats": [
+      "rivers",
+      "freshwater-wetlands",
+      "mangrove"
+    ],
+    "localNames": [
+      {
+        "language": "bn",
+        "name": "ছোট উদ"
+      }
+    ],
+    "regionalConservationStatus": "EN",
+    "regionalThreats": [
+      "Hill-stream degradation",
+      "Capture for pet trade"
+    ],
+    "regionalPopulation": "Scarce and local; hill streams of the southeast and Sundarbans creeks; no precise national estimate",
+    "notes": "Small-clawed otter is recorded from southeastern hill streams and mangrove creeks. Easily confused with young smooth-coated otters. Regional status follows the historical IUCN Bangladesh Red List (2015) assessment; a national reassessment is underway and this category must not be read as a 2026 update.",
+    "references": [
+      {
+        "title": "Bangladesh Red List of Mammals (2015)",
+        "authors": [
+          "IUCN Bangladesh"
+        ],
+        "year": 2015,
+        "journal": "IUCN Bangladesh Red List, Vol. 2: Mammals",
+        "type": "report"
+      },
+      {
+        "title": "IUCN Red List Assessment: Aonyx cinereus",
+        "authors": [
+          "IUCN"
+        ],
+        "journal": "IUCN Red List of Threatened Species",
+        "type": "report"
+      }
+    ],
+    "needsReview": true,
+    "lastUpdated": "2026-09-17T00:00:00Z",
+    "version": 1
+  },
+  {
+    "speciesId": "sp-prionailurus-bengalensis",
+    "presenceStatus": "native",
+    "regions": [
+      "chittagong-hill-tracts",
+      "barind",
+      "central-floodplains"
+    ],
+    "habitats": [
+      "forest",
+      "hill-forests",
+      "agricultural"
+    ],
+    "localNames": [
+      {
+        "language": "bn",
+        "name": "চিতা বিড়াল"
+      },
+      {
+        "language": "bn",
+        "name": "বাঘডাসা"
+      }
+    ],
+    "regionalConservationStatus": "LC",
+    "regionalThreats": [
+      "Habitat fragmentation",
+      "Killing as poultry predator"
+    ],
+    "regionalPopulation": "Widespread but seldom seen; no precise national estimate",
+    "notes": "Leopard cat occurs in forests, tea gardens and village groves across Bangladesh. Distinct from the larger fishing cat of wetlands. Regional status follows the historical IUCN Bangladesh Red List (2015) assessment; a national reassessment is underway and this category must not be read as a 2026 update.",
+    "references": [
+      {
+        "title": "Bangladesh Red List of Mammals (2015)",
+        "authors": [
+          "IUCN Bangladesh"
+        ],
+        "year": 2015,
+        "journal": "IUCN Bangladesh Red List, Vol. 2: Mammals",
+        "type": "report"
+      },
+      {
+        "title": "IUCN Red List Assessment: Prionailurus bengalensis",
+        "authors": [
+          "IUCN"
+        ],
+        "journal": "IUCN Red List of Threatened Species",
+        "type": "report"
+      }
+    ],
+    "needsReview": true,
+    "lastUpdated": "2026-09-17T00:00:00Z",
+    "version": 1
+  },
+  {
+    "speciesId": "sp-canis-aureus",
+    "presenceStatus": "native",
+    "regions": [
+      "barind",
+      "central-floodplains",
+      "haor-wetlands",
+      "urban"
+    ],
+    "habitats": [
+      "agricultural",
+      "grassland",
+      "urban"
+    ],
+    "localNames": [
+      {
+        "language": "bn",
+        "name": "পাতি শিয়াল"
+      },
+      {
+        "language": "bn",
+        "name": "শিয়াল"
+      }
+    ],
+    "regionalConservationStatus": "LC",
+    "regionalThreats": [
+      "Persecution and poisoning",
+      "Road mortality",
+      "Disease"
+    ],
+    "regionalPopulation": "Common and widespread; no precise national estimate",
+    "notes": "Golden jackal is one of the most familiar wild mammals of rural Bangladesh, heard howling at dusk around villages and haors. Regional status follows the historical IUCN Bangladesh Red List (2015) assessment; a national reassessment is underway and this category must not be read as a 2026 update.",
+    "references": [
+      {
+        "title": "Bangladesh Red List of Mammals (2015)",
+        "authors": [
+          "IUCN Bangladesh"
+        ],
+        "year": 2015,
+        "journal": "IUCN Bangladesh Red List, Vol. 2: Mammals",
+        "type": "report"
+      },
+      {
+        "title": "IUCN Red List Assessment: Canis aureus",
+        "authors": [
+          "IUCN"
+        ],
+        "journal": "IUCN Red List of Threatened Species",
+        "type": "report"
+      }
+    ],
+    "needsReview": true,
+    "lastUpdated": "2026-09-17T00:00:00Z",
+    "version": 1
+  },
+  {
+    "speciesId": "sp-macaca-mulatta",
+    "presenceStatus": "native",
+    "regions": [
+      "chittagong-hill-tracts",
+      "central-floodplains",
+      "urban"
+    ],
+    "habitats": [
+      "forest",
+      "hill-forests",
+      "urban",
+      "agricultural"
+    ],
+    "localNames": [
+      {
+        "language": "bn",
+        "name": "লাল বানর"
+      },
+      {
+        "language": "bn",
+        "name": "বানর"
+      }
+    ],
+    "regionalConservationStatus": "LC",
+    "regionalThreats": [
+      "Conflict with people over crops and food",
+      "Habitat loss"
+    ],
+    "regionalPopulation": "Abundant in many areas including towns; no precise national estimate",
+    "notes": "Rhesus macaque is the common monkey of Bangladesh, from hill forests to old Dhaka rooftops. Regional status follows the historical IUCN Bangladesh Red List (2015) assessment; a national reassessment is underway and this category must not be read as a 2026 update.",
+    "references": [
+      {
+        "title": "Bangladesh Red List of Mammals (2015)",
+        "authors": [
+          "IUCN Bangladesh"
+        ],
+        "year": 2015,
+        "journal": "IUCN Bangladesh Red List, Vol. 2: Mammals",
+        "type": "report"
+      },
+      {
+        "title": "IUCN Red List Assessment: Macaca mulatta",
+        "authors": [
+          "IUCN"
+        ],
+        "journal": "IUCN Red List of Threatened Species",
+        "type": "report"
+      }
+    ],
+    "needsReview": true,
+    "lastUpdated": "2026-09-17T00:00:00Z",
+    "version": 1
+  },
+  {
+    "speciesId": "sp-cynopterus-sphinx",
+    "presenceStatus": "native",
+    "regions": [
+      "central-floodplains",
+      "barind",
+      "urban"
+    ],
+    "habitats": [
+      "agricultural",
+      "forest",
+      "urban"
+    ],
+    "localNames": [
+      {
+        "language": "bn",
+        "name": "কলাবাদুড়"
+      },
+      {
+        "language": "bn",
+        "name": "ছোট বাদুড়"
+      }
+    ],
+    "regionalConservationStatus": "LC",
+    "regionalThreats": [
+      "Roost-tree felling",
+      "Persecution in orchards"
+    ],
+    "regionalPopulation": "Widespread in orchards and gardens; no precise national estimate",
+    "notes": "A common small fruit bat of orchards and village groves; important pollinator of banana and other fruit trees. Regional status follows the historical IUCN Bangladesh Red List (2015) assessment; a national reassessment is underway and this category must not be read as a 2026 update.",
+    "references": [
+      {
+        "title": "Bangladesh Red List of Mammals (2015)",
+        "authors": [
+          "IUCN Bangladesh"
+        ],
+        "year": 2015,
+        "journal": "IUCN Bangladesh Red List, Vol. 2: Mammals",
+        "type": "report"
+      },
+      {
+        "title": "IUCN Red List Assessment: Cynopterus sphinx",
+        "authors": [
+          "IUCN"
+        ],
+        "journal": "IUCN Red List of Threatened Species",
+        "type": "report"
+      }
+    ],
+    "needsReview": true,
+    "lastUpdated": "2026-09-17T00:00:00Z",
+    "version": 1
+  },
+  {
+    "speciesId": "sp-macaca-assamensis",
+    "presenceStatus": "native",
+    "regions": [
+      "chittagong-hill-tracts"
+    ],
+    "habitats": [
+      "forest",
+      "hill-forests"
+    ],
+    "localNames": [
+      {
+        "language": "bn",
+        "name": "আসামি বানর"
+      }
+    ],
+    "regionalConservationStatus": "NT",
+    "regionalThreats": [
+      "Evergreen forest loss",
+      "Hunting"
+    ],
+    "regionalPopulation": "Restricted and uncommon; hill forests of the southeast; no precise national estimate",
+    "notes": "Assamese macaque is confined to the southeastern hill forests. Regional category follows the historical 2015 assessment; reassessment pending. Regional status follows the historical IUCN Bangladesh Red List (2015) assessment; a national reassessment is underway and this category must not be read as a 2026 update.",
+    "references": [
+      {
+        "title": "Bangladesh Red List of Mammals (2015)",
+        "authors": [
+          "IUCN Bangladesh"
+        ],
+        "year": 2015,
+        "journal": "IUCN Bangladesh Red List, Vol. 2: Mammals",
+        "type": "report"
+      },
+      {
+        "title": "IUCN Red List Assessment: Macaca assamensis",
+        "authors": [
+          "IUCN"
+        ],
+        "journal": "IUCN Red List of Threatened Species",
+        "type": "report"
+      }
+    ],
+    "needsReview": true,
+    "lastUpdated": "2026-09-17T00:00:00Z",
+    "version": 1
+  },
+  {
+    "speciesId": "sp-nycticebus-bengalensis",
+    "presenceStatus": "native",
+    "regions": [
+      "chittagong-hill-tracts"
+    ],
+    "habitats": [
+      "forest",
+      "hill-forests"
+    ],
+    "localNames": [
+      {
+        "language": "bn",
+        "name": "লজ্জাবতী বানর"
+      },
+      {
+        "language": "bn",
+        "name": "লাজুক বানর"
+      }
+    ],
+    "regionalConservationStatus": "EN",
+    "regionalThreats": [
+      "Forest loss",
+      "Capture for trade and traditional medicine"
+    ],
+    "regionalPopulation": "Rare and seldom seen; evergreen forests of the southeast; no precise national estimate",
+    "notes": "Bengal slow loris is nocturnal and easily overlooked; most records come from rescue or trade seizures. Handle never — its bite is venomous. Regional status follows the historical IUCN Bangladesh Red List (2015) assessment; a national reassessment is underway and this category must not be read as a 2026 update.",
+    "references": [
+      {
+        "title": "Bangladesh Red List of Mammals (2015)",
+        "authors": [
+          "IUCN Bangladesh"
+        ],
+        "year": 2015,
+        "journal": "IUCN Bangladesh Red List, Vol. 2: Mammals",
+        "type": "report"
+      },
+      {
+        "title": "IUCN Red List Assessment: Nycticebus bengalensis",
+        "authors": [
+          "IUCN"
+        ],
+        "journal": "IUCN Red List of Threatened Species",
+        "type": "report"
+      }
+    ],
+    "needsReview": true,
+    "lastUpdated": "2026-09-17T00:00:00Z",
+    "version": 1
+  },
+  {
+    "speciesId": "sp-python-bivittatus",
+    "presenceStatus": "native",
+    "regions": [
+      "chittagong-hill-tracts",
+      "sundarbans"
+    ],
+    "habitats": [
+      "forest",
+      "hill-forests",
+      "mangrove"
+    ],
+    "localNames": [
+      {
+        "language": "bn",
+        "name": "ময়াল"
+      },
+      {
+        "language": "bn",
+        "name": "অজগর"
+      }
+    ],
+    "regionalConservationStatus": "VU",
+    "regionalThreats": [
+      "Forest and wetland loss",
+      "Killing from fear and skin trade"
+    ],
+    "regionalPopulation": "Uncommon; forests of southeast and Sundarbans; no precise national estimate",
+    "notes": "Burmese python is the largest snake of Bangladesh. Non-venomous but powerful; kills by constriction. Regional status follows the historical IUCN Bangladesh Red List (2015) assessment; a national reassessment is underway and this category must not be read as a 2026 update.",
+    "references": [
+      {
+        "title": "Bangladesh Red List of Reptiles (2015)",
+        "authors": [
+          "IUCN Bangladesh"
+        ],
+        "year": 2015,
+        "journal": "IUCN Bangladesh Red List, Vol. 4: Reptiles and Amphibians",
+        "type": "report"
+      },
+      {
+        "title": "IUCN Red List Assessment: Python bivittatus",
+        "authors": [
+          "IUCN"
+        ],
+        "journal": "IUCN Red List of Threatened Species",
+        "type": "report"
+      }
+    ],
+    "needsReview": true,
+    "lastUpdated": "2026-09-17T00:00:00Z",
+    "version": 1
+  },
+  {
+    "speciesId": "sp-bungarus-caeruleus",
+    "presenceStatus": "native",
+    "regions": [
+      "barind",
+      "central-floodplains",
+      "urban"
+    ],
+    "habitats": [
+      "agricultural",
+      "grassland",
+      "urban"
+    ],
+    "localNames": [
+      {
+        "language": "bn",
+        "name": "পাতি কেউটে"
+      },
+      {
+        "language": "bn",
+        "name": "কেউটে"
+      }
+    ],
+    "regionalConservationStatus": "LC",
+    "regionalThreats": [
+      "Killing on sight",
+      "Habitat disturbance"
+    ],
+    "regionalPopulation": "Widespread but secretive; no precise national estimate",
+    "notes": "Common krait is dangerously venomous with painless night bites. Responsible for many snakebite deaths; needs hospital antivenom fast. Regional status follows the historical IUCN Bangladesh Red List (2015) assessment; a national reassessment is underway and this category must not be read as a 2026 update.",
+    "references": [
+      {
+        "title": "Bangladesh Red List of Reptiles (2015)",
+        "authors": [
+          "IUCN Bangladesh"
+        ],
+        "year": 2015,
+        "journal": "IUCN Bangladesh Red List, Vol. 4: Reptiles and Amphibians",
+        "type": "report"
+      },
+      {
+        "title": "IUCN Red List Assessment: Bungarus caeruleus",
+        "authors": [
+          "IUCN"
+        ],
+        "journal": "IUCN Red List of Threatened Species",
+        "type": "report"
+      }
+    ],
+    "needsReview": true,
+    "lastUpdated": "2026-09-17T00:00:00Z",
+    "version": 1
+  },
+  {
+    "speciesId": "sp-naja-naja",
+    "presenceStatus": "native",
+    "regions": [
+      "barind",
+      "central-floodplains",
+      "urban"
+    ],
+    "habitats": [
+      "agricultural",
+      "forest",
+      "urban"
+    ],
+    "localNames": [
+      {
+        "language": "bn",
+        "name": "খৈয়া গোখরা"
+      },
+      {
+        "language": "bn",
+        "name": "গোখরা"
+      }
+    ],
+    "regionalConservationStatus": "LC",
+    "regionalThreats": [
+      "Killing on sight",
+      "Snake-charming collection"
+    ],
+    "regionalPopulation": "Widespread; no precise national estimate",
+    "notes": "Indian cobra is the classic hooded snake of Bangladesh villages and fields. Venomous; respected and feared. Regional status follows the historical IUCN Bangladesh Red List (2015) assessment; a national reassessment is underway and this category must not be read as a 2026 update.",
+    "references": [
+      {
+        "title": "Bangladesh Red List of Reptiles (2015)",
+        "authors": [
+          "IUCN Bangladesh"
+        ],
+        "year": 2015,
+        "journal": "IUCN Bangladesh Red List, Vol. 4: Reptiles and Amphibians",
+        "type": "report"
+      },
+      {
+        "title": "IUCN Red List Assessment: Naja naja",
+        "authors": [
+          "IUCN"
+        ],
+        "journal": "IUCN Red List of Threatened Species",
+        "type": "report"
+      }
+    ],
+    "needsReview": true,
+    "lastUpdated": "2026-09-17T00:00:00Z",
+    "version": 1
+  },
+  {
+    "speciesId": "sp-ophiophagus-hannah",
+    "presenceStatus": "native",
+    "regions": [
+      "chittagong-hill-tracts"
+    ],
+    "habitats": [
+      "forest",
+      "hill-forests"
+    ],
+    "localNames": [
+      {
+        "language": "bn",
+        "name": "রাজ গোখরা"
+      },
+      {
+        "language": "bn",
+        "name": "শঙ্খচূড়"
+      }
+    ],
+    "regionalConservationStatus": "EN",
+    "regionalThreats": [
+      "Evergreen forest loss",
+      "Killing from fear"
+    ],
+    "regionalPopulation": "Rare; hill forests of the southeast; no precise national estimate",
+    "notes": "King cobra is confined to southeastern hill forests. Shy despite size; avoids people. Regional status follows the historical IUCN Bangladesh Red List (2015) assessment; a national reassessment is underway and this category must not be read as a 2026 update.",
+    "references": [
+      {
+        "title": "Bangladesh Red List of Reptiles (2015)",
+        "authors": [
+          "IUCN Bangladesh"
+        ],
+        "year": 2015,
+        "journal": "IUCN Bangladesh Red List, Vol. 4: Reptiles and Amphibians",
+        "type": "report"
+      },
+      {
+        "title": "IUCN Red List Assessment: Ophiophagus hannah",
+        "authors": [
+          "IUCN"
+        ],
+        "journal": "IUCN Red List of Threatened Species",
+        "type": "report"
+      }
+    ],
+    "needsReview": true,
+    "lastUpdated": "2026-09-17T00:00:00Z",
+    "version": 1
+  },
+  {
+    "speciesId": "sp-naja-kaouthia",
+    "presenceStatus": "native",
+    "regions": [
+      "haor-wetlands",
+      "central-floodplains"
+    ],
+    "habitats": [
+      "freshwater-wetlands",
+      "agricultural",
+      "marshes"
+    ],
+    "localNames": [
+      {
+        "language": "bn",
+        "name": "পদ্ম গোখরা"
+      },
+      {
+        "language": "bn",
+        "name": "কালো গোখরা"
+      }
+    ],
+    "regionalConservationStatus": "LC",
+    "regionalThreats": [
+      "Killing on sight",
+      "Wetland conversion"
+    ],
+    "regionalPopulation": "Common in wetlands; no precise national estimate",
+    "notes": "Monocled cobra is the wetland cobra of haors and floodplains, often seen crossing water. Regional status follows the historical IUCN Bangladesh Red List (2015) assessment; a national reassessment is underway and this category must not be read as a 2026 update.",
+    "references": [
+      {
+        "title": "Bangladesh Red List of Reptiles (2015)",
+        "authors": [
+          "IUCN Bangladesh"
+        ],
+        "year": 2015,
+        "journal": "IUCN Bangladesh Red List, Vol. 4: Reptiles and Amphibians",
+        "type": "report"
+      },
+      {
+        "title": "IUCN Red List Assessment: Naja kaouthia",
+        "authors": [
+          "IUCN"
+        ],
+        "journal": "IUCN Red List of Threatened Species",
+        "type": "report"
+      }
+    ],
+    "needsReview": true,
+    "lastUpdated": "2026-09-17T00:00:00Z",
+    "version": 1
+  },
+  {
+    "speciesId": "sp-pangshura-tecta",
+    "presenceStatus": "native",
+    "regions": [
+      "central-floodplains",
+      "haor-wetlands"
+    ],
+    "habitats": [
+      "rivers",
+      "freshwater-wetlands"
+    ],
+    "localNames": [
+      {
+        "language": "bn",
+        "name": "কড়ি কাছিম"
+      }
+    ],
+    "regionalConservationStatus": "LC",
+    "regionalThreats": [
+      "Collection for food and trade",
+      "Sand-mining of nesting banks"
+    ],
+    "regionalPopulation": "Widespread in rivers; no precise national estimate",
+    "notes": "Indian roofed turtle basks conspicuously on logs and banks of slow rivers. Regional status follows the historical IUCN Bangladesh Red List (2015) assessment; a national reassessment is underway and this category must not be read as a 2026 update.",
+    "references": [
+      {
+        "title": "Bangladesh Red List of Reptiles (2015)",
+        "authors": [
+          "IUCN Bangladesh"
+        ],
+        "year": 2015,
+        "journal": "IUCN Bangladesh Red List, Vol. 4: Reptiles and Amphibians",
+        "type": "report"
+      },
+      {
+        "title": "IUCN Red List Assessment: Pangshura tecta",
+        "authors": [
+          "IUCN"
+        ],
+        "journal": "IUCN Red List of Threatened Species",
+        "type": "report"
+      }
+    ],
+    "needsReview": true,
+    "lastUpdated": "2026-09-17T00:00:00Z",
+    "version": 1
+  },
+  {
+    "speciesId": "sp-geoclemys-hamiltonii",
+    "presenceStatus": "native",
+    "regions": [
+      "central-floodplains",
+      "haor-wetlands"
+    ],
+    "habitats": [
+      "rivers",
+      "freshwater-wetlands"
+    ],
+    "localNames": [
+      {
+        "language": "bn",
+        "name": "কালো কাছিম"
+      }
+    ],
+    "regionalConservationStatus": "EN",
+    "regionalThreats": [
+      "Heavy collection for trade",
+      "Wetland conversion"
+    ],
+    "regionalPopulation": "Declining; floodplain wetlands; no precise national estimate",
+    "notes": "Spotted pond turtle is heavily collected. Trade pressure is the main national threat. Regional status follows the historical IUCN Bangladesh Red List (2015) assessment; a national reassessment is underway and this category must not be read as a 2026 update.",
+    "references": [
+      {
+        "title": "Bangladesh Red List of Reptiles (2015)",
+        "authors": [
+          "IUCN Bangladesh"
+        ],
+        "year": 2015,
+        "journal": "IUCN Bangladesh Red List, Vol. 4: Reptiles and Amphibians",
+        "type": "report"
+      },
+      {
+        "title": "IUCN Red List Assessment: Geoclemys hamiltonii",
+        "authors": [
+          "IUCN"
+        ],
+        "journal": "IUCN Red List of Threatened Species",
+        "type": "report"
+      }
+    ],
+    "needsReview": true,
+    "lastUpdated": "2026-09-17T00:00:00Z",
+    "version": 1
+  },
+  {
+    "speciesId": "sp-gavialis-gangeticus",
+    "presenceStatus": "native",
+    "regions": [
+      "central-floodplains"
+    ],
+    "habitats": [
+      "rivers"
+    ],
+    "localNames": [
+      {
+        "language": "bn",
+        "name": "ঘড়িয়াল"
+      },
+      {
+        "language": "bn",
+        "name": "মেছো কুমির"
+      }
+    ],
+    "regionalConservationStatus": "CR",
+    "regionalThreats": [
+      "Sandbank loss to mining",
+      "Drowning in nets",
+      "Low water flows"
+    ],
+    "regionalPopulation": "Critically low; a handful in Padma-Jamuna; no precise national estimate",
+    "notes": "Gharial is on the edge of extinction in Bangladesh, with very few left in the Padma-Jamuna system. Regional status follows the historical IUCN Bangladesh Red List (2015) assessment; a national reassessment is underway and this category must not be read as a 2026 update.",
+    "references": [
+      {
+        "title": "Bangladesh Red List of Reptiles (2015)",
+        "authors": [
+          "IUCN Bangladesh"
+        ],
+        "year": 2015,
+        "journal": "IUCN Bangladesh Red List, Vol. 4: Reptiles and Amphibians",
+        "type": "report"
+      },
+      {
+        "title": "IUCN Red List Assessment: Gavialis gangeticus",
+        "authors": [
+          "IUCN"
+        ],
+        "journal": "IUCN Red List of Threatened Species",
+        "type": "report"
+      }
+    ],
+    "needsReview": true,
+    "lastUpdated": "2026-09-17T00:00:00Z",
+    "version": 1
+  },
+  {
+    "speciesId": "sp-legacy-varanus-bengalensis",
+    "presenceStatus": "native",
+    "regions": [
+      "barind",
+      "central-floodplains",
+      "chittagong-hill-tracts"
+    ],
+    "habitats": [
+      "forest",
+      "agricultural",
+      "grassland"
+    ],
+    "localNames": [
+      {
+        "language": "bn",
+        "name": "গুই সাপ"
+      },
+      {
+        "language": "bn",
+        "name": "গোসাপ"
+      }
+    ],
+    "regionalConservationStatus": "LC",
+    "regionalThreats": [
+      "Hunting for meat and skins",
+      "Habitat loss"
+    ],
+    "regionalPopulation": "Widespread and adaptable; no precise national estimate",
+    "notes": "Bengal monitor is a familiar large lizard of fields and forests. Global identity already present; this extension adds Bangladesh occurrence. Regional category follows the historical 2015 assessment; reassessment pending. Regional status follows the historical IUCN Bangladesh Red List (2015) assessment; a national reassessment is underway and this category must not be read as a 2026 update.",
+    "references": [
+      {
+        "title": "Bangladesh Red List of Reptiles (2015)",
+        "authors": [
+          "IUCN Bangladesh"
+        ],
+        "year": 2015,
+        "journal": "IUCN Bangladesh Red List, Vol. 4: Reptiles and Amphibians",
+        "type": "report"
+      }
+    ],
+    "needsReview": true,
+    "lastUpdated": "2026-09-17T00:00:00Z",
+    "version": 1
+  },
+  {
+    "speciesId": "sp-duttaphrynus-melanostictus",
+    "presenceStatus": "native",
+    "regions": [
+      "barind",
+      "central-floodplains",
+      "urban"
+    ],
+    "habitats": [
+      "agricultural",
+      "urban",
+      "grassland"
+    ],
+    "localNames": [
+      {
+        "language": "bn",
+        "name": "কুনো ব্যাঙ"
+      }
+    ],
+    "regionalConservationStatus": "LC",
+    "regionalThreats": [
+      "Pesticide pressure",
+      "Loss of breeding pools"
+    ],
+    "regionalPopulation": "Abundant almost everywhere; no precise national estimate",
+    "notes": "Asian common toad is the familiar garden toad of Bangladesh, calling loudly through the monsoon. Regional status follows the historical IUCN Bangladesh Red List (2015) assessment; a national reassessment is underway and this category must not be read as a 2026 update.",
+    "references": [
+      {
+        "title": "Bangladesh Red List of Amphibians (2015)",
+        "authors": [
+          "IUCN Bangladesh"
+        ],
+        "year": 2015,
+        "journal": "IUCN Bangladesh Red List, Vol. 4: Reptiles and Amphibians",
+        "type": "report"
+      },
+      {
+        "title": "IUCN Red List Assessment: Duttaphrynus melanostictus",
+        "authors": [
+          "IUCN"
+        ],
+        "journal": "IUCN Red List of Threatened Species",
+        "type": "report"
+      }
+    ],
+    "needsReview": true,
+    "lastUpdated": "2026-09-17T00:00:00Z",
+    "version": 1
+  },
+  {
+    "speciesId": "sp-hoplobatrachus-tigerinus",
+    "presenceStatus": "native",
+    "regions": [
+      "central-floodplains",
+      "haor-wetlands"
+    ],
+    "habitats": [
+      "agricultural",
+      "freshwater-wetlands",
+      "marshes"
+    ],
+    "localNames": [
+      {
+        "language": "bn",
+        "name": "ষাঁড় ব্যাঙ"
+      },
+      {
+        "language": "bn",
+        "name": "কোলা ব্যাঙ"
+      }
+    ],
+    "regionalConservationStatus": "LC",
+    "regionalThreats": [
+      "Collection for trade",
+      "Pesticide pressure in paddies"
+    ],
+    "regionalPopulation": "Common in wetlands and paddies; no precise national estimate",
+    "notes": "Indian bullfrog is the giant of Bangladesh paddy fields, famous for yellow monsoon males. Regional status follows the historical IUCN Bangladesh Red List (2015) assessment; a national reassessment is underway and this category must not be read as a 2026 update.",
+    "references": [
+      {
+        "title": "Bangladesh Red List of Amphibians (2015)",
+        "authors": [
+          "IUCN Bangladesh"
+        ],
+        "year": 2015,
+        "journal": "IUCN Bangladesh Red List, Vol. 4: Reptiles and Amphibians",
+        "type": "report"
+      },
+      {
+        "title": "IUCN Red List Assessment: Hoplobatrachus tigerinus",
+        "authors": [
+          "IUCN"
+        ],
+        "journal": "IUCN Red List of Threatened Species",
+        "type": "report"
+      }
+    ],
+    "needsReview": true,
+    "lastUpdated": "2026-09-17T00:00:00Z",
+    "version": 1
+  },
+  {
+    "speciesId": "sp-euphlyctis-cyanophlyctis",
+    "presenceStatus": "native",
+    "regions": [
+      "central-floodplains",
+      "haor-wetlands",
+      "urban"
+    ],
+    "habitats": [
+      "freshwater-wetlands",
+      "marshes",
+      "agricultural"
+    ],
+    "localNames": [
+      {
+        "language": "bn",
+        "name": "ঝিঁঝি ব্যাঙ"
+      }
+    ],
+    "regionalConservationStatus": "LC",
+    "regionalThreats": [
+      "Pond filling and pollution",
+      "Pesticides"
+    ],
+    "regionalPopulation": "Abundant in still waters; no precise national estimate",
+    "notes": "Skittering frog is the small frog seen darting across village ponds. Regional status follows the historical IUCN Bangladesh Red List (2015) assessment; a national reassessment is underway and this category must not be read as a 2026 update.",
+    "references": [
+      {
+        "title": "Bangladesh Red List of Amphibians (2015)",
+        "authors": [
+          "IUCN Bangladesh"
+        ],
+        "year": 2015,
+        "journal": "IUCN Bangladesh Red List, Vol. 4: Reptiles and Amphibians",
+        "type": "report"
+      },
+      {
+        "title": "IUCN Red List Assessment: Euphlyctis cyanophlyctis",
+        "authors": [
+          "IUCN"
+        ],
+        "journal": "IUCN Red List of Threatened Species",
+        "type": "report"
+      }
+    ],
+    "needsReview": true,
+    "lastUpdated": "2026-09-17T00:00:00Z",
+    "version": 1
+  },
+  {
+    "speciesId": "sp-microhyla-ornata",
+    "presenceStatus": "native",
+    "regions": [
+      "barind",
+      "central-floodplains"
+    ],
+    "habitats": [
+      "forest",
+      "agricultural",
+      "grassland"
+    ],
+    "localNames": [
+      {
+        "language": "bn",
+        "name": "ছোট ব্যাঙ"
+      }
+    ],
+    "regionalConservationStatus": "LC",
+    "regionalThreats": [
+      "Leaf-litter clearance",
+      "Pesticides"
+    ],
+    "regionalPopulation": "Common but overlooked; no precise national estimate",
+    "notes": "A fingertip-sized frog easily missed; its ant diet makes it useful around homes. Regional status follows the historical IUCN Bangladesh Red List (2015) assessment; a national reassessment is underway and this category must not be read as a 2026 update.",
+    "references": [
+      {
+        "title": "Bangladesh Red List of Amphibians (2015)",
+        "authors": [
+          "IUCN Bangladesh"
+        ],
+        "year": 2015,
+        "journal": "IUCN Bangladesh Red List, Vol. 4: Reptiles and Amphibians",
+        "type": "report"
+      },
+      {
+        "title": "IUCN Red List Assessment: Microhyla ornata",
+        "authors": [
+          "IUCN"
+        ],
+        "journal": "IUCN Red List of Threatened Species",
+        "type": "report"
+      }
+    ],
+    "needsReview": true,
+    "lastUpdated": "2026-09-17T00:00:00Z",
+    "version": 1
+  },
+  {
+    "speciesId": "sp-polypedates-maculatus",
+    "presenceStatus": "native",
+    "regions": [
+      "central-floodplains",
+      "chittagong-hill-tracts"
+    ],
+    "habitats": [
+      "forest",
+      "agricultural",
+      "freshwater-wetlands"
+    ],
+    "localNames": [
+      {
+        "language": "bn",
+        "name": "গেছো ব্যাঙ"
+      }
+    ],
+    "regionalConservationStatus": "LC",
+    "regionalThreats": [
+      "Removal of bankside bushes",
+      "Pond filling"
+    ],
+    "regionalPopulation": "Widespread near vegetated water; no precise national estimate",
+    "notes": "Indian tree frog glues foam nests to leaves above ponds across Bangladesh. Regional status follows the historical IUCN Bangladesh Red List (2015) assessment; a national reassessment is underway and this category must not be read as a 2026 update.",
+    "references": [
+      {
+        "title": "Bangladesh Red List of Amphibians (2015)",
+        "authors": [
+          "IUCN Bangladesh"
+        ],
+        "year": 2015,
+        "journal": "IUCN Bangladesh Red List, Vol. 4: Reptiles and Amphibians",
+        "type": "report"
+      },
+      {
+        "title": "IUCN Red List Assessment: Polypedates maculatus",
+        "authors": [
+          "IUCN"
+        ],
+        "journal": "IUCN Red List of Threatened Species",
+        "type": "report"
+      }
+    ],
+    "needsReview": true,
+    "lastUpdated": "2026-09-17T00:00:00Z",
+    "version": 1
+  },
+  {
+    "speciesId": "sp-euphlyctis-hexadactylus",
+    "presenceStatus": "native",
+    "regions": [
+      "haor-wetlands",
+      "central-floodplains"
+    ],
+    "habitats": [
+      "haor-wetlands",
+      "freshwater-wetlands",
+      "marshes"
+    ],
+    "localNames": [
+      {
+        "language": "bn",
+        "name": "সবুজ ব্যাঙ"
+      }
+    ],
+    "regionalConservationStatus": "LC",
+    "regionalThreats": [
+      "Haor drainage and conversion",
+      "Pesticides"
+    ],
+    "regionalPopulation": "Common in haors and beels; no precise national estimate",
+    "notes": "Green pond frog floats like a leaf in haor waters, eyes just breaking the surface. Regional status follows the historical IUCN Bangladesh Red List (2015) assessment; a national reassessment is underway and this category must not be read as a 2026 update.",
+    "references": [
+      {
+        "title": "Bangladesh Red List of Amphibians (2015)",
+        "authors": [
+          "IUCN Bangladesh"
+        ],
+        "year": 2015,
+        "journal": "IUCN Bangladesh Red List, Vol. 4: Reptiles and Amphibians",
+        "type": "report"
+      },
+      {
+        "title": "IUCN Red List Assessment: Euphlyctis hexadactylus",
+        "authors": [
+          "IUCN"
+        ],
+        "journal": "IUCN Red List of Threatened Species",
+        "type": "report"
+      }
+    ],
+    "needsReview": true,
+    "lastUpdated": "2026-09-17T00:00:00Z",
+    "version": 1
+  },
+  {
+    "speciesId": "sp-papilio-polytes",
+    "presenceStatus": "native",
+    "regions": [
+      "central-floodplains",
+      "barind",
+      "urban"
+    ],
+    "habitats": [
+      "agricultural",
+      "forest",
+      "urban"
+    ],
+    "localNames": [
+      {
+        "language": "bn",
+        "name": "কমন মরমন"
+      }
+    ],
+    "regionalConservationStatus": "LC",
+    "regionalThreats": [
+      "Habitat loss",
+      "Pesticide pressure"
+    ],
+    "regionalPopulation": "Widespread where host plants occur; no precise national estimate",
+    "notes": "Common Mormon females famously mimic toxic rose butterflies — a textbook mimicry case in Bangladesh gardens. Regional status follows the historical IUCN Bangladesh Red List (2015) assessment; a national reassessment is underway and this category must not be read as a 2026 update.",
+    "references": [
+      {
+        "title": "Bangladesh Red List of Invertebrates (2015)",
+        "authors": [
+          "IUCN Bangladesh"
+        ],
+        "year": 2015,
+        "journal": "IUCN Bangladesh Red List, Invertebrate volumes",
+        "type": "report"
+      },
+      {
+        "title": "IUCN Red List Assessment: Papilio polytes",
+        "authors": [
+          "IUCN"
+        ],
+        "journal": "IUCN Red List of Threatened Species",
+        "type": "report"
+      }
+    ],
+    "needsReview": true,
+    "lastUpdated": "2026-09-17T00:00:00Z",
+    "version": 1
+  },
+  {
+    "speciesId": "sp-papilio-demoleus",
+    "presenceStatus": "native",
+    "regions": [
+      "central-floodplains",
+      "urban"
+    ],
+    "habitats": [
+      "agricultural",
+      "urban"
+    ],
+    "localNames": [
+      {
+        "language": "bn",
+        "name": "লেবু প্রজাপতি"
+      }
+    ],
+    "regionalConservationStatus": "LC",
+    "regionalThreats": [
+      "Habitat loss",
+      "Pesticide pressure"
+    ],
+    "regionalPopulation": "Widespread where host plants occur; no precise national estimate",
+    "notes": "Common Lime caterpillars can defoliate young lime and lemon saplings in nurseries. Regional status follows the historical IUCN Bangladesh Red List (2015) assessment; a national reassessment is underway and this category must not be read as a 2026 update.",
+    "references": [
+      {
+        "title": "Bangladesh Red List of Invertebrates (2015)",
+        "authors": [
+          "IUCN Bangladesh"
+        ],
+        "year": 2015,
+        "journal": "IUCN Bangladesh Red List, Invertebrate volumes",
+        "type": "report"
+      },
+      {
+        "title": "IUCN Red List Assessment: Papilio demoleus",
+        "authors": [
+          "IUCN"
+        ],
+        "journal": "IUCN Red List of Threatened Species",
+        "type": "report"
+      }
+    ],
+    "needsReview": true,
+    "lastUpdated": "2026-09-17T00:00:00Z",
+    "version": 1
+  },
+  {
+    "speciesId": "sp-danaus-chrysippus",
+    "presenceStatus": "native",
+    "regions": [
+      "barind",
+      "central-floodplains"
+    ],
+    "habitats": [
+      "grassland",
+      "agricultural"
+    ],
+    "localNames": [
+      {
+        "language": "bn",
+        "name": "প্লেইন টাইগার"
+      }
+    ],
+    "regionalConservationStatus": "LC",
+    "regionalThreats": [
+      "Habitat loss",
+      "Pesticide pressure"
+    ],
+    "regionalPopulation": "Widespread where host plants occur; no precise national estimate",
+    "notes": "Plain Tiger is avoided by birds for its milkweed toxins — the model other butterflies copy. Regional status follows the historical IUCN Bangladesh Red List (2015) assessment; a national reassessment is underway and this category must not be read as a 2026 update.",
+    "references": [
+      {
+        "title": "Bangladesh Red List of Invertebrates (2015)",
+        "authors": [
+          "IUCN Bangladesh"
+        ],
+        "year": 2015,
+        "journal": "IUCN Bangladesh Red List, Invertebrate volumes",
+        "type": "report"
+      },
+      {
+        "title": "IUCN Red List Assessment: Danaus chrysippus",
+        "authors": [
+          "IUCN"
+        ],
+        "journal": "IUCN Red List of Threatened Species",
+        "type": "report"
+      }
+    ],
+    "needsReview": true,
+    "lastUpdated": "2026-09-17T00:00:00Z",
+    "version": 1
+  },
+  {
+    "speciesId": "sp-delias-eucharis",
+    "presenceStatus": "native",
+    "regions": [
+      "central-floodplains",
+      "chittagong-hill-tracts"
+    ],
+    "habitats": [
+      "forest",
+      "urban"
+    ],
+    "localNames": [
+      {
+        "language": "bn",
+        "name": "কমন জেজেবেল"
+      }
+    ],
+    "regionalConservationStatus": "LC",
+    "regionalThreats": [
+      "Habitat loss",
+      "Pesticide pressure"
+    ],
+    "regionalPopulation": "Widespread where host plants occur; no precise national estimate",
+    "notes": "Common Jezebel advertises its toxic mistletoe diet with bright underwing stripes. Regional status follows the historical IUCN Bangladesh Red List (2015) assessment; a national reassessment is underway and this category must not be read as a 2026 update.",
+    "references": [
+      {
+        "title": "Bangladesh Red List of Invertebrates (2015)",
+        "authors": [
+          "IUCN Bangladesh"
+        ],
+        "year": 2015,
+        "journal": "IUCN Bangladesh Red List, Invertebrate volumes",
+        "type": "report"
+      },
+      {
+        "title": "IUCN Red List Assessment: Delias eucharis",
+        "authors": [
+          "IUCN"
+        ],
+        "journal": "IUCN Red List of Threatened Species",
+        "type": "report"
+      }
+    ],
+    "needsReview": true,
+    "lastUpdated": "2026-09-17T00:00:00Z",
+    "version": 1
+  },
+  {
+    "speciesId": "sp-eurema-hecabe",
+    "presenceStatus": "native",
+    "regions": [
+      "barind",
+      "central-floodplains"
+    ],
+    "habitats": [
+      "grassland",
+      "agricultural"
+    ],
+    "localNames": [
+      {
+        "language": "bn",
+        "name": "কমন গ্রাস ইয়োলো"
+      }
+    ],
+    "regionalConservationStatus": "LC",
+    "regionalThreats": [
+      "Habitat loss",
+      "Pesticide pressure"
+    ],
+    "regionalPopulation": "Widespread where host plants occur; no precise national estimate",
+    "notes": "Among the commonest butterflies of Bangladesh paths and paddy bunds. Regional status follows the historical IUCN Bangladesh Red List (2015) assessment; a national reassessment is underway and this category must not be read as a 2026 update.",
+    "references": [
+      {
+        "title": "Bangladesh Red List of Invertebrates (2015)",
+        "authors": [
+          "IUCN Bangladesh"
+        ],
+        "year": 2015,
+        "journal": "IUCN Bangladesh Red List, Invertebrate volumes",
+        "type": "report"
+      },
+      {
+        "title": "IUCN Red List Assessment: Eurema hecabe",
+        "authors": [
+          "IUCN"
+        ],
+        "journal": "IUCN Red List of Threatened Species",
+        "type": "report"
+      }
+    ],
+    "needsReview": true,
+    "lastUpdated": "2026-09-17T00:00:00Z",
+    "version": 1
+  },
+  {
+    "speciesId": "sp-tirumala-limniace",
+    "presenceStatus": "native",
+    "regions": [
+      "chittagong-hill-tracts",
+      "central-floodplains"
+    ],
+    "habitats": [
+      "forest",
+      "hill-forests"
+    ],
+    "localNames": [
+      {
+        "language": "bn",
+        "name": "ব্লু টাইগার"
+      }
+    ],
+    "regionalConservationStatus": "LC",
+    "regionalThreats": [
+      "Habitat loss",
+      "Pesticide pressure"
+    ],
+    "regionalPopulation": "Widespread where host plants occur; no precise national estimate",
+    "notes": "Blue Tiger migrations are among the great insect movements seen over Bangladesh. Regional status follows the historical IUCN Bangladesh Red List (2015) assessment; a national reassessment is underway and this category must not be read as a 2026 update.",
+    "references": [
+      {
+        "title": "Bangladesh Red List of Invertebrates (2015)",
+        "authors": [
+          "IUCN Bangladesh"
+        ],
+        "year": 2015,
+        "journal": "IUCN Bangladesh Red List, Invertebrate volumes",
+        "type": "report"
+      },
+      {
+        "title": "IUCN Red List Assessment: Tirumala limniace",
+        "authors": [
+          "IUCN"
+        ],
+        "journal": "IUCN Red List of Threatened Species",
+        "type": "report"
+      }
+    ],
+    "needsReview": true,
+    "lastUpdated": "2026-09-17T00:00:00Z",
+    "version": 1
+  },
+  {
+    "speciesId": "sp-euploea-core",
+    "presenceStatus": "native",
+    "regions": [
+      "central-floodplains",
+      "urban"
+    ],
+    "habitats": [
+      "forest",
+      "urban"
+    ],
+    "localNames": [
+      {
+        "language": "bn",
+        "name": "কমন ক্রো"
+      }
+    ],
+    "regionalConservationStatus": "LC",
+    "regionalThreats": [
+      "Habitat loss",
+      "Pesticide pressure"
+    ],
+    "regionalPopulation": "Widespread where host plants occur; no precise national estimate",
+    "notes": "Common Crow is the dark model mimicked by palatable Papilio females in Bangladesh. Regional status follows the historical IUCN Bangladesh Red List (2015) assessment; a national reassessment is underway and this category must not be read as a 2026 update.",
+    "references": [
+      {
+        "title": "Bangladesh Red List of Invertebrates (2015)",
+        "authors": [
+          "IUCN Bangladesh"
+        ],
+        "year": 2015,
+        "journal": "IUCN Bangladesh Red List, Invertebrate volumes",
+        "type": "report"
+      },
+      {
+        "title": "IUCN Red List Assessment: Euploea core",
+        "authors": [
+          "IUCN"
+        ],
+        "journal": "IUCN Red List of Threatened Species",
+        "type": "report"
+      }
+    ],
+    "needsReview": true,
+    "lastUpdated": "2026-09-17T00:00:00Z",
+    "version": 1
+  },
+  {
+    "speciesId": "sp-macrobrachium-rosenbergii",
+    "presenceStatus": "native",
+    "regions": [
+      "central-floodplains",
+      "sundarbans"
+    ],
+    "habitats": [
+      "rivers",
+      "freshwater-wetlands"
+    ],
+    "localNames": [
+      {
+        "language": "bn",
+        "name": "গলদা চিংড়ি"
+      }
+    ],
+    "regionalConservationStatus": "LC",
+    "regionalThreats": [
+      "Wild broodstock overharvest",
+      "Gher effluent and disease"
+    ],
+    "regionalPopulation": "Farmed widely; wild stocks pressured; no precise national estimate",
+    "notes": "Giant freshwater prawn (golda) supports a major southwestern aquaculture economy. Regional category follows the historical 2015 assessment; reassessment pending. Regional status follows the historical IUCN Bangladesh Red List (2015) assessment; a national reassessment is underway and this category must not be read as a 2026 update.",
+    "references": [
+      {
+        "title": "Bangladesh Red List of Invertebrates (2015)",
+        "authors": [
+          "IUCN Bangladesh"
+        ],
+        "year": 2015,
+        "journal": "IUCN Bangladesh Red List, Invertebrate volumes",
+        "type": "report"
+      },
+      {
+        "title": "IUCN Red List Assessment: Macrobrachium rosenbergii",
+        "authors": [
+          "IUCN"
+        ],
+        "journal": "IUCN Red List of Threatened Species",
+        "type": "report"
+      }
+    ],
+    "needsReview": true,
+    "lastUpdated": "2026-09-17T00:00:00Z",
+    "version": 1
+  }
+]

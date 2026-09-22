@@ -6,32 +6,22 @@
   <meta name="description" content="Contact BiotaElite — submit work, ask questions or partner with us.">
   <title>Contact — BiotaElite</title>
   <link rel="stylesheet" href="css/style.css">
-  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>&#128231;</text></svg>">
+  <link rel="icon" href="assets/images/biotaelite-logo.png" type="image/png">
 </head>
 <body>
 
   <header class="site-header">
     <div class="header-inner">
-      <a href="index.html" class="brand">
-        <span class="brand-icon">&#129409;</span>
-        BiotaElite
+      <a href="index.html" class="brand" aria-label="BiotaElite">
+        <img src="assets/images/biotaelite-logo-horizontal.png" alt="BiotaElite" class="brand-lockup" />
       </a>
-      <nav class="main-nav" aria-label="Main navigation">
-        <a href="index.html">Home</a>
-        <a href="assets.html">Assets</a>
-        <a href="projects.html">Projects</a>
-        <a href="news.html">News</a>
-        <a href="thesis.html">Thesis</a>
-        <a href="phyla.html">Animal Kingdom</a>
-        <a href="fish.html">Fish</a>
-        <a href="names.html">Scientific Names</a>
-        <a href="blog.html">Blog</a>
-        <a href="about.html">About</a>
-        <a href="contact.html" class="active">Contact</a>
+      <nav class="main-nav" id="main-navigation" aria-label="Main navigation">
+        <a class="nav-link" data-nav-key="home" href="index.html"><span>Home</span><span class="nav-bn">হোম</span></a><div class="nav-group" data-nav-group="explore"><button class="nav-trigger" type="button" aria-expanded="false" aria-haspopup="true" aria-controls="explore-menu"><span>Explore</span><span class="nav-bn">অন্বেষণ</span><span class="nav-chevron" aria-hidden="true">⌄</span></button><div class="nav-menu" id="explore-menu"><a class="nav-link" data-nav-key="assets" href="assets.html"><span>Species Library</span><span class="nav-bn">প্রজাতি সংগ্রহ</span></a><a class="nav-link" data-nav-key="phyla" href="phyla.html"><span>Animal Kingdom</span><span class="nav-bn">প্রাণীজগৎ</span></a><a class="nav-link" data-nav-key="fish" href="fish.html"><span>Fish</span><span class="nav-bn">মাছ</span></a><span class="nav-item-disabled"><span>Marine Life</span><span class="nav-bn">সামুদ্রিক জীবন</span><span class="nav-future">Future</span></span><a class="nav-link" data-nav-key="names" href="names.html"><span>Scientific Names</span><span class="nav-bn">বৈজ্ঞানিক নাম</span></a><a class="nav-link" data-nav-key="bangladesh" href="bangladesh.html"><span>Bangladesh Biodiversity</span><span class="nav-bn">বাংলাদেশের জীববৈচিত্র্য</span></a></div></div><div class="nav-group" data-nav-group="research"><button class="nav-trigger" type="button" aria-expanded="false" aria-haspopup="true" aria-controls="research-menu"><span>Research</span><span class="nav-bn">গবেষণা</span><span class="nav-chevron" aria-hidden="true">⌄</span></button><div class="nav-menu" id="research-menu"><a class="nav-link" data-nav-key="projects" href="projects.html"><span>Projects</span><span class="nav-bn">প্রকল্প</span></a><a class="nav-link" data-nav-key="thesis" href="thesis.html"><span>Thesis</span><span class="nav-bn">গবেষণাপত্র</span></a><span class="nav-item-disabled"><span>Publications</span><span class="nav-bn">প্রকাশনা</span><span class="nav-future">Future</span></span></div></div><div class="nav-group" data-nav-group="resources"><button class="nav-trigger" type="button" aria-expanded="false" aria-haspopup="true" aria-controls="resources-menu"><span>Resources</span><span class="nav-bn">সম্পদ</span><span class="nav-chevron" aria-hidden="true">⌄</span></button><div class="nav-menu" id="resources-menu"><a class="nav-link" data-nav-key="news" href="news.html"><span>News</span><span class="nav-bn">সংবাদ</span></a><a class="nav-link" data-nav-key="blog" href="blog.html"><span>Blog</span><span class="nav-bn">ব্লগ</span></a><span class="nav-item-disabled"><span>Identification Guides</span><span class="nav-bn">শনাক্তকরণ নির্দেশিকা</span><span class="nav-future">Future</span></span></div></div><a class="nav-link" data-nav-key="about" href="about.html"><span>About</span><span class="nav-bn">পরিচিতি</span></a><a class="nav-link" data-nav-key="contact" href="contact.html"><span>Contact</span><span class="nav-bn">যোগাযোগ</span></a>
       </nav>
       <div class="nav-actions">
-        <button class="icon-btn theme-toggle" aria-label="Toggle dark mode">&#9788;</button>
-        <button class="icon-btn nav-toggle" aria-label="Toggle menu" aria-expanded="false">&#9776;</button>
+        <button class="nav-search" type="button" aria-label="Search / খুঁজুন" title="Search / খুঁজুন"><span aria-hidden="true">&#8981;</span><span>Search</span></button>
+        <button class="icon-btn theme-toggle" type="button" aria-label="Theme / থিম">&#9788;</button>
+        <button class="icon-btn nav-toggle" type="button" aria-label="Open menu / মেনু খুলুন" aria-expanded="false" aria-controls="main-navigation">&#9776;</button>
       </div>
     </div>
   </header>
@@ -47,25 +37,25 @@
 
     <section class="section">
       <div class="container">
-        <div class="grid" style="grid-template-columns: 1fr 1.2fr; gap: 40px; align-items: start;">
+        <div class="grid contact-layout">
           <div>
             <span class="eyebrow">Contact info</span>
             <h2 style="font-size:clamp(1.5rem,3vw,2rem); margin-bottom:16px;">Talk to us</h2>
             <div class="grid" style="gap:16px;">
               <div class="card feature-card">
-                <div class="feature-icon">&#128231;</div>
+                <div class="feature-icon"><span class="media-mark" aria-hidden="true">E</span></div>
                 <h3>Email</h3>
-                <p class="card-text">hello@zooedu.example</p>
+                <p class="card-text"><a href="mailto:arifdyd4th@gmail.com">arifdyd4th@gmail.com</a></p>
               </div>
               <div class="card feature-card">
-                <div class="feature-icon">&#128205;</div>
+                <div class="feature-icon"><span class="media-mark" aria-hidden="true">L</span></div>
                 <h3>Location</h3>
-                <p class="card-text">Department of Zoology, University Campus</p>
+                <p class="card-text">Department of Zoology<br>Government City College, Chattogram</p>
               </div>
               <div class="card feature-card">
-                <div class="feature-icon">&#128279;</div>
+                <div class="feature-icon"><span class="media-mark" aria-hidden="true">G</span></div>
                 <h3>GitHub</h3>
-                <p class="card-text">github.com/your-username/zooedu</p>
+                <p class="card-text"><a href="https://github.com/arifdydAI" target="_blank" rel="noopener noreferrer">github.com/arifdydAI</a></p>
               </div>
             </div>
           </div>
@@ -73,20 +63,21 @@
           <div>
             <span class="eyebrow">Message</span>
             <h2 style="font-size:clamp(1.5rem,3vw,2rem); margin-bottom:20px;">Send us a message</h2>
-            <form data-contact class="card" style="padding:26px; gap:16px; display:grid;">
+            <form data-contact class="card" style="padding:26px; gap:16px; display:grid;" novalidate>
               <div class="grid grid-2" style="gap:14px;">
                 <label style="display:grid; gap:6px; font-weight:600; font-size:0.9rem;">
                   Full name *
-                  <input type="text" required placeholder="Jane Doe" style="padding:11px 14px; border:1px solid var(--line); border-radius:10px; font-size:0.95rem; background:var(--cream); color:var(--ink); outline:none;">
+                  <input type="text" name="name" required maxlength="100" autocomplete="name" placeholder="Jane Doe" style="padding:11px 14px; border:1px solid var(--line); border-radius:10px; font-size:0.95rem; background:var(--cream); color:var(--ink); outline:none;">
                 </label>
                 <label style="display:grid; gap:6px; font-weight:600; font-size:0.9rem;">
                   Email *
-                  <input type="email" required placeholder="jane@example.com" style="padding:11px 14px; border:1px solid var(--line); border-radius:10px; font-size:0.95rem; background:var(--cream); color:var(--ink); outline:none;">
+                  <input type="email" name="email" required maxlength="254" autocomplete="email" placeholder="jane@example.com" style="padding:11px 14px; border:1px solid var(--line); border-radius:10px; font-size:0.95rem; background:var(--cream); color:var(--ink); outline:none;">
                 </label>
               </div>
               <label style="display:grid; gap:6px; font-weight:600; font-size:0.9rem;">
-                Subject
-                <select style="padding:11px 14px; border:1px solid var(--line); border-radius:10px; font-size:0.95rem; background:var(--cream); color:var(--ink); outline:none;">
+                Subject *
+                <select name="subject" required style="padding:11px 14px; border:1px solid var(--line); border-radius:10px; font-size:0.95rem; background:var(--cream); color:var(--ink); outline:none;">
+                  <option value="">Select a subject / বিষয় নির্বাচন করুন</option>
                   <option>General question</option>
                   <option>Submit an asset / species record</option>
                   <option>Submit a project</option>
@@ -97,9 +88,15 @@
               </label>
               <label style="display:grid; gap:6px; font-weight:600; font-size:0.9rem;">
                 Message *
-                <textarea required rows="6" placeholder="Tell us a little about your request..." style="padding:12px 14px; border:1px solid var(--line); border-radius:10px; font-size:0.95rem; background:var(--cream); color:var(--ink); outline:none; resize:vertical;"></textarea>
+                <textarea name="message" required rows="6" maxlength="1000" placeholder="Tell us a little about your request..." style="padding:12px 14px; border:1px solid var(--line); border-radius:10px; font-size:0.95rem; background:var(--cream); color:var(--ink); outline:none; resize:vertical;"></textarea>
               </label>
-              <button type="submit" class="btn btn-primary" style="justify-self:start;">Send message</button>
+              <p data-contact-count style="margin:0; font-size:0.82rem; color:var(--muted);" aria-live="off">0 / 1000</p>
+              <div class="hp-field" aria-hidden="true">
+                <label>Website<input type="text" name="website" tabindex="-1" autocomplete="off"></label>
+              </div>
+              <p data-contact-status role="status" aria-live="polite" style="margin:0; font-size:0.9rem;"></p>
+              <button type="submit" class="btn btn-primary" style="justify-self:start;" data-contact-submit>Send via Email / ইমেইলে পাঠান</button>
+              <p style="margin:0; font-size:0.82rem; color:var(--muted);">This form opens your email client. No message is stored on this website.</p>
             </form>
           </div>
         </div>
@@ -111,11 +108,16 @@
     <div class="container">
       <div class="footer-grid">
         <div>
-          <div class="footer-brand"><span>&#129409;</span> BiotaElite</div>
+          <div class="footer-brand"><img src="assets/images/biotaelite-logo-horizontal.png" alt="BiotaElite" class="brand-lockup" /></div>
           <p style="font-size:0.92rem;max-width:320px">
             An open educational platform for zoology students, educators and
             wildlife enthusiasts.
           </p>
+          <div class="footer-credit">
+            <span>Created &amp; Developed by <strong>Mohammad Arif</strong></span>
+            <span>Session: 2021–2022, Department of Zoology</span>
+            <span>Government City College, Chattogram</span>
+          </div>
         </div>
         <div>
           <h4>Explore</h4>
@@ -143,7 +145,7 @@
         </div>
       </div>
       <div class="footer-bottom">
-        <span>&copy; <span data-year>2026</span> BiotaElite. Built with &#128156; for zoology.</span>
+        <span>&copy; <span data-year>2026</span> BiotaElite. Built with love for zoology.</span>
         <span>Made with HTML, CSS &amp; JavaScript</span>
       </div>
     </div>

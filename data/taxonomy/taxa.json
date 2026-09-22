@@ -1,0 +1,5842 @@
+[
+  {
+    "id": "animalia",
+    "rank": "kingdom",
+    "name": "Animalia",
+    "bengaliName": "প্রাণীজগত",
+    "parentId": null,
+    "description": "Multicellular, eukaryotic organisms that are heterotrophic, typically motile, and develop from a blastula.",
+    "keyCharacteristics": [
+      "Multicellular with specialized tissues",
+      "Heterotrophic nutrition (ingestion)",
+      "Mostly motile at some life stage",
+      "Diploblastic or triploblastic",
+      "Blastula stage in embryonic development"
+    ],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-panthera-tigris-tigris",
+      "sp-elephas-maximus",
+      "sp-vulpes-vulpes"
+    ],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-02T00:00:00Z",
+    "updatedAt": "2026-09-02T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "chordata",
+    "rank": "phylum",
+    "name": "Chordata",
+    "bengaliName": "কর্ডেটা",
+    "parentId": "animalia",
+    "description": "Animals possessing a notochord, dorsal hollow nerve cord, pharyngeal slits, and post-anal tail at some developmental stage.",
+    "keyCharacteristics": [
+      "Notochord (flexible rod) at some stage",
+      "Dorsal hollow nerve cord",
+      "Pharyngeal gill slits/pouches",
+      "Post-anal tail",
+      "Endostyle/thyroid gland"
+    ],
+    "diagnosticFeatures": [
+      "Bilateral symmetry",
+      "Triploblastic",
+      "Coelomate (true body cavity)",
+      "Segmented body plan (somites)",
+      "Closed circulatory system (mostly)"
+    ],
+    "representativeSpeciesIds": [
+      "sp-panthera-tigris-tigris",
+      "sp-elephas-maximus",
+      "sp-vulpes-vulpes"
+    ],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-02T00:00:00Z",
+    "updatedAt": "2026-09-02T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "porifera",
+    "rank": "phylum",
+    "name": "Porifera",
+    "parentId": "animalia",
+    "description": "",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-06T00:00:00Z",
+    "updatedAt": "2026-09-06T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "cnidaria",
+    "rank": "phylum",
+    "name": "Cnidaria",
+    "parentId": "animalia",
+    "description": "",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-06T00:00:00Z",
+    "updatedAt": "2026-09-06T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "ctenophora",
+    "rank": "phylum",
+    "name": "Ctenophora",
+    "parentId": "animalia",
+    "description": "",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-06T00:00:00Z",
+    "updatedAt": "2026-09-06T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "platyhelminthes",
+    "rank": "phylum",
+    "name": "Platyhelminthes",
+    "parentId": "animalia",
+    "description": "",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-06T00:00:00Z",
+    "updatedAt": "2026-09-06T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "nematoda",
+    "rank": "phylum",
+    "name": "Nematoda",
+    "parentId": "animalia",
+    "description": "",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-06T00:00:00Z",
+    "updatedAt": "2026-09-06T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "annelida",
+    "rank": "phylum",
+    "name": "Annelida",
+    "parentId": "animalia",
+    "description": "",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-06T00:00:00Z",
+    "updatedAt": "2026-09-06T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "arthropoda",
+    "rank": "phylum",
+    "name": "Arthropoda",
+    "parentId": "animalia",
+    "description": "",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-06T00:00:00Z",
+    "updatedAt": "2026-09-06T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "mollusca",
+    "rank": "phylum",
+    "name": "Mollusca",
+    "parentId": "animalia",
+    "description": "",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-06T00:00:00Z",
+    "updatedAt": "2026-09-06T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "echinodermata",
+    "rank": "phylum",
+    "name": "Echinodermata",
+    "parentId": "animalia",
+    "description": "",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-06T00:00:00Z",
+    "updatedAt": "2026-09-06T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "hemichordata",
+    "rank": "phylum",
+    "name": "Hemichordata",
+    "parentId": "animalia",
+    "description": "",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-06T00:00:00Z",
+    "updatedAt": "2026-09-06T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "mammalia",
+    "rank": "class",
+    "name": "Mammalia",
+    "bengaliName": "স্তন্যপায়ী",
+    "parentId": "chordata",
+    "description": "Vertebrates characterized by mammary glands, hair/fur, three middle ear bones, and neocortex.",
+    "keyCharacteristics": [
+      "Mammary glands (milk production)",
+      "Hair or fur at some stage",
+      "Three middle ear bones (malleus, incus, stapes)",
+      "Neocortex in brain",
+      "Single lower jaw bone (dentary)",
+      "Diaphragm for respiration"
+    ],
+    "diagnosticFeatures": [
+      "Endothermic (warm-blooded)",
+      "Four-chambered heart",
+      "Viviparous (mostly) with placental or marsupial reproduction",
+      "Differentiated teeth (heterodont)",
+      "Enucleated red blood cells"
+    ],
+    "representativeSpeciesIds": [
+      "sp-panthera-tigris-tigris",
+      "sp-elephas-maximus",
+      "sp-vulpes-vulpes"
+    ],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-02T00:00:00Z",
+    "updatedAt": "2026-09-02T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "carnivora",
+    "rank": "order",
+    "name": "Carnivora",
+    "bengaliName": "মাংসাশকারী",
+    "parentId": "mammalia",
+    "description": "Placental mammals specialized for meat-eating, with carnassial teeth for shearing flesh.",
+    "keyCharacteristics": [
+      "Carnassial teeth (P4/m1) for shearing",
+      "Claws typically retractile or semi-retractile",
+      "Well-developed canine teeth",
+      "Strong jaw muscles",
+      "Keen senses (smell, hearing, vision)"
+    ],
+    "diagnosticFeatures": [
+      "Dental formula typically I 3/3, C 1/1, P 4/4, M 2/3 = 42 (reduced in some)",
+      "Terrestrial, arboreal, or aquatic",
+      "Mostly carnivorous, some omnivorous",
+      "Simple stomach, short intestine"
+    ],
+    "representativeSpeciesIds": [
+      "sp-panthera-tigris-tigris",
+      "sp-vulpes-vulpes"
+    ],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-02T00:00:00Z",
+    "updatedAt": "2026-09-02T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "proboscidea",
+    "rank": "order",
+    "name": "Proboscidea",
+    "bengaliName": "হাতিপ্রজাতি",
+    "parentId": "mammalia",
+    "description": "Large herbivorous mammals characterized by a trunk (proboscis), tusks, and massive pillar-like limbs.",
+    "keyCharacteristics": [
+      "Trunk (fusion of nose and upper lip)",
+      "Tusks (elongated upper incisors)",
+      "Massive graviportal limbs",
+      "Large temporal glands",
+      "Complex molars with lamellae"
+    ],
+    "diagnosticFeatures": [
+      "Largest terrestrial mammals",
+      "Gestation 22 months (longest of any mammal)",
+      "Matriarchal social structure",
+      "Infrasound communication",
+      "Dental replacement: 6 sets of molars sequentially"
+    ],
+    "representativeSpeciesIds": [
+      "sp-elephas-maximus"
+    ],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-02T00:00:00Z",
+    "updatedAt": "2026-09-02T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "felidae",
+    "rank": "family",
+    "name": "Felidae",
+    "bengaliName": "বিড়াল পরিবার",
+    "parentId": "carnivora",
+    "description": "Cats — obligate carnivores with retractable claws, specialized teeth, and muscular bodies.",
+    "keyCharacteristics": [
+      "Fully retractable claws (except cheetah)",
+      "Shortened rostrum",
+      "Large orbits",
+      "Carnassials highly developed",
+      "Papillae on tongue"
+    ],
+    "diagnosticFeatures": [
+      "Obligate carnivores",
+      "Solitary hunters (except lions)",
+      "Territorial with scent marking",
+      "Vocalizations: roar (Panthera), purr (small cats)",
+      "Induced ovulation"
+    ],
+    "representativeSpeciesIds": [
+      "sp-panthera-tigris-tigris"
+    ],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-02T00:00:00Z",
+    "updatedAt": "2026-09-02T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "canidae",
+    "rank": "family",
+    "name": "Canidae",
+    "bengaliName": "শিয়াল-কুকুর পরিবার",
+    "parentId": "carnivora",
+    "description": "Dogs, wolves, foxes, jackals — cursorial carnivores with non-retractable claws and complex social behavior.",
+    "keyCharacteristics": [
+      "Non-retractable claws",
+      "Long rostrum",
+      "42 teeth (typically)",
+      "Digitigrade locomotion",
+      "Baculum (penis bone)"
+    ],
+    "diagnosticFeatures": [
+      "Cursorial hunters",
+      "Often social (packs, pairs)",
+      "Complex vocal communication",
+      "Omnivorous tendencies",
+      "Regurgitation for pups"
+    ],
+    "representativeSpeciesIds": [
+      "sp-vulpes-vulpes"
+    ],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-02T00:00:00Z",
+    "updatedAt": "2026-09-02T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "elephantidae",
+    "rank": "family",
+    "name": "Elephantidae",
+    "bengaliName": "হাতি পরিবার",
+    "parentId": "proboscidea",
+    "description": "Elephants and extinct relatives (mammoths, mastodons) — the only living proboscidean family.",
+    "keyCharacteristics": [
+      "Three living species",
+      "High-crowned molars with parallel lamellae",
+      "Complex trunk musculature",
+      "Advanced cognitive abilities",
+      "Strong matriarchal bonds"
+    ],
+    "diagnosticFeatures": [
+      "Only living proboscideans",
+      "Gravportal posture",
+      "Dental battery: 6 sequential molars per quadrant",
+      "Temporal glands secrete pheromones",
+      "Long-distance infrasound communication"
+    ],
+    "representativeSpeciesIds": [
+      "sp-elephas-maximus"
+    ],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-02T00:00:00Z",
+    "updatedAt": "2026-09-02T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "elephas",
+    "rank": "genus",
+    "name": "Elephas",
+    "bengaliName": "এলিফাস",
+    "parentId": "elephantidae",
+    "description": "Asian elephants — the only living genus of the family Elephantidae, containing the Asian elephant and extinct relatives.",
+    "keyCharacteristics": [
+      "Single living species: Elephas maximus",
+      "High-crowned molars with parallel lamellae",
+      "Convex back",
+      "Smaller ears than Loxodonta",
+      "Single trunk finger"
+    ],
+    "diagnosticFeatures": [
+      "Only living genus in Elephantidae",
+      "Distinct from Loxodonta (African elephants) by ear size, back shape, trunk fingers",
+      "Extinct species include E. antiquus, E. namadicus"
+    ],
+    "representativeSpeciesIds": [
+      "sp-elephas-maximus"
+    ],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-02T00:00:00Z",
+    "updatedAt": "2026-09-02T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "panthera",
+    "rank": "genus",
+    "name": "Panthera",
+    "bengaliName": "প্যાંথেরা",
+    "parentId": "felidae",
+    "description": "Roaring cats — tiger, lion, leopard, jaguar, snow leopard. Characterized by incompletely ossified hyoid enabling roar.",
+    "keyCharacteristics": [
+      "Roaring ability (incomplete hyoid ossification)",
+      "Large body size",
+      "Round pupils",
+      "Thick fur",
+      "Powerful forelimbs"
+    ],
+    "diagnosticFeatures": [
+      "Genus includes 5 extant species",
+      "All threatened or near-threatened",
+      "Apex predators in their ranges",
+      "Territorial, solitary (except lions)",
+      "Induced ovulation"
+    ],
+    "representativeSpeciesIds": [
+      "sp-panthera-tigris-tigris"
+    ],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-02T00:00:00Z",
+    "updatedAt": "2026-09-02T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "vulpes",
+    "rank": "genus",
+    "name": "Vulpes",
+    "bengaliName": "শিয়াল",
+    "parentId": "canidae",
+    "description": "True foxes — small to medium canids with pointed muzzles, large ears, and bushy tails.",
+    "keyCharacteristics": [
+      "Vertical slit pupils",
+      "Long, bushy tail (brush)",
+      "Pointed muzzle",
+      "Large erect ears",
+      "Agile, quick"
+    ],
+    "diagnosticFeatures": [
+      "12 extant species",
+      "Global distribution (except Antarctica)",
+      "Solitary hunters",
+      "Food caching behavior",
+      "Adapted to diverse habitats"
+    ],
+    "representativeSpeciesIds": [
+      "sp-vulpes-vulpes"
+    ],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-02T00:00:00Z",
+    "updatedAt": "2026-09-02T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "tigris",
+    "rank": "species",
+    "name": "Panthera tigris",
+    "bengaliName": "বাঘ",
+    "parentId": "panthera",
+    "description": "Tiger — largest living cat, striped coat, apex predator across Asia.",
+    "keyCharacteristics": [
+      "Striped coat (unique pattern per individual)",
+      "Largest felid",
+      "Apex predator",
+      "Solitary, territorial",
+      "Strong swimmer"
+    ],
+    "diagnosticFeatures": [
+      "6 extant subspecies",
+      "Skull robust, sagittal crest",
+      "Canines up to 75 mm",
+      "Induced ovulation",
+      "Cubs dependent 18-24 months"
+    ],
+    "representativeSpeciesIds": [
+      "sp-panthera-tigris-tigris"
+    ],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-02T00:00:00Z",
+    "updatedAt": "2026-09-02T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "maximus",
+    "rank": "species",
+    "name": "Elephas maximus",
+    "bengaliName": "এশীয় হাতি",
+    "parentId": "elephantidae",
+    "description": "Asian elephant — largest land animal in Asia, single trunk finger, convex back.",
+    "keyCharacteristics": [
+      "Smaller ears than African elephants",
+      "Single trunk finger",
+      "Convex back",
+      "Four hind foot nails",
+      "Tusks in males only (usually)"
+    ],
+    "diagnosticFeatures": [
+      "3 recognized subspecies",
+      "Gestation 22 months",
+      "Matriarchal herds",
+      "Keystone species",
+      "Cultural icon across Asia"
+    ],
+    "representativeSpeciesIds": [
+      "sp-elephas-maximus"
+    ],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-02T00:00:00Z",
+    "updatedAt": "2026-09-02T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "vulpes-vulpes",
+    "rank": "species",
+    "name": "Vulpes vulpes",
+    "bengaliName": "লাল শিয়াল",
+    "parentId": "vulpes",
+    "description": "Red fox — most widely distributed carnivore, highly adaptable, omnivorous.",
+    "keyCharacteristics": [
+      "Reddish coat with white tail tip",
+      "Black ear tips and leg stockings",
+      "Most widespread wild carnivore",
+      "Highly adaptable to urban areas",
+      "Opportunistic omnivore"
+    ],
+    "diagnosticFeatures": [
+      "45+ subspecies described",
+      "White tail tip diagnostic",
+      "Low-frequency hearing specialist",
+      "Food caching",
+      "Monogamous pair bonds"
+    ],
+    "representativeSpeciesIds": [
+      "sp-vulpes-vulpes"
+    ],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-02T00:00:00Z",
+    "updatedAt": "2026-09-02T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "tigris-tigris",
+    "rank": "subspecies",
+    "name": "Panthera tigris tigris",
+    "bengaliName": "রয়েল বেঙ্গল টাইগার",
+    "parentId": "tigris",
+    "description": "Bengal tiger — nominate subspecies, Indian subcontinent, mangrove-adapted (Sundarbans).",
+    "keyCharacteristics": [
+      "Orange coat with narrow black stripes",
+      "White ventral parts",
+      "Mangrove-adapted population (Sundarbans)",
+      "Largest tiger population",
+      "National animal of India and Bangladesh"
+    ],
+    "diagnosticFeatures": [
+      "Skull length 310-380 mm",
+      "Darker and smaller than P. t. altaica",
+      "Stripes narrow and numerous",
+      "Adapted to mangrove swimming"
+    ],
+    "representativeSpeciesIds": [
+      "sp-panthera-tigris-tigris"
+    ],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-02T00:00:00Z",
+    "updatedAt": "2026-09-02T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "actinopterygii",
+    "rank": "class",
+    "name": "Actinopterygii",
+    "parentId": "chordata",
+    "description": "",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-06T00:00:00Z",
+    "updatedAt": "2026-09-06T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "cypriniformes",
+    "rank": "order",
+    "name": "Cypriniformes",
+    "parentId": "actinopterygii",
+    "description": "",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-06T00:00:00Z",
+    "updatedAt": "2026-09-06T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "cyprinidae",
+    "rank": "family",
+    "name": "Cyprinidae",
+    "parentId": "cypriniformes",
+    "description": "",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-06T00:00:00Z",
+    "updatedAt": "2026-09-06T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "labeo",
+    "rank": "genus",
+    "name": "Labeo",
+    "parentId": "cyprinidae",
+    "description": "",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-06T00:00:00Z",
+    "updatedAt": "2026-09-06T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "catla",
+    "rank": "genus",
+    "name": "Catla",
+    "parentId": "cyprinidae",
+    "description": "",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-06T00:00:00Z",
+    "updatedAt": "2026-09-06T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "cirrhinus",
+    "rank": "genus",
+    "name": "Cirrhinus",
+    "parentId": "cyprinidae",
+    "description": "",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-06T00:00:00Z",
+    "updatedAt": "2026-09-06T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "clupeiformes",
+    "rank": "order",
+    "name": "Clupeiformes",
+    "parentId": "actinopterygii",
+    "description": "",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-06T00:00:00Z",
+    "updatedAt": "2026-09-06T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "clupeidae",
+    "rank": "family",
+    "name": "Clupeidae",
+    "parentId": "clupeiformes",
+    "description": "",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-06T00:00:00Z",
+    "updatedAt": "2026-09-06T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "tenualosa",
+    "rank": "genus",
+    "name": "Tenualosa",
+    "parentId": "clupeidae",
+    "description": "",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-06T00:00:00Z",
+    "updatedAt": "2026-09-06T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "elasmobranchii",
+    "rank": "class",
+    "name": "Elasmobranchii",
+    "parentId": "chordata",
+    "description": "",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-08T00:00:00Z",
+    "updatedAt": "2026-09-08T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "orectolobiformes",
+    "rank": "order",
+    "name": "Orectolobiformes",
+    "parentId": "elasmobranchii",
+    "description": "",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-08T00:00:00Z",
+    "updatedAt": "2026-09-08T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "myliobatiformes",
+    "rank": "order",
+    "name": "Myliobatiformes",
+    "parentId": "elasmobranchii",
+    "description": "",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-08T00:00:00Z",
+    "updatedAt": "2026-09-08T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "rhincodontidae",
+    "rank": "family",
+    "name": "Rhincodontidae",
+    "parentId": "orectolobiformes",
+    "description": "",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-08T00:00:00Z",
+    "updatedAt": "2026-09-08T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "mobulidae",
+    "rank": "family",
+    "name": "Mobulidae",
+    "parentId": "myliobatiformes",
+    "description": "",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-08T00:00:00Z",
+    "updatedAt": "2026-09-08T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "rhincodon",
+    "rank": "genus",
+    "name": "Rhincodon",
+    "parentId": "rhincodontidae",
+    "description": "",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-08T00:00:00Z",
+    "updatedAt": "2026-09-08T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "mobula",
+    "rank": "genus",
+    "name": "Mobula",
+    "parentId": "mobulidae",
+    "description": "",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-08T00:00:00Z",
+    "updatedAt": "2026-09-08T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "siluriformes",
+    "rank": "order",
+    "name": "Siluriformes",
+    "parentId": "actinopterygii",
+    "description": "",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-08T00:00:00Z",
+    "updatedAt": "2026-09-08T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "siluridae",
+    "rank": "family",
+    "name": "Siluridae",
+    "parentId": "siluriformes",
+    "description": "",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-08T00:00:00Z",
+    "updatedAt": "2026-09-08T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "wallago",
+    "rank": "genus",
+    "name": "Wallago",
+    "parentId": "siluridae",
+    "description": "",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-08T00:00:00Z",
+    "updatedAt": "2026-09-08T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "anabantiformes",
+    "rank": "order",
+    "name": "Anabantiformes",
+    "parentId": "actinopterygii",
+    "description": "",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-08T00:00:00Z",
+    "updatedAt": "2026-09-08T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "channidae",
+    "rank": "family",
+    "name": "Channidae",
+    "parentId": "anabantiformes",
+    "description": "",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-08T00:00:00Z",
+    "updatedAt": "2026-09-08T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "channa",
+    "rank": "genus",
+    "name": "Channa",
+    "parentId": "channidae",
+    "description": "",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-08T00:00:00Z",
+    "updatedAt": "2026-09-08T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "anabantidae",
+    "rank": "family",
+    "name": "Anabantidae",
+    "parentId": "anabantiformes",
+    "description": "",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-08T00:00:00Z",
+    "updatedAt": "2026-09-08T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "anabas",
+    "rank": "genus",
+    "name": "Anabas",
+    "parentId": "anabantidae",
+    "description": "",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-08T00:00:00Z",
+    "updatedAt": "2026-09-08T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "heteropneustidae",
+    "rank": "family",
+    "name": "Heteropneustidae",
+    "parentId": "siluriformes",
+    "description": "",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-08T00:00:00Z",
+    "updatedAt": "2026-09-08T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "heteropneustes",
+    "rank": "genus",
+    "name": "Heteropneustes",
+    "parentId": "heteropneustidae",
+    "description": "",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-08T00:00:00Z",
+    "updatedAt": "2026-09-08T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "bagridae",
+    "rank": "family",
+    "name": "Bagridae",
+    "parentId": "siluriformes",
+    "description": "",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-09T00:00:00Z",
+    "updatedAt": "2026-09-09T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "mystus",
+    "rank": "genus",
+    "name": "Mystus",
+    "parentId": "bagridae",
+    "description": "",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-09T00:00:00Z",
+    "updatedAt": "2026-09-09T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "sperata",
+    "rank": "genus",
+    "name": "Sperata",
+    "parentId": "bagridae",
+    "description": "",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-09T00:00:00Z",
+    "updatedAt": "2026-09-09T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "gobiiformes",
+    "rank": "order",
+    "name": "Gobiiformes",
+    "parentId": "actinopterygii",
+    "description": "",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-09T00:00:00Z",
+    "updatedAt": "2026-09-09T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "gobiidae",
+    "rank": "family",
+    "name": "Gobiidae",
+    "parentId": "gobiiformes",
+    "description": "",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-09T00:00:00Z",
+    "updatedAt": "2026-09-09T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "glossogobius",
+    "rank": "genus",
+    "name": "Glossogobius",
+    "parentId": "gobiidae",
+    "description": "",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-09T00:00:00Z",
+    "updatedAt": "2026-09-09T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "malacostraca",
+    "rank": "class",
+    "name": "Malacostraca",
+    "parentId": "arthropoda",
+    "description": "",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "decapoda",
+    "rank": "order",
+    "name": "Decapoda",
+    "parentId": "malacostraca",
+    "description": "",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "penaeidae",
+    "rank": "family",
+    "name": "Penaeidae",
+    "parentId": "decapoda",
+    "description": "",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "penaeus",
+    "rank": "genus",
+    "name": "Penaeus",
+    "parentId": "penaeidae",
+    "description": "",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "portunidae",
+    "rank": "family",
+    "name": "Portunidae",
+    "parentId": "decapoda",
+    "description": "",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "scylla",
+    "rank": "genus",
+    "name": "Scylla",
+    "parentId": "portunidae",
+    "description": "",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "reptilia",
+    "rank": "class",
+    "name": "Reptilia",
+    "parentId": "chordata",
+    "description": "",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "testudines",
+    "rank": "order",
+    "name": "Testudines",
+    "parentId": "reptilia",
+    "description": "",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "cheloniidae",
+    "rank": "family",
+    "name": "Cheloniidae",
+    "parentId": "testudines",
+    "description": "",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "chelonia",
+    "rank": "genus",
+    "name": "Chelonia",
+    "parentId": "cheloniidae",
+    "description": "",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "lepidochelys",
+    "rank": "genus",
+    "name": "Lepidochelys",
+    "parentId": "cheloniidae",
+    "description": "",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "cephalopoda",
+    "rank": "class",
+    "name": "Cephalopoda",
+    "parentId": "mollusca",
+    "description": "",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "octopoda",
+    "rank": "order",
+    "name": "Octopoda",
+    "parentId": "cephalopoda",
+    "description": "",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "octopodidae",
+    "rank": "family",
+    "name": "Octopodidae",
+    "parentId": "octopoda",
+    "description": "",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "octopus",
+    "rank": "genus",
+    "name": "Octopus",
+    "parentId": "octopodidae",
+    "description": "",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "cetacea",
+    "rank": "order",
+    "name": "Cetacea",
+    "parentId": "mammalia",
+    "description": "",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "balaenopteridae",
+    "rank": "family",
+    "name": "Balaenopteridae",
+    "parentId": "cetacea",
+    "description": "",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "balaenoptera",
+    "rank": "genus",
+    "name": "Balaenoptera",
+    "parentId": "balaenopteridae",
+    "description": "",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "malacostraca",
+    "rank": "class",
+    "name": "Malacostraca",
+    "parentId": "arthropoda",
+    "description": "",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "decapoda",
+    "rank": "order",
+    "name": "Decapoda",
+    "parentId": "malacostraca",
+    "description": "",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "penaeidae",
+    "rank": "family",
+    "name": "Penaeidae",
+    "parentId": "decapoda",
+    "description": "",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "penaeus",
+    "rank": "genus",
+    "name": "Penaeus",
+    "parentId": "penaeidae",
+    "description": "",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "portunidae",
+    "rank": "family",
+    "name": "Portunidae",
+    "parentId": "decapoda",
+    "description": "",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "scylla",
+    "rank": "genus",
+    "name": "Scylla",
+    "parentId": "portunidae",
+    "description": "",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "reptilia",
+    "rank": "class",
+    "name": "Reptilia",
+    "parentId": "chordata",
+    "description": "",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "testudines",
+    "rank": "order",
+    "name": "Testudines",
+    "parentId": "reptilia",
+    "description": "",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "cheloniidae",
+    "rank": "family",
+    "name": "Cheloniidae",
+    "parentId": "testudines",
+    "description": "",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "chelonia",
+    "rank": "genus",
+    "name": "Chelonia",
+    "parentId": "cheloniidae",
+    "description": "",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "lepidochelys",
+    "rank": "genus",
+    "name": "Lepidochelys",
+    "parentId": "cheloniidae",
+    "description": "",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "cephalopoda",
+    "rank": "class",
+    "name": "Cephalopoda",
+    "parentId": "mollusca",
+    "description": "",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "octopoda",
+    "rank": "order",
+    "name": "Octopoda",
+    "parentId": "cephalopoda",
+    "description": "",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "octopodidae",
+    "rank": "family",
+    "name": "Octopodidae",
+    "parentId": "octopoda",
+    "description": "",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "octopus",
+    "rank": "genus",
+    "name": "Octopus",
+    "parentId": "octopodidae",
+    "description": "",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "cetacea",
+    "rank": "order",
+    "name": "Cetacea",
+    "parentId": "mammalia",
+    "description": "",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "balaenopteridae",
+    "rank": "family",
+    "name": "Balaenopteridae",
+    "parentId": "cetacea",
+    "description": "",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "balaenoptera",
+    "rank": "genus",
+    "name": "Balaenoptera",
+    "parentId": "balaenopteridae",
+    "description": "",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "sirenia",
+    "rank": "order",
+    "name": "Sirenia",
+    "parentId": "mammalia",
+    "description": "Order of fully aquatic herbivorous mammals: dugongs and manatees.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-dugong-dugon"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Sirenia"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "delphinidae",
+    "rank": "family",
+    "name": "Delphinidae",
+    "parentId": "cetacea",
+    "description": "Oceanic dolphins; toothed whales including orcas, bottlenose dolphins and common dolphins.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-orcinus-orca",
+      "sp-tursiops-truncatus"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Delphinidae"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "physeteridae",
+    "rank": "family",
+    "name": "Physeteridae",
+    "parentId": "cetacea",
+    "description": "Sperm whales; giant deep-diving toothed whales.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-physeter-macrocephalus"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Physeteridae"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "dugongidae",
+    "rank": "family",
+    "name": "Dugongidae",
+    "parentId": "sirenia",
+    "description": "Dugongs; the only living genus is Dugong.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-dugong-dugon"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Dugongidae"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "phocidae",
+    "rank": "family",
+    "name": "Phocidae",
+    "parentId": "carnivora",
+    "description": "Earless (true) seals, including harbour seals, grey seals and elephant seals.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-phoca-vitulina"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Phocidae"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "megaptera",
+    "rank": "genus",
+    "name": "Megaptera",
+    "parentId": "balaenopteridae",
+    "description": "Humpback whales.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-megaptera-novaeangliae"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Megaptera, AphiaID 137014 (parent of 137092)"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "physeter",
+    "rank": "genus",
+    "name": "Physeter",
+    "parentId": "physeteridae",
+    "description": "Sperm whales.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-physeter-macrocephalus"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Physeter"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "orcinus",
+    "rank": "genus",
+    "name": "Orcinus",
+    "parentId": "delphinidae",
+    "description": "Killer whales; single living species.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-orcinus-orca"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Orcinus"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "tursiops",
+    "rank": "genus",
+    "name": "Tursiops",
+    "parentId": "delphinidae",
+    "description": "Bottlenose dolphins.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-tursiops-truncatus"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Tursiops"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "dugong",
+    "rank": "genus",
+    "name": "Dugong",
+    "parentId": "dugongidae",
+    "description": "Dugongs; single living species.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-dugong-dugon"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Dugong"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "phoca",
+    "rank": "genus",
+    "name": "Phoca",
+    "parentId": "phocidae",
+    "description": "Harbour seals and spotted seals.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-phoca-vitulina"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Phoca"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "squamata",
+    "rank": "order",
+    "name": "Squamata",
+    "parentId": "reptilia",
+    "description": "Scaled reptiles: lizards and snakes, including sea snakes.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-hydrophis-platurus"
+    ],
+    "references": [
+      {
+        "title": "WoRMS / Reptile Database: Squamata"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "crocodylia",
+    "rank": "order",
+    "name": "Crocodylia",
+    "parentId": "reptilia",
+    "description": "Crocodiles, alligators, caimans and gharials.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-crocodylus-porosus"
+    ],
+    "references": [
+      {
+        "title": "IUCN Red List taxonomy: Crocodylus porosus (Reptilia/Crocodylia/Crocodylidae)"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "dermochelyidae",
+    "rank": "family",
+    "name": "Dermochelyidae",
+    "parentId": "testudines",
+    "description": "Leatherback turtles; single living species.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-dermochelys-coriacea"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Dermochelyidae"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "crocodylidae",
+    "rank": "family",
+    "name": "Crocodylidae",
+    "parentId": "crocodylia",
+    "description": "True crocodiles.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-crocodylus-porosus"
+    ],
+    "references": [
+      {
+        "title": "IUCN Red List taxonomy: Crocodylus porosus (Crocodylidae)"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "elapidae",
+    "rank": "family",
+    "name": "Elapidae",
+    "parentId": "squamata",
+    "description": "Elapid snakes including cobras, kraits and sea snakes (Hydrophiinae).",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-hydrophis-platurus"
+    ],
+    "references": [
+      {
+        "title": "WoRMS / Reptile Database: Elapidae (Hydrophiinae)"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "eretmochelys",
+    "rank": "genus",
+    "name": "Eretmochelys",
+    "parentId": "cheloniidae",
+    "description": "Hawksbill turtles; single living species.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-eretmochelys-imbricata"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Eretmochelys"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "caretta",
+    "rank": "genus",
+    "name": "Caretta",
+    "parentId": "cheloniidae",
+    "description": "Loggerhead turtles; single living species.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-caretta-caretta"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Caretta"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "dermochelys",
+    "rank": "genus",
+    "name": "Dermochelys",
+    "parentId": "dermochelyidae",
+    "description": "Leatherback turtles; single living species.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-dermochelys-coriacea"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Dermochelys"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "crocodylus",
+    "rank": "genus",
+    "name": "Crocodylus",
+    "parentId": "crocodylidae",
+    "description": "True crocodiles including the saltwater crocodile.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-crocodylus-porosus"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Crocodylus"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "hydrophis",
+    "rank": "genus",
+    "name": "Hydrophis",
+    "parentId": "elapidae",
+    "description": "Sea snakes including the yellow-bellied sea snake.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-hydrophis-platurus"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Hydrophis"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "aves",
+    "rank": "class",
+    "name": "Aves",
+    "parentId": "chordata",
+    "description": "Birds, including seabirds.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [],
+    "references": [
+      {
+        "title": "WoRMS: Aves"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "sphenisciformes",
+    "rank": "order",
+    "name": "Sphenisciformes",
+    "parentId": "aves",
+    "description": "Penguins; flightless Southern Hemisphere seabirds.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-aptenodytes-forsteri"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Sphenisciformes"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "procellariiformes",
+    "rank": "order",
+    "name": "Procellariiformes",
+    "parentId": "aves",
+    "description": "Tubenoses: albatrosses, petrels and shearwaters.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-diomedea-exulans"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Procellariiformes"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "suliformes",
+    "rank": "order",
+    "name": "Suliformes",
+    "parentId": "aves",
+    "description": "Gannets, boobies, cormorants and frigatebirds (IUCN/BirdLife usage; WoRMS uses Pelecaniformes for Sulidae/Fregatidae).",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-morus-bassanus",
+      "sp-fregata-minor"
+    ],
+    "references": [
+      {
+        "title": "IUCN Red List taxonomy: Morus bassanus / Fregata minor (Suliformes)"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "spheniscidae",
+    "rank": "family",
+    "name": "Spheniscidae",
+    "parentId": "sphenisciformes",
+    "description": "Penguins.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-aptenodytes-forsteri"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Spheniscidae"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "diomedeidae",
+    "rank": "family",
+    "name": "Diomedeidae",
+    "parentId": "procellariiformes",
+    "description": "Albatrosses.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-diomedea-exulans"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Diomedeidae"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "sulidae",
+    "rank": "family",
+    "name": "Sulidae",
+    "parentId": "suliformes",
+    "description": "Gannets and boobies; plunge-diving seabirds.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-morus-bassanus"
+    ],
+    "references": [
+      {
+        "title": "IUCN Red List taxonomy: Morus bassanus (Sulidae)"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "fregatidae",
+    "rank": "family",
+    "name": "Fregatidae",
+    "parentId": "suliformes",
+    "description": "Frigatebirds; soaring kleptoparasitic seabirds.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-fregata-minor"
+    ],
+    "references": [
+      {
+        "title": "IUCN Red List taxonomy: Fregata minor (Fregatidae)"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "aptenodytes",
+    "rank": "genus",
+    "name": "Aptenodytes",
+    "parentId": "spheniscidae",
+    "description": "Great penguins: emperor and king penguins.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-aptenodytes-forsteri"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Aptenodytes"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "diomedea",
+    "rank": "genus",
+    "name": "Diomedea",
+    "parentId": "diomedeidae",
+    "description": "Great albatrosses including the wandering albatross.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-diomedea-exulans"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Diomedea"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "morus",
+    "rank": "genus",
+    "name": "Morus",
+    "parentId": "sulidae",
+    "description": "Gannets.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-morus-bassanus"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Morus"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "fregata",
+    "rank": "genus",
+    "name": "Fregata",
+    "parentId": "fregatidae",
+    "description": "Frigatebirds.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-fregata-minor"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Fregata"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "bivalvia",
+    "rank": "class",
+    "name": "Bivalvia",
+    "parentId": "mollusca",
+    "description": "Bivalve molluscs: mussels, oysters, clams and scallops.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-mytilus-edulis",
+      "sp-magallana-gigas"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Bivalvia"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "mytilida",
+    "rank": "order",
+    "name": "Mytilida",
+    "parentId": "bivalvia",
+    "description": "Mussels and allies.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-mytilus-edulis"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Mytilida"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "ostreida",
+    "rank": "order",
+    "name": "Ostreida",
+    "parentId": "bivalvia",
+    "description": "Oysters and allies.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-magallana-gigas"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Ostreida"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "mytilidae",
+    "rank": "family",
+    "name": "Mytilidae",
+    "parentId": "mytilida",
+    "description": "Marine mussels.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-mytilus-edulis"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Mytilidae"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "ostreidae",
+    "rank": "family",
+    "name": "Ostreidae",
+    "parentId": "ostreida",
+    "description": "True oysters.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-magallana-gigas"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Ostreidae"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "sepiida",
+    "rank": "order",
+    "name": "Sepiida",
+    "parentId": "cephalopoda",
+    "description": "Cuttlefishes.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-sepia-officinalis"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Sepiida"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "sepiidae",
+    "rank": "family",
+    "name": "Sepiidae",
+    "parentId": "sepiida",
+    "description": "Common cuttlefishes.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-sepia-officinalis"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Sepiidae"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "scyphozoa",
+    "rank": "class",
+    "name": "Scyphozoa",
+    "parentId": "cnidaria",
+    "description": "True jellyfishes.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-aurelia-aurita"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Scyphozoa"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "semaeostomeae",
+    "rank": "order",
+    "name": "Semaeostomeae",
+    "parentId": "scyphozoa",
+    "description": "Flag-mouth jellies including moon jellies.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-aurelia-aurita"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Semaeostomeae"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "ulmaridae",
+    "rank": "family",
+    "name": "Ulmaridae",
+    "parentId": "semaeostomeae",
+    "description": "Moon jellies and allies.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-aurelia-aurita"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Ulmaridae"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "anthozoa",
+    "rank": "class",
+    "name": "Anthozoa",
+    "parentId": "cnidaria",
+    "description": "Sea anemones, corals and sea pens; polyp-only cnidarians.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-actinia-equina"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Anthozoa"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "actiniaria",
+    "rank": "order",
+    "name": "Actiniaria",
+    "parentId": "anthozoa",
+    "description": "Sea anemones.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-actinia-equina"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Actiniaria"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "actiniidae",
+    "rank": "family",
+    "name": "Actiniidae",
+    "parentId": "actiniaria",
+    "description": "Common sea anemones including beadlet anemones.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-actinia-equina"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Actiniidae"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "asteroidea",
+    "rank": "class",
+    "name": "Asteroidea",
+    "parentId": "echinodermata",
+    "description": "Sea stars (starfish).",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-asterias-rubens"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Asteroidea"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "forcipulatida",
+    "rank": "order",
+    "name": "Forcipulatida",
+    "parentId": "asteroidea",
+    "description": "Forcipulate sea stars including common starfishes.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-asterias-rubens"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Forcipulatida"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "asteriidae",
+    "rank": "family",
+    "name": "Asteriidae",
+    "parentId": "forcipulatida",
+    "description": "Common sea stars including Asterias.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-asterias-rubens"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Asteriidae"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "nephropidae",
+    "rank": "family",
+    "name": "Nephropidae",
+    "parentId": "decapoda",
+    "description": "Clawed lobsters.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-homarus-gammarus"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Nephropidae"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "euphausiacea",
+    "rank": "order",
+    "name": "Euphausiacea",
+    "parentId": "malacostraca",
+    "description": "Krill; shrimp-like pelagic crustaceans.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-euphausia-superba"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Euphausiacea"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "euphausiidae",
+    "rank": "family",
+    "name": "Euphausiidae",
+    "parentId": "euphausiacea",
+    "description": "Krill including Antarctic krill.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-euphausia-superba"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Euphausiidae"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "sepia",
+    "rank": "genus",
+    "name": "Sepia",
+    "parentId": "sepiidae",
+    "description": "Common cuttlefishes.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-sepia-officinalis"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Sepia"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "mytilus",
+    "rank": "genus",
+    "name": "Mytilus",
+    "parentId": "mytilidae",
+    "description": "Blue mussels.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-mytilus-edulis"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Mytilus"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "magallana",
+    "rank": "genus",
+    "name": "Magallana",
+    "parentId": "ostreidae",
+    "description": "Pacific cupped oysters; separated from Crassostrea.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-magallana-gigas"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Magallana"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "asterias",
+    "rank": "genus",
+    "name": "Asterias",
+    "parentId": "asteriidae",
+    "description": "Common North Atlantic sea stars.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-asterias-rubens"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Asterias"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "aurelia",
+    "rank": "genus",
+    "name": "Aurelia",
+    "parentId": "ulmaridae",
+    "description": "Moon jellies.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-aurelia-aurita"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Aurelia"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "homarus",
+    "rank": "genus",
+    "name": "Homarus",
+    "parentId": "nephropidae",
+    "description": "Clawed lobsters: European and American species.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-homarus-gammarus"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Homarus"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "actinia",
+    "rank": "genus",
+    "name": "Actinia",
+    "parentId": "actiniidae",
+    "description": "Beadlet anemones and allies.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-actinia-equina"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Actinia"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "euphausia",
+    "rank": "genus",
+    "name": "Euphausia",
+    "parentId": "euphausiidae",
+    "description": "Krill including Antarctic krill.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-euphausia-superba"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Euphausia"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "phocoenidae",
+    "rank": "family",
+    "name": "Phocoenidae",
+    "parentId": "cetacea",
+    "description": "Porpoises; small blunt-headed toothed whales.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-phocoena-phocoena"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Phocoenidae"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "trichechidae",
+    "rank": "family",
+    "name": "Trichechidae",
+    "parentId": "sirenia",
+    "description": "Manatees.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-trichechus-manatus"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Trichechidae"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "odobenidae",
+    "rank": "family",
+    "name": "Odobenidae",
+    "parentId": "carnivora",
+    "description": "Walruses; single living species.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-odobenus-rosmarus"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Odobenidae"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "delphinus",
+    "rank": "genus",
+    "name": "Delphinus",
+    "parentId": "delphinidae",
+    "description": "Common dolphins.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-delphinus-delphis"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Delphinus"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "phocoena",
+    "rank": "genus",
+    "name": "Phocoena",
+    "parentId": "phocoenidae",
+    "description": "Harbour porpoises and allies.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-phocoena-phocoena"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Phocoena"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "trichechus",
+    "rank": "genus",
+    "name": "Trichechus",
+    "parentId": "trichechidae",
+    "description": "Manatees.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-trichechus-manatus"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Trichechus"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "odobenus",
+    "rank": "genus",
+    "name": "Odobenus",
+    "parentId": "odobenidae",
+    "description": "Walruses; single living species.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-odobenus-rosmarus"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Odobenus"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "laticauda",
+    "rank": "genus",
+    "name": "Laticauda",
+    "parentId": "elapidae",
+    "description": "Sea kraits.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-laticauda-colubrina"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Laticauda"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "procellariidae",
+    "rank": "family",
+    "name": "Procellariidae",
+    "parentId": "procellariiformes",
+    "description": "Petrels and shearwaters.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-macronectes-giganteus"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Procellariidae"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "macronectes",
+    "rank": "genus",
+    "name": "Macronectes",
+    "parentId": "procellariidae",
+    "description": "Giant petrels.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-macronectes-giganteus"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Macronectes"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "sula",
+    "rank": "genus",
+    "name": "Sula",
+    "parentId": "sulidae",
+    "description": "Boobies.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-sula-leucogaster"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Sula"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "phalacrocoracidae",
+    "rank": "family",
+    "name": "Phalacrocoracidae",
+    "parentId": "suliformes",
+    "description": "Cormorants and shags.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-phalacrocorax-carbo"
+    ],
+    "references": [
+      {
+        "title": "IUCN Red List taxonomy: Phalacrocorax carbo (Phalacrocoracidae, Suliformes)"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "phalacrocorax",
+    "rank": "genus",
+    "name": "Phalacrocorax",
+    "parentId": "phalacrocoracidae",
+    "description": "Cormorants.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-phalacrocorax-carbo"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Phalacrocorax"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "nautilida",
+    "rank": "order",
+    "name": "Nautilida",
+    "parentId": "cephalopoda",
+    "description": "Nautiluses; externally shelled cephalopods.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-nautilus-pompilius"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Nautilida"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "nautilidae",
+    "rank": "family",
+    "name": "Nautilidae",
+    "parentId": "nautilida",
+    "description": "Nautiluses.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-nautilus-pompilius"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Nautilidae"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "nautilus",
+    "rank": "genus",
+    "name": "Nautilus",
+    "parentId": "nautilidae",
+    "description": "Chambered nautiluses.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-nautilus-pompilius"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Nautilus"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "loligo",
+    "rank": "genus",
+    "name": "Loligo",
+    "parentId": "loliginidae",
+    "description": "Inshore squids.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-loligo-vulgaris"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Loligo"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "loliginidae",
+    "rank": "family",
+    "name": "Loliginidae",
+    "parentId": "myopsida",
+    "description": "Inshore squids.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-loligo-vulgaris"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Loliginidae"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "gastropoda",
+    "rank": "class",
+    "name": "Gastropoda",
+    "parentId": "mollusca",
+    "description": "Snails, limpets and slugs; largest mollusc class.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-patella-vulgata"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Gastropoda"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "patellida",
+    "rank": "order",
+    "name": "Patellida",
+    "parentId": "gastropoda",
+    "description": "True limpets.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-patella-vulgata"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Patellida"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "patellidae",
+    "rank": "family",
+    "name": "Patellidae",
+    "parentId": "patellida",
+    "description": "True limpets.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-patella-vulgata"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Patellidae"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "patella",
+    "rank": "genus",
+    "name": "Patella",
+    "parentId": "patellidae",
+    "description": "Common limpets.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-patella-vulgata"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Patella"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "pectinida",
+    "rank": "order",
+    "name": "Pectinida",
+    "parentId": "bivalvia",
+    "description": "Scallops and allies.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-pecten-maximus"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Pectinida"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "pectinidae",
+    "rank": "family",
+    "name": "Pectinidae",
+    "parentId": "pectinida",
+    "description": "Scallops.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-pecten-maximus"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Pectinidae"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "pecten",
+    "rank": "genus",
+    "name": "Pecten",
+    "parentId": "pectinidae",
+    "description": "Great scallops.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-pecten-maximus"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Pecten"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "echinoidea",
+    "rank": "class",
+    "name": "Echinoidea",
+    "parentId": "echinodermata",
+    "description": "Sea urchins, heart urchins and sand dollars.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-echinus-esculentus"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Echinoidea"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "camarodonta",
+    "rank": "order",
+    "name": "Camarodonta",
+    "parentId": "echinoidea",
+    "description": "Globe urchins including edible urchins.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-echinus-esculentus"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Camarodonta"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "echinidae",
+    "rank": "family",
+    "name": "Echinidae",
+    "parentId": "camarodonta",
+    "description": "Edible urchins and allies.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-echinus-esculentus"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Echinidae"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "echinus",
+    "rank": "genus",
+    "name": "Echinus",
+    "parentId": "echinidae",
+    "description": "Edible urchins.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-echinus-esculentus"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Echinus"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "holothuriida",
+    "rank": "order",
+    "name": "Holothuriida",
+    "parentId": "holothuroidea",
+    "description": "Typical sea cucumbers.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-holothuria-scabra"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Holothuriida"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "holothuriidae",
+    "rank": "family",
+    "name": "Holothuriidae",
+    "parentId": "holothuriida",
+    "description": "Tropical sea cucumbers including sandfish.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-holothuria-scabra"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Holothuriidae"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "holothuria",
+    "rank": "genus",
+    "name": "Holothuria",
+    "parentId": "holothuriidae",
+    "description": "Sandfish and allies.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-holothuria-scabra"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Holothuria"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "ophiuroidea",
+    "rank": "class",
+    "name": "Ophiuroidea",
+    "parentId": "echinodermata",
+    "description": "Brittle stars and basket stars.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-ophiothrix-fragilis"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Ophiuroidea"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "amphilepidida",
+    "rank": "order",
+    "name": "Amphilepidida",
+    "parentId": "ophiuroidea",
+    "description": "Small-disked brittle stars.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-ophiothrix-fragilis"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Amphilepidida"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "ophiotrichidae",
+    "rank": "family",
+    "name": "Ophiotrichidae",
+    "parentId": "amphilepidida",
+    "description": "Spiny-armed brittle stars.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-ophiothrix-fragilis"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Ophiotrichidae"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "ophiothrix",
+    "rank": "genus",
+    "name": "Ophiothrix",
+    "parentId": "ophiotrichidae",
+    "description": "Common brittle stars.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-ophiothrix-fragilis"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Ophiothrix"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "demospongiae",
+    "rank": "class",
+    "name": "Demospongiae",
+    "parentId": "porifera",
+    "description": "Siliceous sponges; most sponge diversity.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-halichondria-panicea"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Demospongiae"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "suberitida",
+    "rank": "order",
+    "name": "Suberitida",
+    "parentId": "demospongiae",
+    "description": "Encrusting and massive sponges.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-halichondria-panicea"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Suberitida"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "halichondriidae",
+    "rank": "family",
+    "name": "Halichondriidae",
+    "parentId": "suberitida",
+    "description": "Crumb sponges.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-halichondria-panicea"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Halichondriidae"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "halichondria",
+    "rank": "genus",
+    "name": "Halichondria",
+    "parentId": "halichondriidae",
+    "description": "Breadcrumb sponges.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-halichondria-panicea"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Halichondria"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "tentaculata",
+    "rank": "class",
+    "name": "Tentaculata",
+    "parentId": "ctenophora",
+    "description": "Tentacled comb jellies.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-pleurobrachia-pileus"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Tentaculata"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "cydippida",
+    "rank": "order",
+    "name": "Cydippida",
+    "parentId": "tentaculata",
+    "description": "Sea gooseberries and allies.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-pleurobrachia-pileus"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Cydippida"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "cydippidae",
+    "rank": "family",
+    "name": "Cydippidae",
+    "parentId": "cydippida",
+    "description": "Sea gooseberries.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-pleurobrachia-pileus"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Cydippidae"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "pleurobrachia",
+    "rank": "genus",
+    "name": "Pleurobrachia",
+    "parentId": "cydippidae",
+    "description": "Sea gooseberries.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-pleurobrachia-pileus"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Pleurobrachia"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "polychaeta",
+    "rank": "class",
+    "name": "Polychaeta",
+    "parentId": "annelida",
+    "description": "Bristle worms, mostly marine.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-arenicola-marina"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Polychaeta"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "arenicolidae",
+    "rank": "family",
+    "name": "Arenicolidae",
+    "parentId": "polychaeta",
+    "description": "Lugworms.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-arenicola-marina"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Arenicolidae"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "arenicola",
+    "rank": "genus",
+    "name": "Arenicola",
+    "parentId": "arenicolidae",
+    "description": "Lugworms.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-arenicola-marina"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Arenicola"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "enteropneusta",
+    "rank": "class",
+    "name": "Enteropneusta",
+    "parentId": "hemichordata",
+    "description": "Acorn worms.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-saccoglossus-kowalevskii"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Enteropneusta"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "harrimaniidae",
+    "rank": "family",
+    "name": "Harrimaniidae",
+    "parentId": "enteropneusta",
+    "description": "Direct-developing acorn worms.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-saccoglossus-kowalevskii"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Harrimaniidae"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "saccoglossus",
+    "rank": "genus",
+    "name": "Saccoglossus",
+    "parentId": "harrimaniidae",
+    "description": "Model acorn worms.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-saccoglossus-kowalevskii"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Saccoglossus"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "panulirus",
+    "rank": "genus",
+    "name": "Panulirus",
+    "parentId": "palinuridae",
+    "description": "Spiny lobsters.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-panulirus-argus"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Panulirus"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "palinuridae",
+    "rank": "family",
+    "name": "Palinuridae",
+    "parentId": "decapoda",
+    "description": "Spiny lobsters.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-panulirus-argus"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Palinuridae"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "apostichopus",
+    "rank": "genus",
+    "name": "Apostichopus",
+    "parentId": "stichopodidae",
+    "description": "North Pacific sea cucumbers.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-apostichopus-japonicus"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Apostichopus"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "stichopodidae",
+    "rank": "family",
+    "name": "Stichopodidae",
+    "parentId": "synallactida",
+    "description": "Spiky sea cucumbers.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-apostichopus-japonicus"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Stichopodidae"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "synallactida",
+    "rank": "order",
+    "name": "Synallactida",
+    "parentId": "holothuroidea",
+    "description": "Sea cucumbers including spiky and deep-sea forms.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-apostichopus-japonicus"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Synallactida"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "myopsida",
+    "rank": "order",
+    "name": "Myopsida",
+    "parentId": "cephalopoda",
+    "description": "Inshore squids.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-loligo-vulgaris"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Myopsida"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "holothuroidea",
+    "rank": "class",
+    "name": "Holothuroidea",
+    "parentId": "echinodermata",
+    "description": "Sea cucumbers.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-holothuria-scabra",
+      "sp-apostichopus-japonicus"
+    ],
+    "references": [
+      {
+        "title": "WoRMS: Holothuroidea"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "cuculiformes",
+    "rank": "order",
+    "name": "Cuculiformes",
+    "parentId": "aves",
+    "description": "Cuckoos, koels, malkohas and coucals; many are obligate brood parasites.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [],
+    "references": [
+      {
+        "title": "Grimmett, R., Inskipp, C. & Inskipp, T. 2011. Birds of the Indian Subcontinent, 2nd edition. Oxford University Press."
+      },
+      {
+        "title": "IUCN Red List of Threatened Species (BirdLife International assessments)"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-15T00:00:00Z",
+    "updatedAt": "2026-09-15T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "passeriformes",
+    "rank": "order",
+    "name": "Passeriformes",
+    "parentId": "aves",
+    "description": "Perching songbirds; the largest bird order, including crows, bulbuls, thrushes, starlings and sparrows.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [],
+    "references": [
+      {
+        "title": "Grimmett, R., Inskipp, C. & Inskipp, T. 2011. Birds of the Indian Subcontinent, 2nd edition. Oxford University Press."
+      },
+      {
+        "title": "IUCN Red List of Threatened Species (BirdLife International assessments)"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-15T00:00:00Z",
+    "updatedAt": "2026-09-15T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "coraciiformes",
+    "rank": "order",
+    "name": "Coraciiformes",
+    "parentId": "aves",
+    "description": "Kingfishers, bee-eaters and rollers (IUCN/BirdLife usage).",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [],
+    "references": [
+      {
+        "title": "Grimmett, R., Inskipp, C. & Inskipp, T. 2011. Birds of the Indian Subcontinent, 2nd edition. Oxford University Press."
+      },
+      {
+        "title": "IUCN Red List of Threatened Species (BirdLife International assessments)"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-15T00:00:00Z",
+    "updatedAt": "2026-09-15T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "pelecaniformes",
+    "rank": "order",
+    "name": "Pelecaniformes",
+    "parentId": "aves",
+    "description": "Herons, egrets, ibises and pelicans (IUCN/BirdLife usage).",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [],
+    "references": [
+      {
+        "title": "Grimmett, R., Inskipp, C. & Inskipp, T. 2011. Birds of the Indian Subcontinent, 2nd edition. Oxford University Press."
+      },
+      {
+        "title": "IUCN Red List of Threatened Species (BirdLife International assessments)"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-15T00:00:00Z",
+    "updatedAt": "2026-09-15T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "columbiformes",
+    "rank": "order",
+    "name": "Columbiformes",
+    "parentId": "aves",
+    "description": "Pigeons and doves.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [],
+    "references": [
+      {
+        "title": "Grimmett, R., Inskipp, C. & Inskipp, T. 2011. Birds of the Indian Subcontinent, 2nd edition. Oxford University Press."
+      },
+      {
+        "title": "IUCN Red List of Threatened Species (BirdLife International assessments)"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-15T00:00:00Z",
+    "updatedAt": "2026-09-15T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "cuculidae",
+    "rank": "family",
+    "name": "Cuculidae",
+    "parentId": "cuculiformes",
+    "description": "Cuckoos, including the Asian Koel.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-eudynamys-scolopaceus"
+    ],
+    "references": [
+      {
+        "title": "Grimmett, R., Inskipp, C. & Inskipp, T. 2011. Birds of the Indian Subcontinent, 2nd edition. Oxford University Press."
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-15T00:00:00Z",
+    "updatedAt": "2026-09-15T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "corvidae",
+    "rank": "family",
+    "name": "Corvidae",
+    "parentId": "passeriformes",
+    "description": "Crows, ravens, magpies and jays; noted for intelligence.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-corvus-splendens"
+    ],
+    "references": [
+      {
+        "title": "Grimmett, R., Inskipp, C. & Inskipp, T. 2011. Birds of the Indian Subcontinent, 2nd edition. Oxford University Press."
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-15T00:00:00Z",
+    "updatedAt": "2026-09-15T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "alcedinidae",
+    "rank": "family",
+    "name": "Alcedinidae",
+    "parentId": "coraciiformes",
+    "description": "River kingfishers, including Alcedo and Halcyon.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-alcedo-atthis",
+      "sp-halcyon-smyrnensis"
+    ],
+    "references": [
+      {
+        "title": "Grimmett, R., Inskipp, C. & Inskipp, T. 2011. Birds of the Indian Subcontinent, 2nd edition. Oxford University Press."
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-15T00:00:00Z",
+    "updatedAt": "2026-09-15T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "ardeidae",
+    "rank": "family",
+    "name": "Ardeidae",
+    "parentId": "pelecaniformes",
+    "description": "Herons, egrets and bitterns.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-ardea-coromanda",
+      "sp-ardeola-grayii"
+    ],
+    "references": [
+      {
+        "title": "Grimmett, R., Inskipp, C. & Inskipp, T. 2011. Birds of the Indian Subcontinent, 2nd edition. Oxford University Press."
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-15T00:00:00Z",
+    "updatedAt": "2026-09-15T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "pycnonotidae",
+    "rank": "family",
+    "name": "Pycnonotidae",
+    "parentId": "passeriformes",
+    "description": "Bulbuls.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-pycnonotus-cafer"
+    ],
+    "references": [
+      {
+        "title": "Grimmett, R., Inskipp, C. & Inskipp, T. 2011. Birds of the Indian Subcontinent, 2nd edition. Oxford University Press."
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-15T00:00:00Z",
+    "updatedAt": "2026-09-15T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "muscicapidae",
+    "rank": "family",
+    "name": "Muscicapidae",
+    "parentId": "passeriformes",
+    "description": "Old World flycatchers, chats and robins, including the magpie-robins.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-copsychus-saularis"
+    ],
+    "references": [
+      {
+        "title": "Grimmett, R., Inskipp, C. & Inskipp, T. 2011. Birds of the Indian Subcontinent, 2nd edition. Oxford University Press."
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-15T00:00:00Z",
+    "updatedAt": "2026-09-15T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "dicruridae",
+    "rank": "family",
+    "name": "Dicruridae",
+    "parentId": "passeriformes",
+    "description": "Drongos; aggressive aerial insectivores.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-dicrurus-macrocercus"
+    ],
+    "references": [
+      {
+        "title": "Grimmett, R., Inskipp, C. & Inskipp, T. 2011. Birds of the Indian Subcontinent, 2nd edition. Oxford University Press."
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-15T00:00:00Z",
+    "updatedAt": "2026-09-15T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "sturnidae",
+    "rank": "family",
+    "name": "Sturnidae",
+    "parentId": "passeriformes",
+    "description": "Starlings and mynas.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-acridotheres-tristis"
+    ],
+    "references": [
+      {
+        "title": "Grimmett, R., Inskipp, C. & Inskipp, T. 2011. Birds of the Indian Subcontinent, 2nd edition. Oxford University Press."
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-15T00:00:00Z",
+    "updatedAt": "2026-09-15T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "passeridae",
+    "rank": "family",
+    "name": "Passeridae",
+    "parentId": "passeriformes",
+    "description": "True sparrows.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-passer-domesticus"
+    ],
+    "references": [
+      {
+        "title": "Grimmett, R., Inskipp, C. & Inskipp, T. 2011. Birds of the Indian Subcontinent, 2nd edition. Oxford University Press."
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-15T00:00:00Z",
+    "updatedAt": "2026-09-15T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "columbidae",
+    "rank": "family",
+    "name": "Columbidae",
+    "parentId": "columbiformes",
+    "description": "Pigeons and doves, including Spilopelia.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-spilopelia-chinensis"
+    ],
+    "references": [
+      {
+        "title": "Grimmett, R., Inskipp, C. & Inskipp, T. 2011. Birds of the Indian Subcontinent, 2nd edition. Oxford University Press."
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-15T00:00:00Z",
+    "updatedAt": "2026-09-15T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "eudynamys",
+    "rank": "genus",
+    "name": "Eudynamys",
+    "parentId": "cuculidae",
+    "description": "Koels, including the Asian Koel.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-eudynamys-scolopaceus"
+    ],
+    "references": [
+      {
+        "title": "Grimmett, R., Inskipp, C. & Inskipp, T. 2011. Birds of the Indian Subcontinent, 2nd edition. Oxford University Press."
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-15T00:00:00Z",
+    "updatedAt": "2026-09-15T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "corvus",
+    "rank": "genus",
+    "name": "Corvus",
+    "parentId": "corvidae",
+    "description": "Crows and ravens, including the House Crow.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-corvus-splendens"
+    ],
+    "references": [
+      {
+        "title": "Grimmett, R., Inskipp, C. & Inskipp, T. 2011. Birds of the Indian Subcontinent, 2nd edition. Oxford University Press."
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-15T00:00:00Z",
+    "updatedAt": "2026-09-15T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "alcedo",
+    "rank": "genus",
+    "name": "Alcedo",
+    "parentId": "alcedinidae",
+    "description": "Small river kingfishers, including the Common Kingfisher.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-alcedo-atthis"
+    ],
+    "references": [
+      {
+        "title": "Grimmett, R., Inskipp, C. & Inskipp, T. 2011. Birds of the Indian Subcontinent, 2nd edition. Oxford University Press."
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-15T00:00:00Z",
+    "updatedAt": "2026-09-15T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "ardea",
+    "rank": "genus",
+    "name": "Ardea",
+    "parentId": "ardeidae",
+    "description": "Large herons and the cattle-egrets (Ardea ibis / A. coromanda split).",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-ardea-coromanda"
+    ],
+    "references": [
+      {
+        "title": "Grimmett, R., Inskipp, C. & Inskipp, T. 2011. Birds of the Indian Subcontinent, 2nd edition. Oxford University Press."
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-15T00:00:00Z",
+    "updatedAt": "2026-09-15T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "pycnonotus",
+    "rank": "genus",
+    "name": "Pycnonotus",
+    "parentId": "pycnonotidae",
+    "description": "Typical bulbuls, including the Red-vented Bulbul.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-pycnonotus-cafer"
+    ],
+    "references": [
+      {
+        "title": "Grimmett, R., Inskipp, C. & Inskipp, T. 2011. Birds of the Indian Subcontinent, 2nd edition. Oxford University Press."
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-15T00:00:00Z",
+    "updatedAt": "2026-09-15T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "copsychus",
+    "rank": "genus",
+    "name": "Copsychus",
+    "parentId": "muscicapidae",
+    "description": "Magpie-robins and shamas, including the Oriental Magpie-Robin.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-copsychus-saularis"
+    ],
+    "references": [
+      {
+        "title": "Grimmett, R., Inskipp, C. & Inskipp, T. 2011. Birds of the Indian Subcontinent, 2nd edition. Oxford University Press."
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-15T00:00:00Z",
+    "updatedAt": "2026-09-15T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "ardeola",
+    "rank": "genus",
+    "name": "Ardeola",
+    "parentId": "ardeidae",
+    "description": "Pond-herons, including the Indian Pond-Heron.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-ardeola-grayii"
+    ],
+    "references": [
+      {
+        "title": "Grimmett, R., Inskipp, C. & Inskipp, T. 2011. Birds of the Indian Subcontinent, 2nd edition. Oxford University Press."
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-15T00:00:00Z",
+    "updatedAt": "2026-09-15T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "halcyon",
+    "rank": "genus",
+    "name": "Halcyon",
+    "parentId": "alcedinidae",
+    "description": "Tree kingfishers, including the White-throated Kingfisher.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-halcyon-smyrnensis"
+    ],
+    "references": [
+      {
+        "title": "Grimmett, R., Inskipp, C. & Inskipp, T. 2011. Birds of the Indian Subcontinent, 2nd edition. Oxford University Press."
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-15T00:00:00Z",
+    "updatedAt": "2026-09-15T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "dicrurus",
+    "rank": "genus",
+    "name": "Dicrurus",
+    "parentId": "dicruridae",
+    "description": "Drongos, including the Black Drongo.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-dicrurus-macrocercus"
+    ],
+    "references": [
+      {
+        "title": "Grimmett, R., Inskipp, C. & Inskipp, T. 2011. Birds of the Indian Subcontinent, 2nd edition. Oxford University Press."
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-15T00:00:00Z",
+    "updatedAt": "2026-09-15T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "acridotheres",
+    "rank": "genus",
+    "name": "Acridotheres",
+    "parentId": "sturnidae",
+    "description": "Typical mynas, including the Common Myna.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-acridotheres-tristis"
+    ],
+    "references": [
+      {
+        "title": "Grimmett, R., Inskipp, C. & Inskipp, T. 2011. Birds of the Indian Subcontinent, 2nd edition. Oxford University Press."
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-15T00:00:00Z",
+    "updatedAt": "2026-09-15T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "passer",
+    "rank": "genus",
+    "name": "Passer",
+    "parentId": "passeridae",
+    "description": "True sparrows, including the House Sparrow.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-passer-domesticus"
+    ],
+    "references": [
+      {
+        "title": "Grimmett, R., Inskipp, C. & Inskipp, T. 2011. Birds of the Indian Subcontinent, 2nd edition. Oxford University Press."
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-15T00:00:00Z",
+    "updatedAt": "2026-09-15T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "spilopelia",
+    "rank": "genus",
+    "name": "Spilopelia",
+    "parentId": "columbidae",
+    "description": "Spotted doves, split from Streptopelia.",
+    "keyCharacteristics": [],
+    "diagnosticFeatures": [],
+    "representativeSpeciesIds": [
+      "sp-spilopelia-chinensis"
+    ],
+    "references": [
+      {
+        "title": "Grimmett, R., Inskipp, C. & Inskipp, T. 2011. Birds of the Indian Subcontinent, 2nd edition. Oxford University Press."
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-15T00:00:00Z",
+    "updatedAt": "2026-09-15T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "primates",
+    "rank": "order",
+    "name": "Primates",
+    "bengaliName": "প্রাইমেট",
+    "parentId": "mammalia",
+    "description": "Monkeys, apes, lorises and kin: forward-facing eyes, grasping hands and large brains.",
+    "keyCharacteristics": [
+      "Forward-facing eyes with stereoscopic vision",
+      "Grasping hands and feet with nails",
+      "Large brain relative to body size"
+    ],
+    "diagnosticFeatures": [
+      "Single pair of mammary glands on chest",
+      "Extended parental care"
+    ],
+    "representativeSpeciesIds": [
+      "sp-hoolock-hoolock",
+      "sp-macaca-mulatta"
+    ],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-17T00:00:00Z",
+    "updatedAt": "2026-09-17T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "chiroptera",
+    "rank": "order",
+    "name": "Chiroptera",
+    "bengaliName": "বাদুড়",
+    "parentId": "mammalia",
+    "description": "Bats: the only mammals capable of powered flight.",
+    "keyCharacteristics": [
+      "Forelimbs modified into membranous wings",
+      "Many use echolocation for night navigation",
+      "Hind limbs rotated for roosting head-down"
+    ],
+    "diagnosticFeatures": [
+      "Single offspring typical in many species",
+      "Long-lived for small body size"
+    ],
+    "representativeSpeciesIds": [
+      "sp-cynopterus-sphinx"
+    ],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-17T00:00:00Z",
+    "updatedAt": "2026-09-17T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "hylobatidae",
+    "rank": "family",
+    "name": "Hylobatidae",
+    "bengaliName": "গিবন পরিবার",
+    "parentId": "primates",
+    "description": "Gibbons: small tailless apes of Asian canopies.",
+    "keyCharacteristics": [
+      "No tail; extremely long arms",
+      "Territorial singing duets"
+    ],
+    "diagnosticFeatures": [
+      "Ischial callosities absent"
+    ],
+    "representativeSpeciesIds": [
+      "sp-hoolock-hoolock"
+    ],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-17T00:00:00Z",
+    "updatedAt": "2026-09-17T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "mustelidae",
+    "rank": "family",
+    "name": "Mustelidae",
+    "bengaliName": "ভোঁদড় পরিবার",
+    "parentId": "carnivora",
+    "description": "Weasels, otters and kin: elongated carnivorans, many semi-aquatic.",
+    "keyCharacteristics": [
+      "Elongated body with short legs",
+      "Scent glands well developed"
+    ],
+    "diagnosticFeatures": [
+      "Five toes on each foot"
+    ],
+    "representativeSpeciesIds": [
+      "sp-lutrogale-perspicillata",
+      "sp-aonyx-cinereus"
+    ],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-17T00:00:00Z",
+    "updatedAt": "2026-09-17T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "cercopithecidae",
+    "rank": "family",
+    "name": "Cercopithecidae",
+    "bengaliName": "বানর পরিবার",
+    "parentId": "primates",
+    "description": "Old World monkeys: macaques and kin with cheek pouches.",
+    "keyCharacteristics": [
+      "Cheek pouches for storing food",
+      "Non-prehensile tails"
+    ],
+    "diagnosticFeatures": [
+      "Ischial callosities in many species"
+    ],
+    "representativeSpeciesIds": [
+      "sp-macaca-mulatta",
+      "sp-macaca-assamensis"
+    ],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-17T00:00:00Z",
+    "updatedAt": "2026-09-17T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "pteropodidae",
+    "rank": "family",
+    "name": "Pteropodidae",
+    "bengaliName": "বাদুড় পরিবার",
+    "parentId": "chiroptera",
+    "description": "Fruit bats: large-eyed flying foxes and kin that navigate by sight and smell.",
+    "keyCharacteristics": [
+      "Large eyes; no echolocation in most",
+      "Dog-like muzzle"
+    ],
+    "diagnosticFeatures": [
+      "Claw on second finger"
+    ],
+    "representativeSpeciesIds": [
+      "sp-cynopterus-sphinx"
+    ],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-17T00:00:00Z",
+    "updatedAt": "2026-09-17T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "lorisidae",
+    "rank": "family",
+    "name": "Lorisidae",
+    "bengaliName": "লরিস পরিবার",
+    "parentId": "primates",
+    "description": "Lorises: slow nocturnal primates with venomous bite in some species.",
+    "keyCharacteristics": [
+      "Huge forward-facing eyes",
+      "Vestigial tail"
+    ],
+    "diagnosticFeatures": [
+      "Toothcomb for grooming"
+    ],
+    "representativeSpeciesIds": [
+      "sp-nycticebus-bengalensis"
+    ],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-17T00:00:00Z",
+    "updatedAt": "2026-09-17T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "hoolock",
+    "rank": "genus",
+    "name": "Hoolock",
+    "bengaliName": "হুলক",
+    "parentId": "hylobatidae",
+    "description": "Hoolock gibbons of Northeast South Asia.",
+    "keyCharacteristics": [
+      "White brow band",
+      "No tail"
+    ],
+    "diagnosticFeatures": [
+      "Duet singing"
+    ],
+    "representativeSpeciesIds": [
+      "sp-hoolock-hoolock"
+    ],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-17T00:00:00Z",
+    "updatedAt": "2026-09-17T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "lutrogale",
+    "rank": "genus",
+    "name": "Lutrogale",
+    "bengaliName": "লুট্রোগেল",
+    "parentId": "mustelidae",
+    "description": "Smooth-coated otters of Asian wetlands.",
+    "keyCharacteristics": [
+      "Smooth velvety pelage",
+      "Highly social groups"
+    ],
+    "diagnosticFeatures": [
+      "Rounded head profile"
+    ],
+    "representativeSpeciesIds": [
+      "sp-lutrogale-perspicillata"
+    ],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-17T00:00:00Z",
+    "updatedAt": "2026-09-17T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "aonyx",
+    "rank": "genus",
+    "name": "Aonyx",
+    "bengaliName": "অনিক্স",
+    "parentId": "mustelidae",
+    "description": "Clawless and small-clawed otters.",
+    "keyCharacteristics": [
+      "Short blunt claws",
+      "Dexterous forepaws"
+    ],
+    "diagnosticFeatures": [
+      "Partly webbed feet"
+    ],
+    "representativeSpeciesIds": [
+      "sp-aonyx-cinereus"
+    ],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-17T00:00:00Z",
+    "updatedAt": "2026-09-17T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "prionailurus",
+    "rank": "genus",
+    "name": "Prionailurus",
+    "bengaliName": "প্রিওনাইলুরাস",
+    "parentId": "felidae",
+    "description": "Small spotted cats of Asia, several wetland-associated.",
+    "keyCharacteristics": [
+      "Spotted coat",
+      "Partially webbed feet in some"
+    ],
+    "diagnosticFeatures": [
+      "Round pupils"
+    ],
+    "representativeSpeciesIds": [
+      "sp-prionailurus-bengalensis"
+    ],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-17T00:00:00Z",
+    "updatedAt": "2026-09-17T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "canis",
+    "rank": "genus",
+    "name": "Canis",
+    "bengaliName": "ক্যানিস",
+    "parentId": "canidae",
+    "description": "Jackals, wolves, coyotes and domestic dog.",
+    "keyCharacteristics": [
+      "Long muzzle with 42 teeth",
+      "Bushy tail"
+    ],
+    "diagnosticFeatures": [
+      "Digitigrade stance"
+    ],
+    "representativeSpeciesIds": [
+      "sp-canis-aureus"
+    ],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-17T00:00:00Z",
+    "updatedAt": "2026-09-17T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "macaca",
+    "rank": "genus",
+    "name": "Macaca",
+    "bengaliName": "ম্যাকাকা",
+    "parentId": "cercopithecidae",
+    "description": "Macaques: adaptable Old World monkeys.",
+    "keyCharacteristics": [
+      "Cheek pouches",
+      "Medium tail"
+    ],
+    "diagnosticFeatures": [
+      "Troop social system"
+    ],
+    "representativeSpeciesIds": [
+      "sp-macaca-mulatta",
+      "sp-macaca-assamensis"
+    ],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-17T00:00:00Z",
+    "updatedAt": "2026-09-17T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "cynopterus",
+    "rank": "genus",
+    "name": "Cynopterus",
+    "bengaliName": "সাইনোপ্টেরাস",
+    "parentId": "pteropodidae",
+    "description": "Short-nosed fruit bats of orchards and forest edge.",
+    "keyCharacteristics": [
+      "Short dog-like muzzle",
+      "Pale ear margins"
+    ],
+    "diagnosticFeatures": [
+      "Leaf-tent roosting"
+    ],
+    "representativeSpeciesIds": [
+      "sp-cynopterus-sphinx"
+    ],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-17T00:00:00Z",
+    "updatedAt": "2026-09-17T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "nycticebus",
+    "rank": "genus",
+    "name": "Nycticebus",
+    "bengaliName": "নিক্টিসেবাস",
+    "parentId": "lorisidae",
+    "description": "Slow lorises: venomous nocturnal primates.",
+    "keyCharacteristics": [
+      "Enormous eyes",
+      "Brachial venom gland"
+    ],
+    "diagnosticFeatures": [
+      "Slow deliberate climbing"
+    ],
+    "representativeSpeciesIds": [
+      "sp-nycticebus-bengalensis"
+    ],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-17T00:00:00Z",
+    "updatedAt": "2026-09-17T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "crocodilia",
+    "rank": "order",
+    "name": "Crocodilia",
+    "bengaliName": "কুমির",
+    "parentId": "reptilia",
+    "description": "Crocodilians: armoured semi-aquatic archosaurs.",
+    "keyCharacteristics": [
+      "Armoured bony scutes",
+      "Four-chambered heart"
+    ],
+    "diagnosticFeatures": [
+      "Secondary palate for breathing while submerged"
+    ],
+    "representativeSpeciesIds": [
+      "sp-gavialis-gangeticus"
+    ],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-17T00:00:00Z",
+    "updatedAt": "2026-09-17T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "pythonidae",
+    "rank": "family",
+    "name": "Pythonidae",
+    "bengaliName": "অজগর পরিবার",
+    "parentId": "squamata",
+    "description": "Pythons: giant non-venomous constrictors with heat pits.",
+    "keyCharacteristics": [
+      "Labial heat-sensing pits",
+      "Kill by constriction"
+    ],
+    "diagnosticFeatures": [
+      "Vestigial pelvic spurs"
+    ],
+    "representativeSpeciesIds": [
+      "sp-python-bivittatus"
+    ],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-17T00:00:00Z",
+    "updatedAt": "2026-09-17T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "colubridae",
+    "rank": "family",
+    "name": "Colubridae",
+    "bengaliName": "ঢোঁড়া পরিবার",
+    "parentId": "squamata",
+    "description": "Colubrids: the largest snake family, mostly harmless.",
+    "keyCharacteristics": [
+      "Highly diverse ecology",
+      "Mostly non-venomous"
+    ],
+    "diagnosticFeatures": [
+      "Large head scales in regular pattern"
+    ],
+    "representativeSpeciesIds": [],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-17T00:00:00Z",
+    "updatedAt": "2026-09-17T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "geoemydidae",
+    "rank": "family",
+    "name": "Geoemydidae",
+    "bengaliName": "কাছিম পরিবার",
+    "parentId": "testudines",
+    "description": "Asian river turtles and tortoises.",
+    "keyCharacteristics": [
+      "Hard domed shells",
+      "Strong swimming limbs or elephantine legs"
+    ],
+    "diagnosticFeatures": [
+      "Twelve plastral scutes typical"
+    ],
+    "representativeSpeciesIds": [
+      "sp-pangshura-tecta",
+      "sp-geoclemys-hamiltonii"
+    ],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-17T00:00:00Z",
+    "updatedAt": "2026-09-17T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "gavialidae",
+    "rank": "family",
+    "name": "Gavialidae",
+    "bengaliName": "ঘড়িয়াল পরিবার",
+    "parentId": "crocodilia",
+    "description": "Gharials: long-snouted fish-eating crocodilians.",
+    "keyCharacteristics": [
+      "Extremely narrow snout",
+      "Male nasal knob"
+    ],
+    "diagnosticFeatures": [
+      "Webbed hind feet"
+    ],
+    "representativeSpeciesIds": [
+      "sp-gavialis-gangeticus"
+    ],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-17T00:00:00Z",
+    "updatedAt": "2026-09-17T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "python",
+    "rank": "genus",
+    "name": "Python",
+    "bengaliName": "পাইথন",
+    "parentId": "pythonidae",
+    "description": "True pythons of Africa and Asia.",
+    "keyCharacteristics": [
+      "Heat pits",
+      "Large size"
+    ],
+    "diagnosticFeatures": [
+      "Arrowhead head marking"
+    ],
+    "representativeSpeciesIds": [
+      "sp-python-bivittatus"
+    ],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-17T00:00:00Z",
+    "updatedAt": "2026-09-17T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "bungarus",
+    "rank": "genus",
+    "name": "Bungarus",
+    "bengaliName": "বাংগারাস",
+    "parentId": "elapidae",
+    "description": "Kraits: banded nocturnal elapids.",
+    "keyCharacteristics": [
+      "Enlarged vertebral scales",
+      "Paired pale bands"
+    ],
+    "diagnosticFeatures": [
+      "Small head barely distinct from neck"
+    ],
+    "representativeSpeciesIds": [
+      "sp-bungarus-caeruleus"
+    ],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-17T00:00:00Z",
+    "updatedAt": "2026-09-17T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "naja",
+    "rank": "genus",
+    "name": "Naja",
+    "bengaliName": "নাজা",
+    "parentId": "elapidae",
+    "description": "True cobras with hooding display.",
+    "keyCharacteristics": [
+      "Expandable hood",
+      "Fixed front fangs"
+    ],
+    "diagnosticFeatures": [
+      "Spectacle or monocle marks"
+    ],
+    "representativeSpeciesIds": [
+      "sp-naja-naja",
+      "sp-naja-kaouthia"
+    ],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-17T00:00:00Z",
+    "updatedAt": "2026-09-17T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "ophiophagus",
+    "rank": "genus",
+    "name": "Ophiophagus",
+    "bengaliName": "অফিওফ্যাগাস",
+    "parentId": "elapidae",
+    "description": "King cobra: the snake-eating giant.",
+    "keyCharacteristics": [
+      "Nest building",
+      "Narrow hood"
+    ],
+    "diagnosticFeatures": [
+      "Olive banding"
+    ],
+    "representativeSpeciesIds": [
+      "sp-ophiophagus-hannah"
+    ],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-17T00:00:00Z",
+    "updatedAt": "2026-09-17T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "pangshura",
+    "rank": "genus",
+    "name": "Pangshura",
+    "bengaliName": "পাংশুরা",
+    "parentId": "geoemydidae",
+    "description": "Roofed turtles of South Asian rivers.",
+    "keyCharacteristics": [
+      "Elevated tectiform shell",
+      "Red head markings"
+    ],
+    "diagnosticFeatures": [
+      "Serrated rear margin"
+    ],
+    "representativeSpeciesIds": [
+      "sp-pangshura-tecta"
+    ],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-17T00:00:00Z",
+    "updatedAt": "2026-09-17T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "geoclemys",
+    "rank": "genus",
+    "name": "Geoclemys",
+    "bengaliName": "জিওক্লেমিস",
+    "parentId": "geoemydidae",
+    "description": "Spotted pond turtles.",
+    "keyCharacteristics": [
+      "Yellow-spotted black shell",
+      "Serrated carapace"
+    ],
+    "diagnosticFeatures": [
+      "Strongly webbed feet"
+    ],
+    "representativeSpeciesIds": [
+      "sp-geoclemys-hamiltonii"
+    ],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-17T00:00:00Z",
+    "updatedAt": "2026-09-17T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "gavialis",
+    "rank": "genus",
+    "name": "Gavialis",
+    "bengaliName": "গ্যাভিয়ালিস",
+    "parentId": "gavialidae",
+    "description": "Gharials.",
+    "keyCharacteristics": [
+      "Longest narrowest snout",
+      "Male knob"
+    ],
+    "diagnosticFeatures": [
+      "Fish-specialist dentition"
+    ],
+    "representativeSpeciesIds": [
+      "sp-gavialis-gangeticus"
+    ],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-17T00:00:00Z",
+    "updatedAt": "2026-09-17T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "amphibia",
+    "rank": "class",
+    "name": "Amphibia",
+    "bengaliName": "উভচর",
+    "parentId": "chordata",
+    "description": "Amphibians: vertebrates living part of life in water and part on land.",
+    "keyCharacteristics": [
+      "Moist permeable skin",
+      "Typically aquatic larvae, terrestrial adults",
+      "Three-chambered heart"
+    ],
+    "diagnosticFeatures": [
+      "Eggs without shells laid in water"
+    ],
+    "representativeSpeciesIds": [],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-17T00:00:00Z",
+    "updatedAt": "2026-09-17T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "anura",
+    "rank": "order",
+    "name": "Anura",
+    "bengaliName": "ব্যাঙ",
+    "parentId": "amphibia",
+    "description": "Frogs and toads: tailless jumping amphibians.",
+    "keyCharacteristics": [
+      "No tail in adults",
+      "Powerful hind limbs for jumping"
+    ],
+    "diagnosticFeatures": [
+      "Vocal sacs in calling males"
+    ],
+    "representativeSpeciesIds": [
+      "sp-duttaphrynus-melanostictus",
+      "sp-hoplobatrachus-tigerinus"
+    ],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-17T00:00:00Z",
+    "updatedAt": "2026-09-17T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "bufonidae",
+    "rank": "family",
+    "name": "Bufonidae",
+    "bengaliName": "কুনো ব্যাঙ পরিবার",
+    "parentId": "anura",
+    "description": "True toads: warty, parotoid-glanded amphibians.",
+    "keyCharacteristics": [
+      "Dry warty skin",
+      "Parotoid glands behind eyes"
+    ],
+    "diagnosticFeatures": [
+      "No teeth"
+    ],
+    "representativeSpeciesIds": [
+      "sp-duttaphrynus-melanostictus"
+    ],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-17T00:00:00Z",
+    "updatedAt": "2026-09-17T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "dicroglossidae",
+    "rank": "family",
+    "name": "Dicroglossidae",
+    "bengaliName": "পানি ব্যাঙ পরিবার",
+    "parentId": "anura",
+    "description": "Fork-tongued frogs of Asian wetlands and paddies.",
+    "keyCharacteristics": [
+      "Aquatic habits",
+      "Forked tongue"
+    ],
+    "diagnosticFeatures": [
+      "Vomerine teeth present"
+    ],
+    "representativeSpeciesIds": [
+      "sp-hoplobatrachus-tigerinus",
+      "sp-euphlyctis-cyanophlyctis",
+      "sp-euphlyctis-hexadactylus"
+    ],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-17T00:00:00Z",
+    "updatedAt": "2026-09-17T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "microhylidae",
+    "rank": "family",
+    "name": "Microhylidae",
+    "bengaliName": "ছোট ব্যাঙ পরিবার",
+    "parentId": "anura",
+    "description": "Narrow-mouthed frogs: tiny round ant-eaters.",
+    "keyCharacteristics": [
+      "Narrow mouth",
+      "Round body"
+    ],
+    "diagnosticFeatures": [
+      "Burrowing habit"
+    ],
+    "representativeSpeciesIds": [
+      "sp-microhyla-ornata"
+    ],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-17T00:00:00Z",
+    "updatedAt": "2026-09-17T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "rhacophoridae",
+    "rank": "family",
+    "name": "Rhacophoridae",
+    "bengaliName": "গেছো ব্যাঙ পরিবার",
+    "parentId": "anura",
+    "description": "Tree frogs with adhesive toe pads and foam nests.",
+    "keyCharacteristics": [
+      "Expanded toe discs",
+      "Foam-nest breeding"
+    ],
+    "diagnosticFeatures": [
+      "Intercalary cartilage in digits"
+    ],
+    "representativeSpeciesIds": [
+      "sp-polypedates-maculatus"
+    ],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-17T00:00:00Z",
+    "updatedAt": "2026-09-17T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "duttaphrynus",
+    "rank": "genus",
+    "name": "Duttaphrynus",
+    "bengaliName": "ডুট্টাফ্রাইনাস",
+    "parentId": "bufonidae",
+    "description": "Asian common toads.",
+    "keyCharacteristics": [
+      "Cranial crests",
+      "Black-tipped warts"
+    ],
+    "diagnosticFeatures": [
+      "Large parotoid glands"
+    ],
+    "representativeSpeciesIds": [
+      "sp-duttaphrynus-melanostictus"
+    ],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-17T00:00:00Z",
+    "updatedAt": "2026-09-17T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "hoplobatrachus",
+    "rank": "genus",
+    "name": "Hoplobatrachus",
+    "bengaliName": "হপ্লোব্যাট্রাকাস",
+    "parentId": "dicroglossidae",
+    "description": "Bullfrogs and crowned bullfrogs.",
+    "keyCharacteristics": [
+      "Very large size",
+      "Tiger striping in youth"
+    ],
+    "diagnosticFeatures": [
+      "Males yellow in breeding season"
+    ],
+    "representativeSpeciesIds": [
+      "sp-hoplobatrachus-tigerinus"
+    ],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-17T00:00:00Z",
+    "updatedAt": "2026-09-17T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "euphlyctis",
+    "rank": "genus",
+    "name": "Euphlyctis",
+    "bengaliName": "ইউফ্লিক্টিস",
+    "parentId": "dicroglossidae",
+    "description": "Skittering and pond frogs.",
+    "keyCharacteristics": [
+      "Webbed hind feet",
+      "Surface-skimming habit"
+    ],
+    "diagnosticFeatures": [
+      "Smooth green-brown skin"
+    ],
+    "representativeSpeciesIds": [
+      "sp-euphlyctis-cyanophlyctis",
+      "sp-euphlyctis-hexadactylus"
+    ],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-17T00:00:00Z",
+    "updatedAt": "2026-09-17T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "microhyla",
+    "rank": "genus",
+    "name": "Microhyla",
+    "bengaliName": "মাইক্রোহাইলা",
+    "parentId": "microhylidae",
+    "description": "Narrow-mouthed frogs.",
+    "keyCharacteristics": [
+      "Minute size",
+      "Marbled back"
+    ],
+    "diagnosticFeatures": [
+      "Ant diet"
+    ],
+    "representativeSpeciesIds": [
+      "sp-microhyla-ornata"
+    ],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-17T00:00:00Z",
+    "updatedAt": "2026-09-17T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "polypedates",
+    "rank": "genus",
+    "name": "Polypedates",
+    "bengaliName": "পলিপেডেটিস",
+    "parentId": "rhacophoridae",
+    "description": "Whippping and tree frogs of Asia.",
+    "keyCharacteristics": [
+      "Toe discs",
+      "Foam nests"
+    ],
+    "diagnosticFeatures": [
+      "Slender body"
+    ],
+    "representativeSpeciesIds": [
+      "sp-polypedates-maculatus"
+    ],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-17T00:00:00Z",
+    "updatedAt": "2026-09-17T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "insecta",
+    "rank": "class",
+    "name": "Insecta",
+    "bengaliName": "পতঙ্গ",
+    "parentId": "arthropoda",
+    "description": "Insects: six-legged arthropods, the most diverse animal group.",
+    "keyCharacteristics": [
+      "Three body regions with six legs",
+      "Usually two pairs of wings",
+      "Chitinous exoskeleton"
+    ],
+    "diagnosticFeatures": [
+      "Single pair of antennae"
+    ],
+    "representativeSpeciesIds": [],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-17T00:00:00Z",
+    "updatedAt": "2026-09-17T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "lepidoptera",
+    "rank": "order",
+    "name": "Lepidoptera",
+    "bengaliName": "প্রজাপতি",
+    "parentId": "insecta",
+    "description": "Butterflies and moths: scaled-wing insects.",
+    "keyCharacteristics": [
+      "Wings covered in scales",
+      "Coiled siphoning proboscis"
+    ],
+    "diagnosticFeatures": [
+      "Complete metamorphosis"
+    ],
+    "representativeSpeciesIds": [
+      "sp-papilio-polytes",
+      "sp-danaus-chrysippus"
+    ],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-17T00:00:00Z",
+    "updatedAt": "2026-09-17T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "papilionidae",
+    "rank": "family",
+    "name": "Papilionidae",
+    "bengaliName": "সোয়ালোটেইল পরিবার",
+    "parentId": "lepidoptera",
+    "description": "Swallowtails: large butterflies, many tailed.",
+    "keyCharacteristics": [
+      "Often tailed hindwings",
+      "Osmeterium in larvae"
+    ],
+    "diagnosticFeatures": [
+      "Six functional legs"
+    ],
+    "representativeSpeciesIds": [
+      "sp-papilio-polytes",
+      "sp-papilio-demoleus"
+    ],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-17T00:00:00Z",
+    "updatedAt": "2026-09-17T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "nymphalidae",
+    "rank": "family",
+    "name": "Nymphalidae",
+    "bengaliName": "ব্রাশফুট পরিবার",
+    "parentId": "lepidoptera",
+    "description": "Brush-footed butterflies: the largest family.",
+    "keyCharacteristics": [
+      "Reduced brush-like forelegs",
+      "Many unpalatable models"
+    ],
+    "diagnosticFeatures": [
+      "Four walking legs"
+    ],
+    "representativeSpeciesIds": [
+      "sp-danaus-chrysippus",
+      "sp-tirumala-limniace",
+      "sp-euploea-core"
+    ],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-17T00:00:00Z",
+    "updatedAt": "2026-09-17T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "pieridae",
+    "rank": "family",
+    "name": "Pieridae",
+    "bengaliName": "সাদা-হলুদ পরিবার",
+    "parentId": "lepidoptera",
+    "description": "Whites and yellows: pierid butterflies.",
+    "keyCharacteristics": [
+      "White or yellow wings common",
+      "Mustard-oil hosts in many"
+    ],
+    "diagnosticFeatures": [
+      "Slender clubbed antennae"
+    ],
+    "representativeSpeciesIds": [
+      "sp-delias-eucharis",
+      "sp-eurema-hecabe"
+    ],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-17T00:00:00Z",
+    "updatedAt": "2026-09-17T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "palaemonidae",
+    "rank": "family",
+    "name": "Palaemonidae",
+    "bengaliName": "চিংড়ি পরিবার",
+    "parentId": "decapoda",
+    "description": "Palaemonid shrimps and prawns.",
+    "keyCharacteristics": [
+      "Well-developed rostrum",
+      "Second legs often enlarged"
+    ],
+    "diagnosticFeatures": [
+      "Exopods on maxillipeds"
+    ],
+    "representativeSpeciesIds": [
+      "sp-macrobrachium-rosenbergii"
+    ],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-17T00:00:00Z",
+    "updatedAt": "2026-09-17T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "papilio",
+    "rank": "genus",
+    "name": "Papilio",
+    "bengaliName": "প্যাপিলিও",
+    "parentId": "papilionidae",
+    "description": "Swallowtails including mormons and limes.",
+    "keyCharacteristics": [
+      "Mimetic females common",
+      "Citrus hosts"
+    ],
+    "diagnosticFeatures": [
+      "Tailed or tailless forms"
+    ],
+    "representativeSpeciesIds": [
+      "sp-papilio-polytes",
+      "sp-papilio-demoleus"
+    ],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-17T00:00:00Z",
+    "updatedAt": "2026-09-17T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "danaus",
+    "rank": "genus",
+    "name": "Danaus",
+    "bengaliName": "ডানাউস",
+    "parentId": "nymphalidae",
+    "description": "Tigers and monarchs: milkweed butterflies.",
+    "keyCharacteristics": [
+      "Orange tiger patterning",
+      "Milkweed hosts"
+    ],
+    "diagnosticFeatures": [
+      "Unpalatable to birds"
+    ],
+    "representativeSpeciesIds": [
+      "sp-danaus-chrysippus"
+    ],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-17T00:00:00Z",
+    "updatedAt": "2026-09-17T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "delias",
+    "rank": "genus",
+    "name": "Delias",
+    "bengaliName": "ডেলিয়াস",
+    "parentId": "pieridae",
+    "description": "Jezebels: mistletoe-feeding pierids.",
+    "keyCharacteristics": [
+      "Red-yellow underside veins",
+      "Mistletoe hosts"
+    ],
+    "diagnosticFeatures": [
+      "High-flying habit"
+    ],
+    "representativeSpeciesIds": [
+      "sp-delias-eucharis"
+    ],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-17T00:00:00Z",
+    "updatedAt": "2026-09-17T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "eurema",
+    "rank": "genus",
+    "name": "Eurema",
+    "bengaliName": "ইউরেমা",
+    "parentId": "pieridae",
+    "description": "Grass yellows: small low-flying pierids.",
+    "keyCharacteristics": [
+      "Yellow wings with black borders",
+      "Puddling gatherings"
+    ],
+    "diagnosticFeatures": [
+      "Weak fluttering flight"
+    ],
+    "representativeSpeciesIds": [
+      "sp-eurema-hecabe"
+    ],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-17T00:00:00Z",
+    "updatedAt": "2026-09-17T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "tirumala",
+    "rank": "genus",
+    "name": "Tirumala",
+    "bengaliName": "তিরুমালা",
+    "parentId": "nymphalidae",
+    "description": "Blue tigers: migratory danaid butterflies.",
+    "keyCharacteristics": [
+      "Translucent blue streaks",
+      "Migratory swarms"
+    ],
+    "diagnosticFeatures": [
+      "Deep slow flight"
+    ],
+    "representativeSpeciesIds": [
+      "sp-tirumala-limniace"
+    ],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-17T00:00:00Z",
+    "updatedAt": "2026-09-17T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "euploea",
+    "rank": "genus",
+    "name": "Euploea",
+    "bengaliName": "ইউপ্লোইয়া",
+    "parentId": "nymphalidae",
+    "description": "Crows: dark unpalatable danaid butterflies.",
+    "keyCharacteristics": [
+      "Dark wings with white spots",
+      "Oleander hosts"
+    ],
+    "diagnosticFeatures": [
+      "Slow flapping flight"
+    ],
+    "representativeSpeciesIds": [
+      "sp-euploea-core"
+    ],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-17T00:00:00Z",
+    "updatedAt": "2026-09-17T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "macrobrachium",
+    "rank": "genus",
+    "name": "Macrobrachium",
+    "bengaliName": "ম্যাক্রোব্রাকিয়াম",
+    "parentId": "palaemonidae",
+    "description": "Freshwater prawns including the giant river prawn.",
+    "keyCharacteristics": [
+      "Enlarged second legs in males",
+      "Migratory larvae"
+    ],
+    "diagnosticFeatures": [
+      "Rostrum with dorsal teeth"
+    ],
+    "representativeSpeciesIds": [
+      "sp-macrobrachium-rosenbergii"
+    ],
+    "references": [],
+    "needsReview": true,
+    "createdAt": "2026-09-17T00:00:00Z",
+    "updatedAt": "2026-09-17T00:00:00Z",
+    "version": 1
+  }
+]

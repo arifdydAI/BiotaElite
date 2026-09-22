@@ -1,0 +1,219 @@
+{
+  "version": 1,
+  "lastUpdated": "2026-09-17T05:13:03.826Z",
+  "summary": {
+    "totalRecords": 2,
+    "occurrences": 15,
+    "byRecord": {
+      "inst-wii": 5,
+      "inst-unknown": 10
+    },
+    "unresolvedRecords": 1,
+    "inferredLinks": 2
+  },
+  "records": [
+    {
+      "status": "draft",
+      "needsReview": true,
+      "createdAt": "2026-09-17T05:13:03.826Z",
+      "updatedAt": "2026-09-17T05:13:03.826Z",
+      "version": 1,
+      "id": "inst-unknown",
+      "name": "Institution not specified",
+      "shortName": "",
+      "type": "",
+      "country": "",
+      "location": "",
+      "website": "",
+      "description": "",
+      "affiliations": [],
+      "references": [],
+      "provenance": {
+        "matchType": "unknown",
+        "reviewNote": "Explicit unknown placeholder from source data. NOT a real institution identity. Must never be auto-resolved.",
+        "occurrences": [
+          {
+            "sourceModule": "thesis",
+            "parentId": "thesis-anuran-microhabitat",
+            "field": "institution",
+            "fieldIndex": null,
+            "role": "unknown",
+            "verbatim": {
+              "id": "inst-unknown",
+              "name": "Institution not specified",
+              "country": "",
+              "rorId": ""
+            }
+          },
+          {
+            "sourceModule": "thesis",
+            "parentId": "thesis-anuran-microhabitat",
+            "field": "department",
+            "fieldIndex": null,
+            "role": "department",
+            "reviewNote": "Organizational-unit text. Parent institution unclear; preserved as context only.",
+            "verbatim": "Ecology / Zoology"
+          },
+          {
+            "sourceModule": "thesis",
+            "parentId": "thesis-urban-bird-communities",
+            "field": "institution",
+            "fieldIndex": null,
+            "role": "unknown",
+            "verbatim": {
+              "id": "inst-unknown",
+              "name": "Institution not specified",
+              "country": "",
+              "rorId": ""
+            }
+          },
+          {
+            "sourceModule": "thesis",
+            "parentId": "thesis-urban-bird-communities",
+            "field": "department",
+            "fieldIndex": null,
+            "role": "department",
+            "reviewNote": "Organizational-unit text. Parent institution unclear; preserved as context only.",
+            "verbatim": "Urban Ecology / Ornithology"
+          },
+          {
+            "sourceModule": "thesis",
+            "parentId": "thesis-insect-pollinators-farmland",
+            "field": "institution",
+            "fieldIndex": null,
+            "role": "unknown",
+            "verbatim": {
+              "id": "inst-unknown",
+              "name": "Institution not specified",
+              "country": "",
+              "rorId": ""
+            }
+          },
+          {
+            "sourceModule": "thesis",
+            "parentId": "thesis-insect-pollinators-farmland",
+            "field": "department",
+            "fieldIndex": null,
+            "role": "department",
+            "reviewNote": "Organizational-unit text. Parent institution unclear; preserved as context only.",
+            "verbatim": "Conservation Biology / Entomology"
+          },
+          {
+            "sourceModule": "thesis",
+            "parentId": "thesis-coral-reef-fish",
+            "field": "institution",
+            "fieldIndex": null,
+            "role": "unknown",
+            "verbatim": {
+              "id": "inst-unknown",
+              "name": "Institution not specified",
+              "country": "",
+              "rorId": ""
+            }
+          },
+          {
+            "sourceModule": "thesis",
+            "parentId": "thesis-coral-reef-fish",
+            "field": "department",
+            "fieldIndex": null,
+            "role": "department",
+            "reviewNote": "Organizational-unit text. Parent institution unclear; preserved as context only.",
+            "verbatim": "Marine Ecology / Ichthyology"
+          },
+          {
+            "sourceModule": "thesis",
+            "parentId": "thesis-dung-beetle-dynamics",
+            "field": "institution",
+            "fieldIndex": null,
+            "role": "unknown",
+            "verbatim": {
+              "id": "inst-unknown",
+              "name": "Institution not specified",
+              "country": "",
+              "rorId": ""
+            }
+          },
+          {
+            "sourceModule": "thesis",
+            "parentId": "thesis-dung-beetle-dynamics",
+            "field": "department",
+            "fieldIndex": null,
+            "role": "department",
+            "reviewNote": "Organizational-unit text. Parent institution unclear; preserved as context only.",
+            "verbatim": "Entomology / Ecology"
+          }
+        ]
+      }
+    },
+    {
+      "status": "draft",
+      "needsReview": true,
+      "createdAt": "2026-09-17T05:13:03.826Z",
+      "updatedAt": "2026-09-17T05:13:03.826Z",
+      "version": 1,
+      "id": "inst-wii",
+      "name": "Wildlife Institute of India",
+      "shortName": "",
+      "type": "",
+      "country": "IN",
+      "location": "",
+      "website": "",
+      "description": "",
+      "affiliations": [],
+      "references": [],
+      "provenance": {
+        "matchType": "attested",
+        "occurrences": [
+          {
+            "sourceModule": "thesis",
+            "parentId": "thesis-tiger-corridors",
+            "field": "institution",
+            "fieldIndex": null,
+            "role": "identity",
+            "verbatim": {
+              "id": "inst-wii",
+              "name": "Wildlife Institute of India",
+              "country": "IN",
+              "rorId": ""
+            }
+          },
+          {
+            "sourceModule": "projects",
+            "parentId": "proj-tiger-corridors",
+            "field": "institutionIds",
+            "fieldIndex": 0,
+            "role": "identity",
+            "verbatim": "inst-wii"
+          },
+          {
+            "sourceModule": "authors",
+            "parentId": "auth-a-sharma",
+            "field": "affiliation",
+            "fieldIndex": null,
+            "role": "inferred",
+            "reviewNote": "Affiliation text is marked inferred in source data. Association with inst-wii is NOT verified.",
+            "verbatim": "Wildlife Institute of India (inferred)"
+          },
+          {
+            "sourceModule": "authors",
+            "parentId": "auth-p-nair",
+            "field": "affiliation",
+            "fieldIndex": null,
+            "role": "inferred",
+            "reviewNote": "Affiliation text is marked inferred in source data. Association with inst-wii is NOT verified.",
+            "verbatim": "Wildlife Institute of India (inferred)"
+          },
+          {
+            "sourceModule": "thesis",
+            "parentId": "thesis-tiger-corridors",
+            "field": "department",
+            "fieldIndex": null,
+            "role": "department",
+            "reviewNote": "Organizational-unit text. Parent institution unclear; preserved as context only.",
+            "verbatim": "Wildlife Biology / Conservation Biology"
+          }
+        ]
+      }
+    }
+  ]
+}

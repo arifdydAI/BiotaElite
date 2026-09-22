@@ -1,0 +1,4892 @@
+[
+  {
+    "id": "marine-mammals",
+    "rank": "major-group",
+    "name": "Marine Mammals",
+    "bengaliName": "সামুদ্রিক স্তন্যপায়ী",
+    "meaning": "Whales, dolphins, seals, manatees and dugongs",
+    "meaningBn": "",
+    "description": "Warm-blooded vertebrates that live in the sea: whales and dolphins, seals and sea lions, manatees and dugongs.",
+    "descriptionBn": "সাগরে বসবাসকারী উষ্ণ-রক্তের মেরুদণ্ডী প্রাণী: তিমি, ডলফিন, সিল, ম্যানাটি ও ডুগং।",
+    "parentId": null,
+    "majorGroupId": "marine-mammals",
+    "status": "",
+    "characteristics": [],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Required educational classification (Marine Life Module specification)",
+        "source": "project-spec"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "marine-reptiles",
+    "rank": "major-group",
+    "name": "Marine Reptiles",
+    "bengaliName": "সামুদ্রিক সরীসৃপ",
+    "meaning": "Sea turtles, sea snakes and other ocean-going reptiles",
+    "meaningBn": "",
+    "description": "Reptiles that live in the sea: sea turtles, sea snakes and saltwater crocodiles.",
+    "descriptionBn": "সাগরে বসবাসকারী সরীসৃপ: সামুদ্রিক কচ্ছপ, সামুদ্রিক সাপ ও লোনা পানির কুমির।",
+    "parentId": null,
+    "majorGroupId": "marine-reptiles",
+    "status": "",
+    "characteristics": [],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Required educational classification (Marine Life Module specification)",
+        "source": "project-spec"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "marine-birds",
+    "rank": "major-group",
+    "name": "Marine Birds",
+    "bengaliName": "সামুদ্রিক পাখি",
+    "meaning": "Penguins, albatrosses, petrels and other seabirds",
+    "meaningBn": "",
+    "description": "Birds with a genuine marine ecological relationship: penguins, albatrosses, petrels, gannets and cormorants.",
+    "descriptionBn": "সাগরের সঙ্গে প্রকৃত পরিবেশগত সম্পর্কযুক্ত পাখি: পেঙ্গুইন, অ্যালবাট্রস, পেট্রেল, গ্যানেট ও করমোরান্ট।",
+    "parentId": null,
+    "majorGroupId": "marine-birds",
+    "status": "",
+    "characteristics": [],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Required educational classification (Marine Life Module specification)",
+        "source": "project-spec"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "marine-invertebrates",
+    "rank": "major-group",
+    "name": "Marine Invertebrates",
+    "bengaliName": "সামুদ্রিক অমেরুদণ্ডী",
+    "meaning": "Sponges, jellyfish, corals, molluscs, crustaceans, sea stars and worms",
+    "meaningBn": "",
+    "description": "Ocean animals without backbones: sponges, jellyfish, corals, molluscs, crustaceans, sea stars, urchins and marine worms.",
+    "descriptionBn": "মেরুদণ্ডহীন সামুদ্রিক প্রাণী: স্পঞ্জ, জেলিফিশ, প্রবাল, শামুক-ঝিনুক, চিংড়ি-কাঁকড়া, তারা-মাছ ও সামুদ্রিক কৃমি।",
+    "parentId": null,
+    "majorGroupId": "marine-invertebrates",
+    "status": "",
+    "characteristics": [],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Required educational classification (Marine Life Module specification)",
+        "source": "project-spec"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "mammalia",
+    "rank": "class",
+    "name": "Mammalia",
+    "bengaliName": "",
+    "meaning": "",
+    "meaningBn": "",
+    "description": "",
+    "descriptionBn": "",
+    "parentId": "marine-mammals",
+    "majorGroupId": "marine-mammals",
+    "status": "",
+    "characteristics": [],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Required educational classification (Marine Life Module specification)",
+        "source": "project-spec"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "cetacea",
+    "rank": "order",
+    "name": "Cetacea",
+    "bengaliName": "",
+    "meaning": "Whales, dolphins and porpoises",
+    "meaningBn": "",
+    "description": "",
+    "descriptionBn": "",
+    "parentId": "mammalia",
+    "majorGroupId": "marine-mammals",
+    "status": "",
+    "characteristics": [],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "Some modern sources place whales within the order Cetartiodactyla; Cetacea is retained here following legacy usage and traditional taxonomy.",
+    "modernTaxonomyNoteBn": "কোনো কোনো আধুনিক উৎসে তিমিদের Cetartiodactyla বর্গে রাখা হয়; এখানে প্রচলিত শ্রেণিবিন্যাস অনুযায়ী Cetacea রাখা হয়েছে।",
+    "references": [
+      {
+        "title": "Legacy marine mammal table — names.html",
+        "source": "project-legacy"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "balaenopteridae",
+    "rank": "family",
+    "name": "Balaenopteridae",
+    "bengaliName": "",
+    "meaning": "Rorqual whales",
+    "meaningBn": "",
+    "description": "",
+    "descriptionBn": "",
+    "parentId": "cetacea",
+    "majorGroupId": "marine-mammals",
+    "status": "",
+    "characteristics": [],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [
+      {
+        "name": "Balaenoptera musculus",
+        "commonName": "Blue whale",
+        "bengaliName": "নীল তিমি",
+        "speciesId": "sp-balaenoptera-musculus",
+        "verified": true,
+        "source": "legacy-table",
+        "note": ""
+      },
+      {
+        "name": "Megaptera novaeangliae",
+        "commonName": "Humpback whale",
+        "bengaliName": "কুঁজো তিমি",
+        "speciesId": null,
+        "verified": false,
+        "source": "legacy-table",
+        "note": "Legacy classification-table example"
+      },
+      {
+        "name": "Megaptera novaeangliae",
+        "commonName": "Humpback whale",
+        "bengaliName": "",
+        "speciesId": "sp-megaptera-novaeangliae",
+        "verified": true,
+        "source": "marine-batch-2",
+        "note": ""
+      },
+      {
+        "name": "Balaenoptera acutorostrata",
+        "commonName": "Minke whale",
+        "bengaliName": "",
+        "speciesId": "sp-balaenoptera-acutorostrata",
+        "verified": true,
+        "source": "marine-batch-3",
+        "note": ""
+      }
+    ],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Legacy marine mammal table — names.html",
+        "source": "project-legacy"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "delphinidae",
+    "rank": "family",
+    "name": "Delphinidae",
+    "bengaliName": "",
+    "meaning": "Oceanic dolphins",
+    "meaningBn": "",
+    "description": "",
+    "descriptionBn": "",
+    "parentId": "cetacea",
+    "majorGroupId": "marine-mammals",
+    "status": "",
+    "characteristics": [],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [
+      {
+        "name": "Tursiops truncatus",
+        "commonName": "Bottlenose dolphin",
+        "bengaliName": "ডলফিন",
+        "speciesId": null,
+        "verified": false,
+        "source": "legacy-table",
+        "note": "Legacy classification-table example"
+      },
+      {
+        "name": "Orcinus orca",
+        "commonName": "Killer whale",
+        "bengaliName": "",
+        "speciesId": "sp-orcinus-orca",
+        "verified": true,
+        "source": "marine-batch-2",
+        "note": ""
+      },
+      {
+        "name": "Tursiops truncatus",
+        "commonName": "Bottlenose dolphin",
+        "bengaliName": "",
+        "speciesId": "sp-tursiops-truncatus",
+        "verified": true,
+        "source": "marine-batch-2",
+        "note": ""
+      },
+      {
+        "name": "Delphinus delphis",
+        "commonName": "Common dolphin",
+        "bengaliName": "",
+        "speciesId": "sp-delphinus-delphis",
+        "verified": true,
+        "source": "marine-batch-3",
+        "note": ""
+      }
+    ],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Legacy marine mammal table — names.html",
+        "source": "project-legacy"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "sirenia",
+    "rank": "order",
+    "name": "Sirenia",
+    "bengaliName": "",
+    "meaning": "Manatees and dugongs",
+    "meaningBn": "",
+    "description": "",
+    "descriptionBn": "",
+    "parentId": "mammalia",
+    "majorGroupId": "marine-mammals",
+    "status": "",
+    "characteristics": [],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [],
+    "taxonomyNotes": "No verified examples available; dugong occurrence in Bangladesh waters is uncertain.",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Required educational classification (Marine Life Module specification)",
+        "source": "project-spec"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "carnivora-marine",
+    "rank": "order",
+    "name": "Carnivora",
+    "bengaliName": "",
+    "meaning": "Seals, sea lions and walruses (pinnipeds)",
+    "meaningBn": "",
+    "description": "",
+    "descriptionBn": "",
+    "parentId": "mammalia",
+    "majorGroupId": "marine-mammals",
+    "status": "",
+    "characteristics": [],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "Seals, sea lions and walruses (pinnipeds) are placed within the carnivoran suborder Caniformia in modern taxonomy; no verified examples are available in this dataset.",
+    "modernTaxonomyNoteBn": "আধুনিক শ্রেণিবিন্যাসে সিল ও ওয়ালরাস Caniformia-এর অন্তর্গত; এই ডেটাসেটে কোনো যাচাইকৃত উদাহরণ নেই।",
+    "references": [
+      {
+        "title": "Required educational classification (Marine Life Module specification)",
+        "source": "project-spec"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "reptilia",
+    "rank": "class",
+    "name": "Reptilia",
+    "bengaliName": "",
+    "meaning": "",
+    "meaningBn": "",
+    "description": "",
+    "descriptionBn": "",
+    "parentId": "marine-reptiles",
+    "majorGroupId": "marine-reptiles",
+    "status": "",
+    "characteristics": [],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Required educational classification (Marine Life Module specification)",
+        "source": "project-spec"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "testudines",
+    "rank": "order",
+    "name": "Testudines",
+    "bengaliName": "",
+    "meaning": "Turtles and tortoises",
+    "meaningBn": "",
+    "description": "",
+    "descriptionBn": "",
+    "parentId": "reptilia",
+    "majorGroupId": "marine-reptiles",
+    "status": "",
+    "characteristics": [],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Legacy marine reptile table — names.html",
+        "source": "project-legacy"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "cheloniidae",
+    "rank": "family",
+    "name": "Cheloniidae",
+    "bengaliName": "",
+    "meaning": "Hard-shelled sea turtles",
+    "meaningBn": "",
+    "description": "",
+    "descriptionBn": "",
+    "parentId": "testudines",
+    "majorGroupId": "marine-reptiles",
+    "status": "",
+    "characteristics": [],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [
+      {
+        "name": "Chelonia mydas",
+        "commonName": "Green sea turtle",
+        "bengaliName": "সবুজ সামুদ্রিক কচ্ছপ",
+        "speciesId": "sp-legacy-chelonia-mydas",
+        "verified": true,
+        "source": "legacy-table",
+        "note": ""
+      },
+      {
+        "name": "Lepidochelys olivacea",
+        "commonName": "Olive ridley sea turtle",
+        "bengaliName": "সামুদ্রিক কচ্ছপ",
+        "speciesId": "sp-lepidochelys-olivacea",
+        "verified": true,
+        "source": "legacy-table",
+        "note": ""
+      },
+      {
+        "name": "Eretmochelys imbricata",
+        "commonName": "Hawksbill turtle",
+        "bengaliName": "",
+        "speciesId": "sp-eretmochelys-imbricata",
+        "verified": true,
+        "source": "marine-batch-2",
+        "note": ""
+      },
+      {
+        "name": "Caretta caretta",
+        "commonName": "Loggerhead turtle",
+        "bengaliName": "",
+        "speciesId": "sp-caretta-caretta",
+        "verified": true,
+        "source": "marine-batch-2",
+        "note": ""
+      },
+      {
+        "name": "Lepidochelys kempii",
+        "commonName": "Kemp's ridley turtle",
+        "bengaliName": "",
+        "speciesId": "sp-lepidochelys-kempii",
+        "verified": true,
+        "source": "marine-batch-3",
+        "note": ""
+      }
+    ],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Legacy marine reptile table — names.html",
+        "source": "project-legacy"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "squamata",
+    "rank": "order",
+    "name": "Squamata",
+    "bengaliName": "",
+    "meaning": "Sea snakes and lizards (marine representatives)",
+    "meaningBn": "",
+    "description": "",
+    "descriptionBn": "",
+    "parentId": "reptilia",
+    "majorGroupId": "marine-reptiles",
+    "status": "",
+    "characteristics": [],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [],
+    "taxonomyNotes": "Marine representatives are the sea snakes (Hydrophiinae, within Elapidae). No verified examples are available in this dataset.",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Required educational classification (Marine Life Module specification)",
+        "source": "project-spec"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "crocodylia",
+    "rank": "order",
+    "name": "Crocodylia",
+    "bengaliName": "",
+    "meaning": "Crocodiles and allies (coastal representatives)",
+    "meaningBn": "",
+    "description": "",
+    "descriptionBn": "",
+    "parentId": "reptilia",
+    "majorGroupId": "marine-reptiles",
+    "status": "",
+    "characteristics": [],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [],
+    "taxonomyNotes": "Only genuinely coastal/marine-tolerant representatives are listed here; freshwater mugger crocodiles and gharials are not marine animals.",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Legacy reptile table — names.html",
+        "source": "project-legacy"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "crocodylidae",
+    "rank": "family",
+    "name": "Crocodylidae",
+    "bengaliName": "",
+    "meaning": "True crocodiles",
+    "meaningBn": "",
+    "description": "",
+    "descriptionBn": "",
+    "parentId": "crocodylia",
+    "majorGroupId": "marine-reptiles",
+    "status": "",
+    "characteristics": [],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [
+      {
+        "name": "Crocodylus porosus",
+        "commonName": "Saltwater crocodile",
+        "bengaliName": "লোনা পানির কুমির",
+        "speciesId": null,
+        "verified": false,
+        "source": "legacy-table",
+        "note": "Legacy classification-table example; semi-aquatic/coastal, not fully marine"
+      },
+      {
+        "name": "Crocodylus porosus",
+        "commonName": "Saltwater crocodile",
+        "bengaliName": "",
+        "speciesId": "sp-crocodylus-porosus",
+        "verified": true,
+        "source": "marine-batch-2",
+        "note": ""
+      }
+    ],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Legacy reptile table — names.html",
+        "source": "project-legacy"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "aves",
+    "rank": "class",
+    "name": "Aves",
+    "bengaliName": "",
+    "meaning": "",
+    "meaningBn": "",
+    "description": "",
+    "descriptionBn": "",
+    "parentId": "marine-birds",
+    "majorGroupId": "marine-birds",
+    "status": "",
+    "characteristics": [],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Required educational classification (Marine Life Module specification)",
+        "source": "project-spec"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "sphenisciformes",
+    "rank": "order",
+    "name": "Sphenisciformes",
+    "bengaliName": "",
+    "meaning": "Penguins",
+    "meaningBn": "",
+    "description": "",
+    "descriptionBn": "",
+    "parentId": "aves",
+    "majorGroupId": "marine-birds",
+    "status": "",
+    "characteristics": [],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [],
+    "taxonomyNotes": "No verified examples are available in this dataset.",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Required educational classification (Marine Life Module specification)",
+        "source": "project-spec"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "procellariiformes",
+    "rank": "order",
+    "name": "Procellariiformes",
+    "bengaliName": "",
+    "meaning": "Albatrosses, petrels and shearwaters",
+    "meaningBn": "",
+    "description": "",
+    "descriptionBn": "",
+    "parentId": "aves",
+    "majorGroupId": "marine-birds",
+    "status": "",
+    "characteristics": [],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [],
+    "taxonomyNotes": "No verified examples are available in this dataset.",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Required educational classification (Marine Life Module specification)",
+        "source": "project-spec"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "suliformes",
+    "rank": "order",
+    "name": "Suliformes",
+    "bengaliName": "",
+    "meaning": "Gannets, cormorants and frigatebirds",
+    "meaningBn": "",
+    "description": "",
+    "descriptionBn": "",
+    "parentId": "aves",
+    "majorGroupId": "marine-birds",
+    "status": "",
+    "characteristics": [],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [],
+    "taxonomyNotes": "No verified examples are available in this dataset.",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Required educational classification (Marine Life Module specification)",
+        "source": "project-spec"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "porifera",
+    "rank": "phylum",
+    "name": "Porifera",
+    "bengaliName": "",
+    "meaning": "Sponges",
+    "meaningBn": "",
+    "description": "Simple pore-bearing animals that filter food from water; mostly marine.",
+    "descriptionBn": "ছিদ্রযুক্ত দেহে পানি ছেঁকে খাদ্য গ্রহণকারী সরল প্রাণী; বেশিরভাগ সামুদ্রিক।",
+    "parentId": "marine-invertebrates",
+    "majorGroupId": "marine-invertebrates",
+    "status": "",
+    "characteristics": [],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [],
+    "taxonomyNotes": "No verified examples are available in this dataset.",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Required educational classification (Marine Life Module specification)",
+        "source": "project-spec"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "cnidaria",
+    "rank": "phylum",
+    "name": "Cnidaria",
+    "bengaliName": "",
+    "meaning": "Jellyfish, corals and sea anemones",
+    "meaningBn": "",
+    "description": "",
+    "descriptionBn": "",
+    "parentId": "marine-invertebrates",
+    "majorGroupId": "marine-invertebrates",
+    "status": "",
+    "characteristics": [],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Legacy invertebrate table — names.html",
+        "source": "project-legacy"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "scyphozoa",
+    "rank": "class",
+    "name": "Scyphozoa",
+    "bengaliName": "",
+    "meaning": "True jellyfish",
+    "meaningBn": "",
+    "description": "",
+    "descriptionBn": "",
+    "parentId": "cnidaria",
+    "majorGroupId": "marine-invertebrates",
+    "status": "",
+    "characteristics": [],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Legacy invertebrate table — names.html",
+        "source": "project-legacy"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "rhizostomeae",
+    "rank": "order",
+    "name": "Rhizostomeae",
+    "bengaliName": "",
+    "meaning": "",
+    "meaningBn": "",
+    "description": "",
+    "descriptionBn": "",
+    "parentId": "scyphozoa",
+    "majorGroupId": "marine-invertebrates",
+    "status": "",
+    "characteristics": [],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Legacy invertebrate table — names.html",
+        "source": "project-legacy"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "rhopilematidae",
+    "rank": "family",
+    "name": "Rhopilematidae",
+    "bengaliName": "",
+    "meaning": "",
+    "meaningBn": "",
+    "description": "",
+    "descriptionBn": "",
+    "parentId": "rhizostomeae",
+    "majorGroupId": "marine-invertebrates",
+    "status": "",
+    "characteristics": [],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [
+      {
+        "name": "Rhopilema esculentum",
+        "commonName": "Edible jellyfish",
+        "bengaliName": "জেলিফিশ",
+        "speciesId": null,
+        "verified": false,
+        "source": "legacy-table",
+        "note": "Legacy classification-table example"
+      }
+    ],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Legacy invertebrate table — names.html",
+        "source": "project-legacy"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "ctenophora",
+    "rank": "phylum",
+    "name": "Ctenophora",
+    "bengaliName": "",
+    "meaning": "Comb jellies",
+    "meaningBn": "",
+    "description": "Transparent marine animals that swim with rows of beating comb plates.",
+    "descriptionBn": "সারিবদ্ধ চিরুনি-প্লেট নেড়ে সাঁতার কাটা স্বচ্ছ সামুদ্রিক প্রাণী।",
+    "parentId": "marine-invertebrates",
+    "majorGroupId": "marine-invertebrates",
+    "status": "",
+    "characteristics": [],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [],
+    "taxonomyNotes": "No verified examples are available in this dataset.",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Required educational classification (Marine Life Module specification)",
+        "source": "project-spec"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "platyhelminthes",
+    "rank": "phylum",
+    "name": "Platyhelminthes",
+    "bengaliName": "",
+    "meaning": "Flatworms (marine representatives)",
+    "meaningBn": "",
+    "description": "",
+    "descriptionBn": "",
+    "parentId": "marine-invertebrates",
+    "majorGroupId": "marine-invertebrates",
+    "status": "",
+    "characteristics": [],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [],
+    "taxonomyNotes": "Only free-living marine flatworms belong here; parasitic and terrestrial flatworms are out of scope. No verified examples are available in this dataset.",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Required educational classification (Marine Life Module specification)",
+        "source": "project-spec"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "annelida",
+    "rank": "phylum",
+    "name": "Annelida",
+    "bengaliName": "",
+    "meaning": "Segmented worms (marine polychaetes)",
+    "meaningBn": "",
+    "description": "",
+    "descriptionBn": "",
+    "parentId": "marine-invertebrates",
+    "majorGroupId": "marine-invertebrates",
+    "status": "",
+    "characteristics": [],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [],
+    "taxonomyNotes": "Marine representatives are mainly polychaete worms. No verified examples are available in this dataset.",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Required educational classification (Marine Life Module specification)",
+        "source": "project-spec"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "mollusca",
+    "rank": "phylum",
+    "name": "Mollusca",
+    "bengaliName": "",
+    "meaning": "Molluscs",
+    "meaningBn": "",
+    "description": "",
+    "descriptionBn": "",
+    "parentId": "marine-invertebrates",
+    "majorGroupId": "marine-invertebrates",
+    "status": "",
+    "characteristics": [],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [],
+    "taxonomyNotes": "Only marine molluscs belong here; freshwater apple snails and freshwater mussels are excluded.",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Legacy mollusc table — names.html",
+        "source": "project-legacy"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "bivalvia",
+    "rank": "class",
+    "name": "Bivalvia",
+    "bengaliName": "",
+    "meaning": "Clams, oysters and mussels",
+    "meaningBn": "",
+    "description": "",
+    "descriptionBn": "",
+    "parentId": "mollusca",
+    "majorGroupId": "marine-invertebrates",
+    "status": "",
+    "characteristics": [],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Legacy mollusc table — names.html",
+        "source": "project-legacy"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "ostreida",
+    "rank": "order",
+    "name": "Ostreida",
+    "bengaliName": "",
+    "meaning": "",
+    "meaningBn": "",
+    "description": "",
+    "descriptionBn": "",
+    "parentId": "bivalvia",
+    "majorGroupId": "marine-invertebrates",
+    "status": "",
+    "characteristics": [],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Legacy mollusc table — names.html",
+        "source": "project-legacy"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "margaritiferidae",
+    "rank": "family",
+    "name": "Margaritiferidae",
+    "bengaliName": "",
+    "meaning": "Pearl oysters",
+    "meaningBn": "",
+    "description": "",
+    "descriptionBn": "",
+    "parentId": "ostreida",
+    "majorGroupId": "marine-invertebrates",
+    "status": "",
+    "characteristics": [],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [
+      {
+        "name": "Pinctada fucata",
+        "commonName": "Pearl oyster",
+        "bengaliName": "ঝিনুক",
+        "speciesId": null,
+        "verified": false,
+        "source": "legacy-table",
+        "note": "Legacy classification-table example"
+      }
+    ],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Legacy mollusc table — names.html",
+        "source": "project-legacy"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "ostreidae",
+    "rank": "family",
+    "name": "Ostreidae",
+    "bengaliName": "",
+    "meaning": "True oysters",
+    "meaningBn": "",
+    "description": "",
+    "descriptionBn": "",
+    "parentId": "ostreida",
+    "majorGroupId": "marine-invertebrates",
+    "status": "",
+    "characteristics": [],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [
+      {
+        "name": "Crassostrea gigas",
+        "commonName": "Gigantic edible oyster",
+        "bengaliName": "খাদ্য ঝিনুক",
+        "speciesId": null,
+        "verified": false,
+        "source": "legacy-table",
+        "note": "Legacy classification-table example"
+      },
+      {
+        "name": "Magallana gigas",
+        "commonName": "Pacific oyster",
+        "bengaliName": "",
+        "speciesId": "sp-magallana-gigas",
+        "verified": true,
+        "source": "marine-batch-2",
+        "note": ""
+      }
+    ],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Legacy mollusc table — names.html",
+        "source": "project-legacy"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "mytilida",
+    "rank": "order",
+    "name": "Mytilida",
+    "bengaliName": "",
+    "meaning": "",
+    "meaningBn": "",
+    "description": "",
+    "descriptionBn": "",
+    "parentId": "bivalvia",
+    "majorGroupId": "marine-invertebrates",
+    "status": "",
+    "characteristics": [],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Legacy mollusc table — names.html",
+        "source": "project-legacy"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "mytilidae",
+    "rank": "family",
+    "name": "Mytilidae",
+    "bengaliName": "",
+    "meaning": "Marine mussels",
+    "meaningBn": "",
+    "description": "",
+    "descriptionBn": "",
+    "parentId": "mytilida",
+    "majorGroupId": "marine-invertebrates",
+    "status": "",
+    "characteristics": [],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [
+      {
+        "name": "Perna viridis",
+        "commonName": "Green mussel",
+        "bengaliName": "সবুজ ঝিনুক",
+        "speciesId": null,
+        "verified": false,
+        "source": "legacy-table",
+        "note": "Legacy classification-table example"
+      },
+      {
+        "name": "Mytilus edulis",
+        "commonName": "Blue mussel",
+        "bengaliName": "",
+        "speciesId": "sp-mytilus-edulis",
+        "verified": true,
+        "source": "marine-batch-2",
+        "note": ""
+      }
+    ],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Legacy mollusc table — names.html",
+        "source": "project-legacy"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "arcida",
+    "rank": "order",
+    "name": "Arcida",
+    "bengaliName": "",
+    "meaning": "",
+    "meaningBn": "",
+    "description": "",
+    "descriptionBn": "",
+    "parentId": "bivalvia",
+    "majorGroupId": "marine-invertebrates",
+    "status": "",
+    "characteristics": [],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Legacy mollusc table — names.html",
+        "source": "project-legacy"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "arcidae",
+    "rank": "family",
+    "name": "Arcidae",
+    "bengaliName": "",
+    "meaning": "Ark clams",
+    "meaningBn": "",
+    "description": "",
+    "descriptionBn": "",
+    "parentId": "arcida",
+    "majorGroupId": "marine-invertebrates",
+    "status": "",
+    "characteristics": [],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [
+      {
+        "name": "Anadara granosa",
+        "commonName": "Blood cockle",
+        "bengaliName": "রক্ত ঝিনুক",
+        "speciesId": null,
+        "verified": false,
+        "source": "legacy-table",
+        "note": "Legacy classification-table example"
+      }
+    ],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Legacy mollusc table — names.html",
+        "source": "project-legacy"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "cephalopoda",
+    "rank": "class",
+    "name": "Cephalopoda",
+    "bengaliName": "",
+    "meaning": "Octopuses, squids and cuttlefish",
+    "meaningBn": "",
+    "description": "",
+    "descriptionBn": "",
+    "parentId": "mollusca",
+    "majorGroupId": "marine-invertebrates",
+    "status": "",
+    "characteristics": [],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Legacy mollusc table — names.html",
+        "source": "project-legacy"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "octopoda",
+    "rank": "order",
+    "name": "Octopoda",
+    "bengaliName": "",
+    "meaning": "",
+    "meaningBn": "",
+    "description": "",
+    "descriptionBn": "",
+    "parentId": "cephalopoda",
+    "majorGroupId": "marine-invertebrates",
+    "status": "",
+    "characteristics": [],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Legacy mollusc table — names.html",
+        "source": "project-legacy"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "octopodidae",
+    "rank": "family",
+    "name": "Octopodidae",
+    "bengaliName": "",
+    "meaning": "",
+    "meaningBn": "",
+    "description": "",
+    "descriptionBn": "",
+    "parentId": "octopoda",
+    "majorGroupId": "marine-invertebrates",
+    "status": "",
+    "characteristics": [],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [
+      {
+        "name": "Octopus vulgaris",
+        "commonName": "Common octopus",
+        "bengaliName": "অক্টোপাস",
+        "speciesId": "sp-octopus-vulgaris",
+        "verified": true,
+        "source": "legacy-table",
+        "note": ""
+      }
+    ],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Legacy mollusc table — names.html",
+        "source": "project-legacy"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "myopsida",
+    "rank": "order",
+    "name": "Myopsida",
+    "bengaliName": "",
+    "meaning": "",
+    "meaningBn": "",
+    "description": "",
+    "descriptionBn": "",
+    "parentId": "cephalopoda",
+    "majorGroupId": "marine-invertebrates",
+    "status": "",
+    "characteristics": [],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Legacy mollusc table — names.html",
+        "source": "project-legacy"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "loliginidae",
+    "rank": "family",
+    "name": "Loliginidae",
+    "bengaliName": "",
+    "meaning": "Inshore squids",
+    "meaningBn": "",
+    "description": "",
+    "descriptionBn": "",
+    "parentId": "myopsida",
+    "majorGroupId": "marine-invertebrates",
+    "status": "",
+    "characteristics": [],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [
+      {
+        "name": "Uroteuthis duvauceli",
+        "commonName": "Indian squid",
+        "bengaliName": "স্কুইড",
+        "speciesId": null,
+        "verified": false,
+        "source": "legacy-table",
+        "note": "Legacy classification-table example"
+      },
+      {
+        "name": "Loligo vulgaris",
+        "commonName": "European squid",
+        "bengaliName": "",
+        "speciesId": "sp-loligo-vulgaris",
+        "verified": true,
+        "source": "marine-batch-3",
+        "note": ""
+      }
+    ],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Legacy mollusc table — names.html",
+        "source": "project-legacy"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "sepiida",
+    "rank": "order",
+    "name": "Sepiida",
+    "bengaliName": "",
+    "meaning": "",
+    "meaningBn": "",
+    "description": "",
+    "descriptionBn": "",
+    "parentId": "cephalopoda",
+    "majorGroupId": "marine-invertebrates",
+    "status": "",
+    "characteristics": [],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Legacy mollusc table — names.html",
+        "source": "project-legacy"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "sepiidae",
+    "rank": "family",
+    "name": "Sepiidae",
+    "bengaliName": "",
+    "meaning": "Cuttlefishes",
+    "meaningBn": "",
+    "description": "",
+    "descriptionBn": "",
+    "parentId": "sepiida",
+    "majorGroupId": "marine-invertebrates",
+    "status": "",
+    "characteristics": [],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [
+      {
+        "name": "Sepia pharaonis",
+        "commonName": "Pharaoh cuttlefish",
+        "bengaliName": "কাটলফিশ",
+        "speciesId": null,
+        "verified": false,
+        "source": "legacy-table",
+        "note": "Legacy classification-table example"
+      },
+      {
+        "name": "Sepia officinalis",
+        "commonName": "Common cuttlefish",
+        "bengaliName": "",
+        "speciesId": "sp-sepia-officinalis",
+        "verified": true,
+        "source": "marine-batch-2",
+        "note": ""
+      }
+    ],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Legacy mollusc table — names.html",
+        "source": "project-legacy"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "scaphopoda",
+    "rank": "class",
+    "name": "Scaphopoda",
+    "bengaliName": "",
+    "meaning": "Tusk shells",
+    "meaningBn": "",
+    "description": "",
+    "descriptionBn": "",
+    "parentId": "mollusca",
+    "majorGroupId": "marine-invertebrates",
+    "status": "",
+    "characteristics": [],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Legacy mollusc table — names.html",
+        "source": "project-legacy"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "dentaliida",
+    "rank": "order",
+    "name": "Dentaliida",
+    "bengaliName": "",
+    "meaning": "",
+    "meaningBn": "",
+    "description": "",
+    "descriptionBn": "",
+    "parentId": "scaphopoda",
+    "majorGroupId": "marine-invertebrates",
+    "status": "",
+    "characteristics": [],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Legacy mollusc table — names.html",
+        "source": "project-legacy"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "dentaliidae",
+    "rank": "family",
+    "name": "Dentaliidae",
+    "bengaliName": "",
+    "meaning": "",
+    "meaningBn": "",
+    "description": "",
+    "descriptionBn": "",
+    "parentId": "dentaliida",
+    "majorGroupId": "marine-invertebrates",
+    "status": "",
+    "characteristics": [],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [
+      {
+        "name": "Dentalium vulgare",
+        "commonName": "Tusk shell",
+        "bengaliName": "দাঁতাল শামুক",
+        "speciesId": null,
+        "verified": false,
+        "source": "legacy-table",
+        "note": "Legacy classification-table example"
+      }
+    ],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Legacy mollusc table — names.html",
+        "source": "project-legacy"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "arthropoda",
+    "rank": "phylum",
+    "name": "Arthropoda",
+    "bengaliName": "",
+    "meaning": "",
+    "meaningBn": "",
+    "description": "",
+    "descriptionBn": "",
+    "parentId": "marine-invertebrates",
+    "majorGroupId": "marine-invertebrates",
+    "status": "",
+    "characteristics": [],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [],
+    "taxonomyNotes": "Only marine arthropods belong here; insects, spiders and freshwater species are out of scope.",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Legacy fisheries table — names.html",
+        "source": "project-legacy"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "malacostraca",
+    "rank": "class",
+    "name": "Malacostraca",
+    "bengaliName": "",
+    "meaning": "",
+    "meaningBn": "",
+    "description": "",
+    "descriptionBn": "",
+    "parentId": "arthropoda",
+    "majorGroupId": "marine-invertebrates",
+    "status": "",
+    "characteristics": [],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Legacy fisheries table — names.html",
+        "source": "project-legacy"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "decapoda",
+    "rank": "order",
+    "name": "Decapoda",
+    "bengaliName": "",
+    "meaning": "Crabs, lobsters and shrimps",
+    "meaningBn": "",
+    "description": "",
+    "descriptionBn": "",
+    "parentId": "malacostraca",
+    "majorGroupId": "marine-invertebrates",
+    "status": "",
+    "characteristics": [],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Legacy fisheries table — names.html",
+        "source": "project-legacy"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "penaeidae",
+    "rank": "family",
+    "name": "Penaeidae",
+    "bengaliName": "",
+    "meaning": "Penaeid shrimps and prawns",
+    "meaningBn": "",
+    "description": "",
+    "descriptionBn": "",
+    "parentId": "decapoda",
+    "majorGroupId": "marine-invertebrates",
+    "status": "",
+    "characteristics": [],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [
+      {
+        "name": "Penaeus monodon",
+        "commonName": "Giant tiger prawn (Bagda)",
+        "bengaliName": "বাগদা চিংড়ি",
+        "speciesId": "sp-penaeus-monodon",
+        "verified": true,
+        "source": "legacy-table",
+        "note": ""
+      },
+      {
+        "name": "Fenneropenaeus indicus",
+        "commonName": "Indian white shrimp",
+        "bengaliName": "শ্যামা চিংড়ি",
+        "speciesId": null,
+        "verified": false,
+        "source": "legacy-table",
+        "note": "Legacy classification-table example"
+      },
+      {
+        "name": "Metapenaeus dobsoni",
+        "commonName": "Brown shrimp (Chaka)",
+        "bengaliName": "চাকা চিংড়ি",
+        "speciesId": null,
+        "verified": false,
+        "source": "legacy-table",
+        "note": "Legacy classification-table example"
+      },
+      {
+        "name": "Litopenaeus vannamei",
+        "commonName": "Whiteleg (Pacific) shrimp",
+        "bengaliName": "হরিণা চিংড়ি",
+        "speciesId": null,
+        "verified": false,
+        "source": "legacy-table",
+        "note": "Legacy classification-table example"
+      },
+      {
+        "name": "Marsupenaeus japonicus",
+        "commonName": "Kuruma shrimp",
+        "bengaliName": "কুরুমা চিংড়ি",
+        "speciesId": null,
+        "verified": false,
+        "source": "legacy-table",
+        "note": "Legacy classification-table example"
+      }
+    ],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Legacy fisheries table — names.html",
+        "source": "project-legacy"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "portunidae",
+    "rank": "family",
+    "name": "Portunidae",
+    "bengaliName": "",
+    "meaning": "Swimming crabs",
+    "meaningBn": "",
+    "description": "",
+    "descriptionBn": "",
+    "parentId": "decapoda",
+    "majorGroupId": "marine-invertebrates",
+    "status": "",
+    "characteristics": [],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [
+      {
+        "name": "Scylla serrata",
+        "commonName": "Mud crab",
+        "bengaliName": "শীলা কাঁকড়া",
+        "speciesId": "sp-scylla-serrata",
+        "verified": true,
+        "source": "legacy-table",
+        "note": ""
+      },
+      {
+        "name": "Portunus pelagicus",
+        "commonName": "Blue swimming crab",
+        "bengaliName": "নীল সাঁতারু কাঁকড়া",
+        "speciesId": null,
+        "verified": false,
+        "source": "legacy-table",
+        "note": "Legacy classification-table example"
+      }
+    ],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Legacy fisheries table — names.html",
+        "source": "project-legacy"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "palinuridae",
+    "rank": "family",
+    "name": "Palinuridae",
+    "bengaliName": "",
+    "meaning": "Spiny lobsters",
+    "meaningBn": "",
+    "description": "",
+    "descriptionBn": "",
+    "parentId": "decapoda",
+    "majorGroupId": "marine-invertebrates",
+    "status": "",
+    "characteristics": [],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [
+      {
+        "name": "Panulirus homarus",
+        "commonName": "Spiny lobster",
+        "bengaliName": "লবস্টার",
+        "speciesId": null,
+        "verified": false,
+        "source": "legacy-table",
+        "note": "Legacy classification-table example"
+      },
+      {
+        "name": "Panulirus argus",
+        "commonName": "Caribbean spiny lobster",
+        "bengaliName": "",
+        "speciesId": "sp-panulirus-argus",
+        "verified": true,
+        "source": "marine-batch-3",
+        "note": ""
+      }
+    ],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Legacy fisheries table — names.html",
+        "source": "project-legacy"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "euphausiacea",
+    "rank": "order",
+    "name": "Euphausiacea",
+    "bengaliName": "",
+    "meaning": "Krill",
+    "meaningBn": "",
+    "description": "",
+    "descriptionBn": "",
+    "parentId": "malacostraca",
+    "majorGroupId": "marine-invertebrates",
+    "status": "",
+    "characteristics": [],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Legacy fisheries table — names.html",
+        "source": "project-legacy"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "euphausiidae",
+    "rank": "family",
+    "name": "Euphausiidae",
+    "bengaliName": "",
+    "meaning": "",
+    "meaningBn": "",
+    "description": "",
+    "descriptionBn": "",
+    "parentId": "euphausiacea",
+    "majorGroupId": "marine-invertebrates",
+    "status": "",
+    "characteristics": [],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [
+      {
+        "name": "Euphausia superba",
+        "commonName": "Antarctic krill",
+        "bengaliName": "ক্রিল",
+        "speciesId": null,
+        "verified": false,
+        "source": "legacy-table",
+        "note": "Legacy classification-table example"
+      },
+      {
+        "name": "Euphausia superba",
+        "commonName": "Antarctic krill",
+        "bengaliName": "",
+        "speciesId": "sp-euphausia-superba",
+        "verified": true,
+        "source": "marine-batch-2",
+        "note": ""
+      }
+    ],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Legacy fisheries table — names.html",
+        "source": "project-legacy"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "echinodermata",
+    "rank": "phylum",
+    "name": "Echinodermata",
+    "bengaliName": "",
+    "meaning": "Sea stars, urchins and sea cucumbers",
+    "meaningBn": "",
+    "description": "",
+    "descriptionBn": "",
+    "parentId": "marine-invertebrates",
+    "majorGroupId": "marine-invertebrates",
+    "status": "",
+    "characteristics": [],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Legacy invertebrate table — names.html",
+        "source": "project-legacy"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "holothuroidea",
+    "rank": "class",
+    "name": "Holothuroidea",
+    "bengaliName": "",
+    "meaning": "Sea cucumbers",
+    "meaningBn": "",
+    "description": "",
+    "descriptionBn": "",
+    "parentId": "echinodermata",
+    "majorGroupId": "marine-invertebrates",
+    "status": "",
+    "characteristics": [],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Legacy invertebrate table — names.html",
+        "source": "project-legacy"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "synallactida",
+    "rank": "order",
+    "name": "Synallactida",
+    "bengaliName": "",
+    "meaning": "",
+    "meaningBn": "",
+    "description": "",
+    "descriptionBn": "",
+    "parentId": "holothuroidea",
+    "majorGroupId": "marine-invertebrates",
+    "status": "",
+    "characteristics": [],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Legacy invertebrate table — names.html",
+        "source": "project-legacy"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "stichopodidae",
+    "rank": "family",
+    "name": "Stichopodidae",
+    "bengaliName": "",
+    "meaning": "",
+    "meaningBn": "",
+    "description": "",
+    "descriptionBn": "",
+    "parentId": "synallactida",
+    "majorGroupId": "marine-invertebrates",
+    "status": "",
+    "characteristics": [],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [
+      {
+        "name": "Apostichopus japonicus",
+        "commonName": "Japanese sea cucumber",
+        "bengaliName": "সামুদ্রিক শসা",
+        "speciesId": null,
+        "verified": false,
+        "source": "legacy-table",
+        "note": "Legacy classification-table example"
+      },
+      {
+        "name": "Apostichopus japonicus",
+        "commonName": "Japanese sea cucumber",
+        "bengaliName": "",
+        "speciesId": "sp-apostichopus-japonicus",
+        "verified": true,
+        "source": "marine-batch-3",
+        "note": ""
+      }
+    ],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Legacy invertebrate table — names.html",
+        "source": "project-legacy"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "echinoidea",
+    "rank": "class",
+    "name": "Echinoidea",
+    "bengaliName": "",
+    "meaning": "Sea urchins",
+    "meaningBn": "",
+    "description": "",
+    "descriptionBn": "",
+    "parentId": "echinodermata",
+    "majorGroupId": "marine-invertebrates",
+    "status": "",
+    "characteristics": [],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Legacy invertebrate table — names.html",
+        "source": "project-legacy"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "camarodonta",
+    "rank": "order",
+    "name": "Camarodonta",
+    "bengaliName": "",
+    "meaning": "",
+    "meaningBn": "",
+    "description": "",
+    "descriptionBn": "",
+    "parentId": "echinoidea",
+    "majorGroupId": "marine-invertebrates",
+    "status": "",
+    "characteristics": [],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Legacy invertebrate table — names.html",
+        "source": "project-legacy"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "parechinidae",
+    "rank": "family",
+    "name": "Parechinidae",
+    "bengaliName": "",
+    "meaning": "",
+    "meaningBn": "",
+    "description": "",
+    "descriptionBn": "",
+    "parentId": "camarodonta",
+    "majorGroupId": "marine-invertebrates",
+    "status": "",
+    "characteristics": [],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [
+      {
+        "name": "Paracentrotus lividus",
+        "commonName": "Edible sea urchin",
+        "bengaliName": "সামুদ্রিক অর্চিন",
+        "speciesId": null,
+        "verified": false,
+        "source": "legacy-table",
+        "note": "Legacy classification-table example"
+      }
+    ],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Legacy invertebrate table — names.html",
+        "source": "project-legacy"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "hemichordata",
+    "rank": "phylum",
+    "name": "Hemichordata",
+    "bengaliName": "",
+    "meaning": "Acorn worms",
+    "meaningBn": "",
+    "description": "Worm-like marine animals including acorn worms.",
+    "descriptionBn": "কৃমি-সদৃশ সামুদ্রিক প্রাণী; অ্যাকর্ন ওয়ার্ম অন্তর্ভুক্ত।",
+    "parentId": "marine-invertebrates",
+    "majorGroupId": "marine-invertebrates",
+    "status": "",
+    "characteristics": [],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [],
+    "taxonomyNotes": "No verified examples are available in this dataset.",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Required educational classification (Marine Life Module specification)",
+        "source": "project-spec"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "physeteridae",
+    "rank": "family",
+    "name": "Physeteridae",
+    "bengaliName": "",
+    "meaning": "Sperm whales",
+    "meaningBn": "",
+    "description": "Family of giant deep-diving toothed whales; the sperm whale is its largest living member.",
+    "descriptionBn": "",
+    "parentId": "cetacea",
+    "majorGroupId": "marine-mammals",
+    "status": "",
+    "characteristics": [
+      {
+        "bn": "",
+        "en": "Huge square head with spermaceti organ"
+      },
+      {
+        "bn": "",
+        "en": "Single blowhole on the left side of the head"
+      },
+      {
+        "bn": "",
+        "en": "Deep-diving squid hunters using powerful echolocation"
+      }
+    ],
+    "habitat": "Deep oceanic waters",
+    "habitatBn": "",
+    "ecosystem": "Pelagic deep sea",
+    "ecosystemBn": "",
+    "distribution": "Worldwide in deep waters",
+    "biology": "",
+    "examples": [
+      {
+        "name": "Physeter macrocephalus",
+        "commonName": "Sperm whale",
+        "bengaliName": "",
+        "speciesId": "sp-physeter-macrocephalus",
+        "verified": true,
+        "source": "marine-batch-2",
+        "note": ""
+      }
+    ],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "WoRMS: Physeteridae (World Cetacea Database)",
+        "source": "WoRMS"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "dugongidae",
+    "rank": "family",
+    "name": "Dugongidae",
+    "bengaliName": "",
+    "meaning": "Dugongs",
+    "meaningBn": "",
+    "description": "Family of sirenians; the dugong is its only living member.",
+    "descriptionBn": "",
+    "parentId": "sirenia",
+    "majorGroupId": "marine-mammals",
+    "status": "",
+    "characteristics": [
+      {
+        "bn": "",
+        "en": "Strictly marine herbivores feeding on seagrasses"
+      },
+      {
+        "bn": "",
+        "en": "Fluked tail and paddle-like flippers"
+      },
+      {
+        "bn": "",
+        "en": "Downturned bristled muzzle for bottom grazing"
+      }
+    ],
+    "habitat": "Shallow coastal seagrass meadows",
+    "habitatBn": "",
+    "ecosystem": "Coastal seagrass beds",
+    "ecosystemBn": "",
+    "distribution": "Tropical Indo-Pacific",
+    "biology": "",
+    "examples": [
+      {
+        "name": "Dugong dugon",
+        "commonName": "Dugong",
+        "bengaliName": "",
+        "speciesId": "sp-dugong-dugon",
+        "verified": true,
+        "source": "marine-batch-2",
+        "note": ""
+      }
+    ],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "WoRMS: Dugongidae",
+        "source": "WoRMS"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "phocidae",
+    "rank": "family",
+    "name": "Phocidae",
+    "bengaliName": "",
+    "meaning": "Earless seals",
+    "meaningBn": "",
+    "description": "True (earless) seals, including harbour seals, grey seals and elephant seals.",
+    "descriptionBn": "",
+    "parentId": "carnivora-marine",
+    "majorGroupId": "marine-mammals",
+    "status": "",
+    "characteristics": [
+      {
+        "bn": "",
+        "en": "No external ear flaps"
+      },
+      {
+        "bn": "",
+        "en": "Hind flippers trail behind and cannot rotate forward"
+      },
+      {
+        "bn": "",
+        "en": "Thick blubber layer for insulation"
+      }
+    ],
+    "habitat": "Coastal waters, haul-out shores and ice",
+    "habitatBn": "",
+    "ecosystem": "Coastal marine",
+    "ecosystemBn": "",
+    "distribution": "Worldwide, mostly cold and temperate coasts",
+    "biology": "",
+    "examples": [
+      {
+        "name": "Phoca vitulina",
+        "commonName": "Harbour seal",
+        "bengaliName": "",
+        "speciesId": "sp-phoca-vitulina",
+        "verified": true,
+        "source": "marine-batch-2",
+        "note": ""
+      }
+    ],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "WoRMS: Phocidae",
+        "source": "WoRMS"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "dermochelyidae",
+    "rank": "family",
+    "name": "Dermochelyidae",
+    "bengaliName": "",
+    "meaning": "Leatherback turtles",
+    "meaningBn": "",
+    "description": "Leathery-shelled sea turtles; the leatherback is its only living member.",
+    "descriptionBn": "",
+    "parentId": "testudines",
+    "majorGroupId": "marine-reptiles",
+    "status": "",
+    "characteristics": [
+      {
+        "bn": "",
+        "en": "Leathery skin over a mosaic of small bones, no scutes"
+      },
+      {
+        "bn": "",
+        "en": "Seven longitudinal shell ridges"
+      },
+      {
+        "bn": "",
+        "en": "Gigantic pelagic jellyfish specialists"
+      }
+    ],
+    "habitat": "Open ocean and tropical nesting beaches",
+    "habitatBn": "",
+    "ecosystem": "Pelagic marine",
+    "ecosystemBn": "",
+    "distribution": "Global, all tropical to subpolar oceans",
+    "biology": "",
+    "examples": [
+      {
+        "name": "Dermochelys coriacea",
+        "commonName": "Leatherback turtle",
+        "bengaliName": "",
+        "speciesId": "sp-dermochelys-coriacea",
+        "verified": true,
+        "source": "marine-batch-2",
+        "note": ""
+      }
+    ],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "WoRMS: Dermochelyidae (via Reptile Database)",
+        "source": "WoRMS"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "elapidae",
+    "rank": "family",
+    "name": "Elapidae",
+    "bengaliName": "",
+    "meaning": "Elapid snakes",
+    "meaningBn": "",
+    "description": "Venomous snakes with short fixed fangs, including cobras, kraits and the sea-snake subfamily Hydrophiinae.",
+    "descriptionBn": "",
+    "parentId": "squamata",
+    "majorGroupId": "marine-reptiles",
+    "status": "",
+    "characteristics": [
+      {
+        "bn": "",
+        "en": "Short hollow fixed fangs delivering neurotoxic venom"
+      },
+      {
+        "bn": "",
+        "en": "Marine members with paddle tails and salt glands"
+      },
+      {
+        "bn": "",
+        "en": "Sea snakes fully viviparous at sea"
+      }
+    ],
+    "habitat": "Tropical oceanic surface waters",
+    "habitatBn": "",
+    "ecosystem": "Pelagic marine",
+    "ecosystemBn": "",
+    "distribution": "Tropical Indian and Pacific Oceans",
+    "biology": "",
+    "examples": [
+      {
+        "name": "Hydrophis platurus",
+        "commonName": "Yellow-bellied sea snake",
+        "bengaliName": "",
+        "speciesId": "sp-hydrophis-platurus",
+        "verified": true,
+        "source": "marine-batch-2",
+        "note": ""
+      },
+      {
+        "name": "Laticauda colubrina",
+        "commonName": "Yellow-lipped sea krait",
+        "bengaliName": "",
+        "speciesId": "sp-laticauda-colubrina",
+        "verified": true,
+        "source": "marine-batch-3",
+        "note": ""
+      }
+    ],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "WoRMS / Reptile Database: Elapidae (Hydrophiinae)",
+        "source": "WoRMS"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "spheniscidae",
+    "rank": "family",
+    "name": "Spheniscidae",
+    "bengaliName": "",
+    "meaning": "Penguins",
+    "meaningBn": "",
+    "description": "Flightless Southern Hemisphere seabirds, including emperor and king penguins.",
+    "descriptionBn": "",
+    "parentId": "sphenisciformes",
+    "majorGroupId": "marine-birds",
+    "status": "",
+    "characteristics": [
+      {
+        "bn": "",
+        "en": "Flightless with stiff flipper wings for underwater propulsion"
+      },
+      {
+        "bn": "",
+        "en": "Dense waterproof plumage over thick blubber"
+      },
+      {
+        "bn": "",
+        "en": "Colonial breeders, many on Antarctic ice"
+      }
+    ],
+    "habitat": "Southern Ocean and Antarctic coasts",
+    "habitatBn": "",
+    "ecosystem": "Polar marine",
+    "ecosystemBn": "",
+    "distribution": "Southern Hemisphere, concentrated around Antarctica",
+    "biology": "",
+    "examples": [
+      {
+        "name": "Aptenodytes forsteri",
+        "commonName": "Emperor penguin",
+        "bengaliName": "",
+        "speciesId": "sp-aptenodytes-forsteri",
+        "verified": true,
+        "source": "marine-batch-2",
+        "note": ""
+      },
+      {
+        "name": "Aptenodytes patagonicus",
+        "commonName": "King penguin",
+        "bengaliName": "",
+        "speciesId": "sp-aptenodytes-patagonicus",
+        "verified": true,
+        "source": "marine-batch-3",
+        "note": ""
+      }
+    ],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "WoRMS: Spheniscidae",
+        "source": "WoRMS"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "diomedeidae",
+    "rank": "family",
+    "name": "Diomedeidae",
+    "bengaliName": "",
+    "meaning": "Albatrosses",
+    "meaningBn": "",
+    "description": "Great gliding tubenose seabirds of the Southern Ocean.",
+    "descriptionBn": "",
+    "parentId": "procellariiformes",
+    "majorGroupId": "marine-birds",
+    "status": "",
+    "characteristics": [
+      {
+        "bn": "",
+        "en": "Longest wings of any bird, locking for gliding"
+      },
+      {
+        "bn": "",
+        "en": "Tube nostrils on a large hooked bill"
+      },
+      {
+        "bn": "",
+        "en": "Biennial breeders on remote islands"
+      }
+    ],
+    "habitat": "Open Southern Ocean and island colonies",
+    "habitatBn": "",
+    "ecosystem": "Pelagic marine",
+    "ecosystemBn": "",
+    "distribution": "Circumpolar Southern Ocean",
+    "biology": "",
+    "examples": [
+      {
+        "name": "Diomedea exulans",
+        "commonName": "Wandering albatross",
+        "bengaliName": "",
+        "speciesId": "sp-diomedea-exulans",
+        "verified": true,
+        "source": "marine-batch-2",
+        "note": ""
+      }
+    ],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "WoRMS: Diomedeidae",
+        "source": "WoRMS"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "sulidae",
+    "rank": "family",
+    "name": "Sulidae",
+    "bengaliName": "",
+    "meaning": "Gannets and boobies",
+    "meaningBn": "",
+    "description": "Plunge-diving seabirds including gannets and boobies.",
+    "descriptionBn": "",
+    "parentId": "suliformes",
+    "majorGroupId": "marine-birds",
+    "status": "",
+    "characteristics": [
+      {
+        "bn": "",
+        "en": "Spectacular plunge-diving on schooling fish"
+      },
+      {
+        "bn": "",
+        "en": "Long pointed bills and dagger-shaped wings"
+      },
+      {
+        "bn": "",
+        "en": "Dense cliff and island colonies"
+      }
+    ],
+    "habitat": "Coastal and pelagic waters near colonies",
+    "habitatBn": "",
+    "ecosystem": "Coastal-pelagic marine",
+    "ecosystemBn": "",
+    "distribution": "Tropical to temperate oceans worldwide",
+    "biology": "",
+    "examples": [
+      {
+        "name": "Morus bassanus",
+        "commonName": "Northern gannet",
+        "bengaliName": "",
+        "speciesId": "sp-morus-bassanus",
+        "verified": true,
+        "source": "marine-batch-2",
+        "note": ""
+      },
+      {
+        "name": "Sula leucogaster",
+        "commonName": "Brown booby",
+        "bengaliName": "",
+        "speciesId": "sp-sula-leucogaster",
+        "verified": true,
+        "source": "marine-batch-3",
+        "note": ""
+      }
+    ],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "WoRMS places Sulidae in Pelecaniformes; IUCN/BirdLife assessments use Suliformes, retained here.",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "IUCN Red List taxonomy: Morus bassanus (Sulidae, Suliformes)",
+        "source": "IUCN"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "fregatidae",
+    "rank": "family",
+    "name": "Fregatidae",
+    "bengaliName": "",
+    "meaning": "Frigatebirds",
+    "meaningBn": "",
+    "description": "Soaring kleptoparasitic tropical seabirds that cannot land on water.",
+    "descriptionBn": "",
+    "parentId": "suliformes",
+    "majorGroupId": "marine-birds",
+    "status": "",
+    "characteristics": [
+      {
+        "bn": "",
+        "en": "Largest wingspan-to-weight ratio of any bird"
+      },
+      {
+        "bn": "",
+        "en": "Deeply forked tail and hooked bill"
+      },
+      {
+        "bn": "",
+        "en": "Steals food from other seabirds in flight"
+      }
+    ],
+    "habitat": "Tropical oceans and island colonies",
+    "habitatBn": "",
+    "ecosystem": "Tropical pelagic marine",
+    "ecosystemBn": "",
+    "distribution": "Tropical Pacific, Indian and South Atlantic Oceans",
+    "biology": "",
+    "examples": [
+      {
+        "name": "Fregata minor",
+        "commonName": "Great frigatebird",
+        "bengaliName": "",
+        "speciesId": "sp-fregata-minor",
+        "verified": true,
+        "source": "marine-batch-2",
+        "note": ""
+      }
+    ],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "WoRMS places Fregatidae in Pelecaniformes; IUCN/BirdLife assessments use Suliformes, retained here.",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "IUCN Red List taxonomy: Fregata minor (Fregatidae, Suliformes)",
+        "source": "IUCN"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "asteroidea",
+    "rank": "class",
+    "name": "Asteroidea",
+    "bengaliName": "",
+    "meaning": "Sea stars",
+    "meaningBn": "",
+    "description": "Sea stars (starfish); echinoderms with arms radiating from a central disk.",
+    "descriptionBn": "",
+    "parentId": "echinodermata",
+    "majorGroupId": "marine-invertebrates",
+    "status": "",
+    "characteristics": [
+      {
+        "bn": "",
+        "en": "Tube feet powered by a water-vascular system"
+      },
+      {
+        "bn": "",
+        "en": "Regeneration of lost arms"
+      },
+      {
+        "bn": "",
+        "en": "Eversible stomach for external digestion"
+      }
+    ],
+    "habitat": "Seafloors from intertidal to deep sea",
+    "habitatBn": "",
+    "ecosystem": "Benthic marine",
+    "ecosystemBn": "",
+    "distribution": "Worldwide oceans",
+    "biology": "",
+    "examples": [],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "WoRMS: Asteroidea",
+        "source": "WoRMS"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "forcipulatida",
+    "rank": "order",
+    "name": "Forcipulatida",
+    "bengaliName": "",
+    "meaning": "Forcipulate sea stars",
+    "meaningBn": "",
+    "description": "Order of sea stars with pincer-like pedicellariae, including common starfishes.",
+    "descriptionBn": "",
+    "parentId": "asteroidea",
+    "majorGroupId": "marine-invertebrates",
+    "status": "",
+    "characteristics": [],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "WoRMS: Forcipulatida",
+        "source": "WoRMS"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "asteriidae",
+    "rank": "family",
+    "name": "Asteriidae",
+    "bengaliName": "",
+    "meaning": "Common sea stars",
+    "meaningBn": "",
+    "description": "Family of forcipulate sea stars including the common starfish.",
+    "descriptionBn": "",
+    "parentId": "forcipulatida",
+    "majorGroupId": "marine-invertebrates",
+    "status": "",
+    "characteristics": [
+      {
+        "bn": "",
+        "en": "Five broad arms with spiny upper surface"
+      },
+      {
+        "bn": "",
+        "en": "Mussel and bivalve predators"
+      }
+    ],
+    "habitat": "Rocky shores and shelf bottoms",
+    "habitatBn": "",
+    "ecosystem": "Benthic marine",
+    "ecosystemBn": "",
+    "distribution": "Mostly cold and temperate seas",
+    "biology": "",
+    "examples": [
+      {
+        "name": "Asterias rubens",
+        "commonName": "Common starfish",
+        "bengaliName": "",
+        "speciesId": "sp-asterias-rubens",
+        "verified": true,
+        "source": "marine-batch-2",
+        "note": ""
+      }
+    ],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "WoRMS: Asteriidae",
+        "source": "WoRMS"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "semaeostomeae",
+    "rank": "order",
+    "name": "Semaeostomeae",
+    "bengaliName": "",
+    "meaning": "Flag-mouth jellies",
+    "meaningBn": "",
+    "description": "Order of true jellyfishes including moon jellies.",
+    "descriptionBn": "",
+    "parentId": "scyphozoa",
+    "majorGroupId": "marine-invertebrates",
+    "status": "",
+    "characteristics": [],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "WoRMS: Semaeostomeae",
+        "source": "WoRMS"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "ulmaridae",
+    "rank": "family",
+    "name": "Ulmaridae",
+    "bengaliName": "",
+    "meaning": "Moon jellies",
+    "meaningBn": "",
+    "description": "Family of saucer-shaped jellyfishes including moon jellies.",
+    "descriptionBn": "",
+    "parentId": "semaeostomeae",
+    "majorGroupId": "marine-invertebrates",
+    "status": "",
+    "characteristics": [
+      {
+        "bn": "",
+        "en": "Saucer bell with four visible gonad rings"
+      },
+      {
+        "bn": "",
+        "en": "Short marginal tentacles and frilly oral arms"
+      }
+    ],
+    "habitat": "Coastal surface waters",
+    "habitatBn": "",
+    "ecosystem": "Pelagic marine",
+    "ecosystemBn": "",
+    "distribution": "Worldwide coastal seas",
+    "biology": "",
+    "examples": [
+      {
+        "name": "Aurelia aurita",
+        "commonName": "Moon jellyfish",
+        "bengaliName": "",
+        "speciesId": "sp-aurelia-aurita",
+        "verified": true,
+        "source": "marine-batch-2",
+        "note": ""
+      }
+    ],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "WoRMS: Ulmaridae",
+        "source": "WoRMS"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "anthozoa",
+    "rank": "class",
+    "name": "Anthozoa",
+    "bengaliName": "",
+    "meaning": "Anemones and corals",
+    "meaningBn": "",
+    "description": "Polyp-only cnidarians: sea anemones, corals and sea pens.",
+    "descriptionBn": "",
+    "parentId": "cnidaria",
+    "majorGroupId": "marine-invertebrates",
+    "status": "",
+    "characteristics": [
+      {
+        "bn": "",
+        "en": "No medusa stage; sessile polyps"
+      },
+      {
+        "bn": "",
+        "en": "Stinging nematocyst tentacles"
+      }
+    ],
+    "habitat": "Seafloors from intertidal to deep sea",
+    "habitatBn": "",
+    "ecosystem": "Benthic marine",
+    "ecosystemBn": "",
+    "distribution": "Worldwide oceans",
+    "biology": "",
+    "examples": [],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "WoRMS nests Hexacorallia as class under Anthozoa; Anthozoa retained here as the project class.",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "WoRMS: Anthozoa",
+        "source": "WoRMS"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "actiniaria",
+    "rank": "order",
+    "name": "Actiniaria",
+    "bengaliName": "",
+    "meaning": "Sea anemones",
+    "meaningBn": "",
+    "description": "Order of solitary flower-like cnidarian polyps.",
+    "descriptionBn": "",
+    "parentId": "anthozoa",
+    "majorGroupId": "marine-invertebrates",
+    "status": "",
+    "characteristics": [],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "WoRMS: Actiniaria",
+        "source": "WoRMS"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "actiniidae",
+    "rank": "family",
+    "name": "Actiniidae",
+    "bengaliName": "",
+    "meaning": "Common anemones",
+    "meaningBn": "",
+    "description": "Family of sea anemones including beadlet anemones.",
+    "descriptionBn": "",
+    "parentId": "actiniaria",
+    "majorGroupId": "marine-invertebrates",
+    "status": "",
+    "characteristics": [
+      {
+        "bn": "",
+        "en": "Adhesive pedal disk gripping rock"
+      },
+      {
+        "bn": "",
+        "en": "Retractile tentacle crown"
+      }
+    ],
+    "habitat": "Intertidal rocky shores",
+    "habitatBn": "",
+    "ecosystem": "Intertidal marine",
+    "ecosystemBn": "",
+    "distribution": "Worldwide coasts",
+    "biology": "",
+    "examples": [
+      {
+        "name": "Actinia equina",
+        "commonName": "Beadlet anemone",
+        "bengaliName": "",
+        "speciesId": "sp-actinia-equina",
+        "verified": true,
+        "source": "marine-batch-2",
+        "note": ""
+      }
+    ],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "WoRMS: Actiniidae",
+        "source": "WoRMS"
+      }
+    ],
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1,
+    "legacyAnchor": null
+  },
+  {
+    "id": "nephropidae",
+    "rank": "family",
+    "name": "Nephropidae",
+    "bengaliName": "",
+    "meaning": "Clawed lobsters",
+    "meaningBn": "",
+    "description": "Clawed lobsters including European and American lobsters.",
+    "descriptionBn": "",
+    "parentId": "decapoda",
+    "majorGroupId": "marine-invertebrates",
+    "status": "",
+    "characteristics": [
+      {
+        "bn": "",
+        "en": "Massive unequal crusher and cutter claws"
+      },
+      {
+        "bn": "",
+        "en": "Muscular tail fan for escape swimming"
+      }
+    ],
+    "habitat": "Rocky benthic shelves",
+    "habitatBn": "",
+    "ecosystem": "Benthic marine",
+    "ecosystemBn": "",
+    "distribution": "Atlantic and Mediterranean",
+    "biology": "",
+    "examples": [
+      {
+        "name": "Homarus gammarus",
+        "commonName": "European lobster",
+        "bengaliName": "",
+        "speciesId": "sp-homarus-gammarus",
+        "verified": true,
+        "source": "marine-batch-2",
+        "note": ""
+      }
+    ],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "WoRMS: Nephropidae",
+        "source": "WoRMS"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "phocoenidae",
+    "rank": "family",
+    "name": "Phocoenidae",
+    "bengaliName": "",
+    "meaning": "Porpoises",
+    "meaningBn": "",
+    "description": "Small blunt-headed toothed whales, including harbour porpoises.",
+    "descriptionBn": "",
+    "parentId": "cetacea",
+    "majorGroupId": "marine-mammals",
+    "status": "",
+    "characteristics": [
+      {
+        "bn": "",
+        "en": "No beak; blunt rounded head"
+      },
+      {
+        "bn": "",
+        "en": "Triangular dorsal fin"
+      },
+      {
+        "bn": "",
+        "en": "Coastal temperate waters"
+      }
+    ],
+    "habitat": "Coastal and shelf waters",
+    "habitatBn": "",
+    "ecosystem": "Coastal marine",
+    "ecosystemBn": "",
+    "distribution": "Northern Hemisphere coasts",
+    "biology": "",
+    "examples": [
+      {
+        "name": "Phocoena phocoena",
+        "commonName": "Harbour porpoise",
+        "bengaliName": "",
+        "speciesId": "sp-phocoena-phocoena",
+        "verified": true,
+        "source": "marine-batch-3",
+        "note": ""
+      }
+    ],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "WoRMS: Phocoenidae (World Cetacea Database)",
+        "source": "WoRMS"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "trichechidae",
+    "rank": "family",
+    "name": "Trichechidae",
+    "bengaliName": "",
+    "meaning": "Manatees",
+    "meaningBn": "",
+    "description": "Manatees of Atlantic coasts and rivers.",
+    "descriptionBn": "",
+    "parentId": "sirenia",
+    "majorGroupId": "marine-mammals",
+    "status": "",
+    "characteristics": [
+      {
+        "bn": "",
+        "en": "Rounded paddle-shaped tail"
+      },
+      {
+        "bn": "",
+        "en": "Coastal, estuarine and riverine herbivores"
+      }
+    ],
+    "habitat": "Warm coastal and riverine waters",
+    "habitatBn": "",
+    "ecosystem": "Coastal marine and freshwater",
+    "ecosystemBn": "",
+    "distribution": "Western Atlantic, Caribbean, West Africa",
+    "biology": "",
+    "examples": [
+      {
+        "name": "Trichechus manatus",
+        "commonName": "West Indian manatee",
+        "bengaliName": "",
+        "speciesId": "sp-trichechus-manatus",
+        "verified": true,
+        "source": "marine-batch-3",
+        "note": ""
+      }
+    ],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "WoRMS: Trichechidae",
+        "source": "WoRMS"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "odobenidae",
+    "rank": "family",
+    "name": "Odobenidae",
+    "bengaliName": "",
+    "meaning": "Walruses",
+    "meaningBn": "",
+    "description": "Tusked Arctic pinnipeds; single living species.",
+    "descriptionBn": "",
+    "parentId": "carnivora-marine",
+    "majorGroupId": "marine-mammals",
+    "status": "",
+    "characteristics": [
+      {
+        "bn": "",
+        "en": "Long ivory tusks in both sexes"
+      },
+      {
+        "bn": "",
+        "en": "Benthic mollusc suction feeders"
+      },
+      {
+        "bn": "",
+        "en": "Hind flippers rotate forward"
+      }
+    ],
+    "habitat": "Arctic sea ice and shallow shelves",
+    "habitatBn": "",
+    "ecosystem": "Arctic marine",
+    "ecosystemBn": "",
+    "distribution": "Circumpolar Arctic",
+    "biology": "",
+    "examples": [
+      {
+        "name": "Odobenus rosmarus",
+        "commonName": "Walrus",
+        "bengaliName": "",
+        "speciesId": "sp-odobenus-rosmarus",
+        "verified": true,
+        "source": "marine-batch-3",
+        "note": ""
+      }
+    ],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "WoRMS: Odobenidae",
+        "source": "WoRMS"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "procellariidae",
+    "rank": "family",
+    "name": "Procellariidae",
+    "bengaliName": "",
+    "meaning": "Petrels and shearwaters",
+    "meaningBn": "",
+    "description": "Gadfly petrels, shearwaters and giant petrels.",
+    "descriptionBn": "",
+    "parentId": "procellariiformes",
+    "majorGroupId": "marine-birds",
+    "status": "",
+    "characteristics": [
+      {
+        "bn": "",
+        "en": "Tube nostrils on a hooked bill"
+      },
+      {
+        "bn": "",
+        "en": "Long-distance oceanic gliders"
+      }
+    ],
+    "habitat": "Open oceans and island colonies",
+    "habitatBn": "",
+    "ecosystem": "Pelagic marine",
+    "ecosystemBn": "",
+    "distribution": "Worldwide oceans",
+    "biology": "",
+    "examples": [
+      {
+        "name": "Macronectes giganteus",
+        "commonName": "Southern giant petrel",
+        "bengaliName": "",
+        "speciesId": "sp-macronectes-giganteus",
+        "verified": true,
+        "source": "marine-batch-3",
+        "note": ""
+      }
+    ],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "WoRMS: Procellariidae",
+        "source": "WoRMS"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "phalacrocoracidae",
+    "rank": "family",
+    "name": "Phalacrocoracidae",
+    "bengaliName": "",
+    "meaning": "Cormorants",
+    "meaningBn": "",
+    "description": "Pursuit-diving coastal waterbirds.",
+    "descriptionBn": "",
+    "parentId": "suliformes",
+    "majorGroupId": "marine-birds",
+    "status": "",
+    "characteristics": [
+      {
+        "bn": "",
+        "en": "Foot-propelled pursuit divers"
+      },
+      {
+        "bn": "",
+        "en": "Hooked bill for gripping fish"
+      },
+      {
+        "bn": "",
+        "en": "Wing-drying posture ashore"
+      }
+    ],
+    "habitat": "Coasts, estuaries and large inland waters",
+    "habitatBn": "",
+    "ecosystem": "Coastal marine",
+    "ecosystemBn": "",
+    "distribution": "Worldwide",
+    "biology": "",
+    "examples": [
+      {
+        "name": "Phalacrocorax carbo",
+        "commonName": "Great cormorant",
+        "bengaliName": "",
+        "speciesId": "sp-phalacrocorax-carbo",
+        "verified": true,
+        "source": "marine-batch-3",
+        "note": ""
+      }
+    ],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "WoRMS places Phalacrocoracidae in Pelecaniformes; IUCN/BirdLife assessments use Suliformes, retained here.",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "IUCN Red List taxonomy: Phalacrocorax carbo (Phalacrocoracidae, Suliformes)",
+        "source": "IUCN"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "nautilida",
+    "rank": "order",
+    "name": "Nautilida",
+    "bengaliName": "",
+    "meaning": "Nautiluses",
+    "meaningBn": "",
+    "description": "Externally shelled cephalopods.",
+    "descriptionBn": "",
+    "parentId": "cephalopoda",
+    "majorGroupId": "marine-invertebrates",
+    "status": "",
+    "characteristics": [],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "WoRMS: Nautilida",
+        "source": "WoRMS"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "nautilidae",
+    "rank": "family",
+    "name": "Nautilidae",
+    "bengaliName": "",
+    "meaning": "Nautiluses",
+    "meaningBn": "",
+    "description": "Chambered nautiluses of Indo-Pacific reef slopes.",
+    "descriptionBn": "",
+    "parentId": "nautilida",
+    "majorGroupId": "marine-invertebrates",
+    "status": "",
+    "characteristics": [
+      {
+        "bn": "",
+        "en": "External chambered coil shell"
+      },
+      {
+        "bn": "",
+        "en": "Dozens of suckerless tentacles"
+      }
+    ],
+    "habitat": "Deep reef slopes",
+    "habitatBn": "",
+    "ecosystem": "Benthic marine",
+    "ecosystemBn": "",
+    "distribution": "Tropical Indo-Pacific",
+    "biology": "",
+    "examples": [
+      {
+        "name": "Nautilus pompilius",
+        "commonName": "Chambered nautilus",
+        "bengaliName": "",
+        "speciesId": "sp-nautilus-pompilius",
+        "verified": true,
+        "source": "marine-batch-3",
+        "note": ""
+      }
+    ],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "WoRMS: Nautilidae",
+        "source": "WoRMS"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "gastropoda",
+    "rank": "class",
+    "name": "Gastropoda",
+    "bengaliName": "",
+    "meaning": "Snails and limpets",
+    "meaningBn": "",
+    "description": "Largest mollusc class: snails, limpets, whelks and slugs.",
+    "descriptionBn": "",
+    "parentId": "mollusca",
+    "majorGroupId": "marine-invertebrates",
+    "status": "",
+    "characteristics": [
+      {
+        "bn": "",
+        "en": "Muscular foot and rasping radula"
+      },
+      {
+        "bn": "",
+        "en": "Usually a coiled or cap-like shell"
+      }
+    ],
+    "habitat": "All marine zones",
+    "habitatBn": "",
+    "ecosystem": "Marine benthic and pelagic",
+    "ecosystemBn": "",
+    "distribution": "Worldwide oceans",
+    "biology": "",
+    "examples": [],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "WoRMS: Gastropoda",
+        "source": "WoRMS"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "patellida",
+    "rank": "order",
+    "name": "Patellida",
+    "bengaliName": "",
+    "meaning": "True limpets",
+    "meaningBn": "",
+    "description": "Cap-shelled grazing gastropods.",
+    "descriptionBn": "",
+    "parentId": "gastropoda",
+    "majorGroupId": "marine-invertebrates",
+    "status": "",
+    "characteristics": [],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "WoRMS: Patellida",
+        "source": "WoRMS"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "patellidae",
+    "rank": "family",
+    "name": "Patellidae",
+    "bengaliName": "",
+    "meaning": "True limpets",
+    "meaningBn": "",
+    "description": "Conical intertidal grazing snails.",
+    "descriptionBn": "",
+    "parentId": "patellida",
+    "majorGroupId": "marine-invertebrates",
+    "status": "",
+    "characteristics": [
+      {
+        "bn": "",
+        "en": "Conical non-coiled shell"
+      },
+      {
+        "bn": "",
+        "en": "Homing to a home scar"
+      }
+    ],
+    "habitat": "Intertidal rocky shores",
+    "habitatBn": "",
+    "ecosystem": "Intertidal marine",
+    "ecosystemBn": "",
+    "distribution": "Atlantic and worldwide coasts",
+    "biology": "",
+    "examples": [
+      {
+        "name": "Patella vulgata",
+        "commonName": "Common limpet",
+        "bengaliName": "",
+        "speciesId": "sp-patella-vulgata",
+        "verified": true,
+        "source": "marine-batch-3",
+        "note": ""
+      }
+    ],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "WoRMS: Patellidae",
+        "source": "WoRMS"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "pectinida",
+    "rank": "order",
+    "name": "Pectinida",
+    "bengaliName": "",
+    "meaning": "Scallops",
+    "meaningBn": "",
+    "description": "Swimming bivalves and allies.",
+    "descriptionBn": "",
+    "parentId": "bivalvia",
+    "majorGroupId": "marine-invertebrates",
+    "status": "",
+    "characteristics": [],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "WoRMS: Pectinida",
+        "source": "WoRMS"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "pectinidae",
+    "rank": "family",
+    "name": "Pectinidae",
+    "bengaliName": "",
+    "meaning": "Scallops",
+    "meaningBn": "",
+    "description": "Fan-shelled swimming bivalves.",
+    "descriptionBn": "",
+    "parentId": "pectinida",
+    "majorGroupId": "marine-invertebrates",
+    "status": "",
+    "characteristics": [
+      {
+        "bn": "",
+        "en": "Radiating ribs with 'ears'"
+      },
+      {
+        "bn": "",
+        "en": "Blue mantle eyes"
+      },
+      {
+        "bn": "",
+        "en": "Valve-clapping swimming"
+      }
+    ],
+    "habitat": "Shelf gravel and sand",
+    "habitatBn": "",
+    "ecosystem": "Benthic marine",
+    "ecosystemBn": "",
+    "distribution": "Worldwide shelves",
+    "biology": "",
+    "examples": [
+      {
+        "name": "Pecten maximus",
+        "commonName": "Great scallop",
+        "bengaliName": "",
+        "speciesId": "sp-pecten-maximus",
+        "verified": true,
+        "source": "marine-batch-3",
+        "note": ""
+      }
+    ],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "WoRMS: Pectinidae",
+        "source": "WoRMS"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "echinidae",
+    "rank": "family",
+    "name": "Echinidae",
+    "bengaliName": "",
+    "meaning": "Edible urchins",
+    "meaningBn": "",
+    "description": "Family of globular grazing urchins.",
+    "descriptionBn": "",
+    "parentId": "camarodonta",
+    "majorGroupId": "marine-invertebrates",
+    "status": "",
+    "characteristics": [
+      {
+        "bn": "",
+        "en": "Even-sized short spines"
+      },
+      {
+        "bn": "",
+        "en": "Kelp and encruster grazers"
+      }
+    ],
+    "habitat": "Rocky reefs and kelp",
+    "habitatBn": "",
+    "ecosystem": "Benthic marine",
+    "ecosystemBn": "",
+    "distribution": "Atlantic and worldwide",
+    "biology": "",
+    "examples": [
+      {
+        "name": "Echinus esculentus",
+        "commonName": "Edible sea urchin",
+        "bengaliName": "",
+        "speciesId": "sp-echinus-esculentus",
+        "verified": true,
+        "source": "marine-batch-3",
+        "note": ""
+      }
+    ],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "WoRMS: Echinidae",
+        "source": "WoRMS"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "holothuriida",
+    "rank": "order",
+    "name": "Holothuriida",
+    "bengaliName": "",
+    "meaning": "Typical sea cucumbers",
+    "meaningBn": "",
+    "description": "Order of sausage-shaped holothurians.",
+    "descriptionBn": "",
+    "parentId": "holothuroidea",
+    "majorGroupId": "marine-invertebrates",
+    "status": "",
+    "characteristics": [],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "WoRMS: Holothuriida",
+        "source": "WoRMS"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "holothuriidae",
+    "rank": "family",
+    "name": "Holothuriidae",
+    "bengaliName": "",
+    "meaning": "Tropical sea cucumbers",
+    "meaningBn": "",
+    "description": "Family including sandfish and other tropical cucumbers.",
+    "descriptionBn": "",
+    "parentId": "holothuriida",
+    "majorGroupId": "marine-invertebrates",
+    "status": "",
+    "characteristics": [
+      {
+        "bn": "",
+        "en": "Thick spiculed body wall"
+      },
+      {
+        "bn": "",
+        "en": "Shield-shaped feeding tentacles"
+      }
+    ],
+    "habitat": "Tropical sands and seagrass",
+    "habitatBn": "",
+    "ecosystem": "Benthic marine",
+    "ecosystemBn": "",
+    "distribution": "Indo-Pacific",
+    "biology": "",
+    "examples": [
+      {
+        "name": "Holothuria scabra",
+        "commonName": "Sandfish sea cucumber",
+        "bengaliName": "",
+        "speciesId": "sp-holothuria-scabra",
+        "verified": true,
+        "source": "marine-batch-3",
+        "note": ""
+      }
+    ],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "WoRMS: Holothuriidae",
+        "source": "WoRMS"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "ophiuroidea",
+    "rank": "class",
+    "name": "Ophiuroidea",
+    "bengaliName": "",
+    "meaning": "Brittle stars",
+    "meaningBn": "",
+    "description": "Snake-armed echinoderms distinct from starfish.",
+    "descriptionBn": "",
+    "parentId": "echinodermata",
+    "majorGroupId": "marine-invertebrates",
+    "status": "",
+    "characteristics": [
+      {
+        "bn": "",
+        "en": "Slender snake-like arms"
+      },
+      {
+        "bn": "",
+        "en": "No suckered tube feet for walking"
+      }
+    ],
+    "habitat": "Seafloors worldwide",
+    "habitatBn": "",
+    "ecosystem": "Benthic marine",
+    "ecosystemBn": "",
+    "distribution": "Worldwide oceans",
+    "biology": "",
+    "examples": [],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "WoRMS: Ophiuroidea",
+        "source": "WoRMS"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "amphilepidida",
+    "rank": "order",
+    "name": "Amphilepidida",
+    "bengaliName": "",
+    "meaning": "Small-disked brittle stars",
+    "meaningBn": "",
+    "description": "Order of small brittle stars.",
+    "descriptionBn": "",
+    "parentId": "ophiuroidea",
+    "majorGroupId": "marine-invertebrates",
+    "status": "",
+    "characteristics": [],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "WoRMS: Amphilepidida",
+        "source": "WoRMS"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "ophiotrichidae",
+    "rank": "family",
+    "name": "Ophiotrichidae",
+    "bengaliName": "",
+    "meaning": "Spiny brittle stars",
+    "meaningBn": "",
+    "description": "Family of spiny-armed suspension-feeding brittle stars.",
+    "descriptionBn": "",
+    "parentId": "amphilepidida",
+    "majorGroupId": "marine-invertebrates",
+    "status": "",
+    "characteristics": [
+      {
+        "bn": "",
+        "en": "Glassy arm spines"
+      },
+      {
+        "bn": "",
+        "en": "Suspension feeding in beds"
+      }
+    ],
+    "habitat": "Shelf gravel and mud",
+    "habitatBn": "",
+    "ecosystem": "Benthic marine",
+    "ecosystemBn": "",
+    "distribution": "Atlantic and worldwide",
+    "biology": "",
+    "examples": [
+      {
+        "name": "Ophiothrix fragilis",
+        "commonName": "Common brittle star",
+        "bengaliName": "",
+        "speciesId": "sp-ophiothrix-fragilis",
+        "verified": true,
+        "source": "marine-batch-3",
+        "note": ""
+      }
+    ],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "WoRMS: Ophiotrichidae",
+        "source": "WoRMS"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "demospongiae",
+    "rank": "class",
+    "name": "Demospongiae",
+    "bengaliName": "",
+    "meaning": "Siliceous sponges",
+    "meaningBn": "",
+    "description": "Most sponge diversity; siliceous spicules and spongin.",
+    "descriptionBn": "",
+    "parentId": "porifera",
+    "majorGroupId": "marine-invertebrates",
+    "status": "",
+    "characteristics": [
+      {
+        "bn": "",
+        "en": "Choanocyte filter feeding"
+      },
+      {
+        "bn": "",
+        "en": "No true tissues"
+      }
+    ],
+    "habitat": "All marine hard substrates",
+    "habitatBn": "",
+    "ecosystem": "Benthic marine",
+    "ecosystemBn": "",
+    "distribution": "Worldwide oceans",
+    "biology": "",
+    "examples": [],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "WoRMS: Demospongiae",
+        "source": "WoRMS"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "suberitida",
+    "rank": "order",
+    "name": "Suberitida",
+    "bengaliName": "",
+    "meaning": "Encrusting sponges",
+    "meaningBn": "",
+    "description": "Order of massive and encrusting sponges.",
+    "descriptionBn": "",
+    "parentId": "demospongiae",
+    "majorGroupId": "marine-invertebrates",
+    "status": "",
+    "characteristics": [],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "EPPO lists Halichondriidae under Halichondrida; WoRMS Suberitida retained here.",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "WoRMS: Suberitida",
+        "source": "WoRMS"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "halichondriidae",
+    "rank": "family",
+    "name": "Halichondriidae",
+    "bengaliName": "",
+    "meaning": "Crumb sponges",
+    "meaningBn": "",
+    "description": "Friable encrusting sponges of coasts worldwide.",
+    "descriptionBn": "",
+    "parentId": "suberitida",
+    "majorGroupId": "marine-invertebrates",
+    "status": "",
+    "characteristics": [
+      {
+        "bn": "",
+        "en": "Breadcrumb texture"
+      },
+      {
+        "bn": "",
+        "en": "Crater-like oscula"
+      }
+    ],
+    "habitat": "Intertidal rock and harbours",
+    "habitatBn": "",
+    "ecosystem": "Coastal marine",
+    "ecosystemBn": "",
+    "distribution": "North Atlantic and worldwide",
+    "biology": "",
+    "examples": [
+      {
+        "name": "Halichondria panicea",
+        "commonName": "Breadcrumb sponge",
+        "bengaliName": "",
+        "speciesId": "sp-halichondria-panicea",
+        "verified": true,
+        "source": "marine-batch-3",
+        "note": ""
+      }
+    ],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "WoRMS: Halichondriidae",
+        "source": "WoRMS"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "tentaculata",
+    "rank": "class",
+    "name": "Tentaculata",
+    "bengaliName": "",
+    "meaning": "Tentacled comb jellies",
+    "meaningBn": "",
+    "description": "Comb jellies bearing fishing tentacles.",
+    "descriptionBn": "",
+    "parentId": "ctenophora",
+    "majorGroupId": "marine-invertebrates",
+    "status": "",
+    "characteristics": [
+      {
+        "bn": "",
+        "en": "Eight ciliary comb rows"
+      },
+      {
+        "bn": "",
+        "en": "Sticky tentacle filaments, no stingers"
+      }
+    ],
+    "habitat": "Pelagic coastal waters",
+    "habitatBn": "",
+    "ecosystem": "Pelagic marine",
+    "ecosystemBn": "",
+    "distribution": "Worldwide oceans",
+    "biology": "",
+    "examples": [],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "WoRMS: Tentaculata",
+        "source": "WoRMS"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "cydippida",
+    "rank": "order",
+    "name": "Cydippida",
+    "bengaliName": "",
+    "meaning": "Sea gooseberries",
+    "meaningBn": "",
+    "description": "Globular tentacled comb jellies.",
+    "descriptionBn": "",
+    "parentId": "tentaculata",
+    "majorGroupId": "marine-invertebrates",
+    "status": "",
+    "characteristics": [],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "WoRMS: Cydippida",
+        "source": "WoRMS"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "cydippidae",
+    "rank": "family",
+    "name": "Cydippidae",
+    "bengaliName": "",
+    "meaning": "Sea gooseberries",
+    "meaningBn": "",
+    "description": "Family of small globular comb jellies.",
+    "descriptionBn": "",
+    "parentId": "cydippida",
+    "majorGroupId": "marine-invertebrates",
+    "status": "",
+    "characteristics": [
+      {
+        "bn": "",
+        "en": "Transparent ball to about 2.5 cm"
+      },
+      {
+        "bn": "",
+        "en": "Two retractile fishing tentacles"
+      }
+    ],
+    "habitat": "Coastal pelagic waters",
+    "habitatBn": "",
+    "ecosystem": "Pelagic marine",
+    "ecosystemBn": "",
+    "distribution": "North Atlantic and worldwide",
+    "biology": "",
+    "examples": [
+      {
+        "name": "Pleurobrachia pileus",
+        "commonName": "Sea gooseberry",
+        "bengaliName": "",
+        "speciesId": "sp-pleurobrachia-pileus",
+        "verified": true,
+        "source": "marine-batch-3",
+        "note": ""
+      }
+    ],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "EPPO lists Pleurobrachia under Pleurobrachiidae; WoRMS Cydippidae retained here.",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "WoRMS: Cydippidae",
+        "source": "WoRMS"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "polychaeta",
+    "rank": "class",
+    "name": "Polychaeta",
+    "bengaliName": "",
+    "meaning": "Bristle worms",
+    "meaningBn": "",
+    "description": "Mostly marine segmented worms with parapodia.",
+    "descriptionBn": "",
+    "parentId": "annelida",
+    "majorGroupId": "marine-invertebrates",
+    "status": "",
+    "characteristics": [
+      {
+        "bn": "",
+        "en": "Paired bristled appendages"
+      },
+      {
+        "bn": "",
+        "en": "Sedentary and free-living forms"
+      }
+    ],
+    "habitat": "Seabeds and shores worldwide",
+    "habitatBn": "",
+    "ecosystem": "Benthic marine",
+    "ecosystemBn": "",
+    "distribution": "Worldwide oceans",
+    "biology": "",
+    "examples": [],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "WoRMS: Polychaeta",
+        "source": "WoRMS"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "arenicolidae",
+    "rank": "family",
+    "name": "Arenicolidae",
+    "bengaliName": "",
+    "meaning": "Lugworms",
+    "meaningBn": "",
+    "description": "Burrowing deposit-feeding worms of sandy shores.",
+    "descriptionBn": "",
+    "parentId": "polychaeta",
+    "majorGroupId": "marine-invertebrates",
+    "status": "",
+    "characteristics": [
+      {
+        "bn": "",
+        "en": "U/J burrows with blow hole and cast"
+      },
+      {
+        "bn": "",
+        "en": "Feathery mid-body gills"
+      }
+    ],
+    "habitat": "Intertidal sand flats",
+    "habitatBn": "",
+    "ecosystem": "Intertidal marine",
+    "ecosystemBn": "",
+    "distribution": "North Atlantic coasts",
+    "biology": "",
+    "examples": [
+      {
+        "name": "Arenicola marina",
+        "commonName": "Lugworm",
+        "bengaliName": "",
+        "speciesId": "sp-arenicola-marina",
+        "verified": true,
+        "source": "marine-batch-3",
+        "note": ""
+      }
+    ],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "WoRMS leaves Arenicola order unassigned (some place in Capitellida); family attached directly under Polychaeta.",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "WoRMS: Arenicolidae",
+        "source": "WoRMS"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "enteropneusta",
+    "rank": "class",
+    "name": "Enteropneusta",
+    "bengaliName": "",
+    "meaning": "Acorn worms",
+    "meaningBn": "",
+    "description": "Burrowing hemichordates with proboscis, collar and gill-slit trunk.",
+    "descriptionBn": "",
+    "parentId": "hemichordata",
+    "majorGroupId": "marine-invertebrates",
+    "status": "",
+    "characteristics": [
+      {
+        "bn": "",
+        "en": "Acorn-shaped proboscis"
+      },
+      {
+        "bn": "",
+        "en": "Pharyngeal gill slits"
+      }
+    ],
+    "habitat": "Intertidal mud and sand",
+    "habitatBn": "",
+    "ecosystem": "Benthic marine",
+    "ecosystemBn": "",
+    "distribution": "Worldwide coasts",
+    "biology": "",
+    "examples": [],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "WoRMS: Enteropneusta",
+        "source": "WoRMS"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "harrimaniidae",
+    "rank": "family",
+    "name": "Harrimaniidae",
+    "bengaliName": "",
+    "meaning": "Direct-developing acorn worms",
+    "meaningBn": "",
+    "description": "Family of small acorn worms including the evo-devo model Saccoglossus.",
+    "descriptionBn": "",
+    "parentId": "enteropneusta",
+    "majorGroupId": "marine-invertebrates",
+    "status": "",
+    "characteristics": [],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [
+      {
+        "name": "Saccoglossus kowalevskii",
+        "commonName": "Acorn worm",
+        "bengaliName": "",
+        "speciesId": "sp-saccoglossus-kowalevskii",
+        "verified": true,
+        "source": "marine-batch-3",
+        "note": ""
+      }
+    ],
+    "taxonomyNotes": "WoRMS lists Saccoglossus order as incertae sedis; family attached directly under Enteropneusta.",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "WoRMS: Harrimaniidae",
+        "source": "WoRMS"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  }
+]

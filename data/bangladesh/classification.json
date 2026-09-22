@@ -1,0 +1,887 @@
+[
+  {
+    "id": "bangladesh-mammals",
+    "rank": "major-group",
+    "name": "Mammals",
+    "bengaliName": "স্তন্যপায়ী",
+    "description": "Mammals occurring in Bangladesh — from tigers and elephants to bats and rodents.",
+    "descriptionBn": "বাংলাদেশে পাওয়া য जाने ম staan্যপায়ী প্রাণী — বাঘ, হাতি, বাদুড় থেকে ইঁদুর পর্যন্ত।",
+    "parentId": null,
+    "majorGroupId": "bangladesh-mammals",
+    "status": "",
+    "characteristics": [
+      {
+        "bn": "স্থন্যপান করানো",
+        "en": "Mammary glands for milk production"
+      },
+      {
+        "bn": "রোম বা লোম থাকা",
+        "en": "Hair or fur present"
+      },
+      {
+        "bn": "তিনটি মাঝের কানের হাতি",
+        "en": "Three middle ear bones"
+      },
+      {
+        "bn": "নিওকর্টেক্স থাকা",
+        "en": "Neocortex in brain"
+      }
+    ],
+    "habitat": "Forests, grasslands, wetlands, urban areas across Bangladesh",
+    "habitatBn": "বাংলাদেশ জুড়ে বন, ঘাসলাঙ, জলাঙ্কур, শহর এলাকা",
+    "ecosystem": "Terrestrial and wetland ecosystems",
+    "ecosystemBn": "স্থলীয় ও জলাঙ্কুর বাস্তুতন্ত্র",
+    "distribution": "Throughout Bangladesh, concentrated in forests, wetlands, and protected areas",
+    "biology": "",
+    "examples": [
+      {
+        "name": "Panthera tigris tigris",
+        "commonName": "Bengal Tiger",
+        "bengaliName": "রয়েল বেঙ্গল টাইগার",
+        "speciesId": "sp-panthera-tigris-tigris",
+        "verified": true,
+        "source": "legacy",
+        "note": ""
+      },
+      {
+        "name": "Elephas maximus",
+        "commonName": "Asian Elephant",
+        "bengaliName": "এশীয় হাতি",
+        "speciesId": "sp-elephas-maximus",
+        "verified": true,
+        "source": "legacy",
+        "note": ""
+      },
+      {
+        "name": "Vulpes vulpes",
+        "commonName": "Red Fox",
+        "bengaliName": "লাল শিয়াল",
+        "speciesId": "sp-vulpes-vulpes",
+        "verified": true,
+        "source": "legacy",
+        "note": ""
+      },
+      {
+        "name": "Prionailurus viverrinus",
+        "commonName": "Fishing Cat",
+        "bengaliName": "মোমাছ বিড়াল",
+        "speciesId": "sp-prionailurus-viverrinus",
+        "verified": true,
+        "source": "bangladesh-batch-1",
+        "note": ""
+      },
+      {
+        "name": "Hoolock hoolock",
+        "commonName": "Hoolock Gibbon",
+        "bengaliName": "উল্লুক",
+        "speciesId": "sp-hoolock-hoolock",
+        "verified": false,
+        "source": "bangladesh-batch-2",
+        "note": ""
+      },
+      {
+        "name": "Lutrogale perspicillata",
+        "commonName": "Smooth-coated Otter",
+        "bengaliName": "উদ",
+        "speciesId": "sp-lutrogale-perspicillata",
+        "verified": false,
+        "source": "bangladesh-batch-2",
+        "note": ""
+      },
+      {
+        "name": "Aonyx cinereus",
+        "commonName": "Small-clawed Otter",
+        "bengaliName": "ছোট-নখর ভোঁদড়",
+        "speciesId": "sp-aonyx-cinereus",
+        "verified": false,
+        "source": "bangladesh-batch-2",
+        "note": ""
+      },
+      {
+        "name": "Prionailurus bengalensis",
+        "commonName": "Leopard Cat",
+        "bengaliName": "চিতা বিড়াল",
+        "speciesId": "sp-prionailurus-bengalensis",
+        "verified": false,
+        "source": "bangladesh-batch-2",
+        "note": ""
+      },
+      {
+        "name": "Canis aureus",
+        "commonName": "Golden Jackal",
+        "bengaliName": "পাতি শিয়াল",
+        "speciesId": "sp-canis-aureus",
+        "verified": false,
+        "source": "bangladesh-batch-2",
+        "note": ""
+      },
+      {
+        "name": "Macaca mulatta",
+        "commonName": "Rhesus Macaque",
+        "bengaliName": "লাল বানর",
+        "speciesId": "sp-macaca-mulatta",
+        "verified": false,
+        "source": "bangladesh-batch-2",
+        "note": ""
+      },
+      {
+        "name": "Cynopterus sphinx",
+        "commonName": "Greater Short-nosed Fruit Bat",
+        "bengaliName": "কলাবাদুড়",
+        "speciesId": "sp-cynopterus-sphinx",
+        "verified": false,
+        "source": "bangladesh-batch-2",
+        "note": ""
+      },
+      {
+        "name": "Macaca assamensis",
+        "commonName": "Assamese Macaque",
+        "bengaliName": "আসামি বানর",
+        "speciesId": "sp-macaca-assamensis",
+        "verified": false,
+        "source": "bangladesh-batch-2",
+        "note": ""
+      },
+      {
+        "name": "Nycticebus bengalensis",
+        "commonName": "Bengal Slow Loris",
+        "bengaliName": "লজ্জাবতী বানর",
+        "speciesId": "sp-nycticebus-bengalensis",
+        "verified": false,
+        "source": "bangladesh-batch-2",
+        "note": ""
+      }
+    ],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "IUCN Red List of Bangladesh: Mammals",
+        "source": "IUCN Bangladesh"
+      },
+      {
+        "title": "Red List of Bangladesh Volume 2: Mammals",
+        "source": "IUCN Bangladesh Country Office"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "bangladesh-birds",
+    "rank": "major-group",
+    "name": "Birds",
+    "bengaliName": "পাখি",
+    "description": "Birds of Bangladesh — residents, migrants, and wetland specialists.",
+    "descriptionBn": "বাংলাদেশের পাখী — আবাস্থানী, প্রবাসী ও জলাঙ্কুর-নির্ভর প্রজাতি।",
+    "parentId": null,
+    "majorGroupId": "bangladesh-birds",
+    "status": "",
+    "characteristics": [
+      {
+        "bn": "পাখা থাকা",
+        "en": "Feathers present"
+      },
+      {
+        "bn": "চুল্লি হaddy",
+        "en": "Beak present"
+      },
+      {
+        "bn": "ডিম মানে প্রজনন",
+        "en": "Oviparous reproduction"
+      },
+      {
+        "bn": "হাড়টি ফাঁকসহ (pneumatic bones)",
+        "en": "Pneumatic bones"
+      }
+    ],
+    "habitat": "Forests, wetlands, grasslands, urban areas, coastal zones across Bangladesh",
+    "habitatBn": "বাংলাদেশ জুড়ে বন, জলাঙ্কুর, ঘাসলাঙ, শহর ও সমुद्रতटীয় এলাকা",
+    "ecosystem": "Terrestrial, wetland, and aerial ecosystems",
+    "ecosystemBn": "স্থলীয়, জলাঙ্কুর ও হবাদার বাস্তুতন্ত্র",
+    "distribution": "Throughout Bangladesh, major concentrations in haor wetlands, Sundarbans, and hill forests",
+    "biology": "",
+    "examples": [
+      {
+        "name": "Phalacrocorax carbo",
+        "commonName": "Great Cormorant",
+        "bengaliName": "বড় পানকৌড়ি",
+        "speciesId": "sp-phalacrocorax-carbo",
+        "verified": true,
+        "source": "bangladesh-b1",
+        "note": ""
+      },
+      {
+        "name": "Eudynamys scolopaceus",
+        "commonName": "Asian Koel",
+        "bengaliName": "কোকিল",
+        "speciesId": "sp-eudynamys-scolopaceus",
+        "verified": true,
+        "source": "bangladesh-tier1",
+        "note": ""
+      },
+      {
+        "name": "Corvus splendens",
+        "commonName": "House Crow",
+        "bengaliName": "পাতি কাক",
+        "speciesId": "sp-corvus-splendens",
+        "verified": true,
+        "source": "bangladesh-tier1",
+        "note": ""
+      },
+      {
+        "name": "Alcedo atthis",
+        "commonName": "Common Kingfisher",
+        "bengaliName": "ছোট মাছরাঙা",
+        "speciesId": "sp-alcedo-atthis",
+        "verified": true,
+        "source": "bangladesh-tier1",
+        "note": ""
+      },
+      {
+        "name": "Ardea coromanda",
+        "commonName": "Eastern Cattle-Egret",
+        "bengaliName": "গো-বক",
+        "speciesId": "sp-ardea-coromanda",
+        "verified": true,
+        "source": "bangladesh-tier1",
+        "note": "Assessed nationally as Bubulcus ibis (2015, pre-split)"
+      },
+      {
+        "name": "Pycnonotus cafer",
+        "commonName": "Red-vented Bulbul",
+        "bengaliName": "বুলবুলি",
+        "speciesId": "sp-pycnonotus-cafer",
+        "verified": true,
+        "source": "bangladesh-tier1",
+        "note": ""
+      },
+      {
+        "name": "Copsychus saularis",
+        "commonName": "Oriental Magpie-Robin",
+        "bengaliName": "দোয়েল",
+        "speciesId": "sp-copsychus-saularis",
+        "verified": true,
+        "source": "bangladesh-tier1",
+        "note": ""
+      },
+      {
+        "name": "Ardeola grayii",
+        "commonName": "Indian Pond-Heron",
+        "bengaliName": "কানিবক",
+        "speciesId": "sp-ardeola-grayii",
+        "verified": true,
+        "source": "bangladesh-tier1",
+        "note": ""
+      },
+      {
+        "name": "Halcyon smyrnensis",
+        "commonName": "White-throated Kingfisher",
+        "bengaliName": "ধলাগলা মাছরাঙা",
+        "speciesId": "sp-halcyon-smyrnensis",
+        "verified": true,
+        "source": "bangladesh-tier1",
+        "note": ""
+      },
+      {
+        "name": "Dicrurus macrocercus",
+        "commonName": "Black Drongo",
+        "bengaliName": "ফিঙে",
+        "speciesId": "sp-dicrurus-macrocercus",
+        "verified": true,
+        "source": "bangladesh-tier1",
+        "note": ""
+      },
+      {
+        "name": "Acridotheres tristis",
+        "commonName": "Common Myna",
+        "bengaliName": "ভাত-শালিক",
+        "speciesId": "sp-acridotheres-tristis",
+        "verified": true,
+        "source": "bangladesh-tier1",
+        "note": ""
+      },
+      {
+        "name": "Passer domesticus",
+        "commonName": "House Sparrow",
+        "bengaliName": "ঘর-চড়ুই",
+        "speciesId": "sp-passer-domesticus",
+        "verified": true,
+        "source": "bangladesh-tier1",
+        "note": ""
+      },
+      {
+        "name": "Spilopelia chinensis",
+        "commonName": "Spotted Dove",
+        "bengaliName": "তিলা ঘুঘু",
+        "speciesId": "sp-spilopelia-chinensis",
+        "verified": true,
+        "source": "bangladesh-tier1",
+        "note": ""
+      }
+    ],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Birds of Bangladesh",
+        "source": "Bangladesh Bird Club"
+      },
+      {
+        "title": "Red List of Bangladesh Volume 3: Birds",
+        "source": "IUCN Bangladesh Country Office"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "bangladesh-reptiles",
+    "rank": "major-group",
+    "name": "Reptiles",
+    "bengaliName": "সরীসৃপ",
+    "description": "Reptiles of Bangladesh — crocodiles, turtles, lizards, and snakes.",
+    "descriptionBn": "বাংলাদেশের সরীসৃপ — কুমির, কচ্ছপ, গrbp ও সাপ।",
+    "parentId": null,
+    "majorGroupId": "bangladesh-reptiles",
+    "status": "",
+    "characteristics": [
+      {
+        "bn": "শPåশ বা ডাঁড় আছে",
+        "en": "Scales or scutes present"
+      },
+      {
+        "bn": "রক্তাতাপ পরিবেশানুসারী (ectothermic)",
+        "en": "Ectothermic (cold-blooded)"
+      },
+      {
+        "bn": "ডিম মানে প্রজনন (প্রায়শ)",
+        "en": "Oviparous reproduction (mostly)"
+      },
+      {
+        "bn": "চামড়া শুকনো ও জলসংরক্ষণক্ষম",
+        "en": "Dry, water-conserving skin"
+      }
+    ],
+    "habitat": "Forests, wetlands, rivers, grasslands, Sundarbans mangroves",
+    "habitatBn": "বন, জলাঙ্কুর, নদী, ঘাসলাঙ, সুন্দরবন ম্যানগ্রোভ",
+    "ecosystem": "Terrestrial, freshwater, and coastal ecosystems",
+    "ecosystemBn": "স্থলীয়, মিঠা জল ও সৈকত বাস্তুতন্ত্র",
+    "distribution": "Throughout Bangladesh, Sundarbans, haor wetlands, hill forests, rivers",
+    "biology": "",
+    "examples": [
+      {
+        "name": "Crocodylus porosus",
+        "commonName": "Saltwater crocodile",
+        "bengaliName": "লোনাপানির কুমির",
+        "speciesId": "sp-crocodylus-porosus",
+        "verified": true,
+        "source": "bangladesh-b1",
+        "note": ""
+      },
+      {
+        "name": "Python bivittatus",
+        "commonName": "Burmese Python",
+        "bengaliName": "ময়াল অজগর",
+        "speciesId": "sp-python-bivittatus",
+        "verified": false,
+        "source": "bangladesh-batch-2",
+        "note": ""
+      },
+      {
+        "name": "Bungarus caeruleus",
+        "commonName": "Common Krait",
+        "bengaliName": "পাতি কেউটে",
+        "speciesId": "sp-bungarus-caeruleus",
+        "verified": false,
+        "source": "bangladesh-batch-2",
+        "note": ""
+      },
+      {
+        "name": "Naja naja",
+        "commonName": "Indian Cobra",
+        "bengaliName": "খৈয়া গোখরা",
+        "speciesId": "sp-naja-naja",
+        "verified": false,
+        "source": "bangladesh-batch-2",
+        "note": ""
+      },
+      {
+        "name": "Ophiophagus hannah",
+        "commonName": "King Cobra",
+        "bengaliName": "রাজ গোখরা",
+        "speciesId": "sp-ophiophagus-hannah",
+        "verified": false,
+        "source": "bangladesh-batch-2",
+        "note": ""
+      },
+      {
+        "name": "Naja kaouthia",
+        "commonName": "Monocled Cobra",
+        "bengaliName": "পদ্ম গোখরা",
+        "speciesId": "sp-naja-kaouthia",
+        "verified": false,
+        "source": "bangladesh-batch-2",
+        "note": ""
+      },
+      {
+        "name": "Pangshura tecta",
+        "commonName": "Indian Roofed Turtle",
+        "bengaliName": "কড়ি কাছিম",
+        "speciesId": "sp-pangshura-tecta",
+        "verified": false,
+        "source": "bangladesh-batch-2",
+        "note": ""
+      },
+      {
+        "name": "Geoclemys hamiltonii",
+        "commonName": "Spotted Pond Turtle",
+        "bengaliName": "কালো কাছিম",
+        "speciesId": "sp-geoclemys-hamiltonii",
+        "verified": false,
+        "source": "bangladesh-batch-2",
+        "note": ""
+      },
+      {
+        "name": "Gavialis gangeticus",
+        "commonName": "Gharial",
+        "bengaliName": "ঘড়িয়াল",
+        "speciesId": "sp-gavialis-gangeticus",
+        "verified": false,
+        "source": "bangladesh-batch-2",
+        "note": ""
+      },
+      {
+        "name": "Varanus bengalensis",
+        "commonName": "Bengal Monitor",
+        "bengaliName": "গুই সাপ",
+        "speciesId": "sp-legacy-varanus-bengalensis",
+        "verified": false,
+        "source": "bangladesh-batch-2",
+        "note": ""
+      }
+    ],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Red List of Bangladesh Volume 4: Reptiles and Amphibians",
+        "source": "IUCN Bangladesh Country Office"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "bangladesh-amphibians",
+    "rank": "major-group",
+    "name": "Amphibians",
+    "bengaliName": "উভচর",
+    "description": "Amphibians of Bangladesh — frogs, toads, and caecilians.",
+    "descriptionBn": "বাংলাদেশের উভচর — বাঙ, কুঁইবাঙ ও সিসিলিয়ান।",
+    "parentId": null,
+    "majorGroupId": "bangladesh-amphibians",
+    "status": "",
+    "characteristics": [
+      {
+        "bn": "দুই পর্বে জীৱনযাপন (জল ও स्थল)",
+        "en": "Two-phase life (water and land)"
+      },
+      {
+        "bn": "চামড়া থেকে শ্বাস (cutaneous respiration)",
+        "en": "Cutaneous respiration"
+      },
+      {
+        "bn": "জলে ডিম ও বাচ্চা (larval stage)",
+        "en": "Aquatic eggs and larval stage"
+      },
+      {
+        "bn": "রক্তাতাপ পরিবেশানুসারী",
+        "en": "Ectothermic"
+      }
+    ],
+    "habitat": "Wetlands, paddy fields, forests, ponds, streams across Bangladesh",
+    "habitatBn": "জলাঙ্কুর, ধানক্ষেত, বন, পুকুর, ছড়া — বাংলাদেশ জুড়ে",
+    "ecosystem": "Freshwater and moist terrestrial ecosystems",
+    "ecosystemBn": "মিঠা জল ও আর্দ্র স্থলীয় বাস্তুতন্ত্র",
+    "distribution": "Throughout Bangladesh, especially in haor wetlands, paddy fields, forests",
+    "biology": "",
+    "examples": [
+      {
+        "name": "Duttaphrynus melanostictus",
+        "commonName": "Asian Common Toad",
+        "bengaliName": "কুনো ব্যাঙ",
+        "speciesId": "sp-duttaphrynus-melanostictus",
+        "verified": false,
+        "source": "bangladesh-batch-2",
+        "note": ""
+      },
+      {
+        "name": "Hoplobatrachus tigerinus",
+        "commonName": "Indian Bullfrog",
+        "bengaliName": "ষাঁড় ব্যাঙ",
+        "speciesId": "sp-hoplobatrachus-tigerinus",
+        "verified": false,
+        "source": "bangladesh-batch-2",
+        "note": ""
+      },
+      {
+        "name": "Euphlyctis cyanophlyctis",
+        "commonName": "Indian Skittering Frog",
+        "bengaliName": "ঝিঁঝি ব্যাঙ",
+        "speciesId": "sp-euphlyctis-cyanophlyctis",
+        "verified": false,
+        "source": "bangladesh-batch-2",
+        "note": ""
+      },
+      {
+        "name": "Microhyla ornata",
+        "commonName": "Ornate Narrow-mouthed Frog",
+        "bengaliName": "ছোট ব্যাঙ",
+        "speciesId": "sp-microhyla-ornata",
+        "verified": false,
+        "source": "bangladesh-batch-2",
+        "note": ""
+      },
+      {
+        "name": "Polypedates maculatus",
+        "commonName": "Indian Tree Frog",
+        "bengaliName": "গেছো ব্যাঙ",
+        "speciesId": "sp-polypedates-maculatus",
+        "verified": false,
+        "source": "bangladesh-batch-2",
+        "note": ""
+      },
+      {
+        "name": "Euphlyctis hexadactylus",
+        "commonName": "Green Pond Frog",
+        "bengaliName": "সবুজ ব্যাঙ",
+        "speciesId": "sp-euphlyctis-hexadactylus",
+        "verified": false,
+        "source": "bangladesh-batch-2",
+        "note": ""
+      }
+    ],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Red List of Bangladesh Volume 4: Reptiles and Amphibians",
+        "source": "IUCN Bangladesh Country Office"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "bangladesh-fish",
+    "rank": "major-group",
+    "name": "Fish",
+    "bengaliName": "মাছ",
+    "description": "Freshwater and brackish water fish of Bangladesh rivers, haors, and floodplains.",
+    "descriptionBn": "বাংলাদেশের মিঠা জল ও দ্রাবণ লবণাক্ত জল মাছ — নদী, হাওর ও বন্যা মাঠে।",
+    "parentId": null,
+    "majorGroupId": "bangladesh-fish",
+    "status": "",
+    "characteristics": [
+      {
+        "bn": "জলে বাস (aquatic)",
+        "en": "Aquatic life"
+      },
+      {
+        "bn": "ফুলকা দিয়ে শ্বাস (gills)",
+        "en": "Gill respiration"
+      },
+      {
+        "bn": "পাখনা দিয়ে বিচরণ (fins)",
+        "en": "Fin propulsion"
+      },
+      {
+        "bn": "ডিম মানে প্রজনন",
+        "en": "Oviparous reproduction"
+      }
+    ],
+    "habitat": "Rivers (Padma, Jamuna, Meghna), haors (Tanguar, Hakaluki), beels, floodplains, ponds",
+    "habitatBn": "নদী (পদ্মা, যমুনা, মেঘনা), হাওর (তাঙ্গুয়ার, হাকালুকি), বিল, বন্যা মাঠ, পুকুর",
+    "ecosystem": "Freshwater riverine, floodplain, and wetland ecosystems",
+    "ecosystemBn": "মিঠা জল নদীণ, বন্যা মাঠ ও জলাঙ্কুর বাস্তুতন্ত্র",
+    "distribution": "Major river systems, haor basins, floodplains, Sundarbans brackish zones",
+    "biology": "",
+    "examples": [
+      {
+        "name": "Labeo rohita",
+        "commonName": "Rohu",
+        "bengaliName": "রুই",
+        "speciesId": "sp-labeo-rohita",
+        "verified": true,
+        "source": "bangladesh-b1",
+        "note": ""
+      },
+      {
+        "name": "Catla catla",
+        "commonName": "Catla",
+        "bengaliName": "কাতলা",
+        "speciesId": "sp-catla-catla",
+        "verified": true,
+        "source": "bangladesh-b1",
+        "note": ""
+      },
+      {
+        "name": "Cirrhinus mrigala",
+        "commonName": "Mrigel",
+        "bengaliName": "মৃগেল",
+        "speciesId": "sp-cirrhinus-mrigala",
+        "verified": true,
+        "source": "bangladesh-b1",
+        "note": ""
+      },
+      {
+        "name": "Channa striata",
+        "commonName": "Striped snakehead",
+        "bengaliName": "শোল",
+        "speciesId": "sp-channa-striata",
+        "verified": true,
+        "source": "bangladesh-b1",
+        "note": ""
+      },
+      {
+        "name": "Channa punctata",
+        "commonName": "Spotted snakehead",
+        "bengaliName": "টাকি",
+        "speciesId": "sp-channa-punctata",
+        "verified": true,
+        "source": "bangladesh-b1",
+        "note": ""
+      },
+      {
+        "name": "Anabas testudineus",
+        "commonName": "Climbing perch",
+        "bengaliName": "কৈ",
+        "speciesId": "sp-anabas-testudineus",
+        "verified": true,
+        "source": "bangladesh-b1",
+        "note": ""
+      },
+      {
+        "name": "Heteropneustes fossilis",
+        "commonName": "Stinging catfish",
+        "bengaliName": "শিং",
+        "speciesId": "sp-heteropneustes-fossilis",
+        "verified": true,
+        "source": "bangladesh-b1",
+        "note": ""
+      },
+      {
+        "name": "Mystus vittatus",
+        "commonName": "Striped dwarf catfish",
+        "bengaliName": "টেংরা",
+        "speciesId": "sp-mystus-vittatus",
+        "verified": true,
+        "source": "bangladesh-b1",
+        "note": ""
+      },
+      {
+        "name": "Labeo calbasu",
+        "commonName": "Black rohu",
+        "bengaliName": "কালিবাউস",
+        "speciesId": "sp-labeo-calbasu",
+        "verified": true,
+        "source": "bangladesh-b1",
+        "note": ""
+      },
+      {
+        "name": "Glossogobius giuris",
+        "commonName": "Tank goby",
+        "bengaliName": "বেলে",
+        "speciesId": "sp-glossogobius-giuris",
+        "verified": true,
+        "source": "bangladesh-b1",
+        "note": ""
+      },
+      {
+        "name": "Sperata aor",
+        "commonName": "Long-whiskered catfish",
+        "bengaliName": "আইড়",
+        "speciesId": "sp-sperata-aor",
+        "verified": true,
+        "source": "bangladesh-b1",
+        "note": ""
+      }
+    ],
+    "taxonomyNotes": "Marine fish excluded — see Marine Life module for coastal/marine species",
+    "modernTaxonomyNote": "Follows FishBase/Catalog of Fishes taxonomy; freshwater/brackish species prioritized",
+    "modernTaxonomyNoteBn": "FishBase/ক্যাটালগ অফ ফিশ ট্যাক্সোনমি অনুযায়ী; মিঠা/দ্রাবণ লবণাক্ত প্রজাতি প্রাধান্য",
+    "references": [
+      {
+        "title": "FishBase: Bangladesh Freshwater Fish",
+        "source": "FishBase"
+      },
+      {
+        "title": "Red List of Bangladesh Volume 5: Freshwater Fishes",
+        "source": "IUCN Bangladesh Country Office"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "bangladesh-invertebrates",
+    "rank": "major-group",
+    "name": "Invertebrates",
+    "bengaliName": "অমেরুদণ্ডী",
+    "description": "Invertebrates of Bangladesh — butterflies, crustaceans, molluscs, and more.",
+    "descriptionBn": "বাংলাদেশের অমেরুদণ্ডী প্রাণী — প্রজাপতি, ক্রাস্টেশিয়ান, মোলাস্ক ও আরও।",
+    "parentId": null,
+    "majorGroupId": "bangladesh-invertebrates",
+    "status": "",
+    "characteristics": [
+      {
+        "bn": "মেরুদণ্ড নেই",
+        "en": "No vertebral column"
+      },
+      {
+        "bn": "বহুস্থানীয় প্রজাতি সংখ্যা",
+        "en": "High species diversity"
+      },
+      {
+        "bn": "বিভিন্ন বাস্তুতন্ত্রে অবদান",
+        "en": "Key roles in various ecosystems"
+      }
+    ],
+    "habitat": "Forests, wetlands, agricultural lands, rivers, coastal zones across Bangladesh",
+    "habitatBn": "বন, জলাঙ্কুর, কৃষি الأرض, নদী, সৈকত অঞ্চল — বাংলাদেশ জুড়ে",
+    "ecosystem": "All ecosystems — pollinators, decomposers, prey base",
+    "ecosystemBn": "সব বাস্তুতন্ত্র — পরাগকর, আপঘাতকারী, শিকার ভিত্তি",
+    "distribution": "Throughout Bangladesh, especially forests, wetlands, agricultural areas",
+    "biology": "",
+    "examples": [
+      {
+        "name": "Penaeus monodon",
+        "commonName": "Giant tiger prawn",
+        "bengaliName": "বাগদা চিংড়ি",
+        "speciesId": "sp-penaeus-monodon",
+        "verified": true,
+        "source": "bangladesh-b1",
+        "note": ""
+      },
+      {
+        "name": "Scylla serrata",
+        "commonName": "Mud crab",
+        "bengaliName": "কাঁকড়া",
+        "speciesId": "sp-scylla-serrata",
+        "verified": true,
+        "source": "bangladesh-b1",
+        "note": ""
+      },
+      {
+        "name": "Papilio polytes",
+        "commonName": "Common Mormon",
+        "bengaliName": "কমন মরমন",
+        "speciesId": "sp-papilio-polytes",
+        "verified": false,
+        "source": "bangladesh-batch-2",
+        "note": ""
+      },
+      {
+        "name": "Papilio demoleus",
+        "commonName": "Common Lime",
+        "bengaliName": "লেবু প্রজাপতি",
+        "speciesId": "sp-papilio-demoleus",
+        "verified": false,
+        "source": "bangladesh-batch-2",
+        "note": ""
+      },
+      {
+        "name": "Danaus chrysippus",
+        "commonName": "Plain Tiger",
+        "bengaliName": "প্লেইন টাইগার",
+        "speciesId": "sp-danaus-chrysippus",
+        "verified": false,
+        "source": "bangladesh-batch-2",
+        "note": ""
+      },
+      {
+        "name": "Delias eucharis",
+        "commonName": "Common Jezebel",
+        "bengaliName": "কমন জেজেবেল",
+        "speciesId": "sp-delias-eucharis",
+        "verified": false,
+        "source": "bangladesh-batch-2",
+        "note": ""
+      },
+      {
+        "name": "Eurema hecabe",
+        "commonName": "Common Grass Yellow",
+        "bengaliName": "কমন গ্রাস ইয়োলো",
+        "speciesId": "sp-eurema-hecabe",
+        "verified": false,
+        "source": "bangladesh-batch-2",
+        "note": ""
+      },
+      {
+        "name": "Tirumala limniace",
+        "commonName": "Blue Tiger",
+        "bengaliName": "ব্লু টাইগার",
+        "speciesId": "sp-tirumala-limniace",
+        "verified": false,
+        "source": "bangladesh-batch-2",
+        "note": ""
+      },
+      {
+        "name": "Euploea core",
+        "commonName": "Common Crow",
+        "bengaliName": "কমন ক্রো",
+        "speciesId": "sp-euploea-core",
+        "verified": false,
+        "source": "bangladesh-batch-2",
+        "note": ""
+      },
+      {
+        "name": "Macrobrachium rosenbergii",
+        "commonName": "Giant Freshwater Prawn",
+        "bengaliName": "গলদা চিংড়ি",
+        "speciesId": "sp-macrobrachium-rosenbergii",
+        "verified": false,
+        "source": "bangladesh-batch-2",
+        "note": ""
+      }
+    ],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Butterflies of Bangladesh",
+        "source": "Bangladesh Butterfly Research Group"
+      },
+      {
+        "title": "Freshwater Crustaceans of Bangladesh",
+        "source": "Zoological Survey of Bangladesh"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  }
+]

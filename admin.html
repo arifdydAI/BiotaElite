@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="BiotaElite Admin — read-only dashboard and module overview for the zoology data system.">
+  <title>BiotaElite Admin — Dashboard</title>
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="icon" href="assets/images/biotaelite-logo.png" type="image/png">
+  <link rel="apple-touch-icon" href="assets/images/biotaelite-logo.png">
+</head>
+<body class="admin-page">
+
+  <header class="admin-header">
+    <div class="admin-header-inner">
+      <button class="icon-btn admin-menu-toggle" type="button" aria-label="Toggle admin navigation" aria-expanded="false" aria-controls="admin-sidebar">&#9776;</button>
+      <a href="index.html" class="brand" aria-label="BiotaElite home">
+        <img src="assets/images/biotaelite-logo-horizontal.png" alt="BiotaElite" class="brand-lockup" />
+        <span class="admin-badge">ADMIN</span>
+      </a>
+      <div class="nav-actions">
+        <a class="btn btn-ghost admin-back-link" href="index.html">Back to site</a>
+        <button class="icon-btn theme-toggle" type="button" aria-label="Theme / থিম">&#9788;</button>
+      </div>
+    </div>
+  </header>
+
+  <div class="admin-layout">
+    <aside class="admin-sidebar" id="admin-sidebar" aria-label="Admin navigation">
+      <nav>
+        <div class="admin-nav-group">
+          <h2>Dashboard</h2>
+          <a class="admin-nav-link" href="#/dashboard" data-admin-route="dashboard">Overview</a>
+        </div>
+        <div class="admin-nav-group">
+          <h2>Content</h2>
+          <a class="admin-nav-link" href="#/species" data-admin-route="species">Global Species</a>
+          <a class="admin-nav-link" href="#/taxonomy" data-admin-route="taxonomy">Taxonomy</a>
+          <a class="admin-nav-link" href="#/fish" data-admin-route="fish">Fish</a>
+          <a class="admin-nav-link" href="#/marine" data-admin-route="marine">Marine Life</a>
+          <a class="admin-nav-link" href="#/bangladesh" data-admin-route="bangladesh">Bangladesh Biodiversity</a>
+        </div>
+        <div class="admin-nav-group">
+          <h2>Research</h2>
+          <a class="admin-nav-link" href="#/projects" data-admin-route="projects">Projects</a>
+          <a class="admin-nav-link" href="#/thesis" data-admin-route="thesis">Thesis</a>
+          <a class="admin-nav-link" href="#/news" data-admin-route="news">News</a>
+          <a class="admin-nav-link" href="#/blog" data-admin-route="blog">Blog</a>
+          <a class="admin-nav-link" href="#/publications" data-admin-route="publications">Publications</a>
+          <a class="admin-nav-link" href="#/authors" data-admin-route="authors">Authors</a>
+          <a class="admin-nav-link" href="#/institutions" data-admin-route="institutions">Institutions</a>
+        </div>
+        <div class="admin-nav-group">
+          <h2>Editorial</h2>
+          <a class="admin-nav-link" href="#/review" data-admin-route="review">Review Queue</a>
+          <a class="admin-nav-link" href="#/media" data-admin-route="media">Media Library</a>
+          <a class="admin-nav-link" href="#/references" data-admin-route="references">References / Sources</a>
+          <a class="admin-nav-link" href="#/categories" data-admin-route="categories">Categories</a>
+        </div>
+        <div class="admin-nav-group">
+          <h2>System</h2>
+          <span class="admin-nav-disabled">Version History <span class="nav-future">Soon</span></span>
+          <span class="admin-nav-disabled">Settings <span class="nav-future">Soon</span></span>
+          <span class="admin-nav-disabled">User / Role Management <span class="nav-future">Soon</span></span>
+        </div>
+      </nav>
+      <p class="admin-phase-note">Phase 01 — read-only shell. No login, no editing, no enforcement.</p>
+    </aside>
+
+    <main class="admin-main" id="admin-dashboard" data-admin-dashboard>
+      <div class="container">
+        <div class="section-head">
+          <span class="eyebrow">BiotaElite Admin</span>
+          <h1>Dashboard</h1>
+          <p>Read-only summaries derived live from the current project JSON data. No records are created, edited, or published here.</p>
+        </div>
+
+        <section aria-labelledby="admin-counts-h">
+          <h2 id="admin-counts-h">Collection counts</h2>
+          <div class="admin-grid" data-admin-counts>
+            <div class="card admin-card"><span class="admin-stat" data-count-for="species">—</span><span class="admin-stat-label">Global Species</span></div>
+            <div class="card admin-card"><span class="admin-stat" data-count-for="taxonomy">—</span><span class="admin-stat-label">Taxonomy</span></div>
+            <div class="card admin-card"><span class="admin-stat" data-count-for="bangladesh">—</span><span class="admin-stat-label">Bangladesh Species</span></div>
+            <div class="card admin-card"><span class="admin-stat" data-count-for="fish">—</span><span class="admin-stat-label">Fish Orders</span></div>
+            <div class="card admin-card"><span class="admin-stat" data-count-for="marine">—</span><span class="admin-stat-label">Marine Life</span></div>
+            <div class="card admin-card"><span class="admin-stat" data-count-for="projects">—</span><span class="admin-stat-label">Projects</span></div>
+            <div class="card admin-card"><span class="admin-stat" data-count-for="thesis">—</span><span class="admin-stat-label">Thesis</span></div>
+            <div class="card admin-card"><span class="admin-stat" data-count-for="news">—</span><span class="admin-stat-label">News</span></div>
+            <div class="card admin-card"><span class="admin-stat" data-count-for="blog">—</span><span class="admin-stat-label">Blog</span></div>
+            <div class="card admin-card"><span class="admin-stat" data-count-for="authors">—</span><span class="admin-stat-label">Authors</span></div>
+            <div class="card admin-card"><span class="admin-stat" data-count-for="categories">—</span><span class="admin-stat-label">Categories</span></div>
+            <div class="card admin-card"><span class="admin-stat" data-count-for="media">—</span><span class="admin-stat-label">Media</span></div>
+            <div class="card admin-card"><span class="admin-stat" data-count-for="publications">—</span><span class="admin-stat-label">Publications</span></div>
+          </div>
+        </section>
+
+        <section aria-labelledby="admin-status-h">
+          <h2 id="admin-status-h">Current Data Status</h2>
+          <p class="text-muted">Honest workflow snapshot from existing record fields. Lowercase values are shown as stored; no workflow engine exists and nothing is migrated here.</p>
+          <div class="table-wrap">
+            <table class="admin-table" data-admin-status>
+              <thead>
+                <tr><th scope="col">Collection</th><th scope="col">Records</th><th scope="col">Needs review</th><th scope="col">Unverified</th><th scope="col">Published</th></tr>
+              </thead>
+              <tbody>
+                <tr><td colspan="5">Loading…</td></tr>
+              </tbody>
+            </table>
+          </div>
+        </section>
+
+        <section aria-labelledby="admin-roles-h">
+          <h2 id="admin-roles-h">Admin Roles</h2>
+          <p class="admin-notice"><strong>Role architecture — not yet enforced.</strong> No login, no users, no role assignment, and no permission checks exist in Phase 01. Capabilities below are informational, from <code>docs/admin-data-architecture.md</code>.</p>
+          <div class="table-wrap">
+            <table class="admin-table">
+              <thead>
+                <tr><th scope="col">Role</th><th scope="col">Capabilities</th></tr>
+              </thead>
+              <tbody>
+                <tr><th scope="row">SUPER_ADMIN</th><td>Create, Edit, Review, Approve, Publish, Archive, User management, Taxonomy management, Media management, Reference/source management</td></tr>
+                <tr><th scope="row">EDITOR</th><td>Create, Edit, Review, Approve, Publish, Archive, Taxonomy management, Media management, Reference/source management</td></tr>
+                <tr><th scope="row">CONTRIBUTOR</th><td>Create, Edit, Media management, Reference/source management</td></tr>
+                <tr><th scope="row">REVIEWER</th><td>Review</td></tr>
+              </tbody>
+            </table>
+          </div>
+        </section>
+
+        <section aria-labelledby="admin-modules-h">
+          <h2 id="admin-modules-h">Module Overview</h2>
+          <div class="table-wrap">
+            <table class="admin-table">
+              <thead>
+                <tr><th scope="col">Module</th><th scope="col">State</th><th scope="col">Notes</th></tr>
+              </thead>
+              <tbody>
+                <tr><th scope="row">Dashboard</th><td><span class="admin-state admin-state-ok">AVAILABLE DATA</span></td><td>This Phase 01 read-only shell.</td></tr>
+                <tr><th scope="row">Global Species</th><td><span class="admin-state admin-state-ok">AVAILABLE DATA</span></td><td>Public library; no admin editor.</td></tr>
+                <tr><th scope="row">Taxonomy</th><td><span class="admin-state admin-state-ok">AVAILABLE DATA</span></td><td>Public explorer; no admin editor.</td></tr>
+                <tr><th scope="row">Fish</th><td><span class="admin-state admin-state-ok">AVAILABLE DATA</span></td><td>Public module; no admin editor.</td></tr>
+                <tr><th scope="row">Marine Life</th><td><span class="admin-state admin-state-ok">AVAILABLE DATA</span></td><td>Public module; no admin editor.</td></tr>
+                <tr><th scope="row">Bangladesh Biodiversity</th><td><span class="admin-state admin-state-ok">AVAILABLE DATA</span></td><td>Public module; no admin editor.</td></tr>
+                <tr><th scope="row">Projects</th><td><span class="admin-state admin-state-ok">AVAILABLE DATA</span></td><td>Public listing; no admin editor.</td></tr>
+                <tr><th scope="row">Thesis</th><td><span class="admin-state admin-state-ok">AVAILABLE DATA</span></td><td>Public listing; no admin editor.</td></tr>
+                <tr><th scope="row">News</th><td><span class="admin-state admin-state-ok">AVAILABLE DATA</span></td><td>Public listing; no admin editor.</td></tr>
+                <tr><th scope="row">Blog</th><td><span class="admin-state admin-state-ok">AVAILABLE DATA</span></td><td>Public listing; no admin editor.</td></tr>
+                <tr><th scope="row">Authors</th><td><span class="admin-state admin-state-ok">AVAILABLE DATA</span></td><td>Data file only; no public page or editor.</td></tr>
+                <tr><th scope="row">Categories</th><td><span class="admin-state admin-state-ok">AVAILABLE DATA</span></td><td>Used by filters; no admin editor.</td></tr>
+                <tr><th scope="row">Media Library</th><td><span class="admin-state admin-state-ok">AVAILABLE DATA</span></td><td>Registry exists; no admin UI.</td></tr>
+                <tr><th scope="row">References / Sources</th><td><span class="admin-state admin-state-ok">AVAILABLE DATA</span></td><td>Embedded in records; central read-only registry browsable.</td></tr>
+                <tr><th scope="row">Publications</th><td><span class="admin-state admin-state-part">PARTIAL</span></td><td>Data file exists but holds 0 records.</td></tr>
+                <tr><th scope="row">Identification</th><td><span class="admin-state admin-state-doc">DOCUMENTED ONLY</span></td><td>No implementation.</td></tr>
+                <tr><th scope="row">Institutions</th><td><span class="admin-state admin-state-ok">AVAILABLE DATA</span></td><td>Central read-only registry; attested records plus explicit unknowns.</td></tr>
+                <tr><th scope="row">Review Queue</th><td><span class="admin-state admin-state-doc">DOCUMENTED ONLY</span></td><td>No implementation.</td></tr>
+                <tr><th scope="row">Version History</th><td><span class="admin-state admin-state-doc">DOCUMENTED ONLY</span></td><td>Version integers only.</td></tr>
+                <tr><th scope="row">Settings</th><td><span class="admin-state admin-state-doc">DOCUMENTED ONLY</span></td><td>No implementation.</td></tr>
+                <tr><th scope="row">User / Role Management</th><td><span class="admin-state admin-state-doc">DOCUMENTED ONLY</span></td><td>No users, no enforcement.</td></tr>
+              </tbody>
+            </table>
+          </div>
+        </section>
+
+        <div class="admin-view" data-admin-view hidden></div>
+      </div>
+    </main>
+  </div>
+
+  <footer class="site-footer">
+    <div class="container">
+      <div class="footer-bottom">
+        <span>&copy; <span data-year>2026</span> BiotaElite Admin — read-only Phase 01 shell.</span>
+        <span><a href="index.html" style="display:inline;padding:0;">Back to site</a></span>
+      </div>
+    </div>
+  </footer>
+
+  <script src="js/main.js"></script>
+</body>
+</html>

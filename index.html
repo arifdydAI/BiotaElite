@@ -6,32 +6,52 @@
   <meta name="description" content="An open educational platform for zoology — curated species assets, research projects, news, theses and blogs.">
   <title>BiotaElite — Zoology Learning Hub</title>
   <link rel="stylesheet" href="css/style.css">
-  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>&#129409;</text></svg>">
+  <link rel="icon" href="assets/images/biotaelite-logo.png" type="image/png">
+  <link rel="apple-touch-icon" href="assets/images/biotaelite-logo.png">
 </head>
 <body>
 
   <header class="site-header">
     <div class="header-inner">
-      <a href="index.html" class="brand">
-        <span class="brand-icon">&#129409;</span>
-        BiotaElite
+      <a href="index.html" class="brand" aria-label="BiotaElite">
+        <img src="assets/images/biotaelite-logo-horizontal.png" alt="BiotaElite" class="brand-lockup" />
       </a>
-      <nav class="main-nav" aria-label="Main navigation">
-        <a href="index.html" class="active">Home</a>
-        <a href="assets.html">Assets</a>
-        <a href="projects.html">Projects</a>
-        <a href="news.html">News</a>
-        <a href="thesis.html">Thesis</a>
-        <a href="phyla.html">Animal Kingdom</a>
-        <a href="fish.html">Fish</a>
-        <a href="names.html">Scientific Names</a>
-        <a href="blog.html">Blog</a>
-        <a href="about.html">About</a>
-        <a href="contact.html">Contact</a>
+      <nav class="main-nav" id="main-navigation" aria-label="Main navigation">
+        <a class="nav-link" data-nav-key="home" href="index.html"><span>Home</span><span class="nav-bn">হোম</span></a>
+        <div class="nav-group" data-nav-group="explore">
+          <button class="nav-trigger" type="button" aria-expanded="false" aria-haspopup="true" aria-controls="explore-menu"><span>Explore</span><span class="nav-bn">অন্বেষণ</span><span class="nav-chevron" aria-hidden="true">⌄</span></button>
+          <div class="nav-menu" id="explore-menu">
+            <a class="nav-link" data-nav-key="assets" href="assets.html"><span>Species Library</span><span class="nav-bn">প্রজাতি সংগ্রহ</span></a>
+            <a class="nav-link" data-nav-key="phyla" href="phyla.html"><span>Animal Kingdom</span><span class="nav-bn">প্রাণীজগৎ</span></a>
+            <a class="nav-link" data-nav-key="fish" href="fish.html"><span>Fish</span><span class="nav-bn">মাছ</span></a>
+            <a class="nav-link" data-nav-key="marine" href="marine-life.html"><span>Marine Life</span><span class="nav-bn">সামুদ্রিক জীবন</span></a>
+            <a class="nav-link" data-nav-key="names" href="names.html"><span>Scientific Names</span><span class="nav-bn">বৈজ্ঞানিক নাম</span></a>
+            <a class="nav-link" data-nav-key="bangladesh" href="bangladesh.html"><span>Bangladesh Biodiversity</span><span class="nav-bn">বাংলাদেশের জীববৈচিত্র্য</span></a>
+          </div>
+        </div>
+        <div class="nav-group" data-nav-group="research">
+          <button class="nav-trigger" type="button" aria-expanded="false" aria-haspopup="true" aria-controls="research-menu"><span>Research</span><span class="nav-bn">গবেষণা</span><span class="nav-chevron" aria-hidden="true">⌄</span></button>
+          <div class="nav-menu" id="research-menu">
+            <a class="nav-link" data-nav-key="projects" href="projects.html"><span>Projects</span><span class="nav-bn">প্রকল্প</span></a>
+            <a class="nav-link" data-nav-key="thesis" href="thesis.html"><span>Thesis</span><span class="nav-bn">গবেষণাপত্র</span></a>
+            <span class="nav-item-disabled"><span>Publications</span><span class="nav-bn">প্রকাশনা</span><span class="nav-future">Future</span></span>
+          </div>
+        </div>
+        <div class="nav-group" data-nav-group="resources">
+          <button class="nav-trigger" type="button" aria-expanded="false" aria-haspopup="true" aria-controls="resources-menu"><span>Resources</span><span class="nav-bn">সম্পদ</span><span class="nav-chevron" aria-hidden="true">⌄</span></button>
+          <div class="nav-menu" id="resources-menu">
+            <a class="nav-link" data-nav-key="news" href="news.html"><span>News</span><span class="nav-bn">সংবাদ</span></a>
+            <a class="nav-link" data-nav-key="blog" href="blog.html"><span>Blog</span><span class="nav-bn">ব্লগ</span></a>
+            <span class="nav-item-disabled"><span>Identification Guides</span><span class="nav-bn">শনাক্তকরণ নির্দেশিকা</span><span class="nav-future">Future</span></span>
+          </div>
+        </div>
+        <a class="nav-link" data-nav-key="about" href="about.html"><span>About</span><span class="nav-bn">পরিচিতি</span></a>
+        <a class="nav-link" data-nav-key="contact" href="contact.html"><span>Contact</span><span class="nav-bn">যোগাযোগ</span></a>
       </nav>
       <div class="nav-actions">
-        <button class="icon-btn theme-toggle" aria-label="Toggle dark mode">&#9788;</button>
-        <button class="icon-btn nav-toggle" aria-label="Toggle menu" aria-expanded="false">&#9776;</button>
+        <button class="nav-search" type="button" aria-label="Search / খুঁজুন" title="Search / খুঁজুন"><span aria-hidden="true">&#8981;</span><span>Search</span></button>
+        <button class="icon-btn theme-toggle" type="button" aria-label="Theme / থিম">&#9788;</button>
+        <button class="icon-btn nav-toggle" type="button" aria-label="Open menu / মেনু খুলুন" aria-expanded="false" aria-controls="main-navigation">&#9776;</button>
       </div>
     </div>
   </header>
@@ -61,15 +81,15 @@
           </div>
           <div class="hero-art">
             <div class="hero-card">
-              <div class="sprite sprite-beetle">&#129412;</div>
+              <div class="sprite sprite-beetle"><span class="media-mark" aria-hidden="true">C</span></div>
               <div class="card-meta"><span class="tag">Coleoptera</span><span>Scarabaeidae</span></div>
             </div>
             <div class="sprite-card float-card-1">
-              <span style="font-size:1.6rem">&#128036;</span>
+              <span style="font-size:1.6rem" aria-hidden="true">B</span>
               <div><b>Bengal Tiger</b><span class="text-muted">Panthera tigris tigris</span></div>
             </div>
             <div class="sprite-card float-card-2">
-              <span style="font-size:1.6rem">&#128060;</span>
+              <span style="font-size:1.6rem" aria-hidden="true">R</span>
               <div><b>Red Fox</b><span class="text-muted">Vulpes vulpes</span></div>
             </div>
           </div>
@@ -87,37 +107,37 @@
         </div>
         <div class="grid grid-3">
           <div class="card feature-card reveal">
-            <div class="feature-icon">&#128027;</div>
+            <div class="feature-icon"><span class="media-mark" aria-hidden="true">Z</span></div>
             <h3>Zoological Assets</h3>
             <p class="card-text">High-quality species records, images, classification data and specimen references.</p>
             <div class="card-foot"><a href="assets.html">Explore assets &rarr;</a></div>
           </div>
           <div class="card feature-card reveal">
-            <div class="feature-icon">&#128300;</div>
+            <div class="feature-icon"><span class="media-mark" aria-hidden="true">R</span></div>
             <h3>Research Projects</h3>
             <p class="card-text">Field studies, conservation work and lab research from students and institutions.</p>
             <div class="card-foot"><a href="projects.html">Browse projects &rarr;</a></div>
           </div>
           <div class="card feature-card reveal">
-            <div class="feature-icon">&#128240;</div>
+            <div class="feature-icon"><span class="media-mark" aria-hidden="true">N</span></div>
             <h3>News &amp; Updates</h3>
             <p class="card-text">Discoveries, announcements and conservation news from the world of zoology.</p>
             <div class="card-foot"><a href="news.html">Read the news &rarr;</a></div>
           </div>
           <div class="card feature-card reveal">
-            <div class="feature-icon">&#128214;</div>
+            <div class="feature-icon"><span class="media-mark" aria-hidden="true">T</span></div>
             <h3>Thesis Library</h3>
             <p class="card-text">Undergraduate and postgraduate theses in zoology, ecology and related fields.</p>
             <div class="card-foot"><a href="thesis.html">Visit the library &rarr;</a></div>
           </div>
           <div class="card feature-card reveal">
-            <div class="feature-icon">&#9997;&#65039;</div>
+            <div class="feature-icon"><span class="media-mark" aria-hidden="true">B</span></div>
             <h3>Blog &amp; Articles</h3>
             <p class="card-text">Accessible writing on animal behaviour, biodiversity and field experiences.</p>
             <div class="card-foot"><a href="blog.html">Start reading &rarr;</a></div>
           </div>
           <div class="card feature-card reveal">
-            <div class="feature-icon">&#128101;</div>
+            <div class="feature-icon"><span class="media-mark" aria-hidden="true">C</span></div>
             <h3>Community</h3>
             <p class="card-text">Connect with educators and researchers, share resources and ask questions.</p>
             <div class="card-foot"><a href="contact.html">Get in touch &rarr;</a></div>
@@ -136,7 +156,7 @@
         </div>
         <div class="grid grid-4">
           <div class="card reveal">
-            <div class="card-media sprite-tiger">&#128005;</div>
+            <div class="card-media sprite-tiger"><span class="media-mark" aria-hidden="true">B</span></div>
             <div class="card-body">
               <div class="card-meta"><span class="tag red">Mammalia</span></div>
               <h3><a href="assets.html">Bengal Tiger</a></h3>
@@ -144,7 +164,7 @@
             </div>
           </div>
           <div class="card reveal">
-            <div class="card-media sprite-frog">&#128056;</div>
+            <div class="card-media sprite-frog"><span class="media-mark" aria-hidden="true">C</span></div>
             <div class="card-body">
               <div class="card-meta"><span class="tag">Amphibia</span></div>
               <h3><a href="assets.html">Common Frog</a></h3>
@@ -152,7 +172,7 @@
             </div>
           </div>
           <div class="card reveal">
-            <div class="card-media sprite-bird">&#128039;</div>
+            <div class="card-media sprite-bird"><span class="media-mark" aria-hidden="true">P</span></div>
             <div class="card-body">
               <div class="card-meta"><span class="tag amber">Aves</span></div>
               <h3><a href="assets.html">Peacock</a></h3>
@@ -160,7 +180,7 @@
             </div>
           </div>
           <div class="card reveal">
-            <div class="card-media sprite-moth">&#129423;</div>
+            <div class="card-media sprite-moth"><span class="media-mark" aria-hidden="true">A</span></div>
             <div class="card-body">
               <div class="card-meta"><span class="tag purple">Insecta</span></div>
               <h3><a href="assets.html">Atlas Moth</a></h3>
@@ -179,14 +199,14 @@
           <h2>Browse by class</h2>
         </div>
         <div class="taxo">
-          <div class="taxo-item"><span class="em">&#128062;</span>Mammalia</div>
-          <div class="taxo-item"><span class="em">&#128036;</span>Reptilia</div>
-          <div class="taxo-item"><span class="em">&#128039;</span>Aves</div>
-          <div class="taxo-item"><span class="em">&#128056;</span>Amphibia</div>
-          <div class="taxo-item"><span class="em">&#128031;</span>Pisces</div>
-          <div class="taxo-item"><span class="em">&#129412;</span>Insecta</div>
-          <div class="taxo-item"><span class="em">&#129425;</span>Arachnida</div>
-          <div class="taxo-item"><span class="em">&#128025;</span>Mollusca</div>
+<div class="taxo-item"><span class="em" aria-hidden="true">M</span>Mammalia</div>
+<div class="taxo-item"><span class="em" aria-hidden="true">R</span>Reptilia</div>
+<div class="taxo-item"><span class="em" aria-hidden="true">A</span>Aves</div>
+<div class="taxo-item"><span class="em" aria-hidden="true">A</span>Amphibia</div>
+<div class="taxo-item"><span class="em" aria-hidden="true">P</span>Pisces</div>
+<div class="taxo-item"><span class="em" aria-hidden="true">I</span>Insecta</div>
+<div class="taxo-item"><span class="em" aria-hidden="true">A</span>Arachnida</div>
+<div class="taxo-item"><span class="em" aria-hidden="true">M</span>Mollusca</div>
         </div>
         <div style="margin-top:16px; display:flex; gap:12px; flex-wrap:wrap">
           <a href="phyla.html" class="btn btn-outline">Full Animal Kingdom classification &rarr;</a>
@@ -204,7 +224,7 @@
         </div>
         <div class="grid grid-3">
           <div class="card reveal">
-            <div class="card-media sprite-fish">&#128031;</div>
+            <div class="card-media sprite-fish"><span class="media-mark" aria-hidden="true">N</span></div>
             <div class="card-body">
               <div class="card-meta"><span class="tag blue">Research</span><span>Jul 2026</span></div>
               <h3><a href="news.html">New deep-sea species discovered</a></h3>
@@ -212,7 +232,7 @@
             </div>
           </div>
           <div class="card reveal">
-            <div class="card-media sprite-tiger">&#128005;</div>
+            <div class="card-media sprite-tiger"><span class="media-mark" aria-hidden="true">T</span></div>
             <div class="card-body">
               <div class="card-meta"><span class="tag amber">Conservation</span><span>Jun 2026</span></div>
               <h3><a href="news.html">Tiger census shows population growth</a></h3>
@@ -220,7 +240,7 @@
             </div>
           </div>
           <div class="card reveal">
-            <div class="card-media sprite-moth">&#129423;</div>
+            <div class="card-media sprite-moth"><span class="media-mark" aria-hidden="true">A</span></div>
             <div class="card-body">
               <div class="card-meta"><span class="tag purple">Event</span><span>Jun 2026</span></div>
               <h3><a href="news.html">Annual zoology symposium opens</a></h3>
@@ -265,15 +285,20 @@
     <div class="container">
       <div class="footer-grid">
         <div>
-          <div class="footer-brand"><span>&#129409;</span> BiotaElite</div>
+          <div class="footer-brand"><img src="assets/images/biotaelite-logo-horizontal.png" alt="BiotaElite" class="brand-lockup" /></div>
           <p style="font-size:0.92rem;max-width:320px">
             An open educational platform for zoology students, educators and
             wildlife enthusiasts.
           </p>
+          <div class="footer-credit">
+            <span>Created &amp; Developed by <strong>Mohammad Arif</strong></span>
+            <span>Session: 2021–2022, Department of Zoology</span>
+            <span>Government City College, Chattogram</span>
+          </div>
           <div class="socials" style="margin-top:16px">
-            <a href="#" aria-label="GitHub">&#x1F5A5;</a>
+            <a href="#" aria-label="GitHub">GH</a>
             <a href="#" aria-label="X">&#120143;</a>
-            <a href="#" aria-label="YouTube">&#128250;</a>
+            <a href="#" aria-label="YouTube">YT</a>
           </div>
         </div>
         <div>
@@ -302,7 +327,7 @@
         </div>
       </div>
       <div class="footer-bottom">
-        <span>&copy; <span data-year>2026</span> BiotaElite. Built with &#128156; for zoology.</span>
+        <span>&copy; <span data-year>2026</span> BiotaElite. Built with love for zoology.</span>
         <span>Made with HTML, CSS &amp; JavaScript</span>
       </div>
     </div>

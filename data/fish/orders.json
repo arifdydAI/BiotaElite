@@ -1,0 +1,3803 @@
+[
+  {
+    "id": "agnatha",
+    "rank": "major-group",
+    "name": "Agnatha",
+    "bengaliName": "অগ্নাথা",
+    "meaning": "Jawless vertebrates",
+    "meaningBn": "চোয়ালবিহীন মেরুদণ্ডী প্রাণী",
+    "description": "Jawless fish: cartilaginous skeleton, no jaws and no paired fins, sucker-like mouth, long eel-like body, no scales.",
+    "descriptionBn": "চোয়ালবিহীন মাছ: কঙ্কাল তরুণাস্থিময়, চোয়াল ও যুগ্ম পাখনা নেই, মুখ চোষক-সদৃশ, শরীর ঈলসদৃশ লম্বা, আঁশ নেই।",
+    "parentId": null,
+    "majorGroupId": "agnatha",
+    "status": "",
+    "characteristics": [],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Legacy Fish classification — fish.html",
+        "source": "project-legacy"
+      }
+    ],
+    "legacyAnchor": "agnatha",
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "chondrichthyes",
+    "rank": "major-group",
+    "name": "Chondrichthyes",
+    "bengaliName": "কনড্রিকথিস",
+    "meaning": "Cartilaginous fish",
+    "meaningBn": "তরুণাস্থিযুক্ত মাছ",
+    "description": "Cartilaginous fish: skeleton entirely cartilaginous, placoid scales, jaws and paired fins present, no swim bladder, internal fertilisation. Skeleton mainly cartilage.",
+    "descriptionBn": "তরুণাস্থিময় মাছ: কঙ্কাল সম্পূর্ণ তরুণাস্থিময়, প্ল্যাকয়েড আঁশ, চোয়াল ও যুগ্ম পাখনা আছে, সুইম ব্লাডার নেই, অন্তঃসার নিষেক হয়।",
+    "parentId": null,
+    "majorGroupId": "chondrichthyes",
+    "status": "",
+    "characteristics": [],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Legacy Fish classification — fish.html",
+        "source": "project-legacy"
+      }
+    ],
+    "legacyAnchor": "chondrichthyes",
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "osteichthyes",
+    "rank": "major-group",
+    "name": "Osteichthyes",
+    "bengaliName": "অস্টিকথিস",
+    "meaning": "Bony fish",
+    "meaningBn": "অস্থিযুক্ত মাছ",
+    "description": "Bony fish: bony skeleton, swim bladder and operculum (gill cover) present, cycloid/ctenoid scales, external fertilisation. Skeleton mainly bone.",
+    "descriptionBn": "অস্থিময় মাছ: কঙ্কাল অস্থিময়, সুইম ব্লাডার ও অপরকুলাম (gill cover) থাকে, সাইক্লয়েড/ক্টেনয়েড আঁশ, বহিঃসার নিষেক।",
+    "parentId": null,
+    "majorGroupId": "osteichthyes",
+    "status": "",
+    "characteristics": [],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Legacy Fish classification — fish.html",
+        "source": "project-legacy"
+      }
+    ],
+    "legacyAnchor": "osteichthyes",
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "cyclostomata",
+    "rank": "class",
+    "name": "Cyclostomata",
+    "bengaliName": "সাইক্লোস্টোমাটা",
+    "meaning": "Round-mouth fishes",
+    "meaningBn": "বৃত্তমুখী মাছ",
+    "description": "Living jawless fishes with circular sucker-like mouths.",
+    "descriptionBn": "চোষক-সদৃশ গোল মুখবিশিষ্ট জীবন্ত চোয়ালবিহীন মাছ।",
+    "parentId": "agnatha",
+    "majorGroupId": "agnatha",
+    "status": "living",
+    "characteristics": [],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Required educational classification (Fish Module specification)",
+        "source": "project-spec"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "ostracodermi",
+    "rank": "class",
+    "name": "Ostracodermi",
+    "bengaliName": "অস্ট্রাকোডার্মি",
+    "meaning": "",
+    "meaningBn": "",
+    "description": "Extinct jawless fishes.",
+    "descriptionBn": "বিলুপ্ত চোয়ালবিহীন মাছ।",
+    "parentId": "agnatha",
+    "majorGroupId": "agnatha",
+    "status": "extinct",
+    "characteristics": [
+      {
+        "en": "Head and body armour of dermal bone; jawless mouth without biting ability.",
+        "bn": ""
+      },
+      {
+        "en": "Paraphyletic, informal assemblage — successive stem-gnathostome branches, not a valid modern monophyletic order.",
+        "bn": ""
+      },
+      {
+        "en": "Mostly small bottom-dwellers; some with paired lateral spines or fin-like projections (e.g., Pteraspis wing-like plates).",
+        "bn": ""
+      }
+    ],
+    "habitat": "Shallow Palaeozoic seas, estuaries and rivers (inferred from fossil deposits); no modern habitat.",
+    "habitatBn": "",
+    "ecosystem": "Palaeozoic aquatic; pteraspidomorphs among the most abundant and diverse vertebrates of the Silurian.",
+    "ecosystemBn": "",
+    "distribution": "Fossil record from the Ordovician to the Devonian (about 480–360 million years ago), on Euramerican, Australian and other palaeocontinents; the last armoured jawless fishes persist almost to the end of the Devonian.",
+    "biology": "",
+    "examples": [
+      {
+        "name": "Pteraspis",
+        "commonName": "extinct heterostracan genus",
+        "bengaliName": "",
+        "speciesId": null,
+        "verified": false,
+        "source": "museum",
+        "note": "Extinct jawless genus, Early Devonian fossils; no living representatives"
+      },
+      {
+        "name": "Cephalaspis",
+        "commonName": "extinct osteostracan genus",
+        "bengaliName": "",
+        "speciesId": null,
+        "verified": false,
+        "source": "museum",
+        "note": "Extinct armoured jawless genus; no living representatives"
+      }
+    ],
+    "taxonomyNotes": "No living examples exist for this extinct class. Ostracodermi is an archaic, informal, paraphyletic assemblage of armoured jawless fishes — not a valid modern monophyletic order; its members are successive branches on the gnathostome stem lineage (Ordovician–Devonian). Reliable evidence insufficient to establish reproduction. No modern family count applies; the two major historical groups above are entered with that limitation.",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Required educational classification (Fish Module specification)",
+        "source": "project-spec"
+      },
+      {
+        "title": "Britannica: Ostracoderm — archaic informal term; armoured jawless vertebrates of the early Paleozoic (Padian, UC Berkeley).",
+        "source": "museum",
+        "url": "https://www.britannica.com/animal/ostracoderm"
+      },
+      {
+        "title": "Britannica: Pteraspis — extinct jawless genus, Early Devonian fossils of North America and Europe.",
+        "source": "museum",
+        "url": "https://www.britannica.com/animal/Pteraspis"
+      },
+      {
+        "title": "Palaeos Vertebrates: Pteraspidomorphi overview — extinct jawless clade; most abundant vertebrates of the Silurian.",
+        "source": "peer-reviewed",
+        "url": "http://palaeos.com/vertebrates/pteraspidomorphi/index.html"
+      },
+      {
+        "title": "Keating & Sansom, 2025. A phylogeny for Heterostraci (stem-gnathostomes). Papers in Palaeontology (ostracoderms as gnathostome-stem branches).",
+        "source": "peer-reviewed",
+        "url": "https://research-information.bris.ac.uk/en/publications/a-phylogeny-for-heterostraci-stemgnathostomes"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-13T00:00:00Z",
+    "version": 1,
+    "feeding": "No jaws; most were probably filter-feeders or fed on soft benthic invertebrates (inferred from jawless mouth morphology, not observed).",
+    "importantFamilies": [
+      "Heterostraci (historical group)",
+      "Osteostraci (historical group)"
+    ]
+  },
+  {
+    "id": "elasmobranchii-group",
+    "rank": "subclass",
+    "name": "Elasmobranchii",
+    "bengaliName": "এলাসমোব্রাঞ্চি",
+    "meaning": "Sharks, rays and skates",
+    "meaningBn": "",
+    "description": "Includes sharks, rays and skates.",
+    "descriptionBn": "",
+    "parentId": "chondrichthyes",
+    "majorGroupId": "chondrichthyes",
+    "status": "",
+    "characteristics": [],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "Shark interrelationships above order level follow an educational grouping; the three groups below organise the required orders for learning.",
+    "modernTaxonomyNoteBn": "বর্গের ঊর্ধ্বে হাঙ্গরের পারস্পরিক সম্পর্ক এখানে শিক্ষামূলক শ্রেণিবিন্যাস অনুযায়ী দেখানো হয়েছে।",
+    "references": [
+      {
+        "title": "Required educational classification (Fish Module specification)",
+        "source": "project-spec"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "holocephali",
+    "rank": "subclass",
+    "name": "Holocephali",
+    "bengaliName": "হলোসেফালি",
+    "meaning": "",
+    "meaningBn": "",
+    "description": "",
+    "descriptionBn": "",
+    "parentId": "chondrichthyes",
+    "majorGroupId": "chondrichthyes",
+    "status": "",
+    "characteristics": [],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Required educational classification (Fish Module specification)",
+        "source": "project-spec"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "galeomorphii",
+    "rank": "group",
+    "name": "Galeomorphii",
+    "bengaliName": "গ্যালিওমর্ফি",
+    "meaning": "Modern shark group",
+    "meaningBn": "",
+    "description": "Modern shark group.",
+    "descriptionBn": "",
+    "parentId": "elasmobranchii-group",
+    "majorGroupId": "chondrichthyes",
+    "status": "",
+    "characteristics": [],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Required educational classification (Fish Module specification)",
+        "source": "project-spec"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "squalomorphii",
+    "rank": "group",
+    "name": "Squalomorphii",
+    "bengaliName": "স্কোয়ালোমর্ফি",
+    "meaning": "Shark group with older/primitive features",
+    "meaningBn": "",
+    "description": "Shark group with older/primitive features.",
+    "descriptionBn": "",
+    "parentId": "elasmobranchii-group",
+    "majorGroupId": "chondrichthyes",
+    "status": "",
+    "characteristics": [],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Required educational classification (Fish Module specification)",
+        "source": "project-spec"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "batoidea",
+    "rank": "group",
+    "name": "Batoidea",
+    "bengaliName": "ব্যাটয়ডিয়া",
+    "meaning": "Ray and skate group",
+    "meaningBn": "",
+    "description": "Ray and skate group.",
+    "descriptionBn": "",
+    "parentId": "elasmobranchii-group",
+    "majorGroupId": "chondrichthyes",
+    "status": "",
+    "characteristics": [],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Required educational classification (Fish Module specification)",
+        "source": "project-spec"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "actinopterygii-group",
+    "rank": "subclass",
+    "name": "Actinopterygii",
+    "bengaliName": "অ্যাক্টিনোপটেরিজি",
+    "meaning": "Ray-finned fishes",
+    "meaningBn": "",
+    "description": "Ray-finned fishes: fins supported by thin bony rays. Includes the great majority of modern fishes.",
+    "descriptionBn": "",
+    "parentId": "osteichthyes",
+    "majorGroupId": "osteichthyes",
+    "status": "",
+    "characteristics": [],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Legacy Fish classification — fish.html",
+        "source": "project-legacy"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "sarcopterygii-group",
+    "rank": "subclass",
+    "name": "Sarcopterygii",
+    "bengaliName": "সারকোপটেরিজি",
+    "meaning": "Lobe-finned fishes",
+    "meaningBn": "",
+    "description": "Lobe-finned fishes: fleshy, lobed fins. Includes coelacanths and lungfishes.",
+    "descriptionBn": "",
+    "parentId": "osteichthyes",
+    "majorGroupId": "osteichthyes",
+    "status": "",
+    "characteristics": [],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Legacy Fish classification — fish.html",
+        "source": "project-legacy"
+      }
+    ],
+    "legacyAnchor": "sarcopterygii",
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "carcharhiniformes",
+    "rank": "order",
+    "name": "Carcharhiniformes",
+    "bengaliName": "তলচর হাঙ্গর",
+    "meaning": "Ground sharks",
+    "meaningBn": "",
+    "description": "The largest shark order (ground sharks): mostly medium to large coastal and pelagic sharks with five gill slits, no fin spines, an anal fin and a nictitating membrane.",
+    "descriptionBn": "",
+    "parentId": "galeomorphii",
+    "majorGroupId": "chondrichthyes",
+    "status": "",
+    "characteristics": [
+      {
+        "en": "Largest shark order; possess a nictitating membrane (third eyelid).",
+        "bn": "সবচেয়ে বড় অর্ডার; নিকটিটেটিং মেমব্রেন (তৃতীয় চোখের পাতা) থাকে।"
+      },
+      {
+        "en": "Dorsal fin without spines; teeth continually replaced.",
+        "bn": "পৃষ্ঠীয় পাখনায় কাঁটা নেই; বিশ্লেষী দাঁত ঝরে গিয়ে নতুন দাঁত হয়।"
+      },
+      {
+        "en": "Usually viviparous; many are apex predators.",
+        "bn": "সাধারণত জীবন্ত বাচ্চা প্রসবকারী (ভিভিপ্যারাস), খাদ্য-শৃঙ্খলের শীর্ষে থাকে।"
+      }
+    ],
+    "habitat": "Continental shelves, coral reefs, coastal waters and open ocean; intertidal and shallow bays to upper slopes.",
+    "habitatBn": "",
+    "ecosystem": "Marine neritic and oceanic; reef-associated and pelagic.",
+    "ecosystemBn": "",
+    "distribution": "Worldwide in tropical to warm-temperate seas; many coastal, some oceanic; several species enter brackish and fresh water.",
+    "biology": "",
+    "examples": [
+      {
+        "name": "Carcharhinus melanopterus",
+        "commonName": "Reef shark",
+        "bengaliName": "রিফ হাঙ্গর",
+        "speciesId": null,
+        "verified": false,
+        "source": "legacy-table",
+        "note": "Legacy classification-table example"
+      },
+      {
+        "name": "Galeocerdo cuvier",
+        "commonName": "Tiger shark",
+        "bengaliName": "টাইগার হাঙ্গর",
+        "speciesId": null,
+        "verified": false,
+        "source": "legacy-table",
+        "note": "Legacy classification-table example"
+      },
+      {
+        "name": "Sphyrna lewini",
+        "commonName": "Hammerhead shark",
+        "bengaliName": "হ্যামারহেড হাঙ্গর",
+        "speciesId": null,
+        "verified": false,
+        "source": "legacy-table",
+        "note": "Legacy classification-table example"
+      },
+      {
+        "name": "Carcharhinus",
+        "commonName": "reef shark",
+        "bengaliName": "রিফ হাঙ্গর",
+        "speciesId": null,
+        "verified": false,
+        "source": "legacy-card",
+        "note": "Legacy genus-level example"
+      },
+      {
+        "name": "Galeocerdo",
+        "commonName": "tiger shark",
+        "bengaliName": "টাইগার হাঙ্গর",
+        "speciesId": null,
+        "verified": false,
+        "source": "legacy-card",
+        "note": "Legacy genus-level example"
+      },
+      {
+        "name": "Sphyrna",
+        "commonName": "hammerhead shark",
+        "bengaliName": "হ্যামারহেড",
+        "speciesId": null,
+        "verified": false,
+        "source": "legacy-card",
+        "note": "Legacy genus-level example"
+      }
+    ],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Legacy Fish order card and classification tables — fish.html",
+        "source": "project-legacy"
+      },
+      {
+        "title": "FishBase: Order Summary for Carcharhiniformes",
+        "source": "fishbase",
+        "url": "https://www.fishbase.se/summary/ordersSummary.php?order=Carcharhiniformes"
+      },
+      {
+        "title": "Compagno, L.J.V., 1984. FAO Species Catalogue Vol. 4, Part 2: Carcharhiniformes. FAO Fish. Synop. 125(4/2).",
+        "source": "fao",
+        "url": "https://www.fao.org/4/ad123e/ad123e00.htm"
+      }
+    ],
+    "legacyAnchor": "carcharhiniformes",
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-13T00:00:00Z",
+    "version": 1,
+    "feeding": "Mostly carnivores on bony fishes, cephalopods and crustaceans; large requiem sharks also take other sharks, rays, marine mammals, seabirds, turtles and carrion; diets vary widely by species.",
+    "reproduction": "Reproductive modes vary across the order: oviparous, ovoviviparous and viviparous, including placental viviparity in requiem sharks.",
+    "importantFamilies": [
+      "Atelomycteridae",
+      "Carcharhinidae",
+      "Dichichthyidae",
+      "Galeocerdonidae",
+      "Hemigaleidae",
+      "Leptochariidae",
+      "Pentanchidae",
+      "Proscylliidae",
+      "Pseudotriakidae",
+      "Scyliorhinidae",
+      "Sphyrnidae",
+      "Triakidae"
+    ]
+  },
+  {
+    "id": "synechodontiformes",
+    "rank": "order",
+    "name": "Synechodontiformes",
+    "bengaliName": "",
+    "meaning": "",
+    "meaningBn": "",
+    "description": "Extinct order of early galeomorph sharks, known only from fossil teeth and remains.",
+    "descriptionBn": "শুধুমাত্র জীবাশ্ম থেকে পরিচিত আদি গ্যালিওমর্ফ হাঙ্গরের বিলুপ্ত বর্গ।",
+    "parentId": "galeomorphii",
+    "majorGroupId": "chondrichthyes",
+    "status": "extinct",
+    "characteristics": [
+      {
+        "en": "Known only from the fossil record; no living representatives.",
+        "bn": "শুধুমাত্র জীবাশ্ম রেকর্ড থেকে পরিচিত; কোনো জীবন্ত প্রতিনিধি নেই।"
+      }
+    ],
+    "habitat": "Ancient marine waters (inferred from fossil deposits); no modern habitat.",
+    "habitatBn": "",
+    "ecosystem": "Marine (inferred from fossil deposits).",
+    "ecosystemBn": "",
+    "distribution": "Known only from Mesozoic marine fossil deposits (documented Cretaceous occurrences, e.g., Europe); no living distribution.",
+    "biology": "",
+    "examples": [
+      {
+        "name": "Synechodus",
+        "commonName": "extinct synechodontiform genus",
+        "bengaliName": "",
+        "speciesId": null,
+        "verified": false,
+        "source": "peer-reviewed",
+        "note": "Extinct genus known from fossil teeth; no living representatives"
+      },
+      {
+        "name": "Antrigoulia",
+        "commonName": "extinct synechodontiform genus",
+        "bengaliName": "",
+        "speciesId": null,
+        "verified": false,
+        "source": "peer-reviewed",
+        "note": "Extinct genus (Guinot, Cappetta & Adnet, 2014); no living representatives"
+      }
+    ],
+    "taxonomyNotes": "Extinct order; no living examples exist. Retained in the educational hierarchy for completeness. Reproduction is unknown from the fossil record. Locked placement under Galeomorphii follows the neoselachian treatment (extinct orphan order alongside the living Galeomorphii and Squalea); family-level composition has been revised by successive authors, so only the verified Palaeospinacidae is listed here and the list is not exhaustive.",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Required educational classification (Fish Module specification)",
+        "source": "project-spec"
+      },
+      {
+        "title": "Palaeos Vertebrates: Neoselachii Overview — documents Synechodontiformes as the extinct order",
+        "source": "palaeos.com",
+        "url": "http://palaeos.com/vertebrates/neoselachii/index.html"
+      },
+      {
+        "title": "Amadori, M. et al. The extinct shark Ptychodus in the Upper Cretaceous of Russia (documents Synechodus dispar teeth from Cretaceous marine deposits). Peer-reviewed (PMC).",
+        "source": "peer-reviewed",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7614918/"
+      },
+      {
+        "title": "Shark-References database: Extinct valid species list — Antrigoulia in Palaeospinacidae, Order Synechodontiformes, Superorder Galeomorphii (Guinot, Cappetta & Adnet, 2014).",
+        "source": "peer-reviewed",
+        "url": "https://shark-references.com/species/listValidFossil/A"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-13T00:00:00Z",
+    "version": 1,
+    "feeding": "Direct feeding biology is not preserved; sharp-cusped fossil teeth indicate predation on small fishes and invertebrates, as in other early neoselachians (inferred from dentition, not observed).",
+    "importantFamilies": [
+      "Palaeospinacidae"
+    ]
+  },
+  {
+    "id": "heterodontiformes",
+    "rank": "order",
+    "name": "Heterodontiformes",
+    "bengaliName": "",
+    "meaning": "Bullhead sharks",
+    "meaningBn": "",
+    "description": "Small bottom-dwelling sharks with blunt heads and spined dorsal fins, represented by the single family Heterodontidae.",
+    "descriptionBn": "ভোঁতা মাথা ও কাঁটাযুক্ত পৃষ্ঠীয় পাখনাবিশিষ্ট ছোট তলদেশবাসী হাঙ্গর; একটিমাত্র পরিবার Heterodontidae এর অন্তর্গত।",
+    "parentId": "galeomorphii",
+    "majorGroupId": "chondrichthyes",
+    "status": "",
+    "characteristics": [
+      {
+        "en": "Two dorsal fins, each preceded by a stout spine; blunt pig-like head.",
+        "bn": "দুটি পৃষ্ঠীয় পাখনা, প্রতিটির সামনে মজবুত কাঁটা; ভোঁতা শূকর-সদৃশ মাথা।"
+      },
+      {
+        "en": "Nocturnal bottom-feeders on sea urchins, crabs and molluscs; harmless to people.",
+        "bn": "নিশাচর তলদেশভোজী; সামুদ্রিক শজারু, কাঁকড়া ও ঝিনুক খায়; মানুষের জন্য ক্ষতিকর নয়।"
+      },
+      {
+        "en": "Oviparous; spiral-flanged eggs laid in rock crevices, hatching after 9–12 months.",
+        "bn": "ডিম পাড়ে; পাথরের ফাঁকে প্যাঁচানো ডিম পাড়ে, ৯–১২ মাসে ফোটে।"
+      }
+    ],
+    "habitat": "Continental shelves, rocky reefs and caves; intertidal to about 275 m.",
+    "habitatBn": "মহাদেশীয় তাক, পাথুরে প্রাচীর ও গুহা; জোয়ার-ভাটা অঞ্চল থেকে প্রায় ২৭৫ মিটার গভীরতা।",
+    "ecosystem": "Marine demersal; temperate coastal waters.",
+    "ecosystemBn": "সামুদ্রিক তলদেশবাসী; নাতিশীতোষ্ণ উপকূলীয় পানি।",
+    "distribution": "Warm-temperate to tropical continental shelves of the Indian Ocean and western Pacific.",
+    "biology": "Nocturnal solitary bottom-dwellers; feed on hard-shelled invertebrates; oviparous with distinctive spiral egg cases.",
+    "examples": [
+      {
+        "name": "Heterodontus portusjacksoni",
+        "commonName": "Port Jackson shark",
+        "bengaliName": "",
+        "speciesId": null,
+        "verified": false,
+        "source": "fishbase",
+        "note": "Representative example (FishBase); no Species record"
+      }
+    ],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Required educational classification (Fish Module specification)",
+        "source": "project-spec"
+      },
+      {
+        "title": "FishBase: Heterodontus portusjacksoni (Meyer, 1793)",
+        "source": "fishbase",
+        "url": "https://www.fishbase.se/summary/Heterodontus-portusjacksoni.html"
+      },
+      {
+        "title": "Compagno, L.J.V., 1984. FAO Species Catalogue Vol. 4, Sharks of the world, Part 1 (via FishBase)",
+        "source": "fao"
+      },
+      {
+        "title": "FishBase: Order Summary for Heterodontiformes",
+        "source": "fishbase",
+        "url": "https://www.fishbase.se/summary/ordersSummary.php?order=Heterodontiformes"
+      },
+      {
+        "title": "Compagno, L.J.V., 2001. Sharks of the world, Vol. 2 (Heterodontiformes, Lamniformes, Orectolobiformes). FAO Species Catalogue for Fishery Purposes No. 1, Vol. 2.",
+        "source": "fao",
+        "url": "https://www.fao.org/4/x9293e/x9293e00.htm"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-13T00:00:00Z",
+    "version": 1,
+    "feeding": "Bottom invertebrates — sea urchins, crabs and molluscs — plus small fishes.",
+    "reproduction": "Oviparous; paired spiral-flanged eggs laid in rock crevices; embryos yolk-fed.",
+    "importantFamilies": [
+      "Heterodontidae"
+    ]
+  },
+  {
+    "id": "orectolobiformes",
+    "rank": "order",
+    "name": "Orectolobiformes",
+    "bengaliName": "কার্পেট হাঙ্গর",
+    "meaning": "Carpet sharks",
+    "meaningBn": "",
+    "description": "Carpet sharks: mostly bottom-dwelling warm-water sharks with short mouths well in front of the eyes, including wobbegongs, nurse sharks and the filter-feeding whale shark.",
+    "descriptionBn": "",
+    "parentId": "galeomorphii",
+    "majorGroupId": "chondrichthyes",
+    "status": "",
+    "characteristics": [
+      {
+        "en": "Mouth placed well in front of the eyes; flattened bottom-dwelling bodies.",
+        "bn": "মুখটি চোখের সামনে অবস্থিত; দেহ চ্যাপ্টা, তলদেশবাসী।"
+      },
+      {
+        "en": "The whale shark (largest fish) belongs here; it filters plankton.",
+        "bn": "তিমি হাঙ্গর এ অর্ডারের — সর্ববৃহৎ মাছ, খাদ্য হিসেবে প্ল্যাংকটন গ্রহণ করে।"
+      },
+      {
+        "en": "Two dorsal fins, an anal fin and a nictitating membrane present.",
+        "bn": "পৃষ্ঠীয় পাখনা দুটি, এ্যানাল পাখনা ও নিকটিটেটিং মেমব্রেন থাকে।"
+      }
+    ],
+    "habitat": "Shallow coastal waters: coral reefs, sandy flats and intertidal zones; whale sharks range into open surface waters.",
+    "habitatBn": "",
+    "ecosystem": "Marine neritic reef-associated; whale sharks pelagic.",
+    "ecosystemBn": "",
+    "distribution": "Mostly tropical Indo-Pacific; nurse sharks and whale sharks also reach the Atlantic; whale sharks circumtropical.",
+    "biology": "",
+    "examples": [
+      {
+        "name": "Rhincodon typus",
+        "commonName": "Whale shark",
+        "bengaliName": "তিমি হাঙ্গর",
+        "speciesId": "sp-rhincodon-typus",
+        "verified": true,
+        "source": "legacy-table",
+        "note": ""
+      },
+      {
+        "name": "Ginglymostoma cirratum",
+        "commonName": "Nurse shark",
+        "bengaliName": "নার্স হাঙ্গর",
+        "speciesId": null,
+        "verified": false,
+        "source": "legacy-table",
+        "note": "Legacy classification-table example"
+      }
+    ],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Legacy Fish order card and classification tables — fish.html",
+        "source": "project-legacy"
+      },
+      {
+        "title": "FishBase: Order Summary for Orectolobiformes",
+        "source": "fishbase",
+        "url": "https://www.fishbase.se/summary/ordersSummary.php?order=Orectolobiformes"
+      },
+      {
+        "title": "Compagno, L.J.V., 2001. Sharks of the world, Vol. 2 (Heterodontiformes, Lamniformes, Orectolobiformes). FAO Species Catalogue for Fishery Purposes No. 1, Vol. 2.",
+        "source": "fao",
+        "url": "https://www.fao.org/4/x9293e/x9293e00.htm"
+      }
+    ],
+    "legacyAnchor": "orectolobiformes",
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-13T00:00:00Z",
+    "version": 1,
+    "feeding": "Bottom fishes and invertebrates (wobbegongs ambush bony fishes and octopus; nurse sharks suction-feed on crabs, lobsters, squid and urchins); whale sharks filter plankton and small fishes.",
+    "reproduction": "Modes vary across families and remain undocumented for some members; ovoviviparity is documented in wobbegongs.",
+    "importantFamilies": [
+      "Brachaeluridae",
+      "Ginglymostomatidae",
+      "Hemiscylliidae",
+      "Orectolobidae",
+      "Parascylliidae",
+      "Rhincodontidae",
+      "Stegostomatidae"
+    ]
+  },
+  {
+    "id": "lamniformes",
+    "rank": "order",
+    "name": "Lamniformes",
+    "bengaliName": "ম্যাকারেল হাঙ্গর",
+    "meaning": "Mackerel sharks",
+    "meaningBn": "",
+    "description": "Mackerel sharks: large active oceanic predators including white sharks, makos, threshers and porbeagles.",
+    "descriptionBn": "",
+    "parentId": "galeomorphii",
+    "majorGroupId": "chondrichthyes",
+    "status": "",
+    "characteristics": [
+      {
+        "en": "Large active predators with powerful streamlined bodies.",
+        "bn": "বড় আকারের সক্রিয় শিকারি; সাঁতারের জন্য শক্তিশালী, সুবিন্যস্ত দেহ।"
+      },
+      {
+        "en": "No nictitating membrane; heterocercal tail with a larger upper lobe.",
+        "bn": "নিকটিটেটিং মেমব্রেন নেই; হেটেরোসার্কাল লেজ (উপরের লবি বড়)।"
+      },
+      {
+        "en": "Some species are regionally endothermic (partly warm-blooded).",
+        "bn": "কিছু প্রজাতি আংশিক উষ্ণ-রক্তযুক্ত (রিজিওনাল এন্ডোথার্মি)।"
+      }
+    ],
+    "habitat": "Open ocean and continental shelves, from surface waters to deep slopes.",
+    "habitatBn": "",
+    "ecosystem": "Marine pelagic and neritic; oceanic apex predators.",
+    "ecosystemBn": "",
+    "distribution": "Worldwide in tropical to cold-temperate oceans, coastal and oceanic.",
+    "biology": "",
+    "examples": [
+      {
+        "name": "Carcharodon carcharias",
+        "commonName": "Great white shark",
+        "bengaliName": "গ্রেট হোয়াইট হাঙ্গর",
+        "speciesId": null,
+        "verified": false,
+        "source": "legacy-table",
+        "note": "Legacy classification-table example"
+      },
+      {
+        "name": "Isurus oxyrinchus",
+        "commonName": "Shortfin mako",
+        "bengaliName": "মাকো হাঙ্গর",
+        "speciesId": null,
+        "verified": false,
+        "source": "legacy-table",
+        "note": "Legacy classification-table example"
+      },
+      {
+        "name": "Carcharodon",
+        "commonName": "great white shark",
+        "bengaliName": "গ্রেট হোয়াইট",
+        "speciesId": null,
+        "verified": false,
+        "source": "legacy-card",
+        "note": "Legacy genus-level example"
+      },
+      {
+        "name": "Isurus",
+        "commonName": "mako shark",
+        "bengaliName": "মাকো হাঙ্গর",
+        "speciesId": null,
+        "verified": false,
+        "source": "legacy-card",
+        "note": "Legacy genus-level example"
+      }
+    ],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Legacy Fish order card and classification tables — fish.html",
+        "source": "project-legacy"
+      },
+      {
+        "title": "FishBase: Order Summary for Lamniformes",
+        "source": "fishbase",
+        "url": "https://www.fishbase.se/summary/ordersSummary.php?order=Lamniformes"
+      },
+      {
+        "title": "Compagno, L.J.V., 2001. Sharks of the world, Vol. 2 (Heterodontiformes, Lamniformes, Orectolobiformes). FAO Species Catalogue for Fishery Purposes No. 1, Vol. 2.",
+        "source": "fao",
+        "url": "https://www.fao.org/4/x9293e/x9293e00.htm"
+      }
+    ],
+    "legacyAnchor": "lamniformes",
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-13T00:00:00Z",
+    "version": 1,
+    "feeding": "Active predators of bony fishes, squid, sharks and rays; white sharks also take seals, dolphins, seabirds and carrion.",
+    "reproduction": "Ovoviviparous (aplacental viviparity), commonly with oophagy; small litters.",
+    "importantFamilies": [
+      "Alopiidae",
+      "Carchariidae",
+      "Cetorhinidae",
+      "Lamnidae",
+      "Megachasmidae",
+      "Mitsukurinidae",
+      "Odontaspididae",
+      "Pseudocarchariidae"
+    ]
+  },
+  {
+    "id": "pristiophoriformes",
+    "rank": "order",
+    "name": "Pristiophoriformes",
+    "bengaliName": "",
+    "meaning": "Saw sharks",
+    "meaningBn": "",
+    "description": "Small sharks with a long flattened saw-like rostrum edged with teeth and a pair of sensory barbels.",
+    "descriptionBn": "দাঁতযুক্ত লম্বা চ্যাপ্টা করাত-সদৃশ রোস্ট্রাম ও একজোড়া সংবেদী বার্বেলবিশিষ্ট ছোট হাঙ্গর।",
+    "parentId": "squalomorphii",
+    "majorGroupId": "chondrichthyes",
+    "status": "",
+    "characteristics": [
+      {
+        "en": "Long narrow saw edged with rostral teeth, plus a pair of barbels midway along the saw.",
+        "bn": "দাঁতযুক্ত লম্বা সরু করাত এবং করাতের মাঝামাঝি একজোড়া বার্বেল থাকে।"
+      },
+      {
+        "en": "Bottom-dwellers of continental shelves; often form schools.",
+        "bn": "মহাদেশীয় তাকের তলদেশবাসী; প্রায়ই ঝাঁকে চলে।"
+      },
+      {
+        "en": "Ovoviviparous with small litters; harmless to people.",
+        "bn": "ডিম্বজ (ovoviviparous); ছোট সংখ্যায় বাচ্চা প্রসব করে; মানুষের জন্য ক্ষতিকর নয়।"
+      }
+    ],
+    "habitat": "Continental shelf and upper slope; about 37–310 m.",
+    "habitatBn": "মহাদেশীয় তাক ও ঊর্ধ্ব ঢাল; প্রায় ৩৭–৩১০ মিটার গভীরতা।",
+    "ecosystem": "Marine demersal; subtropical waters.",
+    "ecosystemBn": "সামুদ্রিক তলদেশবাসী; উপক্রান্তীয় পানি।",
+    "distribution": "Temperate and tropical continental shelves and upper slopes; patchy worldwide distribution.",
+    "biology": "Feeds on small fishes and crustaceans; ovoviviparous with 3–22 young per litter.",
+    "examples": [
+      {
+        "name": "Pristiophorus cirratus",
+        "commonName": "Common sawshark",
+        "bengaliName": "",
+        "speciesId": null,
+        "verified": false,
+        "source": "fishbase",
+        "note": "Representative example (FishBase); no Species record"
+      },
+      {
+        "name": "Pristiophorus japonicus",
+        "commonName": "Japanese sawshark",
+        "bengaliName": "",
+        "speciesId": null,
+        "verified": false,
+        "source": "fishbase",
+        "note": "Representative example (FishBase); no Species record"
+      }
+    ],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Required educational classification (Fish Module specification)",
+        "source": "project-spec"
+      },
+      {
+        "title": "FishBase: Pristiophorus cirratus (Latham, 1794)",
+        "source": "fishbase",
+        "url": "https://www.fishbase.se/summary/Pristiophorus-cirratus.html"
+      },
+      {
+        "title": "Compagno, L.J.V., 1984. FAO Species Catalogue Vol. 4, Sharks of the world, Part 1 (via FishBase)",
+        "source": "fao"
+      },
+      {
+        "title": "FishBase: Order Summary for Pristiophoriformes",
+        "source": "fishbase",
+        "url": "https://www.fishbase.se/summary/ordersSummary.php?order=Pristiophoriformes"
+      },
+      {
+        "title": "Nevatte, R.J. & Williamson, J.E., 2020. The Sawshark Redemption. Fish and Fisheries 21:1213–1237.",
+        "source": "peer-reviewed"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-13T00:00:00Z",
+    "version": 1,
+    "feeding": "Small bottom fishes, crustaceans and squid detected with rostral barbels.",
+    "reproduction": "Ovoviviparous with small litters (about 12 young recorded).",
+    "importantFamilies": [
+      "Pristiophoridae"
+    ]
+  },
+  {
+    "id": "squatiniformes",
+    "rank": "order",
+    "name": "Squatiniformes",
+    "bengaliName": "",
+    "meaning": "Angel sharks",
+    "meaningBn": "",
+    "description": "Ray-like flattened sharks that ambush prey buried in sand or mud.",
+    "descriptionBn": "রশ্মি-মাছের মতো চ্যাপ্টা হাঙ্গর; বালি বা কাদায় লুকিয়ে শিকার ধরে।",
+    "parentId": "squalomorphii",
+    "majorGroupId": "chondrichthyes",
+    "status": "",
+    "characteristics": [
+      {
+        "en": "Broad flattened body with greatly enlarged pectoral fins; no anal fin.",
+        "bn": "প্রশস্ত চ্যাপ্টা দেহ ও বড় বক্ষ পাখনা; পায়ু পাখনা নেই।"
+      },
+      {
+        "en": "Eyes and spiracles on top of the head; terminal mouth.",
+        "bn": "চোখ ও স্পিরাকল মাথার উপরে; প্রান্তীয় মুখ।"
+      },
+      {
+        "en": "Ambush predators that lie buried with only eyes exposed; nocturnal.",
+        "bn": "শুধু চোখ বের করে লুকিয়ে থাকা অতর্কিত শিকারি; নিশাচর।"
+      }
+    ],
+    "habitat": "Sandy or muddy sea floors of coasts and continental shelves; about 5–150 m.",
+    "habitatBn": "উপকূল ও মহাদেশীয় তাকের বালুকাময় বা কর্দমাক্ত তলদেশ; প্রায় ৫–১৫০ মিটার।",
+    "ecosystem": "Marine demersal; temperate waters.",
+    "ecosystemBn": "সামুদ্রিক তলদেশবাসী; নাতিশীতোষ্ণ পানি।",
+    "distribution": "Cool-temperate to tropical shelves worldwide except the central Pacific and most of the Indian Ocean.",
+    "biology": "Feeds on flatfishes, benthic fishes, crustaceans and molluscs; ovoviviparous with 7–25 pups.",
+    "examples": [
+      {
+        "name": "Squatina squatina",
+        "commonName": "Angelshark",
+        "bengaliName": "",
+        "speciesId": null,
+        "verified": false,
+        "source": "fishbase",
+        "note": "Representative example (FishBase); no Species record"
+      }
+    ],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Required educational classification (Fish Module specification)",
+        "source": "project-spec"
+      },
+      {
+        "title": "FishBase: Squatina squatina (Linnaeus, 1758)",
+        "source": "fishbase",
+        "url": "https://www.fishbase.se/summary/Squatina-squatina.html"
+      },
+      {
+        "title": "Compagno, L.J.V., 1984. FAO Species Catalogue Vol. 4, Sharks of the world, Part 1 (via FishBase)",
+        "source": "fao"
+      },
+      {
+        "title": "FishBase: Order Summary for Squatiniformes",
+        "source": "fishbase",
+        "url": "https://www.fishbase.se/summary/ordersSummary.php?order=Squatiniformes"
+      },
+      {
+        "title": "Colonello, J.H. et al., 2007. Reproduction of the angular angel shark (Squatina guggenheim). ICES J. Mar. Sci. 64:131–140.",
+        "source": "peer-reviewed"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-13T00:00:00Z",
+    "version": 1,
+    "feeding": "Ambushes flatfishes, benthic fishes, crustaceans and molluscs; detects prey electric fields.",
+    "reproduction": "Ovoviviparous with yolk-fed embryos; multi-year cycles documented.",
+    "importantFamilies": [
+      "Squatinidae"
+    ]
+  },
+  {
+    "id": "squaliformes",
+    "rank": "order",
+    "name": "Squaliformes",
+    "bengaliName": "",
+    "meaning": "Dogfish sharks",
+    "meaningBn": "",
+    "description": "Slender deep-water sharks with spined dorsal fins and no anal fin; includes Sleeper and dogfish sharks.",
+    "descriptionBn": "কাঁটাযুক্ত পৃষ্ঠীয় পাখনা ও পায়ু পাখনাবিহীন সরু গভীর পানির হাঙ্গর।",
+    "parentId": "squalomorphii",
+    "majorGroupId": "chondrichthyes",
+    "status": "",
+    "characteristics": [
+      {
+        "en": "Two dorsal fins, each preceded by a sharp spine; no anal fin.",
+        "bn": "দুটি পৃষ্ঠীয় পাখনা, প্রতিটির সামনে ধারালো কাঁটা; পায়ু পাখনা নেই।"
+      },
+      {
+        "en": "Slender spotted body; forms large schools segregated by size and sex.",
+        "bn": "সরু ছিটযুক্ত দেহ; আকার ও লিঙ্গভেদে বড় ঝাঁকে চলে।"
+      },
+      {
+        "en": "Ovoviviparous with very long gestation (18–24 months); slow growth.",
+        "bn": "ডিম্বজ; অত্যন্ত দীর্ঘ গর্ভকাল (১৮–২৪ মাস); ধীর বৃদ্ধি।"
+      },
+      {
+        "en": "Bioluminescence occurs in lantern, kitefin and some sleeper sharks — unique among sharks.",
+        "bn": ""
+      }
+    ],
+    "habitat": "Continental shelves and upper slopes; mostly 50–300 m; enters bays and estuaries.",
+    "habitatBn": "মহাদেশীয় তাক ও ঊর্ধ্ব ঢাল; বেশিরভাগ ৫০–৩০০ মিটার; উপসাগর ও মোহনায় প্রবেশ করে।",
+    "ecosystem": "Marine and brackish waters; boreal to temperate seas.",
+    "ecosystemBn": "সামুদ্রিক ও লোনা পানি; শীতল থেকে নাতিশীতোষ্ণ সাগর।",
+    "distribution": "Worldwide in marine waters, mostly on deep continental slopes and shelves; some species enter brackish and fresh water.",
+    "biology": "Feeds on fishes, squid and crustaceans; highly migratory; commercially fished.",
+    "examples": [
+      {
+        "name": "Squalus acanthias",
+        "commonName": "Piked dogfish",
+        "bengaliName": "",
+        "speciesId": null,
+        "verified": false,
+        "source": "fishbase",
+        "note": "Representative example (FishBase); no Species record"
+      },
+      {
+        "name": "Centroscyllium fabricii",
+        "commonName": "Black dogfish",
+        "bengaliName": "",
+        "speciesId": null,
+        "verified": false,
+        "source": "fishbase",
+        "note": "Representative example (FishBase); no Species record"
+      }
+    ],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Required educational classification (Fish Module specification)",
+        "source": "project-spec"
+      },
+      {
+        "title": "FishBase: Squalus acanthias (Linnaeus, 1758)",
+        "source": "fishbase",
+        "url": "https://www.fishbase.se/summary/Squalus-acanthias.html"
+      },
+      {
+        "title": "Ebert et al., 2010. Resurrection and redescription of Squalus suckleyi, Zootaxa 2612 (via FishBase)",
+        "source": "peer-reviewed"
+      },
+      {
+        "title": "FishBase: Order Summary for Squaliformes",
+        "source": "fishbase",
+        "url": "https://www.fishbase.se/summary/ordersSummary.php?order=Squaliformes"
+      },
+      {
+        "title": "Claes, J.M. et al., 2015. Molecular phylogeny of Squaliformes and first occurrence of bioluminescence in sharks. BMC Evol. Biol. 15:162.",
+        "source": "peer-reviewed"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-13T00:00:00Z",
+    "version": 1,
+    "feeding": "Opportunistic predators of fishes, squid, crustaceans and polychaetes; larger species take a wide range of prey.",
+    "reproduction": "Ovoviviparous with long gestation (18–24 months in dogfishes); litter sizes vary widely among families.",
+    "importantFamilies": [
+      "Centrophoridae",
+      "Dalatiidae",
+      "Etmopteridae",
+      "Oxynotidae",
+      "Somniosidae",
+      "Squalidae"
+    ]
+  },
+  {
+    "id": "hexanchiformes",
+    "rank": "order",
+    "name": "Hexanchiformes",
+    "bengaliName": "",
+    "meaning": "Frill and cow sharks",
+    "meaningBn": "",
+    "description": "Deep-water sharks with six or seven gill slits and a single dorsal fin set far back.",
+    "descriptionBn": "ছয় বা সাতটি ফুলকা ছিদ্রবিশিষ্ট গভীর পানির হাঙ্গর; একটিমাত্র পৃষ্ঠীয় পাখনা পেছনের দিকে।",
+    "parentId": "squalomorphii",
+    "majorGroupId": "chondrichthyes",
+    "status": "",
+    "characteristics": [
+      {
+        "en": "Six long gill slits extending onto the throat (most sharks have five).",
+        "bn": "গলা পর্যন্ত বিস্তৃত ছয়টি লম্বা ফুলকা ছিদ্র (বেশিরভাগ হাঙ্গরের পাঁচটি)।"
+      },
+      {
+        "en": "Single dorsal fin far back; comb-shaped lower teeth.",
+        "bn": "একটিমাত্র পৃষ্ঠীয় পাখনা পেছনে; চিরুনি-সদৃশ নিচের দাঁত।"
+      },
+      {
+        "en": "Large deep-water predators; vertical migrants rising toward the surface at night.",
+        "bn": "বড় গভীর পানির শিকারি; রাতে উপরের দিকে উঠে আসে।"
+      }
+    ],
+    "habitat": "Outer shelves, slopes, seamounts and ridges; usually 180–1100 m.",
+    "habitatBn": "বাইরের তাক, ঢাল, সামুদ্রিক পর্বত ও শৈলশিরা; সাধারণত ১৮০–১১০০ মিটার।",
+    "ecosystem": "Marine bathydemersal; subtropical to cold waters.",
+    "ecosystemBn": "সামুদ্রিক গভীর তলদেশবাসী; উপক্রান্তীয় থেকে শীতল পানি।",
+    "distribution": "Worldwide in tropical to cold-temperate seas, on deep slopes, seamounts and occasionally inshore.",
+    "biology": "Eats sharks, rays, bony fishes, squid and carrion; viviparous with very large litters (47–108 pups).",
+    "examples": [
+      {
+        "name": "Hexanchus griseus",
+        "commonName": "Bluntnose sixgill shark",
+        "bengaliName": "",
+        "speciesId": null,
+        "verified": false,
+        "source": "fishbase",
+        "note": "Representative example (FishBase); no Species record"
+      }
+    ],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Required educational classification (Fish Module specification)",
+        "source": "project-spec"
+      },
+      {
+        "title": "FishBase: Hexanchus griseus (Bonnaterre, 1788)",
+        "source": "fishbase",
+        "url": "https://www.fishbase.se/summary/Hexanchus-griseus.html"
+      },
+      {
+        "title": "Ebert, Fowler & Dando, 2021. Sharks of the world, Princeton Univ. Press (via FishBase)",
+        "source": "book"
+      },
+      {
+        "title": "FishBase: Order Summary for Hexanchiformes",
+        "source": "fishbase",
+        "url": "https://www.fishbase.se/summary/ordersSummary.php?order=Hexanchiformes"
+      },
+      {
+        "title": "Compagno, L.J.V., 2001. Sharks of the world, Vol. 2 (Heterodontiformes, Lamniformes, Orectolobiformes). FAO Species Catalogue for Fishery Purposes No. 1, Vol. 2.",
+        "source": "fao",
+        "url": "https://www.fao.org/4/x9293e/x9293e00.htm"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-13T00:00:00Z",
+    "version": 1,
+    "feeding": "Large prey including bony fishes, other sharks, rays, squid, crustaceans, carrion and marine mammals.",
+    "reproduction": "Ovoviviparous with very large litters (sixgills 47–108 pups; sevengill sharks up to about 100); multi-year cycles in studied species.",
+    "importantFamilies": [
+      "Chlamydoselachidae",
+      "Hexanchidae"
+    ]
+  },
+  {
+    "id": "rajiformes",
+    "rank": "order",
+    "name": "Rajiformes",
+    "bengaliName": "রশ্মি মাছ",
+    "meaning": "Rays and skates",
+    "meaningBn": "",
+    "description": "Skates and rays: flattened bottom-dwellers with enlarged pectoral fins fused to the head and ventral gill slits.",
+    "descriptionBn": "",
+    "parentId": "batoidea",
+    "majorGroupId": "chondrichthyes",
+    "status": "",
+    "characteristics": [
+      {
+        "en": "Body flattened dorso-ventrally; pectoral fins greatly enlarged.",
+        "bn": "দেহ পৃষ্ঠ-উদর দিকে চ্যাপ্টা (ডোরসোভেন্ট্রালি); pectoral পাখনা প্রসারিত।"
+      },
+      {
+        "en": "Gill slits on the ventral surface; some bear electric organs (Torpedo).",
+        "bn": "ফুলকা ছিদ্র উদর পৃষ্ঠে; বৈদ্যুতিক অঙ্গ থাকতে পারে (টরপিডো)।"
+      },
+      {
+        "en": "Tail slender and usually without a stinging spine; mostly benthic.",
+        "bn": "লেজ সরু, সাধারণত কাঁটা (স্টিঙ্গ) ছাড়া; অধিকাংশই তলদেশবাসী।"
+      }
+    ],
+    "habitat": "Seabeds from shallow coastal shelves to deep slopes; sand, mud and rock bottoms.",
+    "habitatBn": "",
+    "ecosystem": "Marine demersal; benthic shelf and slope communities.",
+    "ecosystemBn": "",
+    "distribution": "Worldwide in marine waters, chiefly benthic on shelves and slopes; a few species in rivers and estuaries.",
+    "biology": "",
+    "examples": [
+      {
+        "name": "Raja clavata",
+        "commonName": "Thornback skate",
+        "bengaliName": "স্কেট",
+        "speciesId": null,
+        "verified": false,
+        "source": "legacy-table",
+        "note": "Legacy classification-table example"
+      },
+      {
+        "name": "Raja",
+        "commonName": "skate",
+        "bengaliName": "স্কেট",
+        "speciesId": null,
+        "verified": false,
+        "source": "legacy-card",
+        "note": "Legacy genus-level example"
+      }
+    ],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "The legacy card mentions electric rays (Torpedo) here; the classification tables place the marbled electric ray in Torpediniformes, following modern taxonomy.",
+    "modernTaxonomyNoteBn": "পুরোনো কার্ডে বৈদ্যুতিক রশ্মির উল্লেখ আছে; সারণিতে সেটি Torpediniformes-এ রাখা হয়েছে।",
+    "references": [
+      {
+        "title": "Legacy Fish order card and classification tables — fish.html",
+        "source": "project-legacy"
+      },
+      {
+        "title": "FishBase: Order Summary for Rajiformes",
+        "source": "fishbase",
+        "url": "https://www.fishbase.se/summary/ordersSummary.php?order=Rajiformes"
+      }
+    ],
+    "legacyAnchor": "rajiformes",
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-13T00:00:00Z",
+    "version": 1,
+    "feeding": "Benthic invertebrates (molluscs, crustaceans) and small fishes; some take other elasmobranchs and carrion.",
+    "reproduction": "Oviparous; large yolky eggs in horny capsules ('mermaid's purses') deposited on the seabed; development may exceed a year.",
+    "importantFamilies": [
+      "Anacanthobatidae",
+      "Arhynchobatidae",
+      "Gurgesiellidae",
+      "Rajidae"
+    ]
+  },
+  {
+    "id": "myliobatiformes",
+    "rank": "order",
+    "name": "Myliobatiformes",
+    "bengaliName": "স্টিংরে",
+    "meaning": "Stingrays",
+    "meaningBn": "",
+    "description": "Stingrays and relatives: diamond-shaped disc with wing-like pectorals and a whip-like tail often bearing a venomous spine.",
+    "descriptionBn": "",
+    "parentId": "batoidea",
+    "majorGroupId": "chondrichthyes",
+    "status": "",
+    "characteristics": [
+      {
+        "en": "Long whip-like tail armed with one or more serrated venomous spines.",
+        "bn": "লম্বা, চাবুকসদৃশ লেজে এক বা একাধিক করাত-ধার কাঁটা থাকে।"
+      },
+      {
+        "en": "Diamond-shaped disc; pectoral fins fused to the head like wings.",
+        "bn": "দেহ হীরকাকার; pectoral পাখনা মাথার সঙ্গে মিশে \"ডানা\"-র মতো।"
+      },
+      {
+        "en": "Mostly viviparous; manta rays also belong to this order.",
+        "bn": "বেশিরভাগ জীবন্ত বাচ্চা প্রসবকারী (ভিভিপ্যারাস); ম্যানটা রশ্মিও এখানে।"
+      }
+    ],
+    "habitat": "Shallow coasts, reefs, estuaries and rivers; devil rays range into open ocean.",
+    "habitatBn": "",
+    "ecosystem": "Marine coastal and pelagic; some in freshwater rivers.",
+    "ecosystemBn": "",
+    "distribution": "Worldwide in tropical to warm-temperate seas; river stingrays in fresh water.",
+    "biology": "",
+    "examples": [
+      {
+        "name": "Dasyatis pastinaca",
+        "commonName": "Common stingray",
+        "bengaliName": "স্টিংরে",
+        "speciesId": null,
+        "verified": false,
+        "source": "legacy-table",
+        "note": "Legacy classification-table example"
+      },
+      {
+        "name": "Mobula birostris",
+        "commonName": "Giant manta ray",
+        "bengaliName": "ম্যানটা রশ্মি",
+        "speciesId": "sp-mobula-birostris",
+        "verified": true,
+        "source": "legacy-table",
+        "note": ""
+      }
+    ],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Legacy Fish order card and classification tables — fish.html",
+        "source": "project-legacy"
+      },
+      {
+        "title": "FishBase: Order Summary for Myliobatiformes",
+        "source": "fishbase",
+        "url": "https://www.fishbase.se/summary/ordersSummary.php?order=Myliobatiformes"
+      },
+      {
+        "title": "NOAA Fisheries: Giant Manta Ray — filter-feeding on zooplankton.",
+        "source": "noaa",
+        "url": "https://www.fisheries.noaa.gov/species/giant-manta-ray"
+      }
+    ],
+    "legacyAnchor": "myliobatiformes",
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-13T00:00:00Z",
+    "version": 1,
+    "feeding": "Benthic molluscs, crustaceans and small fishes crushed with pavement teeth; mobulids filter plankton.",
+    "reproduction": "Mostly viviparous with small litters; some lay horny egg capsules.",
+    "importantFamilies": [
+      "Aetobatidae",
+      "Dasyatidae",
+      "Gymnuridae",
+      "Hexatrygonidae",
+      "Mobulidae",
+      "Myliobatidae",
+      "Plesiobatidae",
+      "Potamotrygonidae",
+      "Rhinopteridae",
+      "Urolophidae",
+      "Urotrygonidae",
+      "Zanobatidae"
+    ]
+  },
+  {
+    "id": "torpediniformes",
+    "rank": "order",
+    "name": "Torpediniformes",
+    "bengaliName": "বৈদ্যুতিক রশ্মি",
+    "meaning": "Electric rays",
+    "meaningBn": "",
+    "description": "Flattened rays with paired kidney-shaped electric organs at the base of the pectoral fins, used to stun prey and for defense; discharges range from 8 to 220 volts depending on species.",
+    "descriptionBn": "",
+    "parentId": "batoidea",
+    "majorGroupId": "chondrichthyes",
+    "status": "",
+    "characteristics": [
+      {
+        "en": "Paired kidney-shaped electric organs at the pectoral-fin bases, derived from branchial musculature.",
+        "bn": ""
+      },
+      {
+        "en": "Rounded pectoral disc; thick flabby body with soft loose skin and no dermal denticles.",
+        "bn": ""
+      },
+      {
+        "en": "Sluggish benthic ambush predators that bury in sand and stun prey electrically.",
+        "bn": ""
+      },
+      {
+        "en": "Ovoviviparous (aplacental viviparity).",
+        "bn": ""
+      }
+    ],
+    "habitat": "Shallow coastal waters to depths beyond 1,000 m; soft bottoms, seagrass areas, rocky reefs and kelp beds; mostly buried by day, active by night.",
+    "habitatBn": "",
+    "ecosystem": "Exclusively marine benthic and demersal; temperate to tropical seas (river-mouth records reflect salinity tolerance, not freshwater residence).",
+    "ecosystemBn": "",
+    "distribution": "Worldwide in temperate to tropical waters of the Atlantic, Pacific and Indian oceans.",
+    "biology": "",
+    "examples": [
+      {
+        "name": "Torpedo marmorata",
+        "commonName": "Marbled electric ray",
+        "bengaliName": "বৈদ্যুতিক রশ্মি",
+        "speciesId": null,
+        "verified": false,
+        "source": "legacy-table",
+        "note": "Legacy classification-table example"
+      },
+      {
+        "name": "Tetronarce californica",
+        "commonName": "Pacific electric ray",
+        "bengaliName": "",
+        "speciesId": null,
+        "verified": false,
+        "source": "fishbase",
+        "note": "Representative example (FishBase); no Species record"
+      },
+      {
+        "name": "Narcine brasiliensis",
+        "commonName": "Lesser electric ray",
+        "bengaliName": "",
+        "speciesId": null,
+        "verified": false,
+        "source": "fishbase",
+        "note": "Representative example (FishBase); no Species record"
+      }
+    ],
+    "taxonomyNotes": "FishBase places thornback rays (Platyrhinidae) in Torpediniformes, but they lack electric organs and some authorities place them elsewhere; the locked hierarchy follows the FishBase 5-family treatment.",
+    "modernTaxonomyNote": "Electric rays were historically grouped with skates; modern taxonomy places them in their own order, Torpediniformes, as reflected in the classification tables.",
+    "modernTaxonomyNoteBn": "বৈদ্যুতিক রশ্মিকে আগে স্কেটদের সঙ্গে রাখা হতো; আধুনিক শ্রেণিবিন্যাসে এগুলো পৃথক বর্গ Torpediniformes-এর অন্তর্গত।",
+    "references": [
+      {
+        "title": "Legacy Fish classification tables — fish.html",
+        "source": "project-legacy"
+      },
+      {
+        "title": "FishBase: Order Summary for Torpediniformes",
+        "source": "fishbase",
+        "url": "https://www.fishbase.se/summary/ordersSummary.php?order=Torpediniformes"
+      },
+      {
+        "title": "FishBase:  Torpedo marmorata (Risso, 1810)",
+        "source": "fishbase",
+        "url": "https://www.fishbase.se/summary/Torpedo-marmorata.html"
+      },
+      {
+        "title": "FishBase:  Tetronarce californica (Ayres, 1855)",
+        "source": "fishbase",
+        "url": "https://www.fishbase.se/summary/Tetronarce-californica"
+      },
+      {
+        "title": "Narcine distribution study (Torpediniformes: Narcinidae), southwestern Atlantic — all Torpediniformes exclusively marine; bean-shaped electric organs. Peer-reviewed (PMC).",
+        "source": "peer-reviewed",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12463743/"
+      },
+      {
+        "title": "Britannica: Electric ray — worldwide warm/temperate distribution, 8–220 volt discharge, benthic feeding.",
+        "source": "museum",
+        "url": "https://www.britannica.com/animal/electric-ray"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-13T00:00:00Z",
+    "version": 1,
+    "feeding": "Small benthic fishes and invertebrates (crustaceans, worms), stunned with electric discharge before capture.",
+    "reproduction": "Viviparous (aplacental/ovoviviparous); litters of 2–60 pups depending on species, after gestations of up to about 12 months; electric organs are functional before birth.",
+    "importantFamilies": [
+      "Hypnidae",
+      "Narcinidae",
+      "Narkidae",
+      "Platyrhinidae",
+      "Torpedinidae"
+    ]
+  },
+  {
+    "id": "rhinopristiformes",
+    "rank": "order",
+    "name": "Rhinopristiformes",
+    "bengaliName": "",
+    "meaning": "Sawfishes and guitarfishes",
+    "meaningBn": "",
+    "description": "Large ray-like fishes with a shark-like body and a long flattened saw edged with teeth.",
+    "descriptionBn": "হাঙ্গর-সদৃশ দেহ ও দাঁতযুক্ত লম্বা চ্যাপ্টা করাতবিশিষ্ট বড় রশ্মি-মাছ।",
+    "parentId": "batoidea",
+    "majorGroupId": "chondrichthyes",
+    "status": "",
+    "characteristics": [
+      {
+        "en": "Saw-like rostrum edged with up to 20 pairs of teeth.",
+        "bn": "সর্বাধিক ২০ জোড়া দাঁতযুক্ত করাত-সদৃশ রোস্ট্রাম।"
+      },
+      {
+        "en": "Euryhaline: lives in seas, estuaries and far up rivers.",
+        "bn": "লবণাক্ততা-সহনশীল: সাগর, মোহনা ও নদীর অনেক ভেতর পর্যন্ত বাস করে।"
+      },
+      {
+        "en": "Ovoviviparous with small litters; young spend early life in rivers.",
+        "bn": "ডিম্বজ; অল্প সংখ্যক বাচ্চা প্রসব করে; ছোটরা নদীতে বড় হয়।"
+      }
+    ],
+    "habitat": "Inshore coastal waters, estuaries, lagoons and rivers.",
+    "habitatBn": "উপকূলীয় পানি, মোহনা, উপহ্রদ ও নদী।",
+    "ecosystem": "Marine, brackish and fresh waters; tropical and subtropical.",
+    "ecosystemBn": "সামুদ্রিক, লোনা ও মিঠা পানি; ক্রান্তীয় ও উপক্রান্তীয় অঞ্চল।",
+    "distribution": "Tropical to warm-temperate inshore waters worldwide (Atlantic, Indian and Pacific oceans); sawfishes circumglobal, regularly entering estuaries and ascending rivers.",
+    "biology": "Feeds on fishes and bottom animals; enters rivers to give birth.",
+    "examples": [
+      {
+        "name": "Pristis pristis",
+        "commonName": "Common sawfish",
+        "bengaliName": "",
+        "speciesId": null,
+        "verified": false,
+        "source": "fishbase",
+        "note": "Representative example (FishBase); no Species record"
+      },
+      {
+        "name": "Rhinobatos rhinobatos",
+        "commonName": "Common guitarfish",
+        "bengaliName": "",
+        "speciesId": null,
+        "verified": false,
+        "source": "fishbase",
+        "note": "Representative example (FishBase); no Species record"
+      },
+      {
+        "name": "Rhynchobatus",
+        "commonName": "Wedgefishes",
+        "bengaliName": "",
+        "speciesId": null,
+        "verified": false,
+        "source": "fishbase",
+        "note": "Genus-level example (FishBase Rhinidae: Rhina, Rhynchobatus, Rhynchorhina); no Species record"
+      }
+    ],
+    "taxonomyNotes": "Platyrhinidae (thornback rays) and Zanobatidae (panrays) are associated with this order in some treatments but their placement is unresolved; FishBase and Eschmeyer’s Catalog recognize the 5 families listed here. Locked BiotaElite hierarchy unchanged.",
+    "modernTaxonomyNote": "Unlike the strictly marine sawsharks of Pristiophoriformes, many sawfishes regularly enter estuaries and rivers.",
+    "modernTaxonomyNoteBn": "সম্পূর্ণ সামুদ্রিক করাত-হাঙ্গরের (Pristiophoriformes) বিপরীতে অনেক করাত-মাছ নিয়মিত মোহনা ও নদীতে প্রবেশ করে।",
+    "references": [
+      {
+        "title": "Required educational classification (Fish Module specification)",
+        "source": "project-spec"
+      },
+      {
+        "title": "FishBase: Pristis pristis (Linnaeus, 1758)",
+        "source": "fishbase",
+        "url": "https://www.fishbase.se/summary/Pristis-pristis.html"
+      },
+      {
+        "title": "Stehmann, M., 1990. Pristidae, Check-list of the fishes of the eastern tropical Atlantic (via FishBase)",
+        "source": "report"
+      },
+      {
+        "title": "FishBase: Order Summary for Rhinopristiformes",
+        "source": "fishbase",
+        "url": "https://www.fishbase.se/summary/ordersSummary.php?order=Rhinopristiformes"
+      },
+      {
+        "title": "FishBase:  Rhinobatos rhinobatos (Linnaeus, 1758)",
+        "source": "fishbase",
+        "url": "https://www.fishbase.se/summary/Rhinobatos-rhinobatos.html"
+      },
+      {
+        "title": "FishBase: FAMILY Details for Rhinidae - Wedgefishes",
+        "source": "fishbase",
+        "url": "https://fishbase.se/Summary/FamilySummary.php?ID=713"
+      },
+      {
+        "title": "Last, P.R., Seret, B. & Naylor, G.J.P., 2016. Redefinition of family-level classification in Rhinopristiformes (5 families). Zootaxa 4117(4):451–475.",
+        "source": "peer-reviewed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27395187/"
+      },
+      {
+        "title": "Fishes of Australia (Museums Victoria): Order Rhinopristiformes — guitarfish summary, warm shallow coastal waters.",
+        "source": "museum",
+        "url": "https://fishesofaustralia.net.au/home/order/41"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-13T00:00:00Z",
+    "version": 1,
+    "feeding": "Benthic invertebrates (especially crustaceans) and small bottom-dwelling fishes.",
+    "reproduction": "Live-bearers (aplacental viviparity/ovoviviparity); sawfishes produce small litters (1–13 pups) with young using rivers as nurseries; guitarfishes bear 4–10 embryos in one or two litters per year.",
+    "importantFamilies": [
+      "Glaucostegidae",
+      "Pristidae",
+      "Rhinidae",
+      "Rhinobatidae",
+      "Trygonorrhinidae"
+    ]
+  },
+  {
+    "id": "chimaeriformes",
+    "rank": "order",
+    "name": "Chimaeriformes",
+    "bengaliName": "",
+    "meaning": "Chimaeras",
+    "meaningBn": "",
+    "description": "Deep-sea fishes with rabbit-like heads, a venomous dorsal spine and males bearing a forehead clasper.",
+    "descriptionBn": "খরগোশ-সদৃশ মাথা, বিষাক্ত পৃষ্ঠীয় কাঁটা ও পুরুষের কপালে ক্ল্যাসপারবিশিষ্ট গভীর সমুদ্রের মাছ।",
+    "parentId": "holocephali",
+    "majorGroupId": "chondrichthyes",
+    "status": "",
+    "characteristics": [
+      {
+        "en": "Blunt rabbit-like head; first dorsal fin bears a mildly venomous spine.",
+        "bn": "ভোঁতা খরগোশ-সদৃশ মাথা; প্রথম পৃষ্ঠীয় পাখনায় মৃদু বিষাক্ত কাঁটা।"
+      },
+      {
+        "en": "Males carry a clasper on the forehead, probably used during mating.",
+        "bn": "পুরুষের কপালে ক্ল্যাসপার থাকে, সম্ভবত মিলনের সময় ব্যবহৃত হয়।"
+      },
+      {
+        "en": "Oviparous; leathery egg capsules hatch after 9–12 months.",
+        "bn": "ডিম পাড়ে; চামড়ার মতো ডিমের খোসা ৯–১২ মাসে ফোটে।"
+      }
+    ],
+    "habitat": "Upper continental slopes; usually 300–500 m.",
+    "habitatBn": "ঊর্ধ্ব মহাদেশীয় ঢাল; সাধারণত ৩০০–৫০০ মিটার।",
+    "ecosystem": "Marine bathydemersal; deep cold waters.",
+    "ecosystemBn": "সামুদ্রিক গভীর তলদেশবাসী; গভীর শীতল পানি।",
+    "distribution": "Deep waters of the Atlantic and Indo-Pacific, mostly on continental slopes (e.g., Northeast Atlantic–Mediterranean; southern Australia–New Zealand); typically 300–500 m, ranging 40–1,400 m.",
+    "biology": "Sluggish small groups; feeds on bottom invertebrates; dorsal spine mildly venomous.",
+    "examples": [
+      {
+        "name": "Chimaera monstrosa",
+        "commonName": "Rabbit fish",
+        "bengaliName": "",
+        "speciesId": null,
+        "verified": false,
+        "source": "fishbase",
+        "note": "Representative example (FishBase); no Species record"
+      },
+      {
+        "name": "Callorhinchus milii",
+        "commonName": "Ghost shark",
+        "bengaliName": "",
+        "speciesId": null,
+        "verified": false,
+        "source": "fishbase",
+        "note": "Representative example (FishBase); no Species record"
+      }
+    ],
+    "taxonomyNotes": "Chimaeriformes are holocephalans (Class Holocephali per FishBase) — cartilaginous fishes but NOT sharks and NOT batoids; the locked CHONDRICHTHYES → HOLOCEPHALI → CHIMAERIFORMES path is preserved.",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Required educational classification (Fish Module specification)",
+        "source": "project-spec"
+      },
+      {
+        "title": "FishBase: Chimaera monstrosa (Linnaeus, 1758)",
+        "source": "fishbase",
+        "url": "https://www.fishbase.se/summary/Chimaera-monstrosa.html"
+      },
+      {
+        "title": "Krefft, G., 1990. Chimaeridae, Check-list of the fishes of the eastern tropical Atlantic (via FishBase)",
+        "source": "report"
+      },
+      {
+        "title": "FishBase: Order Summary for Chimaeriformes",
+        "source": "fishbase",
+        "url": "https://www.fishbase.se/summary/ordersSummary.php?order=Chimaeriformes"
+      },
+      {
+        "title": "FishBase:  Chimaera monstrosa (Linnaeus, 1758)",
+        "source": "fishbase",
+        "url": "https://www.fishbase.se/summary/Chimaera-monstrosa.html"
+      },
+      {
+        "title": "FishBase:  Callorhinchus milii Bory de Saint-Vincent, 1823",
+        "source": "fishbase",
+        "url": "https://www.fishbase.se/summary/Callorhinchus-milii.html"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-13T00:00:00Z",
+    "version": 1,
+    "feeding": "Bottom-living invertebrates (especially shellfish) crushed with grinding tooth plates.",
+    "reproduction": "Oviparous; leathery/horny egg capsules laid on the seabed hatch after about 8–12 months; internal fertilization via claspers, including a forehead clasper in males.",
+    "importantFamilies": [
+      "Callorhinchidae",
+      "Chimaeridae",
+      "Rhinochimaeridae"
+    ]
+  },
+  {
+    "id": "cypriniformes",
+    "rank": "order",
+    "name": "Cypriniformes",
+    "bengaliName": "রুই-জাতীয় মাছ",
+    "meaning": "Carps & minnows",
+    "meaningBn": "",
+    "description": "The most species-rich order of freshwater fishes (about 4,300 species, roughly 25% of all freshwater fish diversity), including carps, minnows, loaches and suckers.",
+    "descriptionBn": "",
+    "parentId": "actinopterygii-group",
+    "majorGroupId": "osteichthyes",
+    "status": "",
+    "characteristics": [
+      {
+        "en": "Freshwater fish; jaws toothless but pharyngeal teeth present.",
+        "bn": "মিঠাপানির মাছ; চোয়ালে দাঁত নেই, গলায় ফ্যারিঞ্জিয়াল দাঁত থাকে।"
+      },
+      {
+        "en": "Bangladesh's staple fish belong here — rohu, catla, mrigel, punti.",
+        "bn": "বাংলাদেশের প্রধান মাছ এ অর্ডারের — রুই, কাতলা, মৃগেল, পুঁটি।"
+      },
+      {
+        "en": "Cycloid scales; barbels may be present around the mouth.",
+        "bn": "সাইক্লয়েড আঁশ; মুখে শুশনি (বার্বেল) থাকতে পারে।"
+      }
+    ],
+    "habitat": "Rivers, lakes, streams and other fresh waters; only two species enter true marine waters.",
+    "habitatBn": "",
+    "ecosystem": "Freshwater rivers, lakes and streams from tropical to temperate zones.",
+    "ecosystemBn": "",
+    "distribution": "Fresh waters of Asia, Europe, Africa and North America; most diverse in south-eastern Asia; only Tribolodon brandtii and T. sachalinensis occur in true marine waters (diadromous).",
+    "biology": "",
+    "examples": [
+      {
+        "name": "Labeo rohita",
+        "commonName": "Rohu",
+        "bengaliName": "রুই",
+        "speciesId": "sp-labeo-rohita",
+        "verified": true,
+        "source": "legacy-table",
+        "note": ""
+      },
+      {
+        "name": "Catla catla",
+        "commonName": "Catla",
+        "bengaliName": "কাতলা",
+        "speciesId": "sp-catla-catla",
+        "verified": true,
+        "source": "legacy-table",
+        "note": ""
+      },
+      {
+        "name": "Cirrhinus mrigala",
+        "commonName": "Mrigel",
+        "bengaliName": "মৃগেল",
+        "speciesId": "sp-cirrhinus-mrigala",
+        "verified": true,
+        "source": "legacy-table",
+        "note": ""
+      },
+      {
+        "name": "Labeo calbasu",
+        "commonName": "Kalibaus",
+        "bengaliName": "কালিবাউস",
+        "speciesId": "sp-labeo-calbasu",
+        "verified": true,
+        "source": "legacy-table",
+        "note": ""
+      },
+      {
+        "name": "Hypophthalmichthys molitrix",
+        "commonName": "Silver carp",
+        "bengaliName": "সিলভার কার্প",
+        "speciesId": null,
+        "verified": false,
+        "source": "legacy-table",
+        "note": "Legacy classification-table example"
+      },
+      {
+        "name": "Hypophthalmichthys nobilis",
+        "commonName": "Bighead carp",
+        "bengaliName": "বিগহেড কার্প",
+        "speciesId": null,
+        "verified": false,
+        "source": "legacy-table",
+        "note": "Legacy classification-table example"
+      },
+      {
+        "name": "Ctenopharyngodon idella",
+        "commonName": "Grass carp",
+        "bengaliName": "গ্রাস কার্প",
+        "speciesId": null,
+        "verified": false,
+        "source": "legacy-table",
+        "note": "Legacy classification-table example"
+      },
+      {
+        "name": "Cyprinus carpio",
+        "commonName": "Common carp",
+        "bengaliName": "কমন কার্প",
+        "speciesId": null,
+        "verified": false,
+        "source": "legacy-table",
+        "note": "Legacy classification-table example"
+      },
+      {
+        "name": "Carassius auratus",
+        "commonName": "Goldfish",
+        "bengaliName": "সোনালি মাছ",
+        "speciesId": null,
+        "verified": false,
+        "source": "legacy-table",
+        "note": "Legacy classification-table example"
+      },
+      {
+        "name": "Amblypharyngodon mola",
+        "commonName": "Mola (Indian carplet)",
+        "bengaliName": "মলা",
+        "speciesId": null,
+        "verified": false,
+        "source": "legacy-table",
+        "note": "Legacy classification-table example"
+      },
+      {
+        "name": "Puntius sophore",
+        "commonName": "Pool barb (Punti)",
+        "bengaliName": "পুঁটি",
+        "speciesId": null,
+        "verified": false,
+        "source": "legacy-table",
+        "note": "Legacy classification-table example"
+      },
+      {
+        "name": "Systomus sarana",
+        "commonName": "Olive barb",
+        "bengaliName": "সরপুঁটি",
+        "speciesId": null,
+        "verified": false,
+        "source": "legacy-table",
+        "note": "Legacy classification-table example"
+      },
+      {
+        "name": "Oxygaster bacaila",
+        "commonName": "Indian flying barb (Chela)",
+        "bengaliName": "চেলা",
+        "speciesId": null,
+        "verified": false,
+        "source": "legacy-table",
+        "note": "Legacy classification-table example"
+      },
+      {
+        "name": "Osteobrama cotio",
+        "commonName": "Dhela",
+        "bengaliName": "ঢেলা",
+        "speciesId": null,
+        "verified": false,
+        "source": "legacy-table",
+        "note": "Legacy classification-table example"
+      },
+      {
+        "name": "Cirrhinus",
+        "commonName": "Mrigel",
+        "bengaliName": "মৃগেল",
+        "speciesId": null,
+        "verified": false,
+        "source": "legacy-card",
+        "note": "Legacy genus-level example; species record sp-cirrhinus-mrigala exists"
+      },
+      {
+        "name": "Carassius",
+        "commonName": "goldfish",
+        "bengaliName": "সোনালি মাছ",
+        "speciesId": null,
+        "verified": false,
+        "source": "legacy-card",
+        "note": "Legacy genus-level example"
+      }
+    ],
+    "taxonomyNotes": "Family list follows the current 23-family FishBase treatment splitting the former broad Cyprinidae (e.g., Danionidae, Leuciscidae, Xenocyprididae recognized); older classifications list as few as 5 families. Locked hierarchy unchanged.",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Legacy Fish order card and classification tables — fish.html",
+        "source": "project-legacy"
+      },
+      {
+        "title": "FishBase: Order Summary for Cypriniformes",
+        "source": "fishbase",
+        "url": "https://www.fishbase.se/summary/ordersSummary.php?order=Cypriniformes"
+      },
+      {
+        "title": "International Journal for Parasitology (2020) via ScienceDirect: Cypriniformes ~4,300 species, 25% of freshwater diversity; Asia/Europe/Africa/North America; richest in SE Asia; carps seasonal scramble spawners.",
+        "source": "peer-reviewed",
+        "url": "https://www.sciencedirect.com/topics/veterinary-science-and-veterinary-medicine/cypriniformes"
+      },
+      {
+        "title": "Britannica: Bitterling (Rhodeus) — eggs deposited via ovipositor into freshwater mussel gill chamber.",
+        "source": "museum",
+        "url": "https://www.britannica.com/animal/bitterling"
+      }
+    ],
+    "legacyAnchor": "cypriniformes",
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-13T00:00:00Z",
+    "version": 1,
+    "feeding": "Feeding strategies vary widely across families — from algae and detritus grazers to benthic invertebrate feeders and predators — with food processed by pharyngeal teeth against a basioccipital pad; jaws always toothless.",
+    "reproduction": "Mostly oviparous broadcast (scramble) spawners without parental care; bitterlings (Acheilognathidae) exceptionally lay their eggs inside freshwater mussels.",
+    "importantFamilies": [
+      "Acheilognathidae",
+      "Balitoridae",
+      "Barbuccidae",
+      "Botiidae",
+      "Catostomidae",
+      "Cobitidae",
+      "Cyprinidae",
+      "Danionidae",
+      "Ellopostomatidae",
+      "Gastromyzontidae",
+      "Gobionidae",
+      "Gyrinocheilidae",
+      "Leptobarbidae",
+      "Leuciscidae",
+      "Nemacheilidae",
+      "Paedocyprididae",
+      "Psilorhynchidae",
+      "Serpenticobitidae",
+      "Sundadanionidae",
+      "Tanichthyidae",
+      "Tincidae",
+      "Vaillantellidae",
+      "Xenocyprididae"
+    ]
+  },
+  {
+    "id": "siluriformes",
+    "rank": "order",
+    "name": "Siluriformes",
+    "bengaliName": "ক্যাটফিশ / শিং মাছ",
+    "meaning": "Catfish",
+    "meaningBn": "",
+    "description": "A highly diverse order of mostly freshwater catfishes (about 2,400 species; 44 family names as currently listed by FishBase — header states n=39, discrepancy documented below), diagnosed by barbels around the mouth and a naked or bony-plated body.",
+    "descriptionBn": "",
+    "parentId": "actinopterygii-group",
+    "majorGroupId": "osteichthyes",
+    "status": "",
+    "characteristics": [
+      {
+        "en": "Long barbels around the mouth (whisker-like).",
+        "bn": "মুখের চারপাশে লম্বা বার্বেল (বিড়ালের গোঁফের মতো)।"
+      },
+      {
+        "en": "Scaleless body or covered with large plate-like scutes.",
+        "bn": "দেহ আঁশবিহীন বা বড় প্লেট-সদৃশ আঁশ (scutes) থাকে।"
+      },
+      {
+        "en": "Some can breathe atmospheric air (e.g. magur, shing).",
+        "bn": "কয়েক প্রজাতি বায়ুমণ্ডলীয় বায়ু শ্বাস নিতে পারে (যেমন মাগুর, শিং)।"
+      }
+    ],
+    "habitat": "Freshwater rivers, lakes and streams; sea catfishes (Ariidae) and eeltail catfishes (Plotosidae) also in brackish and marine waters.",
+    "habitatBn": "",
+    "ecosystem": "Chiefly benthic and demersal fresh waters widely distributed through the world; marine representatives in tropical to warm-temperate coastal seas.",
+    "ecosystemBn": "",
+    "distribution": "Fresh waters widely distributed throughout the world; marine Ariidae and Plotosidae in tropical to warm-temperate seas worldwide.",
+    "biology": "",
+    "examples": [
+      {
+        "name": "Pangasianodon hypophthalmus",
+        "commonName": "Pangas catfish",
+        "bengaliName": "পাঙ্গাস",
+        "speciesId": null,
+        "verified": false,
+        "source": "legacy-table",
+        "note": "Legacy classification-table example"
+      },
+      {
+        "name": "Clarias batrachus",
+        "commonName": "Walking catfish (Magur)",
+        "bengaliName": "মাগুর",
+        "speciesId": null,
+        "verified": false,
+        "source": "legacy-table",
+        "note": "Legacy classification-table example"
+      },
+      {
+        "name": "Heteropneustes fossilis",
+        "commonName": "Stinging catfish (Shing)",
+        "bengaliName": "শিং",
+        "speciesId": "sp-heteropneustes-fossilis",
+        "verified": true,
+        "source": "legacy-table",
+        "note": ""
+      },
+      {
+        "name": "Sperata aor",
+        "commonName": "Aor catfish (Ayir)",
+        "bengaliName": "আইড়",
+        "speciesId": "sp-sperata-aor",
+        "verified": true,
+        "source": "legacy-table",
+        "note": ""
+      },
+      {
+        "name": "Wallago attu",
+        "commonName": "Long-whiskered catfish",
+        "bengaliName": "বোয়াল",
+        "speciesId": "sp-wallago-attu",
+        "verified": true,
+        "source": "legacy-table",
+        "note": ""
+      },
+      {
+        "name": "Mystus gulio",
+        "commonName": "Gulsha",
+        "bengaliName": "গুলশা",
+        "speciesId": null,
+        "verified": false,
+        "source": "legacy-table",
+        "note": "Legacy classification-table example"
+      },
+      {
+        "name": "Mystus vittatus",
+        "commonName": "Tengra",
+        "bengaliName": "টেংরা",
+        "speciesId": "sp-mystus-vittatus",
+        "verified": true,
+        "source": "legacy-table",
+        "note": ""
+      },
+      {
+        "name": "Heteropneustes",
+        "commonName": "stinging catfish",
+        "bengaliName": "শিং মাছ",
+        "speciesId": null,
+        "verified": false,
+        "source": "legacy-card",
+        "note": "Legacy genus-level example; species record sp-heteropneustes-fossilis exists"
+      },
+      {
+        "name": "Clarias",
+        "commonName": "walking catfish",
+        "bengaliName": "মাগুর",
+        "speciesId": null,
+        "verified": false,
+        "source": "legacy-card",
+        "note": "Legacy genus-level example"
+      },
+      {
+        "name": "Pangasius",
+        "commonName": "pangas catfish",
+        "bengaliName": "পাঙ্গাস",
+        "speciesId": null,
+        "verified": false,
+        "source": "legacy-card",
+        "note": "Legacy genus-level example"
+      }
+    ],
+    "taxonomyNotes": "FishBase header states n=39 families but the order page lists 44 family names (recent splits such as Ritidae, Horabagridae and Auchenoglanididae counted inconsistently); all listed names are entered here. Older classifications recognize 34 families. Locked hierarchy unchanged.",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Legacy Fish order card and classification tables — fish.html",
+        "source": "project-legacy"
+      },
+      {
+        "title": "FishBase: Order Summary for Siluriformes",
+        "source": "fishbase",
+        "url": "https://www.fishbase.se/summary/ordersSummary.php?order=Siluriformes"
+      },
+      {
+        "title": "FishBase: FAMILY Details for Ariidae - Sea catfishes",
+        "source": "fishbase",
+        "url": "https://www.fishbase.se/summary/FamilySummary.php?ID=145"
+      },
+      {
+        "title": "Lutz et al. Marine catfishes (Ariidae) from the Coastal Amazon — Siluriformes has two marine families, Ariidae and Plotosidae. Peer-reviewed (PMC).",
+        "source": "peer-reviewed",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11365480/"
+      },
+      {
+        "title": "Le, N.S. et al., 2023. Paternal mouth-brooding ariid in the Mekong River (PubMed 36912271).",
+        "source": "peer-reviewed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36912271/"
+      }
+    ],
+    "legacyAnchor": "siluriformes",
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-13T00:00:00Z",
+    "version": 1,
+    "feeding": "Mostly bottom-feeding omnivores on benthic invertebrates, small fishes and detritus, locating food primarily with barbels (eyes usually small).",
+    "reproduction": "Mostly oviparous with varied parental care, including male mouthbrooding of relatively large eggs in sea catfishes (Ariidae).",
+    "importantFamilies": [
+      "Ailiidae",
+      "Akysidae",
+      "Amblycipitidae",
+      "Amphiliidae",
+      "Anchariidae",
+      "Ariidae",
+      "Aspredinidae",
+      "Astroblepidae",
+      "Auchenipteridae",
+      "Auchenoglanididae",
+      "Austroglanididae",
+      "Bagridae",
+      "Callichthyidae",
+      "Cetopsidae",
+      "Chacidae",
+      "Clariidae",
+      "Claroteidae",
+      "Cranoglanididae",
+      "Diplomystidae",
+      "Doradidae",
+      "Erethistidae",
+      "Heptapteridae",
+      "Heteropneustidae",
+      "Horabagridae",
+      "Ictaluridae",
+      "Kryptoglanidae",
+      "Lacantuniidae",
+      "Loricariidae",
+      "Malapteruridae",
+      "Mochokidae",
+      "Nematogenyidae",
+      "Olyridae",
+      "Pangasiidae",
+      "Parakysidae",
+      "Phreatobiidae",
+      "Pimelodidae",
+      "Plotosidae",
+      "Pseudopimelodidae",
+      "Ritidae",
+      "Schilbeidae",
+      "Scoloplacidae",
+      "Siluridae",
+      "Sisoridae",
+      "Trichomycteridae"
+    ]
+  },
+  {
+    "id": "perciformes",
+    "rank": "order",
+    "name": "Perciformes",
+    "bengaliName": "কয়েল-জাতীয়",
+    "meaning": "Perch-like",
+    "meaningBn": "",
+    "description": "",
+    "descriptionBn": "",
+    "parentId": "actinopterygii-group",
+    "majorGroupId": "osteichthyes",
+    "status": "",
+    "characteristics": [
+      {
+        "en": "Largest order of vertebrates — over 40% of all fish.",
+        "bn": "মেরুদণ্ডী প্রাণীদের মধ্যে সবচেয়ে বড় অর্ডার (৪০%+ মাছ)।"
+      },
+      {
+        "en": "Dorsal fin with spiny rays; pelvic fins located anteriorly (thoracic).",
+        "bn": "পৃষ্ঠীয় পাখনায় কাঁটাযুক্ত রশ্মি; পেলভিক পাখনা বক্ষের কাছে।"
+      },
+      {
+        "en": "Ctenoid scales; koi, kai (climbing perch) and tuna belong here.",
+        "bn": "ক্টেনয়েড আঁশ; কয়েল, কই ও টুনা এ অর্ডারের।"
+      }
+    ],
+    "habitat": "",
+    "habitatBn": "",
+    "ecosystem": "",
+    "ecosystemBn": "",
+    "distribution": "",
+    "biology": "",
+    "examples": [
+      {
+        "name": "Anabas",
+        "commonName": "climbing perch",
+        "bengaliName": "কই",
+        "speciesId": null,
+        "verified": false,
+        "source": "legacy-card",
+        "note": "Legacy genus-level example; species record sp-anabas-testudineus exists"
+      },
+      {
+        "name": "Channa",
+        "commonName": "snakehead",
+        "bengaliName": "শোল",
+        "speciesId": null,
+        "verified": false,
+        "source": "legacy-card",
+        "note": "Legacy genus-level example; species record sp-channa-striata exists"
+      },
+      {
+        "name": "Thunnus",
+        "commonName": "tuna",
+        "bengaliName": "টুনা",
+        "speciesId": null,
+        "verified": false,
+        "source": "legacy-card",
+        "note": "Legacy genus-level example"
+      },
+      {
+        "name": "Oreochromis",
+        "commonName": "tilapia",
+        "bengaliName": "তেলাপিয়া",
+        "speciesId": null,
+        "verified": false,
+        "source": "legacy-card",
+        "note": "Legacy genus-level example"
+      }
+    ],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "The legacy card groups climbing perches (Anabas), snakeheads (Channa) and tunas (Thunnus) in Perciformes. The site's classification tables place these fishes in Anabantiformes and Scombriformes, following modern taxonomy, while this educational grouping is preserved here.",
+    "modernTaxonomyNoteBn": "পুরোনো কার্ডে কই, শোল ও টুনাকে Perciformes-এ রাখা হয়েছে; সারণিতে এগুলো Anabantiformes ও Scombriformes-এ দেখানো হয়েছে।",
+    "references": [
+      {
+        "title": "Legacy Fish order card — fish.html",
+        "source": "project-legacy"
+      }
+    ],
+    "legacyAnchor": "perciformes",
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-12T00:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "clupeiformes",
+    "rank": "order",
+    "name": "Clupeiformes",
+    "bengaliName": "হেরিং, সার্ডিন",
+    "meaning": "Herrings & sardines",
+    "meaningBn": "",
+    "description": "Schooling, mostly marine pelagic fishes — herrings, sardines, shads and anchovies — among the most commercially important food fishes in the world.",
+    "descriptionBn": "",
+    "parentId": "actinopterygii-group",
+    "majorGroupId": "osteichthyes",
+    "status": "",
+    "characteristics": [
+      {
+        "en": "Body with a keel of scutes along the belly; silvery and compressed.",
+        "bn": "পেটে কাঁটাযুক্ত স্কুট/কিল থাকে; দেহ রুপালি ও চাপা।"
+      },
+      {
+        "en": "Jaws toothless; travel in large shoals or schools.",
+        "bn": "দাঁতবিহীন চোয়াল; বৃহৎ দলে (school) চলাচল করে।"
+      },
+      {
+        "en": "Commercially very important for food and oil.",
+        "bn": "বাণিজ্যিকভাবে অত্যন্ত গুরুত্বপূর্ণ (খাদ্য ও তেলের জন্য)।"
+      }
+    ],
+    "habitat": "Coastal pelagic waters, estuaries and rivers; marine, brackish and fresh waters.",
+    "habitatBn": "",
+    "ecosystem": "Pelagic-neritic schooling fishes of tropical to temperate seas; several anadromous or permanently freshwater members.",
+    "ecosystemBn": "",
+    "distribution": "Worldwide in tropical to temperate seas; major river systems for anadromous shads (e.g., hilsa across the Indo-West Pacific).",
+    "biology": "",
+    "examples": [
+      {
+        "name": "Tenualosa ilisha",
+        "commonName": "Hilsa shad",
+        "bengaliName": "ইলিশ",
+        "speciesId": "sp-tenualosa-ilisha",
+        "verified": true,
+        "source": "legacy-table",
+        "note": ""
+      },
+      {
+        "name": "Stolephorus indicus",
+        "commonName": "Indian anchovy",
+        "bengaliName": "কাচকি",
+        "speciesId": null,
+        "verified": false,
+        "source": "legacy-table",
+        "note": "Legacy classification-table example"
+      },
+      {
+        "name": "Sardinella longiceps",
+        "commonName": "Indian oil sardine",
+        "bengaliName": "ফেসা / সার্ডিন",
+        "speciesId": null,
+        "verified": false,
+        "source": "legacy-table",
+        "note": "Legacy classification-table example"
+      },
+      {
+        "name": "Sardina",
+        "commonName": "sardine",
+        "bengaliName": "সার্ডিন",
+        "speciesId": null,
+        "verified": false,
+        "source": "legacy-card",
+        "note": "Legacy genus-level example"
+      },
+      {
+        "name": "Clupea",
+        "commonName": "herring",
+        "bengaliName": "হেরিং",
+        "speciesId": null,
+        "verified": false,
+        "source": "legacy-card",
+        "note": "Legacy genus-level example"
+      },
+      {
+        "name": "Engraulis",
+        "commonName": "anchovy",
+        "bengaliName": "অ্যাংকোভি",
+        "speciesId": null,
+        "verified": false,
+        "source": "legacy-card",
+        "note": "Legacy genus-level example"
+      }
+    ],
+    "taxonomyNotes": "FishBase header states n=7 families but the order page lists 11 names (recent splits such as Alosidae, Dorosomatidae, Ehiravidae and Spratelloididae from the former broad Clupeidae); hilsa itself sits in Dorosomatidae in the current treatment. Locked hierarchy unchanged.",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Legacy Fish order card and classification tables — fish.html",
+        "source": "project-legacy"
+      },
+      {
+        "title": "FishBase: Order Summary for Clupeiformes",
+        "source": "fishbase",
+        "url": "https://www.fishbase.se/summary/ordersSummary.php?order=Clupeiformes"
+      },
+      {
+        "title": "FishBase:  Tenualosa ilisha (Hamilton, 1822)",
+        "source": "fishbase",
+        "url": "https://www.fishbase.se/summary/Tenualosa-ilisha.html"
+      },
+      {
+        "title": "Whitehead, P.J.P., 1985. FAO Species Catalogue Vol. 7: Clupeoid fishes of the world. FAO Fish. Synop. 125(7/1):1-303.",
+        "source": "fao",
+        "url": "https://www.fao.org/4/a0319e/a0319e00.htm"
+      }
+    ],
+    "legacyAnchor": "clupeiformes",
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-13T00:00:00Z",
+    "version": 1,
+    "feeding": "Mostly plankton filter-feeders using long, sometimes very numerous gill rakers as straining devices.",
+    "reproduction": "Mostly marine broadcast spawners with pelagic eggs; shads such as hilsa ascend rivers to breed during monsoon seasons.",
+    "importantFamilies": [
+      "Alosidae",
+      "Chirocentridae",
+      "Clupeidae",
+      "Denticipitidae",
+      "Dorosomatidae",
+      "Dussumieriidae",
+      "Ehiravidae",
+      "Engraulidae",
+      "Pristigasteridae",
+      "Spratelloididae",
+      "Sundasalangidae"
+    ]
+  },
+  {
+    "id": "anguilliformes",
+    "rank": "order",
+    "name": "Anguilliformes",
+    "bengaliName": "ঈল",
+    "meaning": "Eels",
+    "meaningBn": "",
+    "description": "Elongate eel-like fishes — freshwater eels, morays, congers and allies — lacking pelvic fins, with dorsal and anal fins confluent with the caudal fin in most.",
+    "descriptionBn": "",
+    "parentId": "actinopterygii-group",
+    "majorGroupId": "osteichthyes",
+    "status": "",
+    "characteristics": [
+      {
+        "en": "Elongated, snake-like cylindrical body; pelvic fins absent.",
+        "bn": "দেহ লম্বা, সাপের মতো নলাকার; পেলভিক পাখনা নেই।"
+      },
+      {
+        "en": "Scales tiny and embedded in skin; gill openings small.",
+        "bn": "আঁশ ক্ষুদ্র, ত্বকের ভেতরে প্রোথিত; ফুলকা ছিদ্র ছোট।"
+      },
+      {
+        "en": "Catadromous — migrate from fresh water to sea to spawn.",
+        "bn": "ক্যাটাড্রোমাস — ডিম পাড়তে মিঠাপানি থেকে সাগরে যায় (যেমন কাচি ঈল)।"
+      }
+    ],
+    "habitat": "Fresh waters, estuaries and seas; benthic to benthopelagic from shallow streams and reefs to deep slopes.",
+    "habitatBn": "",
+    "ecosystem": "Tropical to temperate marine, brackish and fresh waters; mostly nocturnal bottom-dwellers.",
+    "ecosystemBn": "",
+    "distribution": "Worldwide in tropical to temperate seas, estuaries and fresh waters.",
+    "biology": "",
+    "examples": [
+      {
+        "name": "Anguilla bengalensis",
+        "commonName": "Freshwater eel",
+        "bengaliName": "কাচি ঈল",
+        "speciesId": null,
+        "verified": false,
+        "source": "legacy-table",
+        "note": "Legacy classification-table example"
+      },
+      {
+        "name": "Conger conger",
+        "commonName": "Conger eel",
+        "bengaliName": "সামুদ্রিক ঈল",
+        "speciesId": null,
+        "verified": false,
+        "source": "legacy-table",
+        "note": "Legacy classification-table example"
+      },
+      {
+        "name": "Anguilla",
+        "commonName": "freshwater eel",
+        "bengaliName": "কাচি ঈল",
+        "speciesId": null,
+        "verified": false,
+        "source": "legacy-card",
+        "note": "Legacy genus-level example"
+      },
+      {
+        "name": "Conger",
+        "commonName": "conger eel",
+        "bengaliName": "কংগার ঈল",
+        "speciesId": null,
+        "verified": false,
+        "source": "legacy-card",
+        "note": "Legacy genus-level example"
+      }
+    ],
+    "taxonomyNotes": "Do not generalize catadromy: only anguillids are famed catadromous migrants (and even they show facultative marine residence); morays, congers, snake eels and most families are marine throughout life. Locked hierarchy unchanged.",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Legacy Fish order card and classification tables — fish.html",
+        "source": "project-legacy"
+      },
+      {
+        "title": "FishBase: Order Summary for Anguilliformes",
+        "source": "fishbase",
+        "url": "https://www.fishbase.se/summary/ordersSummary.php?order=Anguilliformes"
+      },
+      {
+        "title": "FishBase:  Anguilla bengalensis (Gray, 1831)",
+        "source": "fishbase",
+        "url": "https://www.fishbase.se/summary/Anguilla-bengalensis.html"
+      },
+      {
+        "title": "USGS Nonindigenous Aquatic Species: European eel profile — leptocephalus larvae common to all anguillids; facultative catadromy.",
+        "source": "noaa",
+        "url": "https://nas.er.usgs.gov/queries/FactSheet.aspx?speciesID=308"
+      },
+      {
+        "title": "Arai, T., 2020. Ecology and evolution of migration in freshwater eels (Anguilla). Heliyon 6:e05176 (marine origin; partial marine residence).",
+        "source": "peer-reviewed",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2405844020320193"
+      }
+    ],
+    "legacyAnchor": "anguilliformes",
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-13T00:00:00Z",
+    "version": 1,
+    "feeding": "Nocturnal predators of fishes, crustaceans, worms, molluscs, aquatic insects and carrion.",
+    "reproduction": "Freshwater eels famously catadromous: adults migrate to the sea to spawn and leaf-shaped leptocephalus larvae drift ocean currents before returning as glass eels and elvers — but catadromy is facultative and most marine families spawn and live entirely at sea.",
+    "importantFamilies": [
+      "Anguillidae",
+      "Chlopsidae",
+      "Colocongridae",
+      "Congridae",
+      "Derichthyidae",
+      "Heterenchelyidae",
+      "Moringuidae",
+      "Muraenesocidae",
+      "Muraenidae",
+      "Myrocongridae",
+      "Nemichthyidae",
+      "Nettastomatidae",
+      "Ophichthidae",
+      "Protanguillidae",
+      "Serrivomeridae",
+      "Synaphobranchidae"
+    ]
+  },
+  {
+    "id": "synbranchiformes",
+    "rank": "order",
+    "name": "Synbranchiformes",
+    "bengaliName": "",
+    "meaning": "Swamp eels",
+    "meaningBn": "",
+    "description": "Eel-like air-breathing fishes that burrow in mud and survive long dry periods.",
+    "descriptionBn": "বাইন-সদৃশ বায়ুশ্বাসী মাছ; কাদায় গর্ত করে দীর্ঘ শুষ্ক মৌসুম টিকে থাকে।",
+    "parentId": "actinopterygii-group",
+    "majorGroupId": "osteichthyes",
+    "status": "",
+    "characteristics": [
+      {
+        "en": "Eel-like scaleless body; pectoral and pelvic fins absent; remaining fins reduced to a skin fold.",
+        "bn": "বাইন-সদৃশ আঁশবিহীন দেহ; বক্ষ ও শ্রোণি পাখনা নেই; অবশিষ্ট পাখনা চামড়ার ভাঁজে পরিণত।"
+      },
+      {
+        "en": "Obligate air-breather; burrows in moist earth and survives long periods without water.",
+        "bn": "বাধ্যতামূলক বায়ুশ্বাসী; ভেজা মাটিতে গর্ত করে পানিহীন দীর্ঘ সময় বাঁচে।"
+      },
+      {
+        "en": "Nocturnal predators; males build floating bubble nests and guard eggs and young.",
+        "bn": "নিশাচর শিকারি; পুরুষ ভাসমান বুদবুদ-বাসা বানিয়ে ডিম ও ছানা পাহারা দেয়।"
+      }
+    ],
+    "habitat": "Hill streams, lowland wetlands, rice fields, stagnant canals and estuaries.",
+    "habitatBn": "পাহাড়ি ঝর্ণা, নিম্নভূমির জলাভূমি, ধানক্ষেত, বদ্ধ খাল ও মোহনা।",
+    "ecosystem": "Freshwater and brackish waters; tropical Asia.",
+    "ecosystemBn": "মিঠা ও লোনা পানি; ক্রান্তীয় এশিয়া।",
+    "distribution": "Tropical fresh waters (all but three species freshwater); swamp eels of South and Southeast Asia range from Pakistan to Myanmar, including Bangladesh.",
+    "biology": "Eats fishes, worms and crustaceans; protandrous hermaphrodites that change sex from male to female.",
+    "examples": [
+      {
+        "name": "Monopterus albus",
+        "commonName": "Asian swamp eel",
+        "bengaliName": "",
+        "speciesId": null,
+        "verified": false,
+        "source": "fishbase",
+        "note": "Representative example (FishBase); no Species record"
+      },
+      {
+        "name": "Ophichthys cuchia",
+        "commonName": "Cuchia (Gangetic swamp eel)",
+        "bengaliName": "",
+        "speciesId": null,
+        "verified": false,
+        "source": "fishbase",
+        "note": "Current valid name; syn. Monopterus cuchia (Hamilton, 1822). Bangladesh occurrence (FishBase); no Species record"
+      }
+    ],
+    "taxonomyNotes": "",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Required educational classification (Fish Module specification)",
+        "source": "project-spec"
+      },
+      {
+        "title": "FishBase: Monopterus albus (Zuiew, 1793)",
+        "source": "fishbase",
+        "url": "https://www.fishbase.se/summary/Monopterus-albus.html"
+      },
+      {
+        "title": "Talwar & Jhingran, 1991. Inland fishes of India and adjacent countries (via FishBase)",
+        "source": "book"
+      },
+      {
+        "title": "FishBase: Order Summary for Synbranchiformes",
+        "source": "fishbase",
+        "url": "https://www.fishbase.se/summary/ordersSummary.php?order=Synbranchiformes"
+      },
+      {
+        "title": "FishBase:  Ophichthys cuchia (Hamilton, 1822)",
+        "source": "fishbase",
+        "url": "https://www.fishbase.se/summary/Monopterus-cuchia.html"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-13T00:00:00Z",
+    "version": 1,
+    "feeding": "Nocturnal predators of small fishes, tadpoles, aquatic insects, worms and crustaceans.",
+    "reproduction": "Males build nests or burrows and guard the eggs and young; swamp eels include protandrous hermaphrodites that change sex from male to female.",
+    "importantFamilies": [
+      "Chaudhuriidae",
+      "Indostomidae",
+      "Mastacembelidae",
+      "Synbranchidae"
+    ]
+  },
+  {
+    "id": "anabantiformes",
+    "rank": "order",
+    "name": "Anabantiformes",
+    "bengaliName": "",
+    "meaning": "",
+    "meaningBn": "",
+    "description": "Air-breathing freshwater fishes — gouramies, climbing perches and snakeheads — united by accessory suprabranchial air-breathing organs that let them use atmospheric oxygen.",
+    "descriptionBn": "",
+    "parentId": "actinopterygii-group",
+    "majorGroupId": "osteichthyes",
+    "status": "",
+    "characteristics": [
+      {
+        "en": "Anabantoids possess a folded labyrinth organ (vascularized expansion of the first epibranchial) for breathing air.",
+        "bn": ""
+      },
+      {
+        "en": "Snakeheads (Channidae) are grouped with them as air-breathers with suprabranchial air-breathing structures.",
+        "bn": ""
+      },
+      {
+        "en": "Many species build floating bubble nests guarded by males; tolerant of hypoxic and polluted waters.",
+        "bn": ""
+      }
+    ],
+    "habitat": "Freshwater ponds, swamps, rice fields, slow rivers, canals and estuaries; tolerant of turbid, stagnant, low-oxygen waters.",
+    "habitatBn": "",
+    "ecosystem": "Tropical fresh waters of Asia and Africa; floodplain and wetland communities.",
+    "ecosystemBn": "",
+    "distribution": "Fresh waters of tropical Asia and Africa (e.g., climbing perch from India to the Wallace line, including China).",
+    "biology": "",
+    "examples": [
+      {
+        "name": "Anabas testudineus",
+        "commonName": "Climbing perch (Koi)",
+        "bengaliName": "কই",
+        "speciesId": "sp-anabas-testudineus",
+        "verified": true,
+        "source": "legacy-table",
+        "note": ""
+      },
+      {
+        "name": "Channa striata",
+        "commonName": "Striped snakehead (Shol)",
+        "bengaliName": "শোল",
+        "speciesId": "sp-channa-striata",
+        "verified": true,
+        "source": "legacy-table",
+        "note": ""
+      },
+      {
+        "name": "Channa punctata",
+        "commonName": "Spotted snakehead (Gachua)",
+        "bengaliName": "গাছুয়া",
+        "speciesId": "sp-channa-punctata",
+        "verified": true,
+        "source": "legacy-table",
+        "note": ""
+      }
+    ],
+    "taxonomyNotes": "FishBase (ECoF 2026) recognizes 8 families including splits such as Aenigmachannidae, Badidae, Nandidae and Pristolepididae; older 5-family treatments and the Channiformes alternate name reflect earlier or educational usage — both names preserved via alternateNames, no duplicate node created. Locked hierarchy unchanged.",
+    "alternateNames": [
+      "Channiformes"
+    ],
+    "modernTaxonomyNote": "This order is also presented as Channiformes in some educational contexts; both names are preserved here. Fishes now placed here (climbing perches, snakeheads) were historically grouped under Perciformes.",
+    "modernTaxonomyNoteBn": "এই বর্গটিকে কোনো কোনো শিক্ষামূলক প্রসঙ্গে Channiformes নামেও দেখানো হয়; উভয় নাম এখানে রাখা হয়েছে।",
+    "references": [
+      {
+        "title": "Legacy Fish classification tables — fish.html",
+        "source": "project-legacy"
+      },
+      {
+        "title": "FishBase: Order Summary for Anabantiformes",
+        "source": "fishbase",
+        "url": "https://www.fishbase.se/summary/ordersSummary.php?order=Anabantiformes"
+      },
+      {
+        "title": "FishBase:  Anabas testudineus (Bloch, 1792)",
+        "source": "fishbase",
+        "url": "https://www.fishbase.se/summary/Anabas-testudineus.html"
+      },
+      {
+        "title": "Tate, M. et al., 2017. Life in a bubble: the role of the labyrinth organ in anabantoids. J. Fish Biol. 91:723–749.",
+        "source": "peer-reviewed",
+        "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/jfb.13357"
+      },
+      {
+        "title": "Britannica: Anabantidae — labyrinth organ, air-breathing, bubble nests, Asia/Africa freshwater.",
+        "source": "museum",
+        "url": "https://www.britannica.com/animal/Anabantidae"
+      },
+      {
+        "title": "Ruber et al., 2009. Labyrinth fishes (Anabantoidei), Ch. 46 — labyrinth organ definition; snakeheads grouped in Labyrinthici.",
+        "source": "peer-reviewed",
+        "url": "https://timetree.org/public/data/pdf/Ruber2009Chap46.pdf"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-13T00:00:00Z",
+    "version": 1,
+    "feeding": "Small aquatic animals — shrimps, fish fry and invertebrates — plus macrophytic vegetation in some species; diet varies across families.",
+    "reproduction": "Bubble-nest builders with males guarding eggs at the surface of hypoxic waters in many species; other brooding methods occur.",
+    "importantFamilies": [
+      "Aenigmachannidae",
+      "Anabantidae",
+      "Badidae",
+      "Channidae",
+      "Helostomatidae",
+      "Nandidae",
+      "Osphronemidae",
+      "Pristolepididae"
+    ]
+  },
+  {
+    "id": "salmoniformes",
+    "rank": "order",
+    "name": "Salmoniformes",
+    "bengaliName": "স্যামন, ট্রাউট",
+    "meaning": "Salmon & trout",
+    "meaningBn": "",
+    "description": "Cold-water fishes of a single family (Salmonidae) — salmons, trouts, chars, whitefishes and graylings — famed for spawning migrations and high sport and commercial value.",
+    "descriptionBn": "",
+    "parentId": "actinopterygii-group",
+    "majorGroupId": "osteichthyes",
+    "status": "",
+    "characteristics": [
+      {
+        "en": "Anadromous — migrate from sea to freshwater to spawn.",
+        "bn": "মেরুদণ্ডী প্রাণীদের মধ্যে সবচেয়ে বড় অর্ডার — অ্যানাড্রোমাস পরিযায়ী।"
+      },
+      {
+        "en": "A small fatty adipose fin is present behind the dorsal fin.",
+        "bn": "লেজের কাছে একটি ছোট চর্বিযুক্ত পাখনা (adipose fin) থাকে।"
+      },
+      {
+        "en": "Cold-water fish, valued commercially and in sport fishing.",
+        "bn": "ঠান্ডা পানির মাছ; বাণিজ্যিক ও ক্রীড়া মৎস্য হিসেবে মূল্যবান।"
+      }
+    ],
+    "habitat": "Cold clear rivers, lakes and northern seas; gravel riffles and pools for spawning.",
+    "habitatBn": "",
+    "ecosystem": "Temperate to arctic fresh and marine waters; preferred temperatures about 4–12°C.",
+    "ecosystemBn": "",
+    "distribution": "Northern Hemisphere temperate to arctic waters (North Atlantic, North Pacific and associated drainages); widely introduced (New Zealand, Chile, Argentina, Australia).",
+    "biology": "",
+    "examples": [
+      {
+        "name": "Salmo",
+        "commonName": "Atlantic salmon",
+        "bengaliName": "স্যামন",
+        "speciesId": null,
+        "verified": false,
+        "source": "legacy-card",
+        "note": "Legacy genus-level example"
+      },
+      {
+        "name": "Oncorhynchus",
+        "commonName": "Pacific salmon",
+        "bengaliName": "প্রশান্ত স্যামন",
+        "speciesId": null,
+        "verified": false,
+        "source": "legacy-card",
+        "note": "Legacy genus-level example"
+      },
+      {
+        "name": "Salvelinus",
+        "commonName": "trout",
+        "bengaliName": "ট্রাউট",
+        "speciesId": null,
+        "verified": false,
+        "source": "legacy-card",
+        "note": "Legacy genus-level example"
+      },
+      {
+        "name": "Salmo salar",
+        "commonName": "Atlantic salmon",
+        "bengaliName": "",
+        "speciesId": null,
+        "verified": false,
+        "source": "fishbase",
+        "note": "Representative example (FishBase); no Species record"
+      }
+    ],
+    "taxonomyNotes": "Single-family order in the current treatment. Do not generalize anadromy: landlocked stocks (e.g., Atlantic salmon) and resident freshwater salmonids complete life cycles without the sea. Locked hierarchy unchanged.",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Legacy Fish order card — fish.html",
+        "source": "project-legacy"
+      },
+      {
+        "title": "FishBase: Order Summary for Salmoniformes",
+        "source": "fishbase",
+        "url": "https://www.fishbase.se/summary/ordersSummary.php?order=Salmoniformes"
+      },
+      {
+        "title": "FishBase:  Salmo salar Linnaeus, 1758",
+        "source": "fishbase",
+        "url": "https://www.fishbase.se/summary/Salmo-salar.html"
+      }
+    ],
+    "legacyAnchor": "salmoniformes",
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-13T00:00:00Z",
+    "version": 1,
+    "feeding": "Juveniles on aquatic insects, molluscs, crustaceans and small fishes; adults at sea on squids, shrimps and fishes.",
+    "reproduction": "Anadromous spawning migrations to natal gravel redds holding thousands of eggs — but life histories vary: landlocked stocks and resident freshwater species never go to sea, and some adults survive to spawn again.",
+    "importantFamilies": [
+      "Salmonidae"
+    ]
+  },
+  {
+    "id": "beloniformes",
+    "rank": "order",
+    "name": "Beloniformes",
+    "bengaliName": "",
+    "meaning": "Needlefishes",
+    "meaningBn": "",
+    "description": "Slender surface-swimming fishes with greatly elongated beak-like jaws.",
+    "descriptionBn": "অত্যন্ত লম্বা ঠোঁট-সদৃশ চোয়ালবিশিষ্ট সরু উপরিভাগ-সাঁতারু মাছ।",
+    "parentId": "actinopterygii-group",
+    "majorGroupId": "osteichthyes",
+    "status": "",
+    "characteristics": [
+      {
+        "en": "Greatly elongated upper and lower jaws forming a beak.",
+        "bn": "ঠোঁটের মতো অত্যন্ত লম্বা ঊর্ধ্ব ও নিম্ন চোয়াল।"
+      },
+      {
+        "en": "Surface swimmers; leap clear of the water when hunting or hooked.",
+        "bn": "পানির উপরিভাগে সাঁতার কাটে; শিকারের সময় পানি থেকে লাফিয়ে ওঠে।"
+      },
+      {
+        "en": "Oviparous; eggs attach to floating objects by tendrils.",
+        "bn": "ডিম পাড়ে; ডিম সুতোর সাহায্যে ভাসমান বস্তুতে আটকে থাকে।"
+      }
+    ],
+    "habitat": "Near-surface coastal waters; about 2–22 m.",
+    "habitatBn": "উপকূলের পানির উপরিভাগ; প্রায় ২–২২ মিটার।",
+    "ecosystem": "Marine and brackish pelagic waters; temperate seas.",
+    "ecosystemBn": "সামুদ্রিক ও লোনা ভাসমান পানি; নাতিশীতোষ্ণ সাগর।",
+    "distribution": "Surface waters of tropical to temperate seas worldwide (flyingfishes circumtropical across all oceans); coastal and estuarine waters for many needlefishes and halfbeaks.",
+    "biology": "Feeds on small schooling fishes such as clupeids and anchovies; mackerel-like migrations.",
+    "examples": [
+      {
+        "name": "Belone belone",
+        "commonName": "Garfish",
+        "bengaliName": "",
+        "speciesId": null,
+        "verified": false,
+        "source": "fishbase",
+        "note": "Representative example (FishBase); no Species record"
+      },
+      {
+        "name": "Exocoetus volitans",
+        "commonName": "Tropical two-wing flyingfish",
+        "bengaliName": "",
+        "speciesId": null,
+        "verified": false,
+        "source": "fishbase",
+        "note": "Representative example (FishBase); no Species record"
+      }
+    ],
+    "taxonomyNotes": "Zenarchopteridae (internally fertilized halfbeaks, ovoviviparous/viviparous in part) is split from Hemiramphidae in the current treatment; needlefish egg tendrils vs flyingfish planktonic eggs show the order’s reproductive range. Locked hierarchy unchanged.",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Required educational classification (Fish Module specification)",
+        "source": "project-spec"
+      },
+      {
+        "title": "FishBase: Belone belone (Linnaeus, 1761)",
+        "source": "fishbase",
+        "url": "https://www.fishbase.se/summary/Belone-belone.html"
+      },
+      {
+        "title": "Collette & Parin, 1986. Belonidae, Fishes of the north-eastern Atlantic and Mediterranean (via FishBase)",
+        "source": "report"
+      },
+      {
+        "title": "FishBase: Order Summary for Beloniformes",
+        "source": "fishbase",
+        "url": "https://www.fishbase.se/summary/ordersSummary.php?order=Beloniformes"
+      },
+      {
+        "title": "FishBase:  Exocoetus volitans Linnaeus, 1758",
+        "source": "fishbase",
+        "url": "https://www.fishbase.se/summary/Exocoetus-volitans.html"
+      },
+      {
+        "title": "FishBase:  Zenarchopterus clarus Mohr, 1926 (ovoviviparous)",
+        "source": "fishbase",
+        "url": "https://www.fishbase.se/summary/Zenarchopterus-clarus"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-13T00:00:00Z",
+    "version": 1,
+    "feeding": "Small schooling fishes (clupeids, anchovies) and planktonic crustaceans seized at the surface.",
+    "reproduction": "Reproductively diverse: needlefish eggs bear attaching tendrils; flyingfishes release planktonic eggs; internally fertilized halfbeaks (Zenarchopteridae) are ovoviviparous or viviparous.",
+    "importantFamilies": [
+      "Adrianichthyidae",
+      "Belonidae",
+      "Exocoetidae",
+      "Hemiramphidae",
+      "Scomberesocidae",
+      "Zenarchopteridae"
+    ]
+  },
+  {
+    "id": "tetraodontiformes",
+    "rank": "order",
+    "name": "Tetraodontiformes",
+    "bengaliName": "ফুগু / পাফারফিশ",
+    "meaning": "Pufferfish",
+    "meaningBn": "",
+    "description": "Deep-bodied fishes with fused beak-like dentition and tough spiny, plated or naked skin — puffers, porcupinefishes, triggerfishes, filefishes, boxfishes and ocean sunfishes.",
+    "descriptionBn": "",
+    "parentId": "actinopterygii-group",
+    "majorGroupId": "osteichthyes",
+    "status": "",
+    "characteristics": [
+      {
+        "en": "Teeth fused into a beak; body scaleless or covered with spines.",
+        "bn": "দাঁত একত্রিত হয়ে ঠোঁট গঠন করে; দেহ আঁশবিহীন বা কাঁটাযুক্ত।"
+      },
+      {
+        "en": "Inflate the body with water or air when threatened.",
+        "bn": "হুমকিতে দেহ পানি বা বায়ুতে ফুলিয়ে স্ফীত করে।"
+      },
+      {
+        "en": "Many species contain tetrodotoxin, a powerful neurotoxin.",
+        "bn": "অনেক প্রজাতিতে টেট্রোডোটক্সিন (শক্তিশালী বিষ) থাকে।"
+      }
+    ],
+    "habitat": "Mostly shallow tropical coastal waters and reefs; sunfishes pelagic-oceanic to great depths; order spans marine, brackish and fresh waters.",
+    "habitatBn": "",
+    "ecosystem": "Tropical to temperate marine benthic and pelagic communities; reefs, coasts and open ocean.",
+    "ecosystemBn": "",
+    "distribution": "Tropical to temperate seas worldwide; ocean sunfishes circumglobal across all oceans.",
+    "biology": "",
+    "examples": [
+      {
+        "name": "Tetraodon",
+        "commonName": "pufferfish",
+        "bengaliName": "পাফারফিশ",
+        "speciesId": null,
+        "verified": false,
+        "source": "legacy-card",
+        "note": "Legacy genus-level example"
+      },
+      {
+        "name": "Diodon",
+        "commonName": "porcupine fish",
+        "bengaliName": "সূচ-মাছ",
+        "speciesId": null,
+        "verified": false,
+        "source": "legacy-card",
+        "note": "Legacy genus-level example"
+      },
+      {
+        "name": "Balistes",
+        "commonName": "triggerfish",
+        "bengaliName": "ট্রিগারফিশ",
+        "speciesId": null,
+        "verified": false,
+        "source": "legacy-card",
+        "note": "Legacy genus-level example"
+      },
+      {
+        "name": "Mola mola",
+        "commonName": "Ocean sunfish",
+        "bengaliName": "",
+        "speciesId": null,
+        "verified": false,
+        "source": "fishbase",
+        "note": "Representative example (FishBase); no Species record"
+      }
+    ],
+    "taxonomyNotes": "Tetrodotoxin occurs in many but not all members (reported as possible, not confirmed universal, in molas); do not assume uniform toxicity. Locked hierarchy unchanged.",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Legacy Fish order card — fish.html",
+        "source": "project-legacy"
+      },
+      {
+        "title": "FishBase: Order Summary for Tetraodontiformes",
+        "source": "fishbase",
+        "url": "https://www.fishbase.se/summary/ordersSummary.php?order=Tetraodontiformes"
+      },
+      {
+        "title": "FishBase:  Mola mola (Linnaeus, 1758)",
+        "source": "fishbase",
+        "url": "https://www.fishbase.se/summary/Mola-mola.html"
+      }
+    ],
+    "legacyAnchor": "tetraodontiformes",
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-13T00:00:00Z",
+    "version": 1,
+    "feeding": "Hard-shelled invertebrates crushed with beak-like teeth; sunfishes take jellyfishes, zooplankton, crustaceans, molluscs and small fishes.",
+    "reproduction": "Oviparous; extremely fecund in ocean sunfishes (up to about 300 million small eggs, multiple spawnings).",
+    "importantFamilies": [
+      "Aracanidae",
+      "Balistidae",
+      "Diodontidae",
+      "Molidae",
+      "Monacanthidae",
+      "Ostraciidae",
+      "Tetraodontidae",
+      "Triacanthidae",
+      "Triacanthodidae",
+      "Triodontidae"
+    ]
+  },
+  {
+    "id": "pleuronectiformes",
+    "rank": "order",
+    "name": "Pleuronectiformes",
+    "bengaliName": "চ্যাপ্টা মাছ",
+    "meaning": "Flatfish",
+    "meaningBn": "",
+    "description": "Asymmetrical flatfishes — soles, flounders, plaices, halibuts and tongue soles — lying on one side with both eyes on the upper side after larval eye migration.",
+    "descriptionBn": "",
+    "parentId": "actinopterygii-group",
+    "majorGroupId": "osteichthyes",
+    "status": "",
+    "characteristics": [
+      {
+        "en": "Body asymmetric — both eyes on one side; live lying on the sea bed.",
+        "bn": "দেহ অসমমিত — দুটি চোখই এক পাশে, তলদেশে শুয়ে বাস করে।"
+      },
+      {
+        "en": "Blind (lower) side unpigmented; upper side coloured and camouflaging.",
+        "bn": "নিচের পাশ রংহীন; উপরের পাশ রঙিন ও মাঝে মাঝে রং বদলাতে পারে।"
+      },
+      {
+        "en": "Larva is normal with eyes on both sides; one eye migrates during growth.",
+        "bn": "উভচরভাবে বড় হতে বড় হয় — অপ্রাপ্তবয়স্ক অবস্থায় চোখ উভয় পাশে।"
+      }
+    ],
+    "habitat": "Sandy and muddy sea bottoms from intertidal shallows to deeper slopes; a few species in fresh waters.",
+    "habitatBn": "",
+    "ecosystem": "Marine benthic and demersal from tropical to cold waters; about four freshwater species plus around twenty marine species occasionally entering fresh water.",
+    "ecosystemBn": "",
+    "distribution": "Worldwide in marine waters from the tropics to cold seas (e.g., Eastern Atlantic–Mediterranean soles); few freshwater exceptions.",
+    "biology": "",
+    "examples": [
+      {
+        "name": "Solea",
+        "commonName": "sole",
+        "bengaliName": "সোল",
+        "speciesId": null,
+        "verified": false,
+        "source": "legacy-card",
+        "note": "Legacy genus-level example"
+      },
+      {
+        "name": "Paralichthys",
+        "commonName": "flounder",
+        "bengaliName": "ফ্লাউন্ডার",
+        "speciesId": null,
+        "verified": false,
+        "source": "legacy-card",
+        "note": "Legacy genus-level example"
+      },
+      {
+        "name": "Pleuronectes",
+        "commonName": "plaice",
+        "bengaliName": "প্লেইস",
+        "speciesId": null,
+        "verified": false,
+        "source": "legacy-card",
+        "note": "Legacy genus-level example"
+      },
+      {
+        "name": "Solea solea",
+        "commonName": "Common sole",
+        "bengaliName": "",
+        "speciesId": null,
+        "verified": false,
+        "source": "fishbase",
+        "note": "Representative example (FishBase); no Species record"
+      }
+    ],
+    "taxonomyNotes": "FishBase header states n=16 families but the order page lists 19 names (recent splits from Bothidae/Paralichthyidae/Pleuronectidae such as Cyclopsettidae, Poecilopsettidae, Grammatobothidae); all listed names entered. Not strictly marine: ~4 freshwater species plus ~20 marine species entering fresh water. Locked hierarchy unchanged.",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Legacy Fish order card — fish.html",
+        "source": "project-legacy"
+      },
+      {
+        "title": "FishBase: Order Summary for Pleuronectiformes",
+        "source": "fishbase",
+        "url": "https://www.fishbase.se/summary/ordersSummary.php?order=Pleuronectiformes"
+      },
+      {
+        "title": "FishBase:  Solea solea (Linnaeus, 1758)",
+        "source": "fishbase",
+        "url": "https://www.fishbase.se/summary/Solea-solea.html"
+      }
+    ],
+    "legacyAnchor": "pleuronectiformes",
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-13T00:00:00Z",
+    "version": 1,
+    "feeding": "Benthic worms, molluscs and small crustaceans hunted at night from buried concealment.",
+    "reproduction": "Batch spawners in shallow coastal waters; symmetrical pelagic larvae metamorphose with one eye migrating to the upper side before benthic life.",
+    "importantFamilies": [
+      "Achiridae",
+      "Achiropsettidae",
+      "Bothidae",
+      "Citharidae",
+      "Cyclopsettidae",
+      "Cynoglossidae",
+      "Grammatobothidae",
+      "Monolenidae",
+      "Oncopteridae",
+      "Paralichthodidae",
+      "Paralichthyidae",
+      "Pleuronectidae",
+      "Poecilopsettidae",
+      "Psettodidae",
+      "Rhombosoleidae",
+      "Samaridae",
+      "Scophthalmidae",
+      "Soleidae",
+      "Taeniopsettidae"
+    ]
+  },
+  {
+    "id": "syngnathiformes",
+    "rank": "order",
+    "name": "Syngnathiformes",
+    "bengaliName": "",
+    "meaning": "Pipefishes and seahorses",
+    "meaningBn": "",
+    "description": "Fishes with fused tube-like snouts and bony body rings; males brood the young.",
+    "descriptionBn": "জোড়া লাগা নল-সদৃশ মুখ ও অস্থিময় দেহ-বলয়বিশিষ্ট মাছ; পুরুষ ছানা লালন করে।",
+    "parentId": "actinopterygii-group",
+    "majorGroupId": "osteichthyes",
+    "status": "",
+    "characteristics": [
+      {
+        "en": "Tube-like snout used to suck in zooplankton.",
+        "bn": "প্ল্যাংকটন শুষে খাওয়ার জন্য নল-সদৃশ মুখ।"
+      },
+      {
+        "en": "Males carry developing young in a brood pouch under the tail.",
+        "bn": "পুরুষ লেজের নিচে থলিতে বর্ধনশীল ছানা বহন করে।"
+      },
+      {
+        "en": "Lives among seagrasses, algae and reefs; also found attached to drifting seaweed.",
+        "bn": "সামুদ্রিক ঘাস, শৈবাল ও প্রাচীরে বাস করে; ভাসমান সামুদ্রিক আগাছায় আটকে থাকতেও দেখা যায়।"
+      }
+    ],
+    "habitat": "Seagrass beds, algae, estuaries and coastal reefs; usually 0–8 m.",
+    "habitatBn": "সামুদ্রিক ঘাস, শৈবাল, মোহনা ও উপকূলীয় প্রাচীর; সাধারণত ০–৮ মিটার।",
+    "ecosystem": "Marine and brackish coastal waters; tropical Indo-Pacific.",
+    "ecosystemBn": "সামুদ্রিক ও লোনা উপকূলীয় পানি; ক্রান্তীয় ইন্দো-প্রশান্ত অঞ্চল।",
+    "distribution": "Worldwide in tropical to temperate coastal seas (seahorses centered on the Indo-Pacific; pipefishes also Eastern Atlantic–Mediterranean); some in estuaries and fresh waters.",
+    "biology": "Ovoviviparous; males brood 20–1000 young for 20–28 days; valued aquarium and traditional-medicine species.",
+    "examples": [
+      {
+        "name": "Hippocampus kuda",
+        "commonName": "Spotted seahorse",
+        "bengaliName": "",
+        "speciesId": null,
+        "verified": false,
+        "source": "fishbase",
+        "note": "Representative example (FishBase); no Species record"
+      },
+      {
+        "name": "Syngnathus acus",
+        "commonName": "Greater pipefish",
+        "bengaliName": "",
+        "speciesId": null,
+        "verified": false,
+        "source": "fishbase",
+        "note": "Representative example (FishBase); no Species record"
+      }
+    ],
+    "taxonomyNotes": "Family list follows the FishBase 5-family treatment (trumpetfishes, shrimpsfishes, cornetfishes, ghost pipefishes, pipefishes and seahorses); seahorse species taxonomy follows Lourie, Pollom & Foster 2016. Locked hierarchy unchanged.",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Required educational classification (Fish Module specification)",
+        "source": "project-spec"
+      },
+      {
+        "title": "FishBase: Hippocampus kuda (Bleeker, 1852)",
+        "source": "fishbase",
+        "url": "https://www.fishbase.se/summary/Hippocampus-kuda.html"
+      },
+      {
+        "title": "Lourie, Pollom & Foster, 2016. Global revision of seahorses, Zootaxa 4146 (via FishBase)",
+        "source": "peer-reviewed"
+      },
+      {
+        "title": "FishBase: Order Summary for Syngnathiformes",
+        "source": "fishbase",
+        "url": "https://www.fishbase.se/summary/ordersSummary.php?order=Syngnathiformes"
+      },
+      {
+        "title": "FishBase:  Syngnathus acus Linnaeus, 1758",
+        "source": "fishbase",
+        "url": "https://www.fishbase.se/summary/Syngnathus-acus.html"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-13T00:00:00Z",
+    "version": 1,
+    "feeding": "Small crustaceans and zooplankton sucked in through the tubular snout.",
+    "reproduction": "Males brood the young in a pouch or under the tail; seahorses brood 20–1000 young for 20–28 days, pipefishes up to about 400 eggs with roughly 5 weeks gestation — brooding structures differ between lineages.",
+    "importantFamilies": [
+      "Aulostomidae",
+      "Centriscidae",
+      "Fistulariidae",
+      "Solenostomidae",
+      "Syngnathidae"
+    ]
+  },
+  {
+    "id": "osteoglossiformes",
+    "rank": "order",
+    "name": "Osteoglossiformes",
+    "bengaliName": "",
+    "meaning": "Bony tongues",
+    "meaningBn": "",
+    "description": "Large-scaled freshwater fishes with bony tongues; males of some species mouthbrood the young.",
+    "descriptionBn": "বড় আঁশ ও অস্থিময় জিহ্বাবিশিষ্ট মিঠাপানির মাছ; কোনো কোনো প্রজাতির পুরুষ মুখে ছানা লালন করে।",
+    "parentId": "actinopterygii-group",
+    "majorGroupId": "osteichthyes",
+    "status": "",
+    "characteristics": [
+      {
+        "en": "Very large scales; upturned mouth with a pair of lower-jaw barbels.",
+        "bn": "অত্যন্ত বড় আঁশ; ঊর্ধ্বমুখী মুখ ও নিচের চোয়ালে একজোড়া বার্বেল।"
+      },
+      {
+        "en": "Dorsal and anal fins set far back, nearly joining the tail.",
+        "bn": "পৃষ্ঠীয় ও পায়ু পাখনা অনেক পেছনে, প্রায় লেজের সঙ্গে মিশেছে।"
+      },
+      {
+        "en": "Males mouthbrood eggs, larvae and early juveniles for about six weeks.",
+        "bn": "পুরুষ প্রায় ছয় সপ্তাহ ধরে মুখে ডিম, লার্ভা ও ছানা লালন করে।"
+      }
+    ],
+    "habitat": "Freshwater rivers and floodplain lakes of tropical South America.",
+    "habitatBn": "ক্রান্তীয় দক্ষিণ আমেরিকার মিঠাপানির নদী ও প্লাবনভূমির হ্রদ।",
+    "ecosystem": "Tropical freshwater; tolerant of low oxygen.",
+    "ecosystemBn": "ক্রান্তীয় মিঠাপানি; কম অক্সিজেন সহনশীল।",
+    "distribution": "Tropical fresh waters of South America (arawana, arapaima: Amazon basin), Africa, Asia and Australia.",
+    "biology": "Surface-feeding omnivore that leaps for insects; tolerates low-oxygen water.",
+    "examples": [
+      {
+        "name": "Osteoglossum bicirrhosum",
+        "commonName": "Arawana",
+        "bengaliName": "",
+        "speciesId": null,
+        "verified": false,
+        "source": "fishbase",
+        "note": "Representative example (FishBase); no Species record"
+      },
+      {
+        "name": "Arapaima gigas",
+        "commonName": "Arapaima",
+        "bengaliName": "",
+        "speciesId": null,
+        "verified": false,
+        "source": "fishbase",
+        "note": "Representative example (FishBase); no Species record"
+      }
+    ],
+    "taxonomyNotes": "FishBase header states n=5 families but the order page lists 6 names (Arapaimidae split from the former broad Osteoglossidae); all listed names entered. Featherbacks (Notopteridae) belong here in the current treatment. Locked hierarchy unchanged.",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Required educational classification (Fish Module specification)",
+        "source": "project-spec"
+      },
+      {
+        "title": "FishBase: Osteoglossum bicirrhosum (Cuvier, 1829)",
+        "source": "fishbase",
+        "url": "https://www.fishbase.se/summary/Osteoglossum-bicirrhosum.html"
+      },
+      {
+        "title": "Ferraris, 2003. Osteoglossidae, Checklist of the Freshwater Fishes of South and Central America (via FishBase)",
+        "source": "report"
+      },
+      {
+        "title": "FishBase: Order Summary for Osteoglossiformes",
+        "source": "fishbase",
+        "url": "https://www.fishbase.se/summary/ordersSummary.php?order=Osteoglossiformes"
+      },
+      {
+        "title": "FishBase:  Arapaima gigas (Schinz, 1822)",
+        "source": "fishbase",
+        "url": "https://www.fishbase.se/summary/Arapaima-gigas.html"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-13T00:00:00Z",
+    "version": 1,
+    "feeding": "Surface predators and omnivores taking fishes, insects and crustaceans; arawanas leap from the water for prey.",
+    "reproduction": "Mouthbrooding males in arawanas (eggs, larvae and juveniles carried about six weeks); arapaima builds sand nests and guards the eggs and young.",
+    "importantFamilies": [
+      "Arapaimidae",
+      "Gymnarchidae",
+      "Mormyridae",
+      "Notopteridae",
+      "Osteoglossidae",
+      "Pantodontidae"
+    ]
+  },
+  {
+    "id": "cyprinodontiformes",
+    "rank": "order",
+    "name": "Cyprinodontiformes",
+    "bengaliName": "",
+    "meaning": "Rivulines, killifishes and livebearers",
+    "meaningBn": "",
+    "description": "Very small fishes including killifishes and livebearers; males often smaller and more colourful.",
+    "descriptionBn": "অত্যন্ত ছোট মাছ; কিলিফিশ ও জীবন্ত বাচ্চা প্রসবকারী প্রজাতি অন্তর্ভুক্ত; পুরুষ ছোট ও রঙিন।",
+    "parentId": "actinopterygii-group",
+    "majorGroupId": "osteichthyes",
+    "status": "",
+    "characteristics": [
+      {
+        "en": "Very small size; males smaller and more colourful, with a modified anal fin (gonopodium).",
+        "bn": "অত্যন্ত ছোট আকার; পুরুষ ছোট ও রঙিন, পায়ু পাখনা গনোপোডিয়ামে রূপান্তরিত।"
+      },
+      {
+        "en": "Livebearers: females release free-swimming young every few weeks.",
+        "bn": "জীবন্ত বাচ্চা প্রসবকারী: স্ত্রী কয়েক সপ্তাহ পরপর সাঁতারু ছানা প্রসব করে।"
+      },
+      {
+        "en": "Mature within months; no parental care, parents may eat their young.",
+        "bn": "কয়েক মাসে পরিণত হয়; পিতামাতার যত্ন নেই, এমনকি ছানা খেয়ে ফেলতে পারে।"
+      }
+    ],
+    "habitat": "Warm vegetated ponds, ditches, canals and slow streams.",
+    "habitatBn": "উষ্ণ উদ্ভিদবহুল পুকুর, খাল, নালা ও ধীর স্রোত।",
+    "ecosystem": "Freshwater and brackish waters; tropical.",
+    "ecosystemBn": "মিঠা ও লোনা পানি; ক্রান্তীয় অঞ্চল।",
+    "distribution": "Fresh and brackish waters of the Americas, Africa, southern Europe and Asia; a few in coastal marine waters.",
+    "biology": "Feeds on zooplankton, small insects and detritus; matures in 2–3 months; popular aquarium fishes.",
+    "examples": [
+      {
+        "name": "Poecilia reticulata",
+        "commonName": "Guppy",
+        "bengaliName": "",
+        "speciesId": null,
+        "verified": false,
+        "source": "fishbase",
+        "note": "Representative example (FishBase); no Species record"
+      },
+      {
+        "name": "Nothobranchius rachovii",
+        "commonName": "Bluefin notho",
+        "bengaliName": "",
+        "speciesId": null,
+        "verified": false,
+        "source": "fishbase",
+        "note": "Representative example (FishBase); no Species record"
+      }
+    ],
+    "taxonomyNotes": "FishBase header states n=14 families but lists 15 names because Cynolebiinae (a rivulid subfamily lineage) is included in the listing; all listed names entered and the subfamily status documented here. Locked hierarchy unchanged.",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Required educational classification (Fish Module specification)",
+        "source": "project-spec"
+      },
+      {
+        "title": "FishBase: Poecilia reticulata (Peters, 1859)",
+        "source": "fishbase",
+        "url": "https://www.fishbase.se/summary/Poecilia-reticulata.html"
+      },
+      {
+        "title": "Rodriguez, 1997. Phylogenetic analysis of Poeciliini, Copeia 1997(4) (via FishBase)",
+        "source": "peer-reviewed"
+      },
+      {
+        "title": "FishBase: Order Summary for Cyprinodontiformes",
+        "source": "fishbase",
+        "url": "https://www.fishbase.se/summary/ordersSummary.php?order=Cyprinodontiformes"
+      },
+      {
+        "title": "FishBase:  Nothobranchius rachovii Ahl, 1926",
+        "source": "fishbase",
+        "url": "https://www.fishbase.se/summary/Nothobranchius-rachovii.html"
+      },
+      {
+        "title": "Shidlovskiy, Watters & Wildekamp, 2010. Notes on annual killifish Nothobranchius rachovii; description of two new species. Zootaxa 2724:37-57.",
+        "source": "peer-reviewed"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-13T00:00:00Z",
+    "version": 1,
+    "feeding": "Zooplankton, small insects and detritus.",
+    "reproduction": "Reproductively diverse — do not generalize as live-bearing: poeciliid livebearers release free-swimming young every few weeks, while killifishes are oviparous; annual Nothobranchius mature in about 12 weeks and their eggs survive the dry season in temporary-pool mud.",
+    "importantFamilies": [
+      "Anablepidae",
+      "Aphaniidae",
+      "Aplocheilidae",
+      "Cynolebiinae",
+      "Cyprinodontidae",
+      "Fluviphylacidae",
+      "Fundulidae",
+      "Goodeidae",
+      "Nothobranchiidae",
+      "Pantanodontidae",
+      "Poeciliidae",
+      "Procatopodidae",
+      "Profundulidae",
+      "Rivulidae",
+      "Valenciidae"
+    ]
+  },
+  {
+    "id": "coelacanthiformes",
+    "rank": "order",
+    "name": "Coelacanthiformes",
+    "bengaliName": "সিলাকান্থ",
+    "meaning": "Coelacanths",
+    "meaningBn": "",
+    "description": "Lobe-finned fishes surviving today as two Latimeria species; muscular fin lobes, fat-filled swim bladder and spiral-valve intestine continue a lineage whose fossils reach the early Devonian.",
+    "descriptionBn": "",
+    "parentId": "sarcopterygii-group",
+    "majorGroupId": "osteichthyes",
+    "status": "living",
+    "characteristics": [
+      {
+        "en": "\"Living fossil\" — almost unchanged for about 400 million years.",
+        "bn": "\"জীবন্ত জীবাশ্ম\" — প্রায় ৪০ কোটি বছর ধরে প্রায় অপরিবর্তিত।"
+      },
+      {
+        "en": "Fleshy lobed fins that can move almost like stubby legs.",
+        "bn": "মাংসল গুচ্ছ-পাখনা যা ছোট পায়ের মতো নড়তে পারে।"
+      },
+      {
+        "en": "Deep-sea dwellers with thick, heavy scales and a three-lobed tail.",
+        "bn": "গভীর সমুদ্রবাসী; দেহে মোটা, পুরু আঁশ ও অতিরিক্ত লোব (lobe) আছে।"
+      }
+    ],
+    "habitat": "Deep rocky slopes and caves, usually 150–700 m; sheltering in caves by day, foraging over open substrate at night.",
+    "habitatBn": "",
+    "ecosystem": "Marine deep-water demersal; cold, low-energy slopes and caves (about 13–25°C); slow, energy-saving life history.",
+    "ecosystemBn": "",
+    "distribution": "Western Indian Ocean (Comoros, South Africa, Madagascar, Mozambique) and Sulawesi in the western Central Pacific; deep rocky slopes and caves.",
+    "biology": "",
+    "examples": [
+      {
+        "name": "Latimeria chalumnae",
+        "commonName": "West Indian Ocean coelacanth",
+        "bengaliName": "সিলাকান্থ",
+        "speciesId": null,
+        "verified": false,
+        "source": "legacy-table",
+        "note": "Legacy classification-table example"
+      },
+      {
+        "name": "Latimeria",
+        "commonName": "coelacanth",
+        "bengaliName": "সিলাকান্থ",
+        "speciesId": null,
+        "verified": false,
+        "source": "legacy-card",
+        "note": "Legacy genus-level example"
+      },
+      {
+        "name": "Latimeria menadoensis",
+        "commonName": "Sulawesi coelacanth",
+        "bengaliName": "",
+        "speciesId": null,
+        "verified": false,
+        "source": "fishbase",
+        "note": "Representative example (FishBase); no Species record"
+      }
+    ],
+    "taxonomyNotes": "NOT extinct: two extant Latimeria species (W. Indian Ocean and Sulawesi) alongside a rich fossil record from the early Devonian. FishBase places the order in Class Coelacanthi; BiotaElite nests it under Sarcopterygii — ranks differ, hierarchy position preserved. Locked hierarchy unchanged.",
+    "modernTaxonomyNote": "",
+    "modernTaxonomyNoteBn": "",
+    "references": [
+      {
+        "title": "Legacy Fish order card and classification tables — fish.html",
+        "source": "project-legacy"
+      },
+      {
+        "title": "FishBase: Order Summary for Coelacanthiformes",
+        "source": "fishbase",
+        "url": "https://www.fishbase.se/summary/ordersSummary.php?order=Coelacanthiformes"
+      },
+      {
+        "title": "FishBase:  Latimeria chalumnae Smith, 1939",
+        "source": "fishbase",
+        "url": "https://www.fishbase.se/summary/Latimeria-chalumnae.html"
+      },
+      {
+        "title": "FishBase:  Latimeria menadoensis Pouyaud et al., 1999",
+        "source": "fishbase",
+        "url": "https://www.fishbase.se/summary/Latimeria-menadoensis.html"
+      },
+      {
+        "title": "Pouyaud et al., 1999. A new species of coelacanth (genetic and morphological evidence). C. R. Acad. Sci. III 322:261-267.",
+        "source": "peer-reviewed"
+      }
+    ],
+    "legacyAnchor": "coelacanthiformes",
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-13T00:00:00Z",
+    "version": 1,
+    "feeding": "Fishes and squid, drift-hunted singly at night within metres of the bottom.",
+    "reproduction": "Ovoviviparous with internal fertilization; 5–29 pups born about 35–38 cm long after a gestation estimated up to 3 years — the longest known in vertebrates.",
+    "importantFamilies": [
+      "Latimeriidae"
+    ]
+  },
+  {
+    "id": "ceratodontiformes",
+    "rank": "order",
+    "name": "Ceratodontiformes",
+    "bengaliName": "",
+    "meaning": "",
+    "meaningBn": "",
+    "description": "Heavy-bodied Australian lungfish with large scales and flipper-like paired fins; a single unpaired lung serves as an accessory air-breathing organ.",
+    "descriptionBn": "",
+    "parentId": "sarcopterygii-group",
+    "majorGroupId": "osteichthyes",
+    "status": "living",
+    "characteristics": [
+      {
+        "en": "Flipper-like pectoral and pelvic fins; large bony overlapping scales.",
+        "bn": ""
+      },
+      {
+        "en": "Single unpaired lung; larvae without external gills; adults do not aestivate.",
+        "bn": ""
+      },
+      {
+        "en": "Facultative air-breather surfacing 1–2 times per hour in drought; dies if forced to depend on air breathing.",
+        "bn": ""
+      }
+    ],
+    "habitat": "Still or slow-flowing deep pools of Queensland rivers (Burnett and Mary systems); mud, sand or gravel bottoms.",
+    "habitatBn": "",
+    "ecosystem": "Tropical freshwater; nocturnal bottom-dweller tolerant of stagnant low-oxygen water.",
+    "ecosystemBn": "",
+    "distribution": "Southern Queensland, Australia (Burnett and Mary river systems); successfully introduced in southeastern Queensland.",
+    "biology": "",
+    "examples": [
+      {
+        "name": "Neoceratodus forsteri",
+        "commonName": "Australian lungfish",
+        "bengaliName": "অস্ট্রেলীয় ফুসফুস-মাছ",
+        "speciesId": null,
+        "verified": false,
+        "source": "legacy-table",
+        "note": "Legacy classification-table example"
+      }
+    ],
+    "taxonomyNotes": "FishBase/ECoF 2026 lumps all three lungfish families (Lepidosirenidae, Neoceratodontidae, Protopteridae) under Ceratodontiformes; BiotaElite preserves the locked split — only Neoceratodontidae (the Australian lineage) is entered here, the other two under Lepidosireniformes. Do NOT generalize African/South American lungfish aestivation or obligate air-breathing to Neoceratodus: it is a facultative air-breather that cannot aestivate. Locked hierarchy unchanged.",
+    "modernTaxonomyNote": "Lungfishes were historically grouped together as Dipnoi in legacy presentations; the living orders Ceratodontiformes and Lepidosireniformes are listed separately here.",
+    "modernTaxonomyNoteBn": "ফুসফুস-মাছগুলোকে পুরোনো উপস্থাপনায় Dipnoi হিসেবে একত্রে দেখানো হতো; এখানে জীবন্ত বর্গ Ceratodontiformes ও Lepidosireniformes পৃথকভাবে তালিকাভুক্ত।",
+    "references": [
+      {
+        "title": "Legacy Fish classification tables — fish.html",
+        "source": "project-legacy"
+      },
+      {
+        "title": "FishBase: Order Summary for Ceratodontiformes",
+        "source": "fishbase",
+        "url": "https://www.fishbase.se/summary/ordersSummary.php?order=Ceratodontiformes"
+      },
+      {
+        "title": "FishBase:  Neoceratodus forsteri (Krefft, 1870)",
+        "source": "fishbase",
+        "url": "https://www.fishbase.se/summary/Neoceratodus-forsteri.html"
+      },
+      {
+        "title": "Allen, G.R., 1989. Freshwater fishes of Australia. T.F.H. Publications.",
+        "source": "book"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-13T00:00:00Z",
+    "version": 1,
+    "feeding": "Frogs, fishes, shrimps, worms, snails, aquatic plants and fallen fruits; electroreceptors locate hidden molluscs, worms and crustaceans in detritus.",
+    "reproduction": "Spawns August–October; grape-like eggs laid on vegetation and fertilized externally; no nest, no parental care, no aestivation stage.",
+    "importantFamilies": [
+      "Neoceratodontidae"
+    ]
+  },
+  {
+    "id": "lepidosireniformes",
+    "rank": "order",
+    "name": "Lepidosireniformes",
+    "bengaliName": "",
+    "meaning": "",
+    "meaningBn": "",
+    "description": "Eel-like African and South American lungfishes with filamentous rayless paired fins, small scales and paired lungs; obligate air-breathers that aestivate through dry seasons.",
+    "descriptionBn": "",
+    "parentId": "sarcopterygii-group",
+    "majorGroupId": "osteichthyes",
+    "status": "living",
+    "characteristics": [
+      {
+        "en": "Filamentous rayless pectoral and pelvic fins; small scales; paired lungs; larvae with external gills.",
+        "bn": ""
+      },
+      {
+        "en": "Obligate air-breathers; African lungfishes aestivate in slime cocoons inside mud burrows through dry seasons.",
+        "bn": ""
+      },
+      {
+        "en": "Males guard and aerate eggs in swamp nests and burrows.",
+        "bn": ""
+      }
+    ],
+    "habitat": "Marginal swamps, backwaters and floodplains of tropical African rivers; South American floodplain wetlands.",
+    "habitatBn": "",
+    "ecosystem": "Tropical freshwater floodplains with seasonal drying; weedy breeding and feeding grounds.",
+    "ecosystemBn": "",
+    "distribution": "Sub-Saharan Africa (Sahelian basins, Congo, Zambezi and east-coast rivers) and South America; strictly freshwater.",
+    "biology": "",
+    "examples": [
+      {
+        "name": "Protopterus annectens",
+        "commonName": "African lungfish",
+        "bengaliName": "আফ্রিকান ফুসফুস-মাছ",
+        "speciesId": null,
+        "verified": false,
+        "source": "legacy-table",
+        "note": "Legacy classification-table example"
+      },
+      {
+        "name": "Lepidosiren paradoxa",
+        "commonName": "South American lungfish",
+        "bengaliName": "দক্ষিণ আমেরিকান ফুসফুস-মাছ",
+        "speciesId": null,
+        "verified": false,
+        "source": "legacy-table",
+        "note": "Legacy classification-table example"
+      }
+    ],
+    "taxonomyNotes": "FishBase Lepidosireniformes page carries no family list (ECoF 2026 assigns all lungfish families to Ceratodontiformes — FishBase even files Protopterus annectens under Ceratodontiformes); the two families entered here are those of the node’s representative genera (Lepidosiren, Protopterus), following the locked BiotaElite split. African (Protopterus) and South American (Lepidosiren) lineages are not merged: aestivation, cocoon and burrow-nesting details documented here apply to the African representative. Locked hierarchy unchanged.",
+    "modernTaxonomyNote": "Lungfishes were historically grouped together as Dipnoi in legacy presentations; the living orders Ceratodontiformes and Lepidosireniformes are listed separately here.",
+    "modernTaxonomyNoteBn": "ফুসফুস-মাছগুলোকে পুরোনো উপস্থাপনায় Dipnoi হিসেবে একত্রে দেখানো হতো; এখানে জীবন্ত বর্গ Ceratodontiformes ও Lepidosireniformes পৃথকভাবে তালিকাভুক্ত।",
+    "references": [
+      {
+        "title": "Legacy Fish classification tables — fish.html",
+        "source": "project-legacy"
+      },
+      {
+        "title": "FishBase: Order Summary for Lepidosireniformes",
+        "source": "fishbase",
+        "url": "https://www.fishbase.se/summary/ordersSummary.php?order=Lepidosireniformes"
+      },
+      {
+        "title": "FishBase:  Protopterus annectens (Owen, 1839)",
+        "source": "fishbase",
+        "url": "https://www.fishbase.se/summary/Protopterus-annectens.html"
+      }
+    ],
+    "legacyAnchor": null,
+    "needsReview": true,
+    "createdAt": "2026-09-12T00:00:00Z",
+    "updatedAt": "2026-09-13T00:00:00Z",
+    "version": 1,
+    "feeding": "Carnivorous in African lungfishes — molluscs, frogs, fishes and seeds, with some populations taking mainly plant roots; diet varies by lineage and locality.",
+    "reproduction": "Wet-season swamp nests in African lungfishes: males excavate U-shaped burrows, aerate the eggs with body and fin movements and guard the young.",
+    "importantFamilies": [
+      "Lepidosirenidae",
+      "Protopteridae"
+    ]
+  }
+]

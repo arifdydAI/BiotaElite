@@ -1,0 +1,222 @@
+[
+  {
+    "speciesId": "sp-labeo-rohita",
+    "environment": ["freshwater"],
+    "aquaticHabitat": "river",
+    "depthRange": { "min": 0, "max": 10, "unit": "m" },
+    "bodyShape": "fusiform",
+    "finCharacteristics": {
+      "dorsalFins": 1,
+      "analFin": true,
+      "pectoralFins": "present",
+      "pelvicFins": "abdominal",
+      "caudalFin": "forked",
+      "adiposeFin": false
+    },
+    "scaleType": "cycloid",
+    "lateralLine": true,
+    "swimBladder": "physostomous",
+    "feedingType": "herbivore",
+    "reproduction": "oviparous",
+    "spawning": {
+      "season": "Monsoon (June-August)",
+      "temperatureRange": { "min": 22, "max": 31, "unit": "C" },
+      "substrate": "Gravel/sand in flowing water",
+      "fecundity": "200,000-2,000,000 eggs/kg body weight",
+      "parentalCare": "none"
+    },
+    "migration": {
+      "type": "potamodromous",
+      "pattern": "Upstream migration for spawning during monsoon floods",
+      "distance": "Up to 100 km in river systems"
+    },
+    "fisheriesImportance": "high",
+    "commercialImportance": "Major carp species in South Asian aquaculture; staple food fish in Bangladesh, India, Nepal",
+    "aquacultureImportance": "Primary species in polyculture systems; high market demand",
+    "stockStatus": "unknown",
+    "catchTrend": "stable",
+    "needsReview": true,
+    "relationshipStatus": "needs-review",
+    "publicVisibility": "withheld",
+    "createdAt": "2026-09-05T00:00:00Z",
+    "updatedAt": "2026-09-05T00:00:00Z",
+    "version": 1,
+    "notes": "Authoritative Species record sp-labeo-rohita does not yet exist in data/species/index.json. This fish extension references a speciesId that needs to be created."
+  },
+  {
+    "speciesId": "sp-tenualosa-ilisha",
+    "environment": ["anadromous"],
+    "aquaticHabitat": "estuary",
+    "depthRange": { "min": 0, "max": 50, "unit": "m" },
+    "bodyShape": "compressed",
+    "finCharacteristics": {
+      "dorsalFins": 1,
+      "analFin": true,
+      "pectoralFins": "present",
+      "pelvicFins": "abdominal",
+      "caudalFin": "forked",
+      "adiposeFin": false
+    },
+    "scaleType": "cycloid",
+    "lateralLine": true,
+    "swimBladder": "present",
+    "feedingType": "planktivore",
+    "reproduction": "oviparous",
+    "spawning": {
+      "season": "Year-round with peaks in monsoon and post-monsoon",
+      "temperatureRange": { "min": 23, "max": 29, "unit": "C" },
+      "substrate": "Freshwater river reaches with sandy/muddy bottom",
+      "fecundity": "1.5-2.5 million eggs per female",
+      "parentalCare": "none"
+    },
+    "migration": {
+      "type": "anadromous",
+      "pattern": "Adults migrate from sea up river to spawn; juveniles descend to estuary/sea",
+      "distance": "Up to 1,200 km upstream in Ganges-Brahmaputra-Meghna system"
+    },
+    "fisheriesImportance": "high",
+    "commercialImportance": "National fish of Bangladesh; most valuable single-species fishery in Bay of Bengal",
+    "aquacultureImportance": "Experimental culture only; complex life cycle prevents full-cycle aquaculture",
+    "stockStatus": "fully-exploited",
+    "catchTrend": "fluctuating",
+    "needsReview": true,
+    "relationshipStatus": "needs-review",
+    "publicVisibility": "withheld",
+    "createdAt": "2026-09-05T00:00:00Z",
+    "updatedAt": "2026-09-05T00:00:00Z",
+    "version": 1,
+    "notes": "Authoritative Species record sp-tenualosa-ilisha does not yet exist in data/species/index.json. This fish extension references a speciesId that needs to be created."
+  },
+  {
+    "speciesId": "sp-catla-catla",
+    "environment": ["freshwater"],
+    "aquaticHabitat": "river",
+    "depthRange": { "min": 1, "max": 15, "unit": "m" },
+    "bodyShape": "fusiform",
+    "finCharacteristics": {
+      "dorsalFins": 1,
+      "analFin": true,
+      "pectoralFins": "present",
+      "pelvicFins": "abdominal",
+      "caudalFin": "forked",
+      "adiposeFin": false
+    },
+    "scaleType": "cycloid",
+    "lateralLine": true,
+    "swimBladder": "physostomous",
+    "feedingType": "planktivore",
+    "reproduction": "oviparous",
+    "spawning": {
+      "season": "Monsoon (June-August)",
+      "temperatureRange": { "min": 24, "max": 32, "unit": "C" },
+      "substrate": "Marginal vegetation in flooded areas",
+      "fecundity": "150,000-1,000,000 eggs/kg body weight",
+      "parentalCare": "none"
+    },
+    "migration": {
+      "type": "potamodromous",
+      "pattern": "Lateral migration to floodplains during monsoon for spawning",
+      "distance": "Variable, follows flood pulse"
+    },
+    "fisheriesImportance": "high",
+    "commercialImportance": "Second most important carp in South Asian aquaculture; high market value for large specimens",
+    "aquacultureImportance": "Key species in three-species carp polyculture (with rohu and mrigel)",
+    "stockStatus": "unknown",
+    "catchTrend": "stable",
+    "needsReview": true,
+    "relationshipStatus": "needs-review",
+    "publicVisibility": "withheld",
+    "createdAt": "2026-09-05T00:00:00Z",
+    "updatedAt": "2026-09-05T00:00:00Z",
+    "version": 1,
+    "notes": "Authoritative Species record sp-catla-catla does not yet exist in data/species/index.json. This fish extension references a speciesId that needs to be created."
+  },
+  {
+    "speciesId": "sp-cirrhinus-mrigala",
+    "environment": ["freshwater"],
+    "aquaticHabitat": "river",
+    "depthRange": { "min": 1, "max": 10, "unit": "m" },
+    "bodyShape": "fusiform",
+    "finCharacteristics": {
+      "dorsalFins": 1,
+      "analFin": true,
+      "pectoralFins": "present",
+      "pelvicFins": "abdominal",
+      "caudalFin": "forked",
+      "adiposeFin": false
+    },
+    "scaleType": "cycloid",
+    "lateralLine": true,
+    "swimBladder": "physostomous",
+    "feedingType": "detritivore",
+    "reproduction": "oviparous",
+    "spawning": {
+      "season": "Monsoon (June-August)",
+      "temperatureRange": { "min": 24, "max": 31, "unit": "C" },
+      "substrate": "Marginal vegetation in flooded areas",
+      "fecundity": "100,000-800,000 eggs/kg body weight",
+      "parentalCare": "none"
+    },
+    "migration": {
+      "type": "potamodromous",
+      "pattern": "Lateral migration to floodplains during monsoon for spawning",
+      "distance": "Variable, follows flood pulse"
+    },
+    "fisheriesImportance": "high",
+    "commercialImportance": "Third species in traditional Indian major carp polyculture; bottom feeder complements column/surface feeders",
+    "aquacultureImportance": "Essential component of three-species carp polyculture systems",
+    "stockStatus": "unknown",
+    "catchTrend": "stable",
+    "needsReview": true,
+    "relationshipStatus": "needs-review",
+    "publicVisibility": "withheld",
+    "createdAt": "2026-09-05T00:00:00Z",
+    "updatedAt": "2026-09-05T00:00:00Z",
+    "version": 1,
+    "notes": "Authoritative Species record sp-cirrhinus-mrigala does not yet exist in data/species/index.json. This fish extension references a speciesId that needs to be created."
+  },
+  {
+    "speciesId": "sp-rhincodon-typus",
+    "environment": ["marine"],
+    "aquaticHabitat": "pelagic",
+    "depthRange": { "min": 0, "max": 1900, "unit": "m" },
+    "bodyShape": "fusiform",
+    "finCharacteristics": {
+      "dorsalFins": 2,
+      "analFin": true,
+      "pectoralFins": "present",
+      "pelvicFins": "present",
+      "caudalFin": "heterocercal",
+      "adiposeFin": false
+    },
+    "scaleType": "placoid",
+    "lateralLine": true,
+    "swimBladder": "absent",
+    "feedingType": "planktivore",
+    "reproduction": "ovoviviparous",
+    "spawning": {
+      "season": "Poorly known; likely year-round in tropical waters",
+      "temperatureRange": { "min": 21, "max": 30, "unit": "C" },
+      "substrate": "N/A (pelagic live-bearer)",
+      "fecundity": "Up to 300 pups per litter (largest litter of any shark)",
+      "parentalCare": "none"
+    },
+    "migration": {
+      "type": "oceanodromous",
+      "pattern": "Extensive horizontal migrations following plankton blooms; seasonal coastal aggregations",
+      "distance": "Thousands of kilometers across ocean basins"
+    },
+    "fisheriesImportance": "low",
+    "commercialImportance": "Ecotourism value far exceeds fishery value; protected in most range states",
+    "aquacultureImportance": "None",
+    "stockStatus": "unknown",
+    "catchTrend": "decreasing",
+    "needsReview": true,
+    "relationshipStatus": "needs-review",
+    "publicVisibility": "withheld",
+    "createdAt": "2026-09-05T00:00:00Z",
+    "updatedAt": "2026-09-05T00:00:00Z",
+    "version": 1,
+    "notes": "Authoritative Species record sp-rhincodon-typus does not yet exist in data/species/index.json. This fish extension references a speciesId that needs to be created. IUCN: EN."
+  }
+]
