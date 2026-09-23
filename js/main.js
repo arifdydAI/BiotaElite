@@ -235,34 +235,6 @@
       try { localStorage.setItem("biota-theme", next); } catch (e) {}
     });
 
-    /* ---------- Fish, Marine Life, and Bangladesh records ---------- */
-    var WITHHELD_LABEL = "Withheld for Scientific Review / বৈজ্ঞানিক পর্যালোচনার জন্য স্থগিত";
-    var UNVERIFIED_LABEL = "Not yet verified — do not treat as authoritative zoological content. / এখনও যাচাই করা হয়নি — কর্তৃত্বপূর্ণ তথ্য হিসেবে বিবেচনা করবেন না।";
-    var UNAVAILABLE_LABEL = "Unavailable / Not yet verified / অনুপলব্ধ / এখনও যাচাই করা হয়নি";
-    function extValue(value) {
-      if (value === undefined || value === null || value === "") return UNAVAILABLE_LABEL;
-      if (Array.isArray(value)) return value.length ? value.join(", ") : UNAVAILABLE_LABEL;
-      if (typeof value === "object") {
-        var parts = [value.min, value.max, value.unit].filter(function (v) { return v !== undefined && v !== null && v !== ""; });
-        return parts.length ? parts.join("–") : UNAVAILABLE_LABEL;
-      }
-      return String(value);
-    }
-    function extRow(parent, label, value) {
-      var row = document.createElement("p"); row.className = "fish-meta";
-      var strong = document.createElement("strong"); strong.textContent = label + ": "; row.appendChild(strong);
-      row.appendChild(document.createTextNode(extValue(value))); parent.appendChild(row); return row;
-    }
-    function speciesRefRow(parent, record) {
-      var row = document.createElement("p"); row.className = "fish-meta";
-      var strong = document.createElement("strong"); strong.textContent = "Species reference / Species সম্পর্ক: "; row.appendChild(strong);
-      row.appendChild(document.createTextNode(record.speciesId ? record.speciesId + " (relationship unresolved / সম্পর্ক অনিষ্পন্ন)" : UNAVAILABLE_LABEL)); parent.appendChild(row); return row;
-    }
-    function reviewStateRow(parent, record) {
-      var row = document.createElement("p"); row.className = "fish-meta";
-      var strong = document.createElement("strong"); strong.textContent = "Review state / পর্যালোচনার অবস্থা: "; row.appendChild(strong);
-      row.appendChild(document.createTextNode("needsReview=" + record.needsReview + ", relationship=" + extValue(record.relationshipStatus) + ", visibility=" + extValue(record.publicVisibility))); parent.appendChild(row); return row;
-    }
     /* ---------- Fish Classification Hierarchy ---------- */
     var hierarchyRoot = document.querySelector("[data-fish-hierarchy]");
     if (hierarchyRoot) {
@@ -1014,40 +986,6 @@
       }).catch(function () { marineHierarchyStatus.hidden = true; marineHierarchyError.hidden = false; });
     }
 
-    var marineRoot = document.querySelector("[data-marine-explorer]");
-    if (marineRoot) {
-      var marineState = marineRoot.querySelector("[data-marine-state]");
-      var marineGrid = marineRoot.querySelector("[data-marine-grid]");
-      var marineEmpty = marineRoot.querySelector("[data-marine-empty]");
-      var marineError = marineRoot.querySelector("[data-marine-error]");
-      function marineCard(record) {
-        var card = document.createElement("article"); card.className = "fish-card withheld-panel";
-        var badge = document.createElement("span"); badge.className = "badge badge-needs-review"; badge.textContent = WITHHELD_LABEL; card.appendChild(badge);
-        var title = document.createElement("h3"); title.textContent = "Marine Life extension record"; card.appendChild(title);
-        speciesRefRow(card, record);
-        extRow(card, "Marine category / সামুদ্রিক শ্রেণি", record.marineCategory);
-        extRow(card, "Zone / অঞ্চল", record.zone);
-        extRow(card, "Substrate / তলদেশ", record.substrate);
-        extRow(card, "Depth range / গভীরতা", record.depthRange);
-        extRow(card, "Salinity tolerance / লবণাক্ততা সহনশীলতা", record.salinityTolerance);
-        extRow(card, "Commercial importance / বাণিজ্যিক গুরুত্ব", record.commercialImportance);
-        extRow(card, "Aquaculture potential / চাষ সম্ভাবনা", record.aquaculturePotential);
-        if (record.majorThreats && record.majorThreats.length) extRow(card, "Major threats / প্রধান হুমকি", record.majorThreats);
-        if (record.conservationActions && record.conservationActions.length) extRow(card, "Conservation actions / সংরক্ষণ ব্যবস্থা", record.conservationActions);
-        reviewStateRow(card, record);
-        if (record.notes) { var recordNote = document.createElement("p"); recordNote.textContent = "Record note / রেকর্ড নোট: " + record.notes; card.appendChild(recordNote); }
-        var unverified = document.createElement("p"); unverified.textContent = UNVERIFIED_LABEL; card.appendChild(unverified);
-        var note = document.createElement("p"); note.textContent = "The authoritative Species relationship is unresolved, so this record is not presented as verified zoological content. / কর্তৃত্বপূর্ণ Species সম্পর্ক অনিষ্পন্ন, তাই এই রেকর্ডটি যাচাইকৃত তথ্য হিসেবে দেখানো হচ্ছে না।"; card.appendChild(note);
-        return card;
-      }
-      fetch("data/marine-life/index.json").then(function (response) { if (!response.ok) throw new Error(); return response.json(); }).then(function (records) {
-        records = Array.isArray(records) ? records : [];
-        marineState.textContent = records.length + " Marine Life records withheld for scientific review. Shown for review only — not verified zoological content. / " + records.length + "টি সামুদ্রিক রেকর্ড বৈজ্ঞানিক পর্যালোচনার জন্য স্থগিত। শুধুমাত্র পর্যালোচনার জন্য দেখানো হয়েছে — যাচাইকৃত তথ্য নয়।";
-        if (marineGrid) { marineGrid.innerHTML = ""; records.forEach(function (record) { marineGrid.appendChild(marineCard(record)); }); }
-        if (marineEmpty) marineEmpty.hidden = records.length !== 0;
-      }).catch(function () { marineState.textContent = "Marine Life data is unavailable. / সামুদ্রিক জীবনের তথ্য অনুপলব্ধ।"; if (marineError) marineError.hidden = false; });
-    }
-
     /* ---------- Marine Species Library ---------- */
     var marineLibraryRoot = document.querySelector("[data-marine-library]");
     if (marineLibraryRoot) {
@@ -1059,6 +997,7 @@
       var libError = marineLibraryRoot.querySelector("[data-marine-library-error]");
       var libEntries = [];
       var marineNodeById = {};
+      var marineMediaById = {};
       var marineContextId = null;
       var marineContextLabel = "";
       function marineApplyHash() {
@@ -1075,71 +1014,65 @@
       function libBnDigits(n) {
         return String(n).replace(/[0-9]/g, function (d) { return "০১২৩৪৫৬৭৮৯"[Number(d)]; });
       }
-      function libJoin(value) {
-        if (value === undefined || value === null) return "";
-        if (Array.isArray(value)) return value.filter(Boolean).join(", ");
-        return String(value);
-      }
-      function libRow(parent, label, value) {
-        var text = libJoin(value);
-        if (!text) return;
-        var row = document.createElement("p"); row.className = "marine-library-meta";
-        var strong = document.createElement("strong"); strong.textContent = label + ": "; row.appendChild(strong);
-        row.appendChild(document.createTextNode(text));
-        parent.appendChild(row);
-      }
-      function libList(parent, heading, items) {
-        var list = (items || []).filter(Boolean);
-        if (!list.length) return;
-        var head = document.createElement("h4"); head.textContent = heading; parent.appendChild(head);
-        var ul = document.createElement("ul"); ul.className = "details-list";
-        list.forEach(function (item) {
-          var li = document.createElement("li"); li.textContent = item; ul.appendChild(li);
+      function marineApprovedImage(record) {
+        var candidates = [];
+        if (record && Array.isArray(record.images)) candidates = candidates.concat(record.images);
+        candidates = candidates.map(function (image) {
+          return image && image.id && marineMediaById[image.id] ? Object.assign({}, marineMediaById[image.id], image) : image;
         });
-        parent.appendChild(ul);
+        return candidates.find(function (image) {
+          if (!image || !image.localPath || !image.sourceUrl || !image.credit) return false;
+          return image.license && String(image.license).toLowerCase() !== "unknown";
+        }) || null;
       }
       function libCard(entry) {
         var record = entry.record;
-        var card = document.createElement("article"); card.className = "marine-library-card";
-        var title = document.createElement("h3"); title.textContent = record.commonName || record.scientificName || record.id; card.appendChild(title);
-        if (record.bengaliName) { var bn = document.createElement("p"); bn.className = "marine-library-bn"; bn.textContent = record.bengaliName; card.appendChild(bn); }
-        if (record.scientificName) { var sci = document.createElement("p"); sci.className = "scientific-name"; sci.textContent = record.scientificName; card.appendChild(sci); }
-        var badges = document.createElement("div"); badges.className = "marine-library-badges";
-        var type = document.createElement("span"); type.className = "badge badge-published"; type.textContent = "Marine species / সামুদ্রিক প্রজাতি"; badges.appendChild(type);
-        if (entry.groupLabel) { var grp = document.createElement("span"); grp.className = "badge badge-published"; grp.textContent = entry.groupLabel; badges.appendChild(grp); }
+        var detailUrl = "species.html?id=" + encodeURIComponent(record.id);
+        var card = document.createElement("article"); card.className = "card species-card";
+        var image = marineApprovedImage(record);
+        if (image) {
+          var imageElement = document.createElement("img");
+          imageElement.className = "card-media media-main";
+          imageElement.src = image.localPath || image.url;
+          imageElement.alt = image.alt || record.commonName || "Species image";
+          imageElement.loading = "lazy";
+          imageElement.decoding = "async";
+          card.appendChild(imageElement);
+        } else {
+          var placeholder = document.createElement("div");
+          placeholder.className = "card-media species-placeholder";
+          placeholder.setAttribute("role", "img");
+          placeholder.setAttribute("aria-label", "Image unavailable / ছবি অনুপলব্ধ");
+          var mark = document.createElement("span");
+          mark.className = "species-placeholder-mark";
+          mark.setAttribute("aria-hidden", "true");
+          mark.innerHTML = "<svg viewBox=\"0 0 24 24\" width=\"40\" height=\"40\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" aria-hidden=\"true\"><rect x=\"3\" y=\"5\" width=\"18\" height=\"14\" rx=\"2\"/><circle cx=\"9\" cy=\"10\" r=\"1.8\"/><path d=\"M3 17l5-4 4 3 4-4 5 5\"/></svg>";
+          placeholder.appendChild(mark);
+          var none = document.createElement("span");
+          none.className = "species-placeholder-text";
+          none.textContent = "Image unavailable / ছবি অনুপলব্ধ";
+          placeholder.appendChild(none);
+          card.appendChild(placeholder);
+        }
+        var body = document.createElement("div"); body.className = "card-body";
+        var badges = document.createElement("div"); badges.className = "card-meta";
+        var type = document.createElement("span"); type.className = "tag"; type.textContent = "Marine species / সামুদ্রিক প্রজাতি"; badges.appendChild(type);
+        if (entry.groupLabel) { var grp = document.createElement("span"); grp.className = "tag"; grp.textContent = entry.groupLabel; badges.appendChild(grp); }
         var status = record.conservation && record.conservation.conservationStatus;
         if (status) { var cons = document.createElement("span"); cons.className = "badge badge-archived"; cons.textContent = "Global: " + status; badges.appendChild(cons); }
         if (record.needsReview) { var rev = document.createElement("span"); rev.className = "badge badge-needs-review"; rev.textContent = "Needs scientific review / বৈজ্ঞানিক পর্যালোচনা প্রয়োজন"; badges.appendChild(rev); }
-        card.appendChild(badges);
-        if (entry.taxonomyLabel) { var tax = document.createElement("p"); tax.className = "marine-library-taxonomy"; tax.textContent = "Taxonomy / শ্রেণিবিন্যাস: " + entry.taxonomyLabel; card.appendChild(tax); }
-        var ident = record.identification || {};
-        var bio = record.biology || {};
-        var eco = record.ecology || {};
-        var con = record.conservation || {};
-        libList(card, "Identifying characteristics / শনাক্তকারী বৈশিষ্ট্য", ident.keyFeatures);
-        libRow(card, "Habitat / বাসস্থান", eco.habitat);
-        libRow(card, "Food / খাদ্য", eco.diet);
-        libRow(card, "Reproduction / প্রজনন", bio.reproduction);
-        libRow(card, "Distribution / বিস্তৃতি", eco.geographicDistribution && eco.geographicDistribution.regions);
-        libRow(card, "Ecosystem / বাস্তুতন্ত্র", eco.ecologicalRole);
-        libRow(card, "Threats / হুমকি", con.majorThreats);
-        var ext = entry.ext || {};
-        libRow(card, "Marine category / সামুদ্রিক শ্রেণি", ext.marineCategory);
-        libRow(card, "Zone / অঞ্চল", ext.zone);
-        libRow(card, "Substrate / তলদেশ", ext.substrate);
-        if (ext.depthRange && (ext.depthRange.min !== undefined || ext.depthRange.max !== undefined)) {
-          var parts = [ext.depthRange.min, ext.depthRange.max, ext.depthRange.unit].filter(function (v) { return v !== undefined && v !== null && v !== ""; });
-          if (parts.length) libRow(card, "Depth range / গভীরতা", parts.join("–"));
-        }
-        var refs = (record.references || []).map(function (ref) { return ref && (ref.title + (ref.source ? " (" + ref.source + ")" : "")); }).filter(Boolean);
-        libList(card, "References / তথ্যসূত্র", refs);
-        if (record.verification && record.verification.status) {
-          var ver = document.createElement("p"); ver.className = "marine-library-meta";
-          var vs = document.createElement("strong"); vs.textContent = "Review status / পর্যালোচনার অবস্থা: "; ver.appendChild(vs);
-          ver.appendChild(document.createTextNode(record.verification.status === "verified" ? "Verified / যাচাইকৃত" : "Unverified — not yet scientifically verified / অযাচাইকৃত"));
-          card.appendChild(ver);
-        }
-        var link = document.createElement("a"); link.className = "btn btn-outline"; link.href = "species.html?id=" + encodeURIComponent(record.id); link.textContent = "View Species / Species দেখুন"; card.appendChild(link);
+        body.appendChild(badges);
+        var title = document.createElement("h3");
+        var titleLink = document.createElement("a"); titleLink.href = detailUrl; titleLink.textContent = record.commonName || record.scientificName || record.id;
+        title.appendChild(titleLink); body.appendChild(title);
+        if (record.bengaliName) { var bn = document.createElement("p"); bn.className = "species-bengali"; bn.textContent = record.bengaliName; body.appendChild(bn); }
+        if (record.scientificName) { var sci = document.createElement("p"); sci.className = "scientific-name"; sci.textContent = record.scientificName; body.appendChild(sci); }
+        var actions = document.createElement("div"); actions.className = "species-actions";
+        var link = document.createElement("a"); link.className = "btn btn-outline"; link.href = detailUrl;
+        link.setAttribute("aria-label", "View Details: " + (record.commonName || record.scientificName || record.id));
+        link.textContent = "View Details / বিস্তারিত দেখুন →";
+        actions.appendChild(link); body.appendChild(actions);
+        card.appendChild(body);
         return card;
       }
       function renderMarineLibrary() {
@@ -1190,12 +1123,14 @@
         fetch("data/species/index.json").then(function (r) { if (!r.ok) throw new Error(); return r.json(); }),
         fetch("data/marine-life/index.json").then(function (r) { if (!r.ok) throw new Error(); return r.json(); }),
         fetch("data/marine-life/classification.json").then(function (r) { if (!r.ok) throw new Error(); return r.json(); }),
-        fetch("data/taxonomy/taxa.json").then(function (r) { if (!r.ok) throw new Error(); return r.json(); })
+        fetch("data/taxonomy/taxa.json").then(function (r) { if (!r.ok) throw new Error(); return r.json(); }),
+        fetch("data/images.json").then(function (r) { if (!r.ok) throw new Error(); return r.json(); }).catch(function () { return []; })
       ]).then(function (data) {
         var speciesList = Array.isArray(data[0]) ? data[0] : [];
         var extList = Array.isArray(data[1]) ? data[1] : [];
         var nodes = Array.isArray(data[2]) ? data[2] : [];
         var taxaList = Array.isArray(data[3]) ? data[3] : [];
+        (Array.isArray(data[4]) ? data[4] : []).forEach(function (image) { if (image && image.id) marineMediaById[image.id] = image; });
         var speciesById = {};
         speciesList.forEach(function (record) { if (record && record.id) speciesById[record.id] = record; });
         var extBySpecies = {};
@@ -3567,19 +3502,48 @@
       return node;
     }
 
-    function detailSection(title, bn, content, className) {
+    var detailSectionCount = 0;
+    function detailSection(title, bn, content, className, open) {
       if (!content) return null;
+      detailSectionCount += 1;
       var section = document.createElement("section");
-      section.className = "details-section" + (className ? " " + className : "");
+      section.className = "details-section details-accordion" + (className ? " " + className : "");
       var heading = document.createElement("h2");
-      heading.appendChild(document.createTextNode(title));
+      heading.className = "details-accordion-heading";
+      var toggle = document.createElement("button");
+      toggle.type = "button";
+      toggle.className = "details-accordion-toggle";
+      var toggleId = "details-toggle-" + detailSectionCount;
+      var bodyId = "details-body-" + detailSectionCount;
+      toggle.id = toggleId;
+      toggle.setAttribute("aria-expanded", open ? "true" : "false");
+      toggle.setAttribute("aria-controls", bodyId);
+      toggle.appendChild(document.createTextNode(title));
       var subtitle = document.createElement("span");
       subtitle.className = "bilingual-heading-bn";
       subtitle.textContent = bn;
-      heading.appendChild(subtitle);
+      toggle.appendChild(subtitle);
+      var chevron = document.createElement("span");
+      chevron.className = "details-accordion-chevron";
+      chevron.setAttribute("aria-hidden", "true");
+      chevron.textContent = "▾";
+      toggle.appendChild(chevron);
+      heading.appendChild(toggle);
       section.appendChild(heading);
-      section.appendChild(content);
+      var body = document.createElement("div");
+      body.className = "details-accordion-body";
+      body.id = bodyId;
+      body.setAttribute("role", "region");
+      body.setAttribute("aria-labelledby", toggleId);
+      if (!open) body.hidden = true;
+      body.appendChild(content);
+      section.appendChild(body);
       detailsContent.appendChild(section);
+      toggle.addEventListener("click", function () {
+        var isOpen = toggle.getAttribute("aria-expanded") === "true";
+        toggle.setAttribute("aria-expanded", isOpen ? "false" : "true");
+        body.hidden = isOpen;
+      });
       return section;
     }
 
@@ -3809,7 +3773,7 @@
         if (keyFeatures) { detailAppend(identificationContent, "h3", "Key features / প্রধান বৈশিষ্ট্য"); identificationContent.appendChild(keyFeatures); }
         var similarList = similarSpeciesList(identification.similarSpecies, speciesIndex);
         if (similarList) { detailAppend(identificationContent, "h3", "Similar species / অনুরূপ প্রজাতি"); identificationContent.appendChild(similarList); }
-        if (identificationContent.children.length) detailSection("Identification", "শনাক্তকরণ", identificationContent);
+        if (identificationContent.children.length) detailSection("Identification", "শনাক্তকরণ", identificationContent, "", true);
       }
       var biology = record.biology || {};
       detailSection("Physical Description", "দৈহিক বর্ণনা", detailGrid([
@@ -4011,6 +3975,8 @@
     }
 
     var TAXONOMY_SPECIES_BATCH = 12;
+    var TAXONOMY_FEATURED_IDS = ["sp-panthera-tigris-tigris", "sp-elephas-maximus", "sp-penaeus-monodon", "sp-octopus-vulgaris", "sp-aurelia-aurita", "sp-asterias-rubens", "sp-arenicola-marina", "sp-halichondria-panicea", "sp-pleurobrachia-pileus"];
+    var taxonomySpeciesById = {};
     function taxonomyDescendantIds(id) {
       var out = [id];
       var queue = [id];
@@ -4108,11 +4074,11 @@
       card.appendChild(body);
       return card;
     }
-    function taxonomySpeciesSection(list) {
+    function taxonomySpeciesSection(list, headingText) {
       var sec = document.createElement("section");
       sec.className = "taxonomy-species-sec";
       var head = document.createElement("h3");
-      head.textContent = "Species / Examples / প্রজাতি ও উদাহরণ (" + list.length + ")";
+      head.textContent = headingText || ("Species / Examples / প্রজাতি ও উদাহরণ (" + list.length + ")");
       sec.appendChild(head);
       if (!list.length) {
         taxonomyAppend(sec, "p", "No species records are currently available for this classification. / এই শ্রেণিবিন্যাসের জন্য বর্তমানে কোনো প্রজাতির রেকর্ড নেই।", "text-muted");
@@ -4133,7 +4099,7 @@
       }
       moreBtn.addEventListener("click", drawMore);
       drawMore();
-      sec.appendChild(moreBtn);
+      if (list.length > TAXONOMY_SPECIES_BATCH) sec.appendChild(moreBtn);
       return sec;
     }
     function taxonomyContextHeader(taxon) {
@@ -4178,7 +4144,11 @@
         return text.indexOf(search) !== -1;
       });
       shown.sort(function (a, b) { return a.name.localeCompare(b.name); });
-      var speciesList = (contextNode ? taxonomySpeciesIn(scopeIds) : taxonomySpecies.slice().sort(function (a, b) { return String(a.commonName || "").localeCompare(String(b.commonName || "")); })).filter(function (s) {
+      var baseList;
+      if (contextNode) baseList = taxonomySpeciesIn(scopeIds);
+      else if (search) baseList = taxonomySpecies.slice().sort(function (a, b) { return String(a.commonName || "").localeCompare(String(b.commonName || "")); });
+      else baseList = TAXONOMY_FEATURED_IDS.map(function (id) { return taxonomySpeciesById[id]; }).filter(Boolean);
+      var speciesList = baseList.filter(function (s) {
         if (!search) return true;
         var text = [(s.commonName || ""), (s.bengaliName || ""), (s.scientificName || "")].join(" ").toLocaleLowerCase();
         return text.indexOf(search) !== -1;
@@ -4195,8 +4165,16 @@
         grid.parentNode.insertBefore(ctx, grid);
       }
       shown.forEach(function (taxon) { grid.appendChild(taxonomyNavCard(taxon)); });
-      var sec = taxonomySpeciesSection(speciesList);
+      var isFeatured = !contextNode && !search;
+      var sec = taxonomySpeciesSection(speciesList, isFeatured ? ("Featured Species / নির্বাচিত প্রজাতি (" + speciesList.length + ")") : null);
       sec.id = "taxonomy-species-block";
+      if (isFeatured) {
+        var viewAll = document.createElement("a");
+        viewAll.className = "btn btn-primary";
+        viewAll.href = "assets.html";
+        viewAll.textContent = "View All Species / সব প্রজাতি দেখুন →";
+        sec.appendChild(viewAll);
+      }
       grid.parentNode.insertBefore(sec, grid.nextSibling);
       var total = shown.length + speciesList.length;
       taxonomyExplorer.querySelector("[data-taxonomy-empty]").hidden = total !== 0;
@@ -4251,8 +4229,46 @@
       if (taxon.description) { var section = document.createElement("section"); section.className = "details-section"; taxonomyHeading(section, "h2", "Description", "বর্ণনা"); taxonomyAppend(section, "p", taxon.description, "details-copy"); content.appendChild(section); }
       var children = childTaxa(taxon.id);
       if (children.length) { var childSection = document.createElement("section"); childSection.className = "details-section"; taxonomyHeading(childSection, "h2", "Child taxa", "অধস্তন ট্যাক্সা"); var childGrid = document.createElement("div"); childGrid.className = "taxon-children-grid"; children.forEach(function (child) { var card = document.createElement("div"); card.className = "details-item"; appendTaxonLink(card, child, "taxon.html"); var contextLink = document.createElement("a"); contextLink.href = "phyla.html?taxon=" + encodeURIComponent(child.id); contextLink.textContent = "View in hierarchy / স্তরে দেখুন"; card.appendChild(contextLink); childGrid.appendChild(card); }); childSection.appendChild(childGrid); content.appendChild(childSection); }
+      function taxonFeatureList(title, bn, items) {
+        var vals = (items || []).filter(Boolean);
+        if (!vals.length) return;
+        var section = document.createElement("section"); section.className = "details-section";
+        taxonomyHeading(section, "h2", title, bn);
+        var list = document.createElement("ul"); list.className = "details-list";
+        vals.forEach(function (value) { var item = document.createElement("li"); item.textContent = value; list.appendChild(item); });
+        section.appendChild(list); content.appendChild(section);
+      }
+      taxonFeatureList("Key characteristics", "প্রধান বৈশিষ্ট্য", taxon.keyCharacteristics);
+      taxonFeatureList("Diagnostic features", "শনাক্তকারী বৈশিষ্ট্য", taxon.diagnosticFeatures);
+      var speciesById = {};
+      taxonomySpecies.forEach(function (item) { if (item && item.id) speciesById[item.id] = item; });
+      var representatives = (taxon.representativeSpeciesIds || []).map(function (sid) { return speciesById[sid]; }).filter(Boolean);
+      if (representatives.length) {
+        var repSection = document.createElement("section"); repSection.className = "details-section";
+        taxonomyHeading(repSection, "h2", "Representative examples", "প্রতিনিধি উদাহরণ");
+        repSection.appendChild(taxonomySpeciesSection(representatives, "Representative examples / প্রতিনিধি উদাহরণ (" + representatives.length + ")"));
+        content.appendChild(repSection);
+      }
       var related = speciesForTaxon(taxon.id);
-      var speciesSection = document.createElement("section"); speciesSection.className = "details-section"; taxonomyHeading(speciesSection, "h2", "Related authoritative Species", "সম্পর্কিত কর্তৃত্বপূর্ণ প্রজাতি"); var list = document.createElement("ul"); list.className = "taxonomy-species"; related.forEach(function (species) { var item = document.createElement("li"); var link = document.createElement("a"); link.href = "species.html?id=" + encodeURIComponent(species.id); link.textContent = species.commonName + " — " + species.scientificName; link.className = "scientific-name"; item.appendChild(link); list.appendChild(item); }); if (!related.length) taxonomyAppend(speciesSection, "p", "No authoritative Species references this taxon. / কোনো কর্তৃত্বপূর্ণ Species এই ট্যাক্সনটি উল্লেখ করে না।", "details-copy"); else speciesSection.appendChild(list); content.appendChild(speciesSection);
+      var speciesSection = document.createElement("section"); speciesSection.className = "details-section"; taxonomyHeading(speciesSection, "h2", "Related authoritative Species", "সম্পর্কিত কর্তৃত্বপূর্ণ প্রজাতি");
+      if (!related.length) taxonomyAppend(speciesSection, "p", "No authoritative Species references this taxon. / কোনো কর্তৃত্বপূর্ণ Species এই ট্যাক্সনটি উল্লেখ করে না।", "details-copy");
+      else speciesSection.appendChild(taxonomySpeciesSection(related, "Related Species / সম্পর্কিত প্রজাতি (" + related.length + ")"));
+      content.appendChild(speciesSection);
+      var taxonRefs = taxon.references || [];
+      if (taxonRefs.length) {
+        var refSection = document.createElement("section"); refSection.className = "details-section";
+        taxonomyHeading(refSection, "h2", "References", "তথ্যসূত্র");
+        taxonRefs.forEach(function (reference) {
+          var item = document.createElement("div"); item.className = "details-reference";
+          taxonomyAppend(item, "strong", (reference && reference.title) || "Reference title unavailable");
+          var metadata = reference && [reference.authors && reference.authors.join(", "), reference.year, reference.journal, reference.type].filter(Boolean).join(" · ");
+          if (metadata) taxonomyAppend(item, "div", metadata);
+          var href = reference && (reference.doi ? "https://doi.org/" + encodeURIComponent(reference.doi) : reference.url);
+          if (href) { var link = document.createElement("a"); link.href = href; link.textContent = reference.doi || reference.url; link.rel = "noopener noreferrer"; item.appendChild(link); }
+          refSection.appendChild(item);
+        });
+        content.appendChild(refSection);
+      }
       document.title = taxon.name + " — Taxon — BiotaElite";
     }
 
@@ -4263,6 +4279,7 @@
     ]).then(function (data) {
       taxonomyRecords = Array.isArray(data[0]) ? data[0] : [];
       taxonomySpecies = Array.isArray(data[1]) ? data[1] : [];
+      taxonomySpecies.forEach(function (item) { if (item && item.id) taxonomySpeciesById[item.id] = item; });
       taxonomyRecords.forEach(function (taxon) { taxonomyMap[taxon.id] = taxon; });
       (Array.isArray(data[2]) ? data[2] : []).forEach(function (image) { if (image && image.id) taxonomyMediaById[image.id] = image; });
       if (taxonomyExplorer) {

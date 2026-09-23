@@ -134,6 +134,40 @@ function checkUniqueIds(data, idField, collectionName) {
   return duplicates;
 }
 
+function checkSpeciesSlugs(species) {
+  // Every Global Species record must carry a valid, non-empty, globally
+  // unique slug (lowercase alphanumerics joined by single hyphens).
+  const errors = [];
+  const seen = new Map();
+  const format = /^[a-z0-9]+(?:-[a-z0-9]+)*$/;
+
+  for (const item of species) {
+    const slug = item.slug;
+    if (slug === undefined || slug === null || slug === '') {
+      errors.push({ slug: '(missing)', speciesIds: [item.id || `index-unknown`], scientificNames: [item.scientificName || '(unknown)'], message: `Missing or empty slug` });
+      continue;
+    }
+    if (!format.test(slug)) {
+      errors.push({ slug, speciesIds: [item.id || `index-unknown`], scientificNames: [item.scientificName || '(unknown)'], message: `Invalid slug format (expected lowercase alphanumerics joined by hyphens)` });
+    }
+    if (!seen.has(slug)) seen.set(slug, []);
+    seen.get(slug).push(item);
+  }
+
+  for (const [slug, items] of seen) {
+    if (items.length > 1) {
+      errors.push({
+        slug,
+        speciesIds: items.map(i => i.id || `index-unknown`),
+        scientificNames: items.map(i => i.scientificName || '(unknown)'),
+        message: `Duplicate slug shared by ${items.length} species records`
+      });
+    }
+  }
+
+  return errors;
+}
+
 function checkRequiredFields(data, requiredFields, collectionName) {
   const errors = [];
 
@@ -570,6 +604,20 @@ function main() {
       } else {
         console.log(`  ✓ ${check.name}: All IDs unique`);
       }
+    }
+  }
+
+  if (species && !species.error) {
+    const slugErrors = checkSpeciesSlugs(species);
+    if (slugErrors.length > 0) {
+      console.log(`  ✗ species: ${slugErrors.length} slug problem(s)`);
+      for (const e of slugErrors) {
+        console.log(`    - slug "${e.slug}": ${e.message}`);
+        console.log(`      species IDs: ${e.speciesIds.join(', ')}`);
+        console.log(`      scientific names: ${e.scientificNames.join('; ')}`);
+      }
+    } else {
+      console.log(`  ✓ species: All ${species.length} slugs valid and globally unique`);
     }
   }
   console.log('');
