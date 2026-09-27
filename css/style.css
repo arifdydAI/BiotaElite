@@ -272,9 +272,8 @@ img.brand-lockup {
    glow. No box or background is added; light theme is untouched. */
 [data-theme="dark"] img.brand-lockup { filter: drop-shadow(0 0 1px rgba(255, 255, 255, 0.6)); }
 /* ---------- Brand lockup: text-free emblem + HTML brand text ---------- */
-.brand-text { display: flex; flex-direction: column; justify-content: center; min-width: 0; flex: 1 1 auto; line-height: 1.25; }
+.brand-text { display: flex; align-items: center; min-width: 0; flex: 0 1 auto; line-height: 1.25; }
 .brand-name { font-weight: 800; font-size: clamp(1rem, 2.6vw, 1.3rem); letter-spacing: 0.01em; color: var(--ink); white-space: nowrap; }
-.brand-sub { font-size: clamp(0.62rem, 1.8vw, 0.8rem); line-height: 1.35; color: var(--muted); overflow-wrap: anywhere; }
 .nav-actions { flex: 0 0 auto; }
 @media (max-width: 1120px) {
   .brand { flex: 1 1 auto; }
@@ -298,7 +297,6 @@ img.brand-lockup {
   .header-inner { padding: 0 10px; gap: 6px; }
   img.brand-lockup { height: 34px; }
   .brand-name { font-size: 0.95rem; }
-  .brand-sub { font-size: 0.6rem; line-height: 1.3; }
 }
 /* Neutral monogram placeholder (replaces decorative emoji tiles) */
 .media-mark {
@@ -800,6 +798,10 @@ input[type="checkbox"], input[type="radio"] { width: 18px; min-height: 18px; acc
   margin-bottom: 36px;
 }
 .site-footer h4 { color: #fff; margin-bottom: 14px; font-size: 1rem; }
+.footer-nav summary { color: #fff; margin-bottom: 14px; font-size: 1rem; font-weight: 700; list-style: none; cursor: default; }
+.footer-nav summary::-webkit-details-marker { display: none; }
+.footer-nav summary::marker { content: ""; }
+.footer-nav summary:focus-visible { outline: 2px solid #fff; outline-offset: 2px; border-radius: 4px; }
 .site-footer a { color: rgba(255, 255, 255, 0.8); display: block; padding: 4px 0; font-size: 0.92rem; }
 .site-footer a:hover { color: #fff; text-decoration: none; }
 .footer-brand { font-size: 1.2rem; font-weight: 800; color: #fff; margin-bottom: 10px; display: flex; align-items: center; gap: 10px; }
@@ -1012,17 +1014,31 @@ body.scientific-names-page main > section:not(.page-hero):not(.scientific-names-
 .scientific-names-toolbar label { display: grid; gap: var(--space-2); }
 .scientific-names-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: var(--space-4); }
 .scientific-name-card { display: flex; flex-direction: column; gap: var(--space-3); padding: var(--space-5); background: var(--color-surface); border: 1px solid var(--color-border); border-radius: var(--radius); box-shadow: var(--shadow-sm); }
-.scientific-name-card h3 { margin: 0; }
+.scientific-name-card h3 { margin: 0; line-height: 1.2; min-height: 2.4em; }
 .scientific-name-card .scientific-name { color: var(--color-primary); font-size: 1.15rem; overflow-wrap: anywhere; }
 .scientific-name-common { color: var(--color-text); }
 .scientific-name-bengali { color: var(--color-text-muted); }
 .scientific-name-taxonomy { display: flex; flex-wrap: wrap; gap: 4px 8px; color: var(--color-text-muted); font-size: .82rem; line-height: 1.4; }
 .scientific-name-taxonomy strong { color: var(--color-text); }
-.scientific-name-review { margin-top: auto; }
+.scientific-name-review { margin-top: 0; }
 
 @media (max-width: 900px) { .scientific-names-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
 @media (max-width: 600px) {
   .scientific-names-toolbar, .scientific-names-grid { grid-template-columns: 1fr; }
+}
+/* Same-row card alignment (multi-column only): subgrid keeps the taxonomy
+   block and link on consistent tracks even when common/Bengali lines are
+   absent or the heading wraps. Single-column mobile keeps the flex layout. */
+@supports (grid-template-rows: subgrid) {
+  @media (min-width: 601px) {
+    .scientific-name-card {
+      display: grid;
+      grid-template-rows: subgrid;
+      grid-row: span 6;
+    }
+    .scientific-name-card > .scientific-name-taxonomy { grid-row: 5; }
+    .scientific-name-card > a.btn { grid-row: 6; }
+  }
 }
 
 /* ---------- Fish / Marine / Bangladesh data surfaces ---------- */
@@ -1127,7 +1143,15 @@ body.fish-page main > section:not(.page-hero):not(.fish-explorer):not(.fish-hier
   .hero { padding: 52px 0 60px; }
   .hero-stats { gap: 20px; }
   .band { padding: 32px 24px; flex-direction: column; align-items: flex-start; }
-  .footer-grid { grid-template-columns: 1fr; }
+  .site-footer { padding: 32px 0 20px; }
+  .footer-grid { grid-template-columns: 1fr; gap: 8px; margin-bottom: 24px; }
+  .footer-nav { border-top: 1px solid rgba(255, 255, 255, 0.15); }
+  .footer-nav summary { cursor: pointer; margin-bottom: 0; padding: 12px 28px 12px 0; position: relative; }
+  .footer-nav summary::after { content: "+"; position: absolute; right: 6px; top: 50%; transform: translateY(-50%); color: rgba(255, 255, 255, 0.8); font-weight: 400; font-size: 1.1rem; }
+  .footer-nav[open] summary::after { content: "−"; }
+  .footer-nav[open] summary { margin-bottom: 8px; }
+  .footer-nav a { padding: 6px 0; }
+  .footer-bottom { padding-top: 16px; }
   .float-card-2 { display: none; }
   .toolbar { flex-direction: column; align-items: stretch; }
   .search-box { min-width: 100%; }

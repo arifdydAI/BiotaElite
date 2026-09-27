@@ -7781,7 +7781,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-asterias-rubens"
+      }
+    ],
     "references": [
       {
         "title": "WoRMS: Asterias rubens Linnaeus, 1758, AphiaID 123776 (World Asteroidea Database)",
@@ -8052,7 +8056,11 @@
       "assessmentDate": "2011",
       "assessor": "Butler, M. et al."
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-homarus-gammarus"
+      }
+    ],
     "references": [
       {
         "title": "WoRMS: Homarus gammarus (Linnaeus, 1758), AphiaID 107253 (DecaNet)",
@@ -10983,7 +10991,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-ophiothrix-fragilis"
+      }
+    ],
     "references": [
       {
         "title": "WoRMS: Ophiothrix fragilis (Abildgaard in O.F. Müller, 1789), AphiaID 125131",
@@ -11813,7 +11825,11 @@
       "assessmentDate": "2013",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-apostichopus-japonicus"
+      }
+    ],
     "references": [
       {
         "title": "WoRMS: Apostichopus japonicus (Selenka, 1867), AphiaID 241776",
@@ -13789,7 +13805,11 @@
       "assessmentDate": "",
       "assessor": "IUCN"
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-hoolock-hoolock"
+      }
+    ],
     "references": [
       {
         "title": "IUCN Red List Assessment: Hoolock hoolock",
@@ -14463,7 +14483,11 @@
       "assessmentDate": "",
       "assessor": "IUCN"
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-macaca-mulatta"
+      }
+    ],
     "references": [
       {
         "title": "IUCN Red List Assessment: Macaca mulatta",
@@ -14990,7 +15014,11 @@
       "assessmentDate": "",
       "assessor": "IUCN"
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-python-bivittatus"
+      }
+    ],
     "references": [
       {
         "title": "IUCN Red List Assessment: Python bivittatus",
@@ -15259,7 +15287,11 @@
       "assessmentDate": "",
       "assessor": "IUCN"
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-naja-naja"
+      }
+    ],
     "references": [
       {
         "title": "IUCN Red List Assessment: Naja naja",
@@ -15389,7 +15421,11 @@
       "assessmentDate": "",
       "assessor": "IUCN"
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-ophiophagus-hannah"
+      }
+    ],
     "references": [
       {
         "title": "IUCN Red List Assessment: Ophiophagus hannah",
@@ -16853,7 +16889,11 @@
       "assessmentDate": "",
       "assessor": "IUCN"
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-papilio-polytes"
+      }
+    ],
     "references": [
       {
         "title": "IUCN Red List Assessment: Papilio polytes",
@@ -16986,7 +17026,11 @@
       "assessmentDate": "",
       "assessor": "IUCN"
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-papilio-demoleus"
+      }
+    ],
     "references": [
       {
         "title": "IUCN Red List Assessment: Papilio demoleus",
@@ -17119,7 +17163,11 @@
       "assessmentDate": "",
       "assessor": "IUCN"
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-danaus-chrysippus"
+      }
+    ],
     "references": [
       {
         "title": "IUCN Red List Assessment: Danaus chrysippus",
@@ -17252,7 +17300,11 @@
       "assessmentDate": "",
       "assessor": "IUCN"
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-delias-eucharis"
+      }
+    ],
     "references": [
       {
         "title": "IUCN Red List Assessment: Delias eucharis",
@@ -17385,7 +17437,11 @@
       "assessmentDate": "",
       "assessor": "IUCN"
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-eurema-hecabe"
+      }
+    ],
     "references": [
       {
         "title": "IUCN Red List Assessment: Eurema hecabe",
@@ -17517,7 +17573,11 @@
       "assessmentDate": "",
       "assessor": "IUCN"
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-tirumala-limniace"
+      }
+    ],
     "references": [
       {
         "title": "IUCN Red List Assessment: Tirumala limniace",
@@ -17650,7 +17710,11 @@
       "assessmentDate": "",
       "assessor": "IUCN"
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-euploea-core"
+      }
+    ],
     "references": [
       {
         "title": "IUCN Red List Assessment: Euploea core",
@@ -17782,7 +17846,11 @@
       "assessmentDate": "",
       "assessor": "IUCN"
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-macrobrachium-rosenbergii"
+      }
+    ],
     "references": [
       {
         "title": "IUCN Red List Assessment: Macrobrachium rosenbergii",
@@ -17879,7 +17947,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-ascaris-lumbricoides"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Ascaris lumbricoides"
@@ -17967,7 +18039,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-enterobius-vermicularis"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Enterobius vermicularis"
@@ -18056,7 +18132,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-caenorhabditis-elegans"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Caenorhabditis elegans"
@@ -18145,7 +18225,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-ancylostoma-duodenale"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Ancylostoma duodenale"
@@ -18234,7 +18318,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-trichinella-spiralis"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Trichinella spiralis"
@@ -18323,7 +18411,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-taenia-solium"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Taenia solium"
@@ -18412,7 +18504,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-echinococcus-granulosus"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Echinococcus granulosus"
@@ -18501,7 +18597,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-fasciola-hepatica"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Fasciola hepatica"
@@ -18590,7 +18690,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-clonorchis-sinensis"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Clonorchis sinensis"
@@ -18679,7 +18783,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-schmidtea-mediterranea"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Schmidtea mediterranea"
@@ -18780,7 +18888,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-spongilla-lacustris"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Spongilla lacustris"
@@ -18873,7 +18985,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-spongia-officinalis"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Spongia officinalis"
@@ -19074,7 +19190,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-cliona-celata"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Cliona celata"
@@ -19174,7 +19294,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-sycon-ciliatum"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Sycon ciliatum"
@@ -19274,7 +19398,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-clathrina-clathrus"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Clathrina clathrus"
@@ -19373,7 +19501,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-euplectella-aspergillum"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Euplectella aspergillum"
@@ -19472,7 +19604,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-aphrocallistes-vastus"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Aphrocallistes vastus"
@@ -19572,7 +19708,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-haliclona-oculata"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Haliclona oculata"
@@ -19672,7 +19812,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-clathria-prolifera"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Clathria prolifera"
@@ -19772,7 +19916,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-geodia-barretti"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Geodia barretti"
@@ -19872,7 +20020,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-tethya-aurantium"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Tethya aurantium"
@@ -19971,7 +20123,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-oscarella-lobularis"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Oscarella lobularis"
@@ -20164,7 +20320,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-hydra-vulgaris"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Hydra vulgaris"
@@ -20264,7 +20424,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-obelia-geniculata"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Obelia geniculata"
@@ -20358,7 +20522,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-physalia-physalis"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Physalia physalis"
@@ -20452,7 +20620,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-chironex-fleckeri"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Chironex fleckeri"
@@ -20552,7 +20724,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-rhizostoma-octopus"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Rhizostoma octopus"
@@ -20652,7 +20828,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-cyanea-capillata"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Cyanea capillata"
@@ -20752,7 +20932,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-chrysaora-fuscescens"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Chrysaora fuscescens"
@@ -20851,7 +21035,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-pelagia-noctiluca"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Pelagia noctiluca"
@@ -20950,7 +21138,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-acropora-cervicornis"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Acropora cervicornis"
@@ -21050,7 +21242,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-corallium-rubrum"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Corallium rubrum"
@@ -21249,7 +21445,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-metridium-senile"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Metridium senile"
@@ -21342,7 +21542,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-nematostella-vectensis"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Nematostella vectensis"
@@ -21442,7 +21646,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-beroe-ovata"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Beroe ovata"
@@ -21541,7 +21749,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-mnemiopsis-leidyi"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Mnemiopsis leidyi"
@@ -21640,7 +21852,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-leucothea-multicornis"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Leucothea multicornis"
@@ -21740,7 +21956,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-bolinopsis-infundibulum"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Bolinopsis infundibulum"
@@ -21839,7 +22059,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-hediste-diversicolor"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Hediste diversicolor"
@@ -21938,7 +22162,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-aphrodita-aculeata"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Aphrodita aculeata"
@@ -22037,7 +22265,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-glycera-dibranchiata"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Glycera dibranchiata"
@@ -22130,7 +22362,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-platynereis-dumerilii"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Platynereis dumerilii"
@@ -22230,7 +22466,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-harmothoe-imbricata"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Harmothoe imbricata"
@@ -22330,7 +22570,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-nereis-pelagica"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Nereis pelagica"
@@ -22429,7 +22673,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-sabella-pavonina"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Sabella pavonina"
@@ -22627,7 +22875,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-lanice-conchilega"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Lanice conchilega"
@@ -22726,7 +22978,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-eunice-aphroditois"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Eunice aphroditois"
@@ -22825,7 +23081,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-lumbricus-terrestris"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Lumbricus terrestris"
@@ -22924,7 +23184,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-eisenia-fetida"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Eisenia fetida"
@@ -23017,7 +23281,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-hirudo-medicinalis"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Hirudo medicinalis"
@@ -23116,7 +23384,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-haemopis-sanguisuga"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Haemopis sanguisuga"
@@ -23215,7 +23487,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-marthasterias-glacialis"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Marthasterias glacialis"
@@ -23314,7 +23590,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-astropecten-irregularis"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Astropecten irregularis"
@@ -23413,7 +23693,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-asterina-gibbosa"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Asterina gibbosa"
@@ -23512,7 +23796,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-ophiura-ophiura"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Ophiura ophiura"
@@ -23611,7 +23899,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-amphiura-filiformis"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Amphiura filiformis"
@@ -23710,7 +24002,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-psammechinus-miliaris"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Psammechinus miliaris"
@@ -23809,7 +24105,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-strongylocentrotus-droebachiensis"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Strongylocentrotus droebachiensis"
@@ -23908,7 +24208,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-cucumaria-frondosa"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Cucumaria frondosa"
@@ -24007,7 +24311,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-holothuria-atra"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Holothuria atra"
@@ -24106,7 +24414,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-antedon-bifida"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Antedon bifida"
@@ -24304,7 +24616,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-glossobalanus-minutus"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Glossobalanus minutus"
@@ -24403,7 +24719,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-rhabdopleura-normani"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Rhabdopleura normani"
@@ -24596,7 +24916,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-lissachatina-fulica"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Lissachatina fulica"
@@ -24695,7 +25019,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-littorina-littorea"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Littorina littorea"
@@ -24794,7 +25122,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-nucella-lapillus"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Nucella lapillus"
@@ -24893,7 +25225,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-aeolidia-papillosa"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Aeolidia papillosa"
@@ -24986,7 +25322,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-pinctada-margaritifera"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Pinctada margaritifera"
@@ -25179,7 +25519,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-todarodes-pacificus"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Todarodes pacificus"
@@ -25278,7 +25622,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-chiton-tuberculatus"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Chiton tuberculatus"
@@ -25377,7 +25725,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-dentalium-elephantinum"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Dentalium elephantinum"
@@ -25476,7 +25828,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-sepioteuthis-lessoniana"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Sepioteuthis lessoniana"
@@ -25575,7 +25931,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-araneus-diadematus"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Araneus diadematus"
@@ -25668,7 +26028,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-limulus-polyphemus"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Limulus polyphemus"
@@ -25767,7 +26131,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-scolopendra-morsitans"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Scolopendra morsitans"
@@ -25860,7 +26228,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-artemia-salina"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Artemia salina"
@@ -25953,7 +26325,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-apis-mellifera"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Apis mellifera"
@@ -26046,7 +26422,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-anopheles-stephensi"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Anopheles stephensi"
@@ -26145,7 +26525,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-danaus-plexippus"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Danaus plexippus"
@@ -26238,7 +26622,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-heterodera-glycines"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Heterodera glycines"
@@ -26331,7 +26719,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-meloidogyne-incognita"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Meloidogyne incognita"
@@ -26424,7 +26816,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-strongyloides-stercoralis"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Strongyloides stercoralis"
@@ -26517,7 +26913,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-necator-americanus"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Necator americanus"
@@ -26610,7 +27010,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-loa-loa"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Loa loa"
@@ -26703,7 +27107,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-steinernema-carpocapsae"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Steinernema carpocapsae"
@@ -26796,7 +27204,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-trichuris-trichiura"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Trichuris trichiura"
@@ -26895,7 +27307,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-dugesia-tigrina"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Dugesia tigrina"
@@ -26994,7 +27410,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-bipalium-kewense"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Bipalium kewense"
@@ -27093,7 +27513,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-fasciolopsis-buski"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Fasciolopsis buski"
@@ -27193,7 +27617,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-hymenolepis-nana"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Hymenolepis nana"
@@ -27286,7 +27714,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-diphyllobothrium-latum"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Diphyllobothrium latum"
@@ -27380,7 +27812,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-gyrodactylus-salaris"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Gyrodactylus salaris"
@@ -27479,7 +27915,11 @@
       "assessmentDate": "",
       "assessor": ""
     },
-    "images": [],
+    "images": [
+      {
+        "id": "img-sp-taenia-saginata"
+      }
+    ],
     "references": [
       {
         "title": "Catalogue of Life: Taenia saginata"

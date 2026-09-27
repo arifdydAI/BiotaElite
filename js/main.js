@@ -3426,6 +3426,25 @@
     });
   }
 
+  /* ---------- Footer accordions (collapsed on mobile, open on desktop) ---------- */
+  var footerNavs = document.querySelectorAll(".footer-nav");
+  if (footerNavs.length && window.matchMedia) {
+    var footerMq = window.matchMedia("(max-width: 600px)");
+    function syncFooterNavs(mq) {
+      var compact = mq && mq.matches;
+      for (var i = 0; i < footerNavs.length; i++) {
+        if (compact) footerNavs[i].removeAttribute("open");
+        else footerNavs[i].setAttribute("open", "");
+      }
+    }
+    if (typeof footerMq.addEventListener === "function") {
+      footerMq.addEventListener("change", function (event) { syncFooterNavs(event); });
+    } else if (typeof footerMq.addListener === "function") {
+      footerMq.addListener(syncFooterNavs);
+    }
+    syncFooterNavs(footerMq);
+  }
+
   /* ---------- Animated counters ---------- */
   var counters = document.querySelectorAll("[data-count]");
   function animateCount(el) {
@@ -3801,8 +3820,6 @@
         { label: "Biome / বায়োম", value: geo.biome }
       ]);
       if (habitatGrid) habitatContent.appendChild(habitatGrid);
-      var rangeLinks = detailLinkGrid([{ label: "Range map / বিস্তৃতি মানচিত্র", href: geo.rangeMapUrl, text: geo.rangeMapUrl }]);
-      if (rangeLinks) habitatContent.appendChild(rangeLinks);
       if (habitatContent.children.length) detailSection("Habitat & Distribution", "আবাসস্থল ও বিস্তৃতি", habitatContent);
       detailSection("Diet & Feeding", "খাদ্য ও খাদ্যগ্রহণ", detailGrid([
         { label: "Diet / খাদ্যাভ্যাস", value: ecology.diet }, { label: "Feeding behaviour / খাদ্যগ্রহণ", value: ecology.feedingBehaviour }
